@@ -18,7 +18,7 @@ type Entry struct {
 	Source  string   `yaml:"Src,omitempty" json:"Sr,omitempty"`
 	Demo    string   `yaml:"Demo,omitempty" json:"Dem,omitempty"`
 	Site    string   `yaml:"Site,omitempty" json:"Si,omitempty"`
-	License string   `yaml:"Lic" json:"Li"`
+	License []string `yaml:"Lic" json:"Li"`
 	Lang    []string `yaml:"Lang" json:"La"`
 	Cat     string   `yaml:"Cat" json:"C"`
 	Tags    []string `yaml:"T" json:"T"`
@@ -110,8 +110,8 @@ func freeReadMd(path string) []*Entry {
 					e.Name = strings.TrimSpace(result[0][1])
 					site = strings.TrimSpace(result[0][2])
 					e.Descrip = strings.TrimSpace(result[0][4])
-					e.License = strings.TrimSpace(result[0][5])
-					e.Lang = langSplit(strings.TrimSpace(result[0][6]))
+					e.License = lSplit(strings.TrimSpace(result[0][5]))
+					e.Lang = lSplit(strings.TrimSpace(result[0][6]))
 					pdep = result[0][3]
 				}
 				if pdep == " `⚠` - " {
@@ -162,7 +162,7 @@ func toYaml(entries []*Entry) {
 	jsonFile.Close()
 }
 
-func langSplit(lang string) []string {
+func lSplit(lang string) []string {
 
 	if strings.Contains(lang, "/") {
 		return strings.Split(lang, "/")
@@ -174,23 +174,23 @@ func langSplit(lang string) []string {
 }
 
 var tags = map[string][]string{
-	"Analytics": {"Analytics"},
+	"Analytics":     {"Analytics"},
 	"Web Analytics": {"Web Analytics"},
 	"Archiving and Digital Preservation (DP)": {"archiving", "Digital Preservation"},
-	"Automation": {"Automation"},
-	"Blogging Platforms":                      {"Blog"},
-	"Bookmarks and Link Sharing":              {"Bookmarks", "Links"},
-	"Calendaring and Contacts Management":     {"Calendar", "Contacts"},
-	"CalDAV or CardDAV servers":               {"CalDAV", "CardDav"},
-	"Communication systems":                   {"Communications"},
-	"Custom communication systems":            {},
-	"Email":                                   {"Email"},
-	"Complete solutions":                      {"Complete Email"},
-	"Mail Transfer Agents":                    {"MTA"},
-	"MTAs / SMTP servers":                     {"SMTP"},
-	"Mail Delivery Agents":                    {"MDA"},
-	"MDAs - IMAP/POP3 software":               {"IMAP", "POP3"},
-	"Mailing lists and Newsletters":           {"Mailng List", "Newsletters"},
+	"Automation":                          {"Automation"},
+	"Blogging Platforms":                  {"Blog"},
+	"Bookmarks and Link Sharing":          {"Bookmarks", "Links"},
+	"Calendaring and Contacts Management": {"Calendar", "Contacts"},
+	"CalDAV or CardDAV servers":           {"CalDAV", "CardDav"},
+	"Communication systems":               {"Communications"},
+	"Custom communication systems":        {},
+	"Email":                               {"Email"},
+	"Complete solutions":                  {"Complete Email"},
+	"Mail Transfer Agents":                {"MTA"},
+	"MTAs / SMTP servers":                 {"SMTP"},
+	"Mail Delivery Agents":                {"MDA"},
+	"MDAs - IMAP/POP3 software":           {"IMAP", "POP3"},
+	"Mailing lists and Newsletters":       {"Mailng List", "Newsletters"},
 	"Mailing lists servers and mass mailing software - one message to many recipients.": {"Mass mail"},
 	"Webmail clients": {"Webmail"},
 	"IRC":             {"IRC"},
@@ -242,7 +242,7 @@ var tags = map[string][]string{
 	"Proxy":                                    {"Proxy"},
 	"Read it Later Lists":                      {"Read it Later Lists"},
 	"Resource Planning":                        {"Resource Planning"},
-	"Search Engines": {"Search Engine"},
+	"Search Engines":                           {"Search Engine"},
 	"Enterprise Resource Planning":             {"Enterprise rsrc planning"},
 	"Software Development":                     {"Software Dev"},
 	"Project Management":                       {"Project Mgmnt"},

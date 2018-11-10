@@ -1,10 +1,56 @@
 <!DOCTYPE html>
 <html>
-<body>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Awesome-Selfhosted</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.min.css">
+    </head>
+<body>           
+    <section class="hero is-dark is-bold">
+            <div class="hero-body">
+                <div class="columns">
+                <div class="column is-12">
+                    <div class="container content">
+                    <h1 class="title">Awesome-Selfhosted</h1>
+                    <h4 class="subtitle">
+                            This is a list of Free Software network services and web applications which can be hosted locally.
+                    </h4>
+                    </div>
+                </div>
+                </div>
+            </div>
+        </section>
+    <section class="section is-paddingless">
+        <div class="container">
+            <div class="main-content columns is-fullheight">
+                <aside class="menu column is-2 is-narrow-mobile is-fullheight section is-hidden-mobile">
+                    <p class="menu-label is-hidden-touch">Navigation</p>
+                    <ul class="menu-list">
+                        <li><a href="#">Home</a></li>
+                    <li><a href="#" class="is-active">Categories</a></li>
+                    <li>
+                        <ul>
+                            <li><a href="#">cat1</a></li>
+                            <li><a href="#">cat2</a></li>
+                        </ul>
+                    </li>    
+                    <p class="menu-label">Tags</p>
+                            <li><a href="#">tag1</a></li>
+                            <li><a href="#">tag2</a></li>
+                    <p class="menu-label">Links</p>
+                        <li><a href="#">Link1</a></li>
+                        <li><a href="#">Link2</a></li>
+                    </ul>
+                </aside>
+                <div class="container is-10">
+                    <div class="section" id="demo"></div>
+                </div>
+            </div>
+        </div>
+    </section>        
 
-<h2>Make a table based on JSON data.</h2>
 
-<p id="demo"></p>
 
 <script>
     var obj, dbParam, xmlhttp, myObj, x, txt = "";
@@ -14,19 +60,42 @@
     xmlhttp.onreadystatechange = function() {
         if (this.readyState == 4 && this.status == 200) {
             myObj = JSON.parse(this.responseText);
-            txt += "<table border='1'>"
+
             for (x in myObj) {
-                txt += "<tr><td>" + myObj[x].N + "</td><td>" + myObj[x].D + "</td><td>" + myObj[x].Sr + "</td><td>" + myObj[x].Si +
-                        "</td><td>" + myObj[x].Dem + "</td><td>" + myObj[x].Li + "</td><td>" + myObj[x].La + "</td><td>" + myObj[x].C +
-                        "</td><td>" + myObj[x].T + "</td></tr>";
+               txt += "<div class='card' style='margin-bottom:24px'><header class='columns card-header is-marginless has-background-light'>" + getTags(myObj[x].T) + "<span class='column'><h4 class='title is-4 has-text-centered'>" + myObj[x].N + "</h4></span><span class='column'>" + getL(myObj[x].Li, "is-primary") + getL(myObj[x].La, "is-info") + "</span></header><div class='card-content'>" + myObj[x].D  + "</div>" + "<footer class='card-footer'>" + getLinks(myObj[x].Sr, "Source Code") + getLinks(myObj[x].Si, "Website") + getLinks(myObj[x].Dem, "Demo") + "</footer></div>";
             }
-            txt += "</table>"
+
             document.getElementById("demo").innerHTML = txt;
         }
     };
     xmlhttp.open("POST", "output.json", true);
     xmlhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
     xmlhttp.send("x=" + dbParam);
+
+    function getTags(t) {
+        var tags = "<span class='column'>";
+        t.forEach(function(item) {
+            tags += "<span class='tag is-rounded is-link'>" + item + "</span>";
+        })
+        tags += "</span>"
+        return tags
+    }
+    function getLinks(l, t) {
+        if (l !== undefined){
+        return "<a href='" + l + "'class='card-footer-item'>" + t + "</a>"
+        } else {
+            return ""
+        }
+    }
+    function getL(t, cl) {
+        var tags = "";
+        t.forEach(function(item) {
+            tags += "<span class='tag is-rounded is-pulled-right " + cl + "'>" + item + "</span>";
+        })
+        tags += "";
+        return tags
+    }
+
 
 </script>
 
