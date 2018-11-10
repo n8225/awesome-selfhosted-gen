@@ -62,7 +62,9 @@
             myObj = JSON.parse(this.responseText);
 
             for (x in myObj) {
-               txt += "<div class='card' style='margin-bottom:24px'><header class='columns card-header is-marginless has-background-light'>" + getTags(myObj[x].T) + "<span class='column'><h4 class='title is-4 has-text-centered'>" + myObj[x].N + "</h4></span><span class='column'>" + getL(myObj[x].Li, "is-primary") + getL(myObj[x].La, "is-info") + "</span></header><div class='card-content'>" + myObj[x].D  + "</div>" + "<footer class='card-footer'>" + getLinks(myObj[x].Sr, "Source Code") + getLinks(myObj[x].Si, "Website") + getLinks(myObj[x].Dem, "Demo") + "</footer></div>";
+               txt += "<div class='card' style='margin-bottom:24px'><header class='columns card-header is-marginless has-background-light'>" + "<span class='column'><h5 class='title is-5'>" + myObj[x].N + "</h5></span><span class='column is-narrow tags is-marginless'>" + getL(myObj[x].Li, "is-primary") + getL(myObj[x].La, "is-info") + "</span></header>"
+               txt += "<div class='card-content columns'>" + getTags(myObj[x].T) + "<span class='column'>" + myObj[x].D  + "</span></div>"
+               txt += "<footer class='card-footer'>" + getLinks(myObj[x].Sr, "Source Code") + getLinks(myObj[x].Si, "Website") + getLinks(myObj[x].Dem, "Demo") + "</footer></div>";
             }
 
             document.getElementById("demo").innerHTML = txt;
@@ -73,7 +75,7 @@
     xmlhttp.send("x=" + dbParam);
 
     function getTags(t) {
-        var tags = "<span class='column'>";
+        var tags = "<span class='column is-one-quarter tags is-marginless'>";
         t.forEach(function(item) {
             tags += "<span class='tag is-rounded is-link'>" + item + "</span>";
         })
@@ -90,7 +92,7 @@
     function getL(t, cl) {
         var tags = "";
         t.forEach(function(item) {
-            tags += "<span class='tag is-rounded is-pulled-right " + cl + "'>" + item + "</span>";
+            tags += "<span class='tag is-rounded " + cl + "'>" + item + "</span>";
         })
         tags += "";
         return tags
