@@ -26,6 +26,36 @@ type Entry struct {
 	Pdep    bool     `yaml:"Pdep,omitempty" json:"P,omitempty"`
 }
 
+// List is the total struct
+type List struct {
+	entry    []Entry
+	licenses []Licenses
+	Cats     []Cats
+	Tags     []Tags
+}
+
+// Licenses is the struct of licenses
+type Licenses struct {
+	ID      int
+	Lic     string
+	Descrip string
+	URL     string
+}
+
+//Category struct
+type Cats struct {
+	ID    int
+	cat   string
+	count int
+}
+
+//Tags Struct
+type Tags struct {
+	ID    int
+	tag   string
+	count int
+}
+
 func main() {
 	c := []*Entry{}
 	pathPtr := flag.String("path", "", "Path to Readme.md")

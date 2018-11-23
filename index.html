@@ -5,6 +5,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Awesome-Selfhosted</title>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.min.css">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+        <link rel="stylesheet" href="style.css">
     </head>
 <body>           
     <section class="hero is-dark is-bold">
@@ -12,7 +14,7 @@
                 <div class="columns">
                 <div class="column is-12">
                     <div class="container content">
-                    <h1 class="title">Awesome-Selfhosted</h1>
+                    <h1 class="title"><span class='icon has-text-light'><i class='fab fa-2x fa-github' data-glyph='warning'></i></span>Awesome-Selfhosted</h1>
                     <h4 class="subtitle">
                             This is a list of Free Software network services and web applications which can be hosted locally.
                     </h4>
@@ -62,7 +64,7 @@
             myObj = JSON.parse(this.responseText);
 
             for (x in myObj) {
-               txt += "<div class='card' style='margin-bottom:24px'><header class='columns card-header is-marginless has-background-light'>" + "<span class='column'><h5 class='title is-5'>" + myObj[x].N + "</h5></span><span class='column is-narrow tags is-marginless'>" + getL(myObj[x].Li, "is-primary") + getL(myObj[x].La, "is-info") + "</span></header>"
+               txt += "<div class='card' style='margin-bottom:24px'><header class='columns card-header is-marginless has-background-light'>" + "<span class='column'><h5 class='title is-5'>" + addNonFree(myObj[x].F) + myObj[x].N + "</h5></span><span class='column is-narrow tags is-marginless cardTitle'>" + addPdep(myObj[x].P) + getL(myObj[x].Li, "is-primary") + getL(myObj[x].La, "is-success") + "</span></header>"
                txt += "<div class='card-content columns'>" + getTags(myObj[x].T) + "<span class='column'>" + myObj[x].D  + "</span></div>"
                txt += "<footer class='card-footer'>" + getLinks(myObj[x].Sr, "Source Code") + getLinks(myObj[x].Si, "Website") + getLinks(myObj[x].Dem, "Demo") + "</footer></div>";
             }
@@ -75,9 +77,9 @@
     xmlhttp.send("x=" + dbParam);
 
     function getTags(t) {
-        var tags = "<span class='column is-one-quarter tags is-marginless'>";
+        var tags = "<span class='column is-one-quarter tags'>";
         t.forEach(function(item) {
-            tags += "<span class='tag is-rounded is-link'>" + item + "</span>";
+            tags += "<span class='tag is-rounded is-link is-link'>" + item + "</span>";
         })
         tags += "</span>"
         return tags
@@ -92,12 +94,27 @@
     function getL(t, cl) {
         var tags = "";
         t.forEach(function(item) {
-            tags += "<span class='tag is-rounded " + cl + "'>" + item + "</span>";
+            tags += "<span class='tag is-rounded cardtag " + cl + "'>" + item + "</span>";
         })
         tags += "";
         return tags
     }
 
+    function addNonFree(f) {
+        if (f == true) {
+            return "<span class='icon is-medium has-text-danger warn'><i class='fas fa-2x fa-ban'></i></span>"
+        } else {
+            return ""
+        }
+    }
+
+    function addPdep(p) {
+        if (p == true) {
+            return "<span class='icon is-medium has-text-warning warn'><i class='fas fa-2x fa-exclamation-triangle'></i></span>"
+        } else {
+            return ""
+        }
+    }
 
 </script>
 
