@@ -1,4 +1,5 @@
 var entries, catSelect = "", tagSelect = "";
+
 var requestURL = 'output.json';
 var request = new XMLHttpRequest();
 request.open('GET', requestURL);
@@ -17,7 +18,7 @@ request.onload = function() {
 function populateCats(cObj) {
     var y, txt2 = "";
     for (y in cObj) {
-        txt2 += "<li><a onClick='catPicker(`" + cObj[y].Cat + "`)' href='#'>" + cObj[y].Cat + "</a></li>"
+        txt2 += "<li><a id='" + cObj[y].Cat + "' onClick='catPicker(`" + cObj[y].Cat + "`)' href='#'>" + cObj[y].Cat + "</a></li>"
     }
     document.getElementById("cat").innerHTML = txt2;
 }
@@ -25,7 +26,7 @@ function populateCats(cObj) {
 function populateTags(tObj) {
     var z, txt = "";
     for (z in tObj) {
-        txt += "<span class='tag is-link' onClick='tagPicker(`" + tObj[z].Tag + "`)'>" + tObj[z].Tag + "</span>"
+        txt += "<span id='" + tObj[z].Tag + "' class='tag is-link' onClick='tagPicker(`" + tObj[z].Tag + "`)'>" + tObj[z].Tag + "</span>"
     }
     document.getElementById("tagList").innerHTML = txt;
 }
@@ -41,14 +42,31 @@ function populateEntries(eObj, catSelect, tagSelect) {
     }
     document.getElementById("demo").innerHTML = txt;
 }
+function goHome() {
+    catSelect = ""
+    tagSelect = ""
+    rmvActive();
+    document.getElementById("home").classList.add("is-active")
+    populateEntries(entries, catSelect, tagSelect)
+}
+function rmvActive() {
+    let els = document.getElementsByClassName('is-active');
+    console.log(els)
+    while (els[0]) {
+        els[0].classList.remove('is-active')
+    }
+}
 
 function catPicker(c) {
+    rmvActive();
     catSelect = c;
-
+    document.getElementById(c).classList.add("is-active");
     populateEntries(entries, catSelect, "")
 }
 function tagPicker(t) {
+    rmvActive();
     tagSelect = t;
+    document.getElementById(t).classList.add("is-active");
     populateEntries(entries, "", tagSelect)
 }
 function getTags(t) {
