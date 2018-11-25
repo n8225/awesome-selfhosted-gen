@@ -26,7 +26,7 @@ function populateCats(cObj) {
 function populateTags(tObj) {
     var z, txt = "";
     for (z in tObj) {
-        txt += "<span id='" + tObj[z].Tag + "' class='tag is-link' onClick='tagPicker(`" + tObj[z].Tag + "`)'>" + tObj[z].Tag + "</span>"
+        txt += "<div class='tags has-addons'><span id='" + tObj[z].Tag + "' class='tag is-link is-rounded' onClick='tagPicker(`" + tObj[z].Tag + "`)'>" + tObj[z].Tag + "</span><span class='tag is-info is-rounded'>" + tObj[z].C + "</span></div>"
     }
     document.getElementById("tagList").innerHTML = txt;
 }
