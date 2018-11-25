@@ -26,20 +26,20 @@
     <section class="section is-paddingless">
         <div class="container">
             <div class="main-content columns is-fullheight">
-                <aside class="menu column is-2 is-narrow-mobile is-fullheight section is-hidden-mobile">
+                <aside class="menu column is-4 is-narrow-mobile is-fullheight section is-hidden-mobile">
                     <p class="menu-label is-hidden-touch">Navigation</p>
                     <ul class="menu-list">
-                        <li><a href="#">Home</a></li>
-                    <li><a href="#" class="is-active">Categories</a></li>
+                        <li><a class="is-active" href="#">Home</a></li>
+                    <li><p class="menu-label">Categories</p></li>
                     <li>
-                        <ul>
-                            <li><a href="#">cat1</a></li>
-                            <li><a href="#">cat2</a></li>
+                        <ul id="cat" class="is-size-7">
+
                         </ul>
                     </li>    
                     <p class="menu-label">Tags</p>
-                            <li><a href="#">tag1</a></li>
-                            <li><a href="#">tag2</a></li>
+                    <div class="tags" id="tagList">
+
+                    </div>
                     <p class="menu-label">Links</p>
                         <li><a href="#">Link1</a></li>
                         <li><a href="#">Link2</a></li>
@@ -55,31 +55,63 @@
 
 
 <script>
-    var obj, dbParam, xmlhttp, myObj, x, txt = "";
-    obj = { table: "customers", limit: 20 };
-    dbParam = JSON.stringify(obj);
-    xmlhttp = new XMLHttpRequest();
-    xmlhttp.onreadystatechange = function() {
-        if (this.readyState == 4 && this.status == 200) {
-            myObj = JSON.parse(this.responseText);
+    var entries, catSelect = "", tagSelect = "";
+    var requestURL = 'output.json';
+    var request = new XMLHttpRequest();
+    request.open('GET', requestURL);
+    request.responseType = 'json';
+    request.send();
 
-            for (x in myObj) {
-               txt += "<div class='card' style='margin-bottom:24px'><header class='columns card-header is-marginless has-background-light'>" + "<span class='column'><h5 class='title is-5'>" + addNonFree(myObj[x].F) + myObj[x].N + "</h5></span><span class='column is-narrow tags is-marginless cardTitle'>" + addPdep(myObj[x].P) + getL(myObj[x].Li, "is-primary") + getL(myObj[x].La, "is-success") + "</span></header>"
-               txt += "<div class='card-content columns'>" + getTags(myObj[x].T) + "<span class='column'>" + myObj[x].D  + "</span></div>"
-               txt += "<footer class='card-footer'>" + getLinks(myObj[x].Sr, "Source Code") + getLinks(myObj[x].Si, "Website") + getLinks(myObj[x].Dem, "Demo") + "</footer></div>";
-            }
+    request.onload = function() {
+        entries = request.response.Entries;
+        var tags = request.response.Tags;
+        var cats = request.response.Cats;
+        populateCats(cats);
+        populateTags(tags);
+        populateEntries(entries, "", "");
+    }
 
-            document.getElementById("demo").innerHTML = txt;
+    function populateCats(cObj) {
+        var y, txt2 = "";
+        for (y in cObj) {
+            txt2 += "<li><a onClick='catPicker(`" + cObj[y].Cat + "`)' href='#'>" + cObj[y].Cat + "</a></li>"
         }
-    };
-    xmlhttp.open("POST", "output.json", true);
-    xmlhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-    xmlhttp.send("x=" + dbParam);
+        document.getElementById("cat").innerHTML = txt2;
+    }
 
+    function populateTags(tObj) {
+        var z, txt = "";
+        for (z in tObj) {
+            txt += "<span class='tag is-link' onClick='tagPicker(`" + tObj[z].Tag + "`)'>" + tObj[z].Tag + "</span>"
+        }
+        document.getElementById("tagList").innerHTML = txt;
+    }
+    function populateEntries(eObj, catSelect, tagSelect) {
+        var x, txt = "";
+        console.log(catSelect, " ", tagSelect)
+        for (x in eObj) {
+            if (eObj[x].C == catSelect || eObj[x].T.includes(tagSelect) || (tagSelect == "" && catSelect == "")) {
+                txt += "<div class='card' style='margin-bottom:24px'><header class='columns card-header is-marginless has-background-light'>" + "<span class='column'><h5 class='title is-5'>" + addNonFree(eObj[x].F) + eObj[x].N + "</h5></span><span class='column is-narrow tags is-marginless cardTitle'>" + addPdep(eObj[x].P) + getL(eObj[x].Li, "is-primary") + getL(eObj[x].La, "is-success") + "</span></header>"
+                txt += "<div class='card-content columns'>" + getTags(eObj[x].T) + "<span class='column'>" + eObj[x].D + "</span></div>"
+                txt += "<footer class='card-footer'>" + getLinks(eObj[x].Sr, "Source Code") + getLinks(eObj[x].Si, "Website") + getLinks(eObj[x].Dem, "Demo") + "</footer></div>";
+            }
+        }
+        document.getElementById("demo").innerHTML = txt;
+    }
+
+    function catPicker(c) {
+        catSelect = c;
+
+        populateEntries(entries, catSelect, "")
+    }
+    function tagPicker(t) {
+        tagSelect = t;
+        populateEntries(entries, "", tagSelect)
+    }
     function getTags(t) {
         var tags = "<span class='column is-one-quarter tags'>";
         t.forEach(function(item) {
-            tags += "<span class='tag is-rounded is-link is-link'>" + item + "</span>";
+            tags += "<span class='tag is-link'>" + item + "</span>";
         })
         tags += "</span>"
         return tags
@@ -94,7 +126,7 @@
     function getL(t, cl) {
         var tags = "";
         t.forEach(function(item) {
-            tags += "<span class='tag is-rounded cardtag " + cl + "'>" + item + "</span>";
+            tags += "<span class='tag cardtag " + cl + "'>" + item + "</span>";
         })
         tags += "";
         return tags

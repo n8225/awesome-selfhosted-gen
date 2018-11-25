@@ -7,77 +7,118 @@ import (
 	"fmt"
 	"os"
 	"regexp"
+	"sort"
 	"strings"
 )
 
-// Entry is the structure of each entry
-type Entry struct {
-	ID      int      `yaml:"ID" json:"ID"`
-	Name    string   `yaml:"N" json:"N"`
-	Descrip string   `yaml:"D,flow" json:"D"`
-	Source  string   `yaml:"Src,omitempty" json:"Sr,omitempty"`
-	Demo    string   `yaml:"Demo,omitempty" json:"Dem,omitempty"`
-	Site    string   `yaml:"Site,omitempty" json:"Si,omitempty"`
-	License []string `yaml:"Lic" json:"Li"`
-	Lang    []string `yaml:"Lang" json:"La"`
-	Cat     string   `yaml:"Cat" json:"C"`
-	Tags    []string `yaml:"T" json:"T"`
-	Free    bool     `yaml:"Free,omitempty" json:"F,omitempty"`
-	Pdep    bool     `yaml:"Pdep,omitempty" json:"P,omitempty"`
-}
-
 // List is the total struct
 type List struct {
-	entry    []Entry
-	licenses []Licenses
-	Cats     []Cats
-	Tags     []Tags
+	Entries  []Entry	`json:"Entries"`
+	//licenses []Licenses	`json:"Licenses"`
+	CatList  []Cats		`json:"Cats"`
+	TagList  []Tags		`json:"Tags"`
 }
-
+// Entry is the structure of each entry
+type Entry struct {
+	ID      int      `json:"ID"`
+	Name    string   `json:"N"`
+	Descrip string   `json:"D"`
+	Source  string   `json:"Sr,omitempty"`
+	Demo    string   `json:"Dem,omitempty"`
+	Site    string   `json:"Si,omitempty"`
+	License []string `json:"Li"`
+	Lang    []string `json:"La"`
+	Cat     string   `json:"C"`
+	Tags    []string `json:"T"`
+	Free    bool     `json:"F,omitempty"`
+	Pdep    bool     `json:"P,omitempty"`
+}
 // Licenses is the struct of licenses
 type Licenses struct {
-	ID      int
 	Lic     string
 	Descrip string
 	URL     string
 }
-
 //Category struct
 type Cats struct {
-	ID    int
-	cat   string
-	count int
+	Cat   string
+	Count int
 }
-
 //Tags Struct
 type Tags struct {
-	ID    int
-	tag   string
-	count int
+	Tag   string	`json:"Tag"`
+	Count int		`json:"C"`
 }
 
 func main() {
-	c := []*Entry{}
 	pathPtr := flag.String("path", "", "Path to Readme.md")
-	//fileNfPtr := flag.String("nffile", "non-free.md", "Path to Readme.md")
-	//optsPtr := flag.String("opts", "", "what would you like to do?")
 	flag.Parse()
-	//switch to choose functions
-	i := 1
-	switch i {
-	case 1:
-		fmt.Println("1: run all :", *pathPtr)
-		c = append(c, freeReadMd(*pathPtr)...)
-		//c = append(c, nreadMD(*pathPtr)...)
-		toYaml(c)
-	case 2:
-		fmt.Println("2: Run to yaml")
-	case 3:
-		fmt.Println("3: Run to md")
-	}
+	e := freeReadMd(*pathPtr)
+	l := new(List)
+	l.Entries = e
+	l.TagList = makeTags(e)
+	l.CatList = makeCats(e)
+	toJson(*l)
+
+
 }
 
-func freeReadMd(path string) []*Entry {
+func makeTags(entries []Entry) []Tags {
+	tagsl := []Tags{}
+	t := new(Tags)
+	var tmp []string
+	for _, e := range entries {
+		tmp = append(tmp, e.Tags...)
+	}
+	tagMap := make(map[string]int)
+	for _, item := range tmp {
+		_, exist := tagMap[item]
+		if exist {
+			tagMap[item] +=1
+		} else {
+			tagMap[item] = 1
+		}
+	}
+	for k, v := range tagMap {
+		t.Tag = k
+		t.Count = v
+		tagsl = append(tagsl, *t)
+	}
+	sort.Slice(tagsl, func(i, j int) bool {
+		return tagsl[i].Count > tagsl[j].Count
+	})
+	return tagsl
+}
+
+func makeCats(entries []Entry) []Cats {
+	catsl := []Cats{}
+	c := new(Cats)
+	var tmp []string
+	for _, e := range entries {
+		tmp = append(tmp, e.Cat)
+	}
+	catMap := make(map[string]int)
+	for _, item := range tmp {
+		_, exist := catMap[item]
+		if exist {
+			catMap[item] +=1
+		} else {
+			catMap[item] = 1
+		}
+	}
+	for k, v := range catMap {
+		c.Cat = k
+		c.Count = v
+		catsl = append(catsl, *c)
+	}
+	sort.Slice(catsl, func(i, j int) bool {
+		return catsl[i].Cat < catsl[j].Cat
+	})
+	return catsl
+}
+
+
+func freeReadMd(path string) []Entry {
 	fmt.Println(path)
 	inputFile, _ := os.Open(path)
 	defer inputFile.Close()
@@ -90,7 +131,7 @@ func freeReadMd(path string) []*Entry {
 	pattern := *regexp.MustCompile("^\\s{0,4}\\Q- [\\E(?P<name>.*?)\\Q](\\E(?P<site>.*?)\\)(?P<pdep>\\Q `⚠` - \\E|\\Q - \\E)(?P<desc>.*?[.])(?:\\s\x60|\\s\\(.*\x60)(?P<license>.*?)\\Q` `\\E(?P<lang>.*?)\\Q`\\E")
 	demoP := *regexp.MustCompile("\\Q[Demo](\\E(.*?)\\Q)\\E")
 	sourceP := *regexp.MustCompile("\\Q[Source Code](\\E(.*?)\\Q)\\E")
-	entries := []*Entry{}
+	entries := []Entry{}
 
 	for scanner.Scan() {
 		if strings.HasPrefix(scanner.Text(), "<!-- BEGIN SOFTWARE LIST -->") {
@@ -132,7 +173,7 @@ func freeReadMd(path string) []*Entry {
 					e.Tags = append(e.Tags, tags[tagi]...)
 				}
 				//e.Free = true
-				entries = append(entries, e)
+
 				if pattern.MatchString(scanner.Text()) {
 					e.ID = i
 					i++
@@ -158,13 +199,14 @@ func freeReadMd(path string) []*Entry {
 				} else {
 					e.Source = site
 				}
+				entries = append(entries, *e)
 			}
 		}
 	}
 	return entries
 }
 
-func toYaml(entries []*Entry) {
+func toJson(list List) {
 	/*	yamlFile, err := os.Create("./output.yaml")
 		if err != nil {
 			fmt.Println(err)
@@ -182,14 +224,17 @@ func toYaml(entries []*Entry) {
 		fmt.Println(err)
 	}
 	defer jsonFile.Close()
-	//JSON, err := json.MarshalIndent(entries, "", "\t")
-	JSON, err := json.Marshal(entries)
+	JSON, err := json.MarshalIndent(list, "", "\t")
+	//JSON, err := json.Marshal(list.entries)
 	//JSON, err := json.Marshal(entries)
 	if err != nil {
 		fmt.Println("error:", err)
+		return
 	}
+	//fmt.Println(string(JSON))
 	jsonFile.Write(JSON)
 	jsonFile.Close()
+
 }
 
 func lSplit(lang string) []string {
