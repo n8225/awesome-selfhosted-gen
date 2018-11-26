@@ -14,7 +14,7 @@ import (
 // List is the total struct
 type List struct {
 	Entries  []Entry	`json:"Entries"`
-	//licenses []Licenses	`json:"Licenses"`
+	LangList []Langs	`json:"Langs"`
 	CatList  []Cats		`json:"Cats"`
 	TagList  []Tags		`json:"Tags"`
 }
@@ -30,14 +30,15 @@ type Entry struct {
 	Lang    []string `json:"La"`
 	Cat     string   `json:"C"`
 	Tags    []string `json:"T"`
-	Free    bool     `json:"F,omitempty"`
+	NonFree    bool  `json:"NF,omitempty"`
 	Pdep    bool     `json:"P,omitempty"`
 }
 // Licenses is the struct of licenses
-type Licenses struct {
-	Lic     string
-	Descrip string
-	URL     string
+type Langs struct {
+	Lang     string
+	Count int
+	//Descrip string
+	//URL     string
 }
 //Category struct
 type Cats struct {
@@ -58,9 +59,35 @@ func main() {
 	l.Entries = e
 	l.TagList = makeTags(e)
 	l.CatList = makeCats(e)
+	l.LangList = makeLangs(e)
 	toJson(*l)
+}
 
-
+func makeLangs(entries []Entry) []Langs {
+	langsl := []Langs{}
+	l := new(Langs)
+	var tmp []string
+	for _, e := range entries {
+		tmp = append(tmp, e.Lang...)
+	}
+	langMap := make(map[string]int)
+	for _, item := range tmp {
+		_, exist := langMap[item]
+		if exist {
+			langMap[item] +=1
+		} else {
+			langMap[item] = 1
+		}
+	}
+	for k, v := range langMap {
+		l.Lang = k
+		l.Count = v
+		langsl = append(langsl, *l)
+	}
+	sort.Slice(langsl, func(i, j int) bool {
+		return langsl[i].Lang < langsl[j].Lang
+	})
+	return langsl
 }
 
 func makeTags(entries []Entry) []Tags {
@@ -172,13 +199,16 @@ func freeReadMd(path string) []Entry {
 					//e.Tags = append(e.Tags, strings.TrimSpace(tagi))
 					e.Tags = append(e.Tags, tags[tagi]...)
 				}
-				//e.Free = true
 
 				if pattern.MatchString(scanner.Text()) {
 					e.ID = i
 					i++
 					result := pattern.FindAllStringSubmatch(scanner.Text(), -1)
 					e.Name = strings.TrimSpace(result[0][1])
+					//Set Test entry to nonfree
+					if result[0][1] == "TEST" {
+						e.NonFree = true
+					}
 					site = strings.TrimSpace(result[0][2])
 					e.Descrip = strings.TrimSpace(result[0][4])
 					e.License = lSplit(strings.TrimSpace(result[0][5]))
