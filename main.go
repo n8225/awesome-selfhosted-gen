@@ -119,7 +119,7 @@ func makeCats(entries []Entry) []Cats {
 
 
 func freeReadMd(path string) []Entry {
-	fmt.Println(path)
+	fmt.Println("Parsing:", path)
 	inputFile, _ := os.Open(path)
 	defer inputFile.Close()
 	scanner := bufio.NewScanner(inputFile)
@@ -225,8 +225,6 @@ func toJson(list List) {
 	}
 	defer jsonFile.Close()
 	JSON, err := json.MarshalIndent(list, "", "\t")
-	//JSON, err := json.Marshal(list.entries)
-	//JSON, err := json.Marshal(entries)
 	if err != nil {
 		fmt.Println("error:", err)
 		return
@@ -235,6 +233,19 @@ func toJson(list List) {
 	jsonFile.Write(JSON)
 	jsonFile.Close()
 
+	jsonFileMin, err := os.Create("./output.min.json")
+	if err != nil {
+		fmt.Println(err)
+	}
+	defer jsonFile.Close()
+	JSONmin, err := json.Marshal(list)
+	if err != nil {
+		fmt.Println("error:", err)
+		return
+	}
+	//fmt.Println(string(JSON))
+	jsonFileMin.Write(JSONmin)
+	jsonFileMin.Close()
 }
 
 func lSplit(lang string) []string {

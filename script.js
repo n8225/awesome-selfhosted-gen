@@ -1,6 +1,6 @@
 var entries, catSelect = "", tagSelect = "";
 
-var requestURL = 'output.json';
+var requestURL = 'output.min.json';
 var request = new XMLHttpRequest();
 request.open('GET', requestURL);
 request.responseType = 'json';
@@ -35,9 +35,16 @@ function populateEntries(eObj, catSelect, tagSelect) {
     console.log(catSelect, " ", tagSelect)
     for (x in eObj) {
         if (eObj[x].C == catSelect || eObj[x].T.includes(tagSelect) || (tagSelect == "" && catSelect == "")) {
-            txt += "<div class='card' style='margin-bottom:24px'><header class='columns card-header is-marginless has-background-light'>" + "<span class='column'><h5 class='title is-5'>" + addNonFree(eObj[x].F) + eObj[x].N + "</h5></span><span class='column is-narrow tags is-marginless cardTitle'>" + addPdep(eObj[x].P) + getL(eObj[x].Li, "is-primary") + getL(eObj[x].La, "is-success") + "</span></header>"
-            txt += "<div class='card-content columns'>" + getTags(eObj[x].T) + "<span class='column'>" + eObj[x].D + "</span></div>"
-            txt += "<footer class='card-footer'>" + getLinks(eObj[x].Sr, "Source Code") + getLinks(eObj[x].Si, "Website") + getLinks(eObj[x].Dem, "Demo") + "</footer></div>";
+            txt += "<div class='card' style='margin-bottom:24px'><header class='columns card-header is-marginless has-background-light'>"
+
+            txt += "<span class='column is-narrow'>" + addNonFree(eObj[x].F) + addPdep(eObj[x].P) + "</span>"
+            txt += "<span class='column'><h4 class='title is-4'>" + eObj[x].N + "</h4></span>"
+            txt += "<span class='column is-narrow tags'>" + getL(eObj[x].Li, "is-primary") + getL(eObj[x].La, "is-success") + "</span></header>"
+
+
+            txt += "<span class='card-footer'>" + getTags(eObj[x].T)
+            txt += "<span class='column'>" + eObj[x].D + "<span class='level'>" + getLinks(eObj[x].Sr, "Source Code") + getLinks(eObj[x].Si, "Website") + getLinks(eObj[x].Dem, "Demo") + "</span></span></span></div>"
+            //txt += "<footer class='card-footer'>" + getLinks(eObj[x].Sr, "Source Code") + getLinks(eObj[x].Si, "Website") + getLinks(eObj[x].Dem, "Demo") + "</footer>";
         }
     }
     document.getElementById("demo").innerHTML = txt;
@@ -70,7 +77,7 @@ function tagPicker(t) {
     populateEntries(entries, "", tagSelect)
 }
 function getTags(t) {
-    var tags = "<span class='column is-one-quarter tags'>";
+    var tags = "<span class='column is-one-third tags is-marginless'>";
     t.forEach(function(item) {
         tags += "<span class='tag is-link'>" + item + "</span>";
     })
@@ -78,8 +85,15 @@ function getTags(t) {
     return tags
 }
 function getLinks(l, t) {
-    if (l !== undefined){
-        return "<a href='" + l + "'class='card-footer-item'>" + t + "</a>"
+    if (l != undefined){
+        switch (t) {
+            case "Source Code":
+                return "<a href='" + l + "'class='level-item'><span class='icon has-text-link'><i class='fas fa-lg fa-code-branch'></i></span>" + t + "</a>";
+            case "Website":
+                return "<a href='" + l + "'class='level-item'><span class='icon has-text-link'><i class='fas fa-lg fa-external-link-alt'></i></span>" + t + "</a>";
+            case "Demo":
+                return "<a href='" + l + "'class='level-item'><span class='icon has-text-link'><i class='fas fa-lg fa-chevron-circle-right'></i></span>" + t + "</a>";
+        }
     } else {
         return ""
     }
@@ -94,8 +108,8 @@ function getL(t, cl) {
 }
 
 function addNonFree(f) {
-    if (f == true) {
-        return "<span class='icon is-medium has-text-danger warn'><i class='fas fa-2x fa-ban'></i></span>"
+    if (f == false) {
+        return "<span class='icon is-medium has-text-danger'><i class='fas fa-2x fa-ban'></i></span>"
     } else {
         return ""
     }
@@ -103,7 +117,7 @@ function addNonFree(f) {
 
 function addPdep(p) {
     if (p == true) {
-        return "<span class='icon is-medium has-text-warning warn'><i class='fas fa-2x fa-exclamation-triangle'></i></span>"
+        return "<span class='icon is-medium has-text-warning'><i class='fas fa-2x fa-exclamation-triangle'></i></span>"
     } else {
         return ""
     }
