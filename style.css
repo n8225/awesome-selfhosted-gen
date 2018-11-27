@@ -1,10 +1,23 @@
-.cardTitle {
-    padding: 3px 6px;
+.tag {
+    cursor: pointer;
 }
-.cardtag {
-    padding: 6px;
-    margin: .7em 0;
+
+.accordion label {
+    cursor: pointer;
 }
-.warn {
-    padding: .7em 16px 0 0;
+
+.accordion .accordion_content {
+    transition: height 1s ease;
+    overflow: hidden;
+    display: none;
+}
+
+.accordion input:checked + label + .accordion_content {
+    transition: height 1s ease;
+    display: block;
+    padding-bottom: .75rem;
+}
+
+.accordion input {
+    display: none;
 }

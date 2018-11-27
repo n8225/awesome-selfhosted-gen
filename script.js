@@ -16,7 +16,49 @@ request.onload = function() {
     //populateCats(cats);
     populateTags(tags);
     populateLangs(langs);
-    populateEntries(entries, "", [], "");
+    populateEntries();
+};
+function clrLang() {
+    langSelect = "";
+    populateEntries();
+}
+
+function clrTags(t) {
+    for( var i = 0; i < tagSelect.length-1; i++){
+        if ( tagSelect[i] === t) {
+            arr.splice(i, 1);
+        }
+    }
+
+
+    populateEntries();
+
+}
+
+function displayFilters() {
+    var del = "<span class='tag is-danger level-item' onclick='goHome()'>Clear All</span>"
+    var lang = "<span class='tag is-success'>" + langSelect + "<button onclick='clrLang()' class='delete is-small'></button></span>";
+    var tags = "";
+    for (i in tagSelect) {
+        tags += "<span class='tag is-link'>" + tagSelect[i] + "</span>";
+    }
+    switch (true) {
+        case (langSelect !== "" && tagSelect[0] !== undefined):
+            document.getElementById("filters").innerHTML = del + lang + tags;
+            document.getElementById("filters").classList.add("notification", "tags");
+            break;
+        case langSelect !== "":
+            document.getElementById("filters").innerHTML = del + lang;
+            document.getElementById("filters").classList.add("notification", "tags");
+            break;
+        case tagSelect[0] !== undefined:
+            document.getElementById("filters").innerHTML = del + tags;
+            document.getElementById("filters").classList.add("notification", "tags");
+            break;
+        default:
+            document.getElementById("filters").innerHTML = "";
+            document.getElementById("filters").classList.remove("notification", "tags");
+    }
 };
 
 function populateLangs(lObj) {
@@ -43,28 +85,28 @@ function populateTags(tObj) {
     document.getElementById("tagList").innerHTML = txt;
 }
 
-function populateEntries(eObj, catSelect, tagSelect, langSelect) {
+function populateEntries() {
     var x, txt = "";
 
-    for (x in eObj) {
-        if ((!tagSelect.some(ele => !eObj[x].T.includes(ele) || tagSelect === []) && (eObj[x].La.includes(langSelect) || langSelect === ""))) {
+    for (x in entries) {
+        if ((!tagSelect.some(ele => !entries[x].T.includes(ele) || tagSelect === []) && (entries[x].La.includes(langSelect) || langSelect === ""))) {
             txt += "<div class='card' style='margin-bottom:24px'><header class='columns card-header is-marginless has-background-light'>";
-            txt += "<span class='column is-narrow'>" + addNonFree(eObj[x].NF) + addPdep(eObj[x].P) + "</span>";
-            txt += "<span class='column'><h4 class='title is-4'>" + eObj[x].N + "</h4></span>";
-            txt += "<span class='column is-narrow tags'>" + getL(eObj[x].Li, "is-primary") + getL(eObj[x].La, "is-success") + "</span></header>";
-            txt += "<span class='card-footer'>" + getTags(eObj[x].T);
-            txt += "<span class='column'>" + eObj[x].D + "<span class='level'>" + getLinks(eObj[x].Sr, "Source Code") + getLinks(eObj[x].Si, "Website") + getLinks(eObj[x].Dem, "Demo") + "</span></span></span></div>";
+            txt += "<span class='column is-narrow'>" + addNonFree(entries[x].NF) + addPdep(entries[x].P) + "</span>";
+            txt += "<span class='column'><h4 class='title is-4'>" + entries[x].N + "</h4></span>";
+            txt += "<span class='column is-narrow tags'>" + getL(entries[x].Li, "is-primary") + getL(entries[x].La, "is-success") + "</span></header>";
+            txt += "<span class='card-footer'>" + getTags(entries[x].T);
+            txt += "<span class='column'>" + entries[x].D + "<span class='level'>" + getLinks(entries[x].Sr, "Source Code") + getLinks(entries[x].Si, "Website") + getLinks(entries[x].Dem, "Demo") + "</span></span></span></div>";
         }
     }
     document.getElementById("demo").innerHTML = txt;
+    displayFilters();
 }
 function goHome() {
     catSelect = "";
     tagSelect = [];
     langSelect = "";
     rmvActive();
-    document.getElementById("home").classList.add("is-active");
-    populateEntries(entries, catSelect, tagSelect, langSelect)
+    populateEntries()
 }
 function rmvActive() {
     let els = document.getElementsByClassName('is-active');
@@ -80,14 +122,12 @@ function rmvActive() {
 }*/
 function tagPicker(t) {
     tagSelect.push(t)
-    document.getElementById(t).classList.add("is-active");
-    populateEntries(entries, "", tagSelect, langSelect)
+    populateEntries()
 }
 function langPicker(l) {
     rmvActive();
     langSelect = l;
-    document.getElementById(l).classList.add("is-active");
-    populateEntries(entries, "", tagSelect, langSelect)
+    populateEntries()
 }
 function getTags(t) {
     var tags = "<span class='column is-one-third tags is-marginless'>";

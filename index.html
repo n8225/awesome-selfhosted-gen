@@ -27,37 +27,33 @@
     <section class="section is-paddingless">
         <div class="container">
             <div class="main-content columns is-fullheight">
-                <aside class="menu column is-4 is-fullheight section">
-                    <p class="menu-label is-hidden-touch toggle">Navigation</p>
-                    <ul class="menu-list">
-                        <li><a class="is-active" id="home" href="#" onclick="goHome()">Home</a></li>
-                        <p class="menu-label">Programming Languages</p>
-                        <span class="tags" id="lang">
+                <aside class="column tags is-4 is-fullheight section">
 
-                        </span>
+                    <div id="filters">
 
-                        <p class="menu-label">Tags</p>
-                        <span class="tags" id="tagList">
-
-                    </span>
-                    <!--<li><p class="menu-label">Categories</p></li>-->
-                    <li>
-                        <ul id="cat" class="is-size-7">
-
-                        </ul>
-                    </li>
-                    </ul>
+                    </div>
+                    <div class="accordion message">
+                        <input type="checkbox" name="langs" id="panel-l">
+                        <label for="panel-l" class="message-header">Programming Languages</label>
+                        <div class="accordion_content message-body">
+                            <span class="tags" id="lang"></span>
+                        </div>
+                    </div>
+                    <div class="accordion message">
+                        <input type="checkbox" name="tags" id="panel-t">
+                        <label for="panel-t" class="message-header">Tags</label>
+                        <div class="accordion_content message-body">
+                            <span class="tags" id="tagList"></span>
+                        </div>
+                    </div>
                 </aside>
                 <div class="container is-9">
-                    <div class="section" id="demo">
-
+                    <div class="section" >
+                        <div id="demo"></div>
                     </div>
                 </div>
             </div>
         </div>
-    </section>        
-
-
+    </section>
 </body>
-
 </html>
