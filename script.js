@@ -1,4 +1,6 @@
-var entries, catSelect = "", tagSelect = "", langSelect = "";
+var entries, catSelect = "", langSelect = "";
+var tagSelect = new Array;
+
 
 var requestURL = 'output.min.json';
 var request = new XMLHttpRequest();
@@ -11,10 +13,10 @@ request.onload = function() {
     var tags = request.response.Tags;
     var cats = request.response.Cats;
     var langs = request.response.Langs;
-    populateCats(cats);
+    //populateCats(cats);
     populateTags(tags);
     populateLangs(langs);
-    populateEntries(entries, "", "", "");
+    populateEntries(entries, "", [], "");
 };
 
 function populateLangs(lObj) {
@@ -25,13 +27,13 @@ function populateLangs(lObj) {
     document.getElementById("lang").innerHTML = txt3;
 }
 
-function populateCats(cObj) {
+/*function populateCats(cObj) {
     var y, txt2 = "";
     for (y in cObj) {
         txt2 += "<li><a id='" + cObj[y].Cat + "' onClick='catPicker(`" + cObj[y].Cat + "`)' href='#'>" + cObj[y].Cat + "</a></li>"
     }
     document.getElementById("cat").innerHTML = txt2;
-}
+}*/
 
 function populateTags(tObj) {
     var z, txt = "";
@@ -45,9 +47,8 @@ function populateEntries(eObj, catSelect, tagSelect, langSelect) {
     var x, txt = "";
 
     for (x in eObj) {
-        if (eObj[x].C === catSelect || eObj[x].T.includes(tagSelect) || eObj[x].La.includes(langSelect) || (tagSelect === "" && catSelect === "" && langSelect === "")) {
+        if ((!tagSelect.some(ele => !eObj[x].T.includes(ele) || tagSelect === []) && (eObj[x].La.includes(langSelect) || langSelect === ""))) {
             txt += "<div class='card' style='margin-bottom:24px'><header class='columns card-header is-marginless has-background-light'>";
-
             txt += "<span class='column is-narrow'>" + addNonFree(eObj[x].NF) + addPdep(eObj[x].P) + "</span>";
             txt += "<span class='column'><h4 class='title is-4'>" + eObj[x].N + "</h4></span>";
             txt += "<span class='column is-narrow tags'>" + getL(eObj[x].Li, "is-primary") + getL(eObj[x].La, "is-success") + "</span></header>";
@@ -59,7 +60,7 @@ function populateEntries(eObj, catSelect, tagSelect, langSelect) {
 }
 function goHome() {
     catSelect = "";
-    tagSelect = "";
+    tagSelect = [];
     langSelect = "";
     rmvActive();
     document.getElementById("home").classList.add("is-active");
@@ -67,33 +68,31 @@ function goHome() {
 }
 function rmvActive() {
     let els = document.getElementsByClassName('is-active');
-    console.log(els);
     while (els[0]) {
         els[0].classList.remove('is-active')
     }
 }
-function catPicker(c) {
+/*function catPicker(c) {
     rmvActive();
     catSelect = c;
     document.getElementById(c).classList.add("is-active");
     populateEntries(entries, catSelect, "", "")
-}
+}*/
 function tagPicker(t) {
-    rmvActive();
-    tagSelect = t;
+    tagSelect.push(t)
     document.getElementById(t).classList.add("is-active");
-    populateEntries(entries, "", tagSelect, "")
+    populateEntries(entries, "", tagSelect, langSelect)
 }
 function langPicker(l) {
     rmvActive();
     langSelect = l;
     document.getElementById(l).classList.add("is-active");
-    populateEntries(entries, "", "", langSelect)
+    populateEntries(entries, "", tagSelect, langSelect)
 }
 function getTags(t) {
     var tags = "<span class='column is-one-third tags is-marginless'>";
     t.forEach(function(item) {
-        tags += "<span class='tag is-link'>" + item + "</span>";
+        tags += "<span class='tag is-link' onclick='tagPicker(`" + item + "`)'>" + item + "</span>";
     });
     tags += "</span>";
     return tags
@@ -115,7 +114,7 @@ function getLinks(l, t) {
 function getL(t, cl) {
     var tags = "";
     t.forEach(function(item) {
-        tags += "<span class='tag cardtag " + cl + "'>" + item + "</span>";
+        tags += "<span class='tag is-link " + cl + "' onclick='langPicker(`" + item + "`)'>" + item + "</span>";
     });
     tags += "";
     return tags
