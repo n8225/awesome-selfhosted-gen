@@ -16,7 +16,7 @@ request.onload = function() {
     //populateCats(cats);
     populateTags(tags);
     populateLangs(langs);
-    populateEntries();
+    populateAllEntries();
 };
 function clrLang() {
     langSelect = "";
@@ -89,9 +89,7 @@ function populateEntries() {
     for (x in entries) {
         if ((!tagSelect.some(ele => !entries[x].T.includes(ele) || tagSelect === []) && (entries[x].La.includes(langSelect) || langSelect === ""))) {
             txt += "<div class='card' style='margin-bottom:24px'><header class='columns card-header is-marginless has-background-light'>";
-
             if (entries[x].NF !== undefined ||  entries[x].P !== undefined){txt += "<span class='column is-narrow is-narrow-mobile'>" + addNonFree(entries[x].NF) + addPdep(entries[x].P) + "</span>"};
-            console.log("NF:", entries[x].NF, " P:", entries[x].P)
             txt += "<span class='column'><h4 class='title is-4'>" + entries[x].N + "</h4></span>";
             txt += "<span class='column is-narrow tags'>" + getL(entries[x].Li, "is-primary") + getL(entries[x].La, "is-success") + "</span></header>";
             txt += "<span class='card-footer'><span class='column is-one-third tags'>" + getTags(entries[x].T) + "</span>";
@@ -103,6 +101,23 @@ function populateEntries() {
     document.getElementById("demo").innerHTML = txt;
     displayFilters();
 }
+
+function populateAllEntries() {
+    var x, txt = "";
+
+    for (x in entries) {
+            txt += "<div class='card' style='margin-bottom:24px'><header class='columns card-header is-marginless has-background-light'>";
+            if (entries[x].NF !== undefined ||  entries[x].P !== undefined){txt += "<span class='column is-narrow is-narrow-mobile'>" + addNonFree(entries[x].NF) + addPdep(entries[x].P) + "</span>"};
+            txt += "<span class='column'><h4 class='title is-4'>" + entries[x].N + "</h4></span>";
+            txt += "<span class='column is-narrow tags'>" + getL(entries[x].Li, "is-primary") + getL(entries[x].La, "is-success") + "</span></header>";
+            txt += "<span class='card-footer'><span class='column is-one-third tags'>" + getTags(entries[x].T) + "</span>";
+            txt += "<span class='column'>" + entries[x].D + "</span></span>";
+            txt += "<span class='level'>" + getLinks(entries[x].Sr, "Source Code") + getLinks(entries[x].Si, "Website") + getLinks(entries[x].Dem, "Demo") + "</span>";
+            txt += "</div>";
+        }
+    document.getElementById("demo").innerHTML = txt;
+}
+
 function goHome() {
     catSelect = "";
     tagSelect = [];
@@ -142,11 +157,11 @@ function getLinks(l, t) {
     if (l !== undefined){
         switch (t) {
             case "Source Code":
-                return "<a href='" + l + "'class='level-item'><span class='icon has-text-link'><i class='fas fa-lg fa-code-branch'></i></span>" + t + "</a>";
+                return "<a href='" + l + "'target='_blank' class='level-item'><span class='icon has-text-link'><i class='fas fa-lg fa-code-branch'></i></span>" + t + "</a>";
             case "Website":
-                return "<a href='" + l + "'class='level-item'><span class='icon has-text-link'><i class='fas fa-lg fa-external-link-alt'></i></span>" + t + "</a>";
+                return "<a href='" + l + "'target='_blank' class='level-item'><span class='icon has-text-link'><i class='fas fa-lg fa-external-link-alt'></i></span>" + t + "</a>";
             case "Demo":
-                return "<a href='" + l + "'class='level-item'><span class='icon has-text-link'><i class='fas fa-lg fa-chevron-circle-right'></i></span>" + t + "</a>";
+                return "<a href='" + l + "'target='_blank' class='level-item'><span class='icon has-text-link'><i class='fas fa-lg fa-chevron-circle-right'></i></span>" + t + "</a>";
         }
     } else {
         return ""
