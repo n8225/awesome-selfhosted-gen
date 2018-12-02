@@ -23,24 +23,22 @@ function clrLang() {
     populateEntries();
 }
 
+function remove(array, element) {
+    const index = array.indexOf(element);
+    array.splice(index, 1);
+}
+
 function clrTags(t) {
-    for( var i = 0; i < tagSelect.length-1; i++){
-        if ( tagSelect[i] === t) {
-            arr.splice(i, 1);
-        }
-    }
-
-
+    remove(tagSelect, t);
     populateEntries();
-
 }
 
 function displayFilters() {
-    var del = "<span class='tag is-danger level-item' onclick='goHome()'>Clear All</span>"
+    var del = "<span class='tag is-danger level-item' onclick='goHome()'>Clear All</span>";
     var lang = "<span class='tag is-success'>" + langSelect + "<button onclick='clrLang()' class='delete is-small'></button></span>";
     var tags = "";
     for (i in tagSelect) {
-        tags += "<span class='tag is-link'>" + tagSelect[i] + "</span>";
+        tags += "<span class='tag is-link'>" + tagSelect[i] + "<button onclick='clrTags(`" + tagSelect[i] + "`)' class='delete is-small'></button></span>";
     }
     switch (true) {
         case (langSelect !== "" && tagSelect[0] !== undefined):
@@ -91,11 +89,15 @@ function populateEntries() {
     for (x in entries) {
         if ((!tagSelect.some(ele => !entries[x].T.includes(ele) || tagSelect === []) && (entries[x].La.includes(langSelect) || langSelect === ""))) {
             txt += "<div class='card' style='margin-bottom:24px'><header class='columns card-header is-marginless has-background-light'>";
-            txt += "<span class='column is-narrow'>" + addNonFree(entries[x].NF) + addPdep(entries[x].P) + "</span>";
+
+            if (entries[x].NF !== undefined ||  entries[x].P !== undefined){txt += "<span class='column is-narrow is-narrow-mobile'>" + addNonFree(entries[x].NF) + addPdep(entries[x].P) + "</span>"};
+            console.log("NF:", entries[x].NF, " P:", entries[x].P)
             txt += "<span class='column'><h4 class='title is-4'>" + entries[x].N + "</h4></span>";
             txt += "<span class='column is-narrow tags'>" + getL(entries[x].Li, "is-primary") + getL(entries[x].La, "is-success") + "</span></header>";
-            txt += "<span class='card-footer'>" + getTags(entries[x].T);
-            txt += "<span class='column'>" + entries[x].D + "<span class='level'>" + getLinks(entries[x].Sr, "Source Code") + getLinks(entries[x].Si, "Website") + getLinks(entries[x].Dem, "Demo") + "</span></span></span></div>";
+            txt += "<span class='card-footer'><span class='column is-one-third tags'>" + getTags(entries[x].T) + "</span>";
+            txt += "<span class='column'>" + entries[x].D + "</span></span>";
+            txt += "<span class='level'>" + getLinks(entries[x].Sr, "Source Code") + getLinks(entries[x].Si, "Website") + getLinks(entries[x].Dem, "Demo") + "</span>";
+            txt += "</div>";
         }
     }
     document.getElementById("demo").innerHTML = txt;
@@ -121,7 +123,7 @@ function rmvActive() {
     populateEntries(entries, catSelect, "", "")
 }*/
 function tagPicker(t) {
-    tagSelect.push(t)
+    tagSelect.push(t);
     populateEntries()
 }
 function langPicker(l) {
@@ -130,11 +132,10 @@ function langPicker(l) {
     populateEntries()
 }
 function getTags(t) {
-    var tags = "<span class='column is-one-third tags is-marginless'>";
+    let tags = "";
     t.forEach(function(item) {
         tags += "<span class='tag is-link' onclick='tagPicker(`" + item + "`)'>" + item + "</span>";
     });
-    tags += "</span>";
     return tags
 }
 function getLinks(l, t) {
