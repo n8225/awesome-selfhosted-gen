@@ -21,3 +21,15 @@
 .accordion input {
     display: none;
 }
+
+.up {
+    margin-top: -.5rem
+}
+
+.level {
+    padding-bottom: .5rem
+}
+
+p {
+    padding-bottom: .5rem
+}

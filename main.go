@@ -2,10 +2,16 @@ package main
 
 import (
 	"bufio"
+	"bytes"
 	"encoding/json"
 	"flag"
 	"fmt"
+	"gopkg.in/yaml.v2"
+	"io/ioutil"
+	"log"
+	"net/http"
 	"os"
+	"path/filepath"
 	"regexp"
 	"sort"
 	"strings"
@@ -14,31 +20,34 @@ import (
 // List is the total struct
 type List struct {
 	Entries  []Entry	`json:"Entries"`
-	LangList []Langs	`json:"Langs"`
-	CatList  []Cats		`json:"Cats"`
-	TagList  []Tags		`json:"Tags"`
+	LangList []Langs	`json:"Langs" yaml:"-"`
+	//CatList  []Cats		`json:"Cats", yaml:""`
+	TagList  []Tags		`json:"Tags" yaml:"-"`
 }
 // Entry is the structure of each entry
 type Entry struct {
-	ID      int      `json:"ID"`
-	Name    string   `json:"N"`
-	Descrip string   `json:"D"`
-	Source  string   `json:"Sr,omitempty"`
-	Demo    string   `json:"Dem,omitempty"`
-	Site    string   `json:"Si,omitempty"`
-	License []string `json:"Li"`
-	Lang    []string `json:"La"`
-	Cat     string   `json:"C"`
-	Tags    []string `json:"T"`
-	NonFree    bool  `json:"NF,omitempty"`
-	Pdep    bool     `json:"P,omitempty"`
+	ID      int      `json:"ID" yaml:"ID"`
+	Name    string   `json:"N" yaml:"Name"`
+	Descrip string   `json:"D" yaml:"Description,flow"`
+	Source  string   `json:"Sr" yaml:"Source Code"`
+	Demo    string   `json:"Dem,omitempty" yaml:"Demo,omitempty"`
+	Clients []string `json:"CL,omitempty" yaml:"Clients,omitempty"`
+	Site    string   `json:"Si,omitempty" yaml:"Website,omitempty"`
+	License []string `json:"Li" yaml:"License"`
+	Lang    []string `json:"La" yaml:"Languages"`
+	//Cat     string   `json:"C,omitempty"`
+	Tags    []string `json:"T" yaml:"Tags"`
+	NonFree    bool  `json:"NF,omitempty" yaml:"NonFree,omitempty"`
+	Pdep    bool     `json:"P,omitempty" yaml:"ProprietaryDependency,omitempty"`
+	Stars	int		`json:"stars,omitempty" yaml:"-"`
+	Created	string	`json:"create,omitempty" yaml:"-"`
+	Updated	string	`json:"update,omitempty" yaml:"-"`
 }
+
 // Licenses is the struct of licenses
 type Langs struct {
-	Lang     string
-	Count int
-	//Descrip string
-	//URL     string
+	Lang	string `json:"Lang"`
+	Count 	int `json:"Count"`
 }
 //Category struct
 type Cats struct {
@@ -52,13 +61,25 @@ type Tags struct {
 }
 
 func main() {
-	pathPtr := flag.String("path", "", "Path to Readme.md")
+	var path string
+	const (
+		defaultPath = ""
+		usage = "Path to Readme.md"
+	)
+	flag.StringVar(&path, "path", defaultPath, usage)
+	flag.StringVar(&path, "p", defaultPath, usage)
+	var ghToken = flag.String("ghtoken", "", "github oauth token")
+	//var glToken = flag.String("gltoken", "", "gitlab oauth token")
 	flag.Parse()
-	e := freeReadMd(*pathPtr)
+	apath, err := filepath.Abs(path)
+	if err != nil {
+		log.Fatal(err)
+	}
+	e := freeReadMd(apath, *ghToken)
 	l := new(List)
 	l.Entries = e
 	l.TagList = makeTags(e)
-	l.CatList = makeCats(e)
+	//l.CatList = makeCats(e)
 	l.LangList = makeLangs(e)
 	toJson(*l)
 }
@@ -117,7 +138,7 @@ func makeTags(entries []Entry) []Tags {
 	return tagsl
 }
 
-func makeCats(entries []Entry) []Cats {
+/*func makeCats(entries []Entry) []Cats {
 	catsl := []Cats{}
 	c := new(Cats)
 	var tmp []string
@@ -142,10 +163,10 @@ func makeCats(entries []Entry) []Cats {
 		return catsl[i].Cat < catsl[j].Cat
 	})
 	return catsl
-}
+}*/
 
 
-func freeReadMd(path string) []Entry {
+func freeReadMd(path, gh string) []Entry {
 	fmt.Println("Parsing:", path)
 	inputFile, _ := os.Open(path)
 	defer inputFile.Close()
@@ -155,11 +176,15 @@ func freeReadMd(path string) []Entry {
 	var tag2, tag3, tag4, tagi string
 	var i int
 	var site, pdep string
-	pattern := *regexp.MustCompile("^\\s{0,4}\\Q- [\\E(?P<name>.*?)\\Q](\\E(?P<site>.*?)\\)(?P<pdep>\\Q `⚠` - \\E|\\Q - \\E)(?P<desc>.*?[.])(?:\\s\x60|\\s\\(.*\x60)(?P<license>.*?)\\Q` `\\E(?P<lang>.*?)\\Q`\\E")
+
+	//pattern := *regexp.MustCompile(`(?m)^\s{0,4}- \[(?P<name>.*?)\Q](\E(?P<site>.*?)\)(?P<pdep>\s-\s\s\x60⚠\x60|\s\x60⚠\x60\s-\s|\x60⚠\x60|\s-\s)(?P<desc>.*?[.])(?:\s\x60|\s\(.*\x60)(?P<license>.*?)\x60\s\x60(?P<lang>.*?)\x60$`)
+	pattern := *regexp.MustCompile("^\\s{0,4}\\Q- [\\E(?P<name>.*?)\\Q](\\E(?P<site>.*?)\\)(?P<pdep>\\Q `⚠` - \\E|\\Q -  `⚠`\\E|\\Q - \\E)(?P<desc>.*?[.])(?:\\s\x60|\\s\\(.*\x60)(?P<license>.*?)\\Q` `\\E(?P<lang>.*?)\\Q`\\E")
 	demoP := *regexp.MustCompile("\\Q[Demo](\\E(.*?)\\Q)\\E")
 	sourceP := *regexp.MustCompile("\\Q[Source Code](\\E(.*?)\\Q)\\E")
+	clientP := *regexp.MustCompile("\\Q[Clients](\\E(.*?)\\Q)\\E")
 	entries := []Entry{}
-
+	glregex := regexp.MustCompile("^(http.://)(www.){0,1}(gitlab.com)/(.*)/(.*)$")
+	ghregex := regexp.MustCompile("^(http.://)(www.){0,1}(github.com)/(.*)$")
 	for scanner.Scan() {
 		if strings.HasPrefix(scanner.Text(), "<!-- BEGIN SOFTWARE LIST -->") {
 			list = true
@@ -181,7 +206,7 @@ func freeReadMd(path string) []Entry {
 			}
 			if strings.HasPrefix(scanner.Text(), "- [") || strings.HasPrefix(scanner.Text(), "  - [") {
 				e := new(Entry)
-				e.Cat = tag2
+				//e.Cat = tag2
 				//e.Tags = strings.Trim(strings.Join([]string{tag2, tag3, tag4, tagi}, ", "), " , ")
 				if tag2 != "" {
 					//e.Tags = append(e.Tags, strings.TrimSpace(tag2))
@@ -215,12 +240,16 @@ func freeReadMd(path string) []Entry {
 					e.Lang = lSplit(strings.TrimSpace(result[0][6]))
 					pdep = result[0][3]
 				}
-				if pdep == " `⚠` - " {
+				if strings.Contains(pdep,"⚠") == true  {
 					e.Pdep = true
 				}
 				if demoP.MatchString(scanner.Text()) {
 					result := demoP.FindAllStringSubmatch(scanner.Text(), -1)
 					e.Demo = strings.TrimSpace(result[0][1])
+				}
+				if clientP.MatchString(scanner.Text()) {
+					result := clientP.FindAllStringSubmatch(scanner.Text(), -1)
+					e.Clients = append(e.Clients, strings.TrimSpace(result[0][1]))
 				}
 				if sourceP.MatchString(scanner.Text()) {
 					result := sourceP.FindAllStringSubmatch(scanner.Text(), -1)
@@ -229,6 +258,18 @@ func freeReadMd(path string) []Entry {
 				} else {
 					e.Source = site
 				}
+				if glregex.MatchString(e.Source) {
+					result := glregex.FindAllStringSubmatch(e.Source, -1)
+					glApi := "https://gitlab.com/api/v4/projects/" + result[0][4] + "%2F" + result[0][5]
+					e.Stars, e.Created, e.Updated = getGLRepo(glApi)
+
+				} else if ghregex.MatchString(e.Source) {
+					result := ghregex.FindAllStringSubmatch(e.Source, -1)
+					ghur:= strings.TrimSpace(result[0][4])
+					e.Stars,  e.Created, e.Updated = getGHRepo(ghur, gh)
+
+				}
+
 				entries = append(entries, *e)
 			}
 		}
@@ -236,18 +277,145 @@ func freeReadMd(path string) []Entry {
 	return entries
 }
 
+func getGLRepo (url string) (int, string, string){
+	res, err := http.Get(url)
+	if err != nil {
+		log.Fatal(err)
+	}
+	body, err := ioutil.ReadAll(res.Body)
+	res.Body.Close()
+	if err != nil {
+		log.Fatal(err)
+	}
+	type gl struct {
+		Stars int `json:"star_count"`
+		Created string `json:"created_at"`
+		Updated string `json:"last_activity_at"`
+		//Node_id int `json:"id"`
+	}
+	thisgl := gl{}
+	err = json.Unmarshal(body, &thisgl)
+	if err != nil {
+		log.Fatal(err)
+	}
+	return thisgl.Stars, strings.Split(thisgl.Created, "T")[0], strings.Split(thisgl.Updated, "T")[0]
+}
+
+type Gh struct {
+	Data struct {
+		Repository struct {
+			Stargazers struct {
+				TotalCount int `json:"totalCount"`
+			} `json:"stargazers"`
+			CreatedAt string `json:"createdAt"`
+			UpdatedAt string `json:"updatedAt"`
+		} `json:"repository"`
+	} `json:"data"`
+ Errors [] struct {
+	 Message string `json:"message"`
+	 Type string `json:"type"`
+	 path string `json:"path"`
+ }`json:"errors"`
+}
+
+func getGHRepo (ur, ght string) (int, string, string){
+	if strings.Contains(ur, "/") != true {
+		log.Printf("No repository provided. Update %s to include a repo.", ur)
+		return 0, "", ""
+	}
+	r := strings.Split(ur, "/")
+	if r[1] == "" {
+		log.Printf("No repository provided. Update %s to include a repo.", ur)
+		return 0, "", ""
+	}
+	var jsonStr = []byte(`{"query":"{repository(owner:\"` + r[0] + `\",name:\"` + r[1] + `\"){stargazers{totalCount}createdAt,updatedAt}}"}`)
+
+	req, err := http.NewRequest("POST", "https://api.github.com/graphql", bytes.NewBuffer(jsonStr))
+
+	req.Header.Set("Authorization", "bearer " + ght)
+	req.Header.Set("Accept", "application/vnd.github.quicksilver-preview+json")
+	req.Header.Set("Content-Type", "application/json")
+	//log.Printf("req: ", req.Body)
+
+	client := &http.Client{}
+	res, err :=client.Do(req)
+	if err != nil {
+		log.Fatal(err)
+	}
+	defer res.Body.Close()
+	if err != nil {
+		log.Fatal(err)
+	}
+	body, err := ioutil.ReadAll(res.Body)
+	//log.Printf("Body: %s\n", body)
+
+	gh := &Gh{}
+		err = json.Unmarshal(body, &gh)
+		if err != nil {
+		log.Fatal(err)
+	}
+	//Fallback to github v3 api on error
+	if gh.Data.Repository.Stargazers.TotalCount == 0 {
+		log.Printf("Error: https://github.com/%s/%s => %v Trying github api v3.  ", r[0], r[1], gh.Errors[0].Message)
+		return ghv3api(r[0], r[1], ght)
+	}
+	//return *repo.StargazersCount
+	return gh.Data.Repository.Stargazers.TotalCount, strings.Split(gh.Data.Repository.CreatedAt, "T")[0], strings.Split(gh.Data.Repository.UpdatedAt, "T")[0]
+}
+
+func ghv3api(u, r, ght string) (int, string, string) {
+	ghURL := "https://api.github.com/repos/" + u + "/" + r + "?" //+ ght
+
+	//fmt.Println(ghURL)
+	// request http api
+	req, err := http.NewRequest("GET", ghURL, nil)
+	req.Header.Set("Authorization", "bearer " + ght)
+	client := http.Client{}
+	res, err :=client.Do(req)
+	if err != nil {
+		log.Fatal(err)
+	}
+	if res.StatusCode != 200 {
+		log.Printf("StatusCode: %v. Source link is invalid: %v/%v\n", res.StatusCode, u, r)
+		return 0, "", ""
+	}
+
+	// read body
+	body, err := ioutil.ReadAll(res.Body)
+	res.Body.Close()
+	if err != nil {
+		log.Fatal(err)
+	}
+	//log.Printf("Body: %s\n", body)
+
+	type Gh struct {
+		FullName string `json:"full_name"`
+		Stars int `json:"stargazers_count"`
+		Created string `json:"created_at"`
+		Updated string `json:"updated_at"`
+	}
+	gh := Gh{}
+	err = json.Unmarshal(body, &gh)
+	if err != nil {
+		log.Fatal(err)
+	}
+	log.Printf("Update https://github.com/%s/%s Source code link to: https://github.com/%s\n", u, r, gh.FullName)
+	return gh.Stars, strings.Split(gh.Created, "T")[0], strings.Split(gh.Updated, "T")[0]
+}
+
+
 func toJson(list List) {
-	/*	yamlFile, err := os.Create("./output.yaml")
+		yamlFile, err := os.Create("./output.yaml")
 		if err != nil {
 			fmt.Println(err)
 		}
 		defer yamlFile.Close()
-		YAML, err := yaml.Marshal(entries)
+		YAML, err := yaml.Marshal(list)
 		if err != nil{
 			fmt.Println("error:", err)
 		}
 		yamlFile.Write(YAML)
-		yamlFile.Close()*/
+		yamlFile.Close()
 
 	jsonFile, err := os.Create("./output.json")
 	if err != nil {

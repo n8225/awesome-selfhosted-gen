@@ -1,4 +1,4 @@
-var entries, catSelect = "", langSelect = "";
+var entries, langSelect = "";
 var tagSelect = new Array;
 
 
@@ -11,12 +11,11 @@ request.send();
 request.onload = function() {
     entries = request.response.Entries;
     var tags = request.response.Tags;
-    var cats = request.response.Cats;
     var langs = request.response.Langs;
-    //populateCats(cats);
     populateTags(tags);
     populateLangs(langs);
     populateAllEntries();
+
 };
 function clrLang() {
     langSelect = "";
@@ -67,14 +66,6 @@ function populateLangs(lObj) {
     document.getElementById("lang").innerHTML = txt3;
 }
 
-/*function populateCats(cObj) {
-    var y, txt2 = "";
-    for (y in cObj) {
-        txt2 += "<li><a id='" + cObj[y].Cat + "' onClick='catPicker(`" + cObj[y].Cat + "`)' href='#'>" + cObj[y].Cat + "</a></li>"
-    }
-    document.getElementById("cat").innerHTML = txt2;
-}*/
-
 function populateTags(tObj) {
     var z, txt = "";
     for (z in tObj) {
@@ -93,8 +84,8 @@ function populateEntries() {
             txt += "<span class='column'><h4 class='title is-4'>" + entries[x].N + "</h4></span>";
             txt += "<span class='column is-narrow tags'>" + getL(entries[x].Li, "is-primary") + getL(entries[x].La, "is-success") + "</span></header>";
             txt += "<span class='card-footer'><span class='column is-one-third tags'>" + getTags(entries[x].T) + "</span>";
-            txt += "<span class='column'>" + entries[x].D + "</span></span>";
-            txt += "<span class='level'>" + getLinks(entries[x].Sr, "Source Code") + getLinks(entries[x].Si, "Website") + getLinks(entries[x].Dem, "Demo") + "</span>";
+            txt += "<span class='column'><p>" + entries[x].D + "</p>" + getDates(entries[x].create, entries[x].update, entries[x].stars) + "</span></span>";
+            txt += "<span class='level'>" + getLinks(entries[x].Sr, "Source Code") + getLinks(entries[x].Si, "Website") + getLinks(entries[x].Dem, "Demo") + getLinks(entries[x].CL, "Clients") + "</span>";
             txt += "</div>";
         }
     }
@@ -102,24 +93,31 @@ function populateEntries() {
     displayFilters();
 }
 
+function getDates(c, u, s) {
+
+    if (c !== undefined && u !== undefined) {
+        return "<div class='field is-grouped is-grouped-multiline'><div class='control'><div class='tags has-addons'><span class='tag is-light'>Created</span><span class='tag is-info'>" + c + "</span></div></div><div class='control'><div class='tags has-addons'><span class='tag is-light'>Updated</span><span class='tag is-info'>" + u + "</span></div></div><div class='control'><div class='tags'><span class='icon has-text-dark'><i class='up fas fa-lg fa-star'></i></span><span class='tag is-light is-rounded'>" + s + "</span></div></div></div>"
+    } else {
+        return ""
+    }
+}
+
 function populateAllEntries() {
     var x, txt = "";
-
     for (x in entries) {
-            txt += "<div class='card' style='margin-bottom:24px'><header class='columns card-header is-marginless has-background-light'>";
-            if (entries[x].NF !== undefined ||  entries[x].P !== undefined){txt += "<span class='column is-narrow is-narrow-mobile'>" + addNonFree(entries[x].NF) + addPdep(entries[x].P) + "</span>"};
-            txt += "<span class='column'><h4 class='title is-4'>" + entries[x].N + "</h4></span>";
-            txt += "<span class='column is-narrow tags'>" + getL(entries[x].Li, "is-primary") + getL(entries[x].La, "is-success") + "</span></header>";
-            txt += "<span class='card-footer'><span class='column is-one-third tags'>" + getTags(entries[x].T) + "</span>";
-            txt += "<span class='column'>" + entries[x].D + "</span></span>";
-            txt += "<span class='level'>" + getLinks(entries[x].Sr, "Source Code") + getLinks(entries[x].Si, "Website") + getLinks(entries[x].Dem, "Demo") + "</span>";
-            txt += "</div>";
+        txt += "<div class='card' style='margin-bottom:24px'><header class='columns card-header is-marginless has-background-light'>";
+        if (entries[x].NF !== undefined ||  entries[x].P !== undefined){txt += "<span class='column is-narrow is-narrow-mobile'>" + addNonFree(entries[x].NF) + addPdep(entries[x].P) + "</span>"};
+        txt += "<span class='column'><h4 class='title is-4'>" + entries[x].N + "</h4></span>";
+        txt += "<span class='column is-narrow tags'>" + getL(entries[x].Li, "is-primary") + getL(entries[x].La, "is-success") + "</span></header>";
+        txt += "<span class='card-footer'><span class='column is-one-third tags'>" + getTags(entries[x].T) + "</span>";
+        txt += "<span class='column'><p>" + entries[x].D + "</p>" + getDates(entries[x].create, entries[x].update, entries[x].stars) + "</span></span>";
+        txt += "<span class='level'>" + getLinks(entries[x].Sr, "Source Code") + getLinks(entries[x].Si, "Website") + getLinks(entries[x].Dem, "Demo") + getLinks(entries[x].CL, "Clients") + "</span>";
+        txt += "</div>";
         }
     document.getElementById("demo").innerHTML = txt;
 }
 
 function goHome() {
-    catSelect = "";
     tagSelect = [];
     langSelect = "";
     rmvActive();
@@ -131,12 +129,6 @@ function rmvActive() {
         els[0].classList.remove('is-active')
     }
 }
-/*function catPicker(c) {
-    rmvActive();
-    catSelect = c;
-    document.getElementById(c).classList.add("is-active");
-    populateEntries(entries, catSelect, "", "")
-}*/
 function tagPicker(t) {
     tagSelect.push(t);
     populateEntries()
@@ -162,6 +154,8 @@ function getLinks(l, t) {
                 return "<a href='" + l + "'target='_blank' class='level-item'><span class='icon has-text-link'><i class='fas fa-lg fa-external-link-alt'></i></span>" + t + "</a>";
             case "Demo":
                 return "<a href='" + l + "'target='_blank' class='level-item'><span class='icon has-text-link'><i class='fas fa-lg fa-chevron-circle-right'></i></span>" + t + "</a>";
+            case "Clients":
+                return "<a href='" + l + "'target='_blank' class='level-item'><span class='icon has-text-link'><i class='fas fa-lg fa-external-link-alt'></i></span>" + t + "</a>";
         }
     } else {
         return ""
