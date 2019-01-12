@@ -9,6 +9,10 @@ request.responseType = 'json';
 request.send();
 
 request.onload = function() {
+        if (window.matchMedia("(max-width: 752px)").matches) {
+            document.getElementById("panel-l").checked = false;
+            document.getElementById("panel-t").checked = false;
+        }
     entries = request.response.Entries;
     var tags = request.response.Tags;
     var langs = request.response.Langs;
