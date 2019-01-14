@@ -83,24 +83,29 @@ function populateEntries() {
 
     for (x in entries) {
         if ((!tagSelect.some(ele => !entries[x].T.includes(ele) || tagSelect === []) && (entries[x].La.includes(langSelect) || langSelect === ""))) {
-            txt += "<div class='card' style='margin-bottom:24px'><header class='columns card-header is-marginless has-background-light'>";
-            if (entries[x].NF !== undefined ||  entries[x].P !== undefined){txt += "<span class='column is-narrow is-narrow-mobile'>" + addNonFree(entries[x].NF) + addPdep(entries[x].P) + "</span>"};
-            txt += "<span class='column'><h4 class='title is-4'>" + entries[x].N + "</h4></span>";
-            txt += "<span class='column is-narrow tags'>" + getL(entries[x].Li, "is-primary") + getL(entries[x].La, "is-success") + "</span></header>";
-            txt += "<span class='card-footer'><span class='column is-one-third tags'>" + getTags(entries[x].T) + "</span>";
-            txt += "<span class='column'><p>" + entries[x].D + "</p>" + getDates(entries[x].create, entries[x].update, entries[x].stars) + "</span></span>";
-            txt += "<span class='level'>" + getLinks(entries[x].Sr, "Source Code") + getLinks(entries[x].Si, "Website") + getLinks(entries[x].Dem, "Demo") + getLinks(entries[x].CL, "Clients") + "</span>";
-            txt += "</div>";
+            txt += `<article class="media"><div class="media-content"><span class="field is-grouped is-grouped-multiline"><span class="control"><strong>` + entries[x].N + `</strong></span>`;
+            if (entries[x].P !== undefined) {txt += `<span class="control"><a class="icon has-text-warning"><i class="fas fa-lg fa-exclamation-triangle"></i></a></span>`;}
+            if (entries[x].NF !== undefined) {txt += `<span class="control"><a class="icon has-text-warning"><i class="fas fa-lg fa-ban"></i></a></span>`;}
+            txt += parseArr(entries[x].T, "tag");
+            if (entries[x].stars !== undefined) {txt += `<span class="control"><span class="tags has-addons"><a class="tag is-light">Updated</a><a class="tag is-info">` + entries[x].update + `</a></span></span>` +
+                `<span class="control"><span class="tags has-addons"><a class="tag is-dark icon"><i class="fas fa fa-star"></i></a><a class="tag is-light">` + entries[x].stars + `</a></span></span>`;}
+            txt += getL(entries[x].Li) + parseArr(entries[x].La, "lang");
+            txt += `<span class="control"><a href="` + entries[x].Sr + `" target="_blank" class=""><span class="icon has-text-link"><i class="fas fa-lg fa-code-branch"></i></span></a></span>`;
+            if (entries[x].Si !== undefined) {txt +=`<span class="control"><a href="` + entries[x].Si + `" target="_blank" class=""><span class="icon has-text-link"><i class="fas fa-lg fa-external-link-alt"></i></span></a></span>`;}
+            if (entries[x].CL !== undefined) {txt +=`<span class="control"><a href="` + entries[x].CL + `" target="_blank" class=""><span class="icon has-text-link"><i class="fas fa-lg fa-mobile-alt"></i></span></a></span>`;}
+            txt += `</span>`;
+            txt += `<p>` + entries[x].D + `</p>`;
+            txt += `</div></article>`
         }
     }
     document.getElementById("demo").innerHTML = txt;
     displayFilters();
 }
 
-function getDates(c, u, s) {
+function getDates(u, s) {
 
-    if (c !== undefined && u !== undefined) {
-        return "<div class='field is-grouped is-grouped-multiline'><div class='control'><div class='tags has-addons'><span class='tag is-light'>Created</span><span class='tag is-info'>" + c + "</span></div></div><div class='control'><div class='tags has-addons'><span class='tag is-light'>Updated</span><span class='tag is-info'>" + u + "</span></div></div><div class='control'><div class='tags'><span class='icon has-text-dark'><i class='up fas fa-lg fa-star'></i></span><span class='tag is-light is-rounded'>" + s + "</span></div></div></div>"
+    if (u !== undefined) {
+        return "<div class='field is-grouped is-grouped-multiline'><div class='control'><div class='tags has-addons'><span class='tag is-light'>Updated</span><span class='tag is-info'>" + u + "</span></div></div><div class='control'><div class='tags'><span class='icon has-text-dark'><i class='up fas fa-lg fa-star'></i></span><span class='tag is-light is-rounded'>" + s + "</span></div></div></div>"
     } else {
         return ""
     }
@@ -109,15 +114,20 @@ function getDates(c, u, s) {
 function populateAllEntries() {
     var x, txt = "";
     for (x in entries) {
-        txt += "<div class='card' style='margin-bottom:24px'><header class='columns card-header is-marginless has-background-light'>";
-        if (entries[x].NF !== undefined ||  entries[x].P !== undefined){txt += "<span class='column is-narrow is-narrow-mobile'>" + addNonFree(entries[x].NF) + addPdep(entries[x].P) + "</span>"};
-        txt += "<span class='column'><h4 class='title is-4'>" + entries[x].N + "</h4></span>";
-        txt += "<span class='column is-narrow tags'>" + getL(entries[x].Li, "is-primary") + getL(entries[x].La, "is-success") + "</span></header>";
-        txt += "<span class='card-footer'><span class='column is-one-third tags'>" + getTags(entries[x].T) + "</span>";
-        txt += "<span class='column'><p>" + entries[x].D + "</p>" + getDates(entries[x].create, entries[x].update, entries[x].stars) + "</span></span>";
-        txt += "<span class='level'>" + getLinks(entries[x].Sr, "Source Code") + getLinks(entries[x].Si, "Website") + getLinks(entries[x].Dem, "Demo") + getLinks(entries[x].CL, "Clients") + "</span>";
-        txt += "</div>";
-        }
+        txt += `<article class="media"><div class="media-content"><span class="field is-grouped is-grouped-multiline"><span class="control"><strong>` + entries[x].N + `</strong></span>`;
+        if (entries[x].P !== undefined) {txt += `<span class="control"><a class="icon has-text-warning"><i class="fas fa-lg fa-exclamation-triangle"></i></a></span>`;}
+        if (entries[x].NF !== undefined) {txt += `<span class="control"><a class="icon has-text-warning"><i class="fas fa-lg fa-ban"></i></a></span>`;}
+        txt += parseArr(entries[x].T, "tag");
+        if (entries[x].stars !== undefined) {txt += `<span class="control"><span class="tags has-addons"><a class="tag is-light">Updated</a><a class="tag is-info">` + entries[x].update + `</a></span></span>` +
+            `<span class="control"><span class="tags has-addons"><a class="tag is-dark icon"><i class="fas fa fa-star"></i></a><a class="tag is-light">` + entries[x].stars + `</a></span></span>`;}
+        txt += getL(entries[x].Li) + parseArr(entries[x].La, "lang");
+        txt += `<span class="control"><a href="` + entries[x].Sr + `" target="_blank" class=""><span class="icon has-text-link"><i class="fas fa-lg fa-code-branch"></i></span></a></span>`;
+        if (entries[x].Si !== undefined) {txt +=`<span class="control"><a href="` + entries[x].Si + `" target="_blank" class=""><span class="icon has-text-link"><i class="fas fa-lg fa-external-link-alt"></i></span></a></span>`;}
+        if (entries[x].CL !== undefined) {txt +=`<span class="control"><a href="` + entries[x].CL + `" target="_blank" class=""><span class="icon has-text-link"><i class="fas fa-lg fa-mobile-alt"></i></span></a></span>`;}
+        txt += `</span>`;
+        txt += `<p>` + entries[x].D + `</p>`;
+        txt += `</div></article>`
+    }
     document.getElementById("demo").innerHTML = txt;
 }
 
@@ -142,50 +152,29 @@ function langPicker(l) {
     langSelect = l;
     populateEntries()
 }
-function getTags(t) {
-    let tags = "";
-    t.forEach(function(item) {
-        tags += "<span class='tag is-link' onclick='tagPicker(`" + item + "`)'>" + item + "</span>";
-    });
-    return tags
-}
-function getLinks(l, t) {
-    if (l !== undefined){
-        switch (t) {
-            case "Source Code":
-                return "<a href='" + l + "'target='_blank' class='level-item'><span class='icon has-text-link'><i class='fas fa-lg fa-code-branch'></i></span>" + t + "</a>";
-            case "Website":
-                return "<a href='" + l + "'target='_blank' class='level-item'><span class='icon has-text-link'><i class='fas fa-lg fa-external-link-alt'></i></span>" + t + "</a>";
-            case "Demo":
-                return "<a href='" + l + "'target='_blank' class='level-item'><span class='icon has-text-link'><i class='fas fa-lg fa-chevron-circle-right'></i></span>" + t + "</a>";
-            case "Clients":
-                return "<a href='" + l + "'target='_blank' class='level-item'><span class='icon has-text-link'><i class='fas fa-lg fa-external-link-alt'></i></span>" + t + "</a>";
-        }
-    } else {
-        return ""
+function parseArr(e, t) {
+    switch (t) {
+        case ("tag"):
+            oc = `tagPicker`;
+            c = `is-link`;
+            break;
+        case ("lang"):
+            oc = `langPicker`;
+            c = `is-success`;
+            break;
     }
+    let res = "";
+    e.forEach(function(item) {
+        res += `<span class="control"><a class="tag ` + c + `" onclick="` + oc + `(\`` + item + `\`)">` + item + `</a></span>`
+    });
+    return res;
 }
+
 function getL(t, cl) {
-    var tags = "";
+    let lics = "";
     t.forEach(function(item) {
-        tags += "<span class='tag is-link " + cl + "' onclick='langPicker(`" + item + "`)'>" + item + "</span>";
+        lics += `<span class="control"><a class="tag is-primary">` + item + `</a></span>`;
     });
-    tags += "";
-    return tags
-}
-
-function addNonFree(nf) {
-    if (nf === true) {
-        return "<span class='icon is-medium has-text-danger'><i class='fas fa-2x fa-ban'></i></span>"
-    } else {
-        return ""
-    }
-}
-
-function addPdep(p) {
-    if (p === true) {
-        return "<span class='icon is-medium has-text-warning'><i class='fas fa-2x fa-exclamation-triangle'></i></span>"
-    } else {
-        return ""
-    }
+    lics += "";
+    return lics
 }

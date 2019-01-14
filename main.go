@@ -64,7 +64,7 @@ func main() {
 	var path string
 	const (
 		defaultPath = ""
-		usage = "Path to Readme.md"
+		usage = "Path to Readme.md(On windows wrap path in \""
 	)
 	flag.StringVar(&path, "path", defaultPath, usage)
 	flag.StringVar(&path, "p", defaultPath, usage)
@@ -133,7 +133,7 @@ func makeTags(entries []Entry) []Tags {
 		tagsl = append(tagsl, *t)
 	}
 	sort.Slice(tagsl, func(i, j int) bool {
-		return tagsl[i].Count > tagsl[j].Count
+		return tagsl[i].Tag < tagsl[j].Tag
 	})
 	return tagsl
 }
@@ -237,7 +237,7 @@ func freeReadMd(path, gh string) []Entry {
 					site = strings.TrimSpace(result[0][2])
 					e.Descrip = strings.TrimSpace(result[0][4])
 					e.License = lSplit(strings.TrimSpace(result[0][5]))
-					e.Lang = lSplit(strings.TrimSpace(result[0][6]))
+					e.Lang = langSplit(strings.TrimSpace(result[0][6]))
 					pdep = result[0][3]
 				}
 				if strings.Contains(pdep,"⚠") == true  {
@@ -261,12 +261,12 @@ func freeReadMd(path, gh string) []Entry {
 				if glregex.MatchString(e.Source) {
 					result := glregex.FindAllStringSubmatch(e.Source, -1)
 					glApi := "https://gitlab.com/api/v4/projects/" + result[0][4] + "%2F" + result[0][5]
-					e.Stars, e.Created, e.Updated = getGLRepo(glApi)
+					e.Stars, e.Updated = getGLRepo(glApi)
 
 				} else if ghregex.MatchString(e.Source) {
 					result := ghregex.FindAllStringSubmatch(e.Source, -1)
 					ghur:= strings.TrimSpace(result[0][4])
-					e.Stars,  e.Created, e.Updated = getGHRepo(ghur, gh)
+					e.Stars, e.Updated = getGHRepo(ghur, gh)
 
 				}
 
@@ -277,7 +277,7 @@ func freeReadMd(path, gh string) []Entry {
 	return entries
 }
 
-func getGLRepo (url string) (int, string, string){
+func getGLRepo (url string) (int, string){
 	res, err := http.Get(url)
 	if err != nil {
 		log.Fatal(err)
@@ -298,7 +298,7 @@ func getGLRepo (url string) (int, string, string){
 	if err != nil {
 		log.Fatal(err)
 	}
-	return thisgl.Stars, strings.Split(thisgl.Created, "T")[0], strings.Split(thisgl.Updated, "T")[0]
+	return thisgl.Stars, strings.Split(thisgl.Updated, "T")[0]
 }
 
 type Gh struct {
@@ -307,8 +307,17 @@ type Gh struct {
 			Stargazers struct {
 				TotalCount int `json:"totalCount"`
 			} `json:"stargazers"`
-			CreatedAt string `json:"createdAt"`
-			UpdatedAt string `json:"updatedAt"`
+			DefaultBranchRef struct {
+				Target struct {
+					History struct {
+						Edges [] struct {
+							Node struct {
+								CommittedDate string `json:"committedDate"`
+							} `json:"node"`
+						} `json:"edges"`
+					} `json:"history"`
+				} `json:"target"`
+			} `json:"defaultBranchRef"`
 		} `json:"repository"`
 	} `json:"data"`
  Errors [] struct {
@@ -318,17 +327,17 @@ type Gh struct {
  }`json:"errors"`
 }
 
-func getGHRepo (ur, ght string) (int, string, string){
+func getGHRepo (ur, ght string) (int, string){
 	if strings.Contains(ur, "/") != true {
 		log.Printf("No repository provided. Update %s to include a repo.", ur)
-		return 0, "", ""
+		return 0, ""
 	}
 	r := strings.Split(ur, "/")
 	if r[1] == "" {
 		log.Printf("No repository provided. Update %s to include a repo.", ur)
-		return 0, "", ""
+		return 0, ""
 	}
-	var jsonStr = []byte(`{"query":"{repository(owner:\"` + r[0] + `\",name:\"` + r[1] + `\"){stargazers{totalCount}createdAt,updatedAt}}"}`)
+	var jsonStr = []byte(`{"query":"{repository(owner:\"` + r[0] + `\",name:\"` + r[1] + `\"){stargazers{totalCount}defaultBranchRef{target{... on Commit{history(first: 1){edges{node{committedDate}}}}}}}}"}`)
 
 	req, err := http.NewRequest("POST", "https://api.github.com/graphql", bytes.NewBuffer(jsonStr))
 
@@ -360,10 +369,10 @@ func getGHRepo (ur, ght string) (int, string, string){
 		return ghv3api(r[0], r[1], ght)
 	}
 	//return *repo.StargazersCount
-	return gh.Data.Repository.Stargazers.TotalCount, strings.Split(gh.Data.Repository.CreatedAt, "T")[0], strings.Split(gh.Data.Repository.UpdatedAt, "T")[0]
+	return gh.Data.Repository.Stargazers.TotalCount, strings.Split(gh.Data.Repository.DefaultBranchRef.Target.History.Edges[0].Node.CommittedDate, "T")[0]
 }
 
-func ghv3api(u, r, ght string) (int, string, string) {
+func ghv3api(u, r, ght string) (int, string) {
 	ghURL := "https://api.github.com/repos/" + u + "/" + r + "?" //+ ght
 
 	//fmt.Println(ghURL)
@@ -377,7 +386,7 @@ func ghv3api(u, r, ght string) (int, string, string) {
 	}
 	if res.StatusCode != 200 {
 		log.Printf("StatusCode: %v. Source link is invalid: %v/%v\n", res.StatusCode, u, r)
-		return 0, "", ""
+		return 0, ""
 	}
 
 	// read body
@@ -392,7 +401,7 @@ func ghv3api(u, r, ght string) (int, string, string) {
 		FullName string `json:"full_name"`
 		Stars int `json:"stargazers_count"`
 		Created string `json:"created_at"`
-		Updated string `json:"updated_at"`
+		Updated string `json:"pushed_at"`
 	}
 	gh := Gh{}
 	err = json.Unmarshal(body, &gh)
@@ -400,7 +409,11 @@ func ghv3api(u, r, ght string) (int, string, string) {
 		log.Fatal(err)
 	}
 	log.Printf("Update https://github.com/%s/%s Source code link to: https://github.com/%s\n", u, r, gh.FullName)
-	return gh.Stars, strings.Split(gh.Created, "T")[0], strings.Split(gh.Updated, "T")[0]
+	if "/" + u + "/" + r != gh.FullName {
+		log.Printf("Retrying Github api v4 with %s", gh.FullName)
+		getGHRepo(gh.FullName, ght)
+	}
+	return gh.Stars, strings.Split(gh.Updated, "T")[0]
 }
 
 
@@ -447,7 +460,6 @@ func toJson(list List) {
 }
 
 func lSplit(lang string) []string {
-
 	if strings.Contains(lang, "/") {
 		return strings.Split(lang, "/")
 	} else {
@@ -455,6 +467,66 @@ func lSplit(lang string) []string {
 		l[0] = lang
 		return l
 	}
+}
+
+func langSplit(lang string) []string {
+	nLangs := lSplit(lang)
+	var mLangs []string
+	for _, lang := range nLangs {
+		mLangs = append(mLangs, langs[lang]...)
+	}
+	return mLangs
+}
+
+var langs = map[string][]string{
+	".NET":				{".NET"},
+	"Angular":			{"HTML5"},
+	"C":				{"C"},
+	"C#":				{"C#"},
+	"C++":				{"C++"},
+	"CSS":				{"HTML5"},
+	"ClearOS":			{"PHP"},
+	"Clojure":			{"Clojure"},
+	"ClojureScript":	{"Clojure"},
+	"CommonLisp":		{"CommonLisp"},
+	"Django":			{"Python"},
+	"Docker":			{"Docker"},
+	"Elixir":			{"Elixir"},
+	"Erlang":			{"Erlang"},
+	"Go":				{"Go"},
+	"GO":				{"Go"},
+	"Golang":			{"Golang"},
+	"HTML":				{"HTML5"},
+	"HTML5":			{"HTML5"},
+	"Haskell":			{"Haskell"},
+	"Java":				{"Java"},
+	"JavaScript":		{"HTML5"},
+	"Javascript":		{"HTML5"},
+	"Kotlin":			{"Kotlin"},
+	"Linux":			{"Shell"},
+	"Lua":				{"Lua"},
+	"Nix":				{"Nix"},
+	"Node.js":			{"Nodejs"},
+	"NodeJS":			{"Nodejs"},
+	"Nodejs":			{"Nodejs"},
+	"OCAML":			{"OCaml"},
+	"OCaml":			{"OCaml"},
+	"Objective-C":		{"Objective-C"},
+	"PHP":				{"PHP"},
+	"PL":				{"Perl"},
+	"Perl":				{"Perl"},
+	"Python":			{"Python"},
+	"Ruby":				{"Ruby"},
+	"Rust":				{"Rust"},
+	"Scala":			{"scala"},
+	"Shell":			{"Shell"},
+	"TypeScript":		{"TypeScript"},
+	"VueJS":			{"HTML5"},
+	"YAML":				{"YAML"},
+	"pgSQL":			{"pgSQL"},
+	"python":			{"Python"},
+	"С++":				{"C++"},
+	"rc":				{"rc"},
 }
 
 var tags = map[string][]string{
