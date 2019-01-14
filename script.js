@@ -92,6 +92,7 @@ function populateEntries() {
             txt += getL(entries[x].Li) + parseArr(entries[x].La, "lang");
             txt += `<span class="control"><a href="` + entries[x].Sr + `" target="_blank" class=""><span class="icon has-text-link"><i class="fas fa-lg fa-code-branch"></i></span></a></span>`;
             if (entries[x].Si !== undefined) {txt +=`<span class="control"><a href="` + entries[x].Si + `" target="_blank" class=""><span class="icon has-text-link"><i class="fas fa-lg fa-external-link-alt"></i></span></a></span>`;}
+            if (entries[x].Dem !== undefined) {txt +=`<span class="control"><a href="` + entries[x].Dem + `" target="_blank" class=""><span class="icon has-text-link"><i class="fas fa-lg fa-chevron-circle-right"></i></span></a></span>`;}
             if (entries[x].CL !== undefined) {txt +=`<span class="control"><a href="` + entries[x].CL + `" target="_blank" class=""><span class="icon has-text-link"><i class="fas fa-lg fa-mobile-alt"></i></span></a></span>`;}
             txt += `</span>`;
             txt += `<p>` + entries[x].D + `</p>`;
@@ -123,6 +124,7 @@ function populateAllEntries() {
         txt += getL(entries[x].Li) + parseArr(entries[x].La, "lang");
         txt += `<span class="control"><a href="` + entries[x].Sr + `" target="_blank" class=""><span class="icon has-text-link"><i class="fas fa-lg fa-code-branch"></i></span></a></span>`;
         if (entries[x].Si !== undefined) {txt +=`<span class="control"><a href="` + entries[x].Si + `" target="_blank" class=""><span class="icon has-text-link"><i class="fas fa-lg fa-external-link-alt"></i></span></a></span>`;}
+        if (entries[x].Dem !== undefined) {txt +=`<span class="control"><a href="` + entries[x].Dem + `" target="_blank" class=""><span class="icon has-text-link"><i class="fas fa-lg fa-chevron-circle-right"></i></span></a></span>`;}
         if (entries[x].CL !== undefined) {txt +=`<span class="control"><a href="` + entries[x].CL + `" target="_blank" class=""><span class="icon has-text-link"><i class="fas fa-lg fa-mobile-alt"></i></span></a></span>`;}
         txt += `</span>`;
         txt += `<p>` + entries[x].D + `</p>`;
