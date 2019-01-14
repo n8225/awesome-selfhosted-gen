@@ -71,7 +71,7 @@
 				"Analytics",
 				"Web Analytics"
 			],
-			"stars": 3756,
+			"stars": 3757,
 			"update": "2019-01-11"
 		},
 		{
@@ -90,7 +90,7 @@
 				"Analytics",
 				"Web Analytics"
 			],
-			"stars": 8174,
+			"stars": 8175,
 			"update": "2018-12-16"
 		},
 		{
@@ -237,7 +237,7 @@
 			"T": [
 				"Analytics"
 			],
-			"stars": 12909,
+			"stars": 12910,
 			"update": "2019-01-11"
 		},
 		{
@@ -274,7 +274,7 @@
 			"T": [
 				"Analytics"
 			],
-			"stars": 22665,
+			"stars": 22666,
 			"update": "2019-01-13"
 		},
 		{
@@ -626,7 +626,7 @@
 			"T": [
 				"Automation"
 			],
-			"stars": 20569,
+			"stars": 20572,
 			"update": "2019-01-14"
 		},
 		{
@@ -680,7 +680,7 @@
 			"T": [
 				"Automation"
 			],
-			"stars": 20345,
+			"stars": 20346,
 			"update": "2019-01-09"
 		},
 		{
@@ -770,7 +770,7 @@
 			"T": [
 				"Automation"
 			],
-			"stars": 616,
+			"stars": 618,
 			"update": "2019-01-13"
 		},
 		{
@@ -985,7 +985,7 @@
 			"T": [
 				"Automation"
 			],
-			"stars": 5896,
+			"stars": 5894,
 			"update": "2018-12-09"
 		},
 		{
@@ -1365,7 +1365,7 @@
 			"T": [
 				"Blog"
 			],
-			"stars": 6133,
+			"stars": 6134,
 			"update": "2019-01-13"
 		},
 		{
@@ -1955,7 +1955,7 @@
 			"T": [
 				"Communications"
 			],
-			"stars": 3249,
+			"stars": 3250,
 			"update": "2019-01-06"
 		},
 		{
@@ -2096,7 +2096,7 @@
 			"T": [
 				"Communications"
 			],
-			"stars": 820,
+			"stars": 821,
 			"update": "2019-01-10"
 		},
 		{
@@ -2167,7 +2167,7 @@
 			"T": [
 				"Communications"
 			],
-			"stars": 1088,
+			"stars": 1089,
 			"update": "2019-01-13"
 		},
 		{
@@ -2315,7 +2315,7 @@
 			"T": [
 				"Communications"
 			],
-			"stars": 785,
+			"stars": 786,
 			"update": "2019-01-13"
 		},
 		{
@@ -2351,7 +2351,7 @@
 			"T": [
 				"Communications"
 			],
-			"stars": 21140,
+			"stars": 21141,
 			"update": "2019-01-11"
 		},
 		{
@@ -2405,7 +2405,7 @@
 			"T": [
 				"Communications"
 			],
-			"stars": 3533,
+			"stars": 3534,
 			"update": "2019-01-10"
 		},
 		{
@@ -2441,7 +2441,7 @@
 			"T": [
 				"Communications"
 			],
-			"stars": 2333,
+			"stars": 2334,
 			"update": "2019-01-10"
 		},
 		{
@@ -2549,7 +2549,7 @@
 				"Communications"
 			],
 			"stars": 8850,
-			"update": "2019-01-11"
+			"update": "2019-01-14"
 		},
 		{
 			"ID": 139,
@@ -2666,7 +2666,7 @@
 				"Email",
 				"Complete Email"
 			],
-			"stars": 894,
+			"stars": 896,
 			"update": "2019-01-11"
 		},
 		{
@@ -2686,7 +2686,7 @@
 				"Email",
 				"Complete Email"
 			],
-			"stars": 7769,
+			"stars": 7770,
 			"update": "2019-01-12"
 		},
 		{
@@ -3108,7 +3108,7 @@
 				"Newsletters",
 				"Mass mail"
 			],
-			"stars": 3779,
+			"stars": 3780,
 			"update": "2019-01-12"
 		},
 		{
@@ -3487,7 +3487,7 @@
 				"Communications",
 				"IRC"
 			],
-			"stars": 2479,
+			"stars": 2480,
 			"update": "2019-01-12"
 		},
 		{
@@ -3632,7 +3632,7 @@
 				"Communications",
 				"SIP"
 			],
-			"stars": 818,
+			"stars": 819,
 			"update": "2019-01-13"
 		},
 		{
@@ -4166,7 +4166,7 @@
 				"Social Network",
 				"Forum"
 			],
-			"stars": 16401,
+			"stars": 16400,
 			"update": "2019-01-13"
 		},
 		{
@@ -4246,7 +4246,7 @@
 				"Social Network",
 				"Forum"
 			],
-			"stars": 9565,
+			"stars": 9567,
 			"update": "2019-01-13"
 		},
 		{
@@ -4485,7 +4485,7 @@
 				"Social Network",
 				"Forum"
 			],
-			"stars": 9311,
+			"stars": 9315,
 			"update": "2019-01-12"
 		},
 		{
@@ -4685,7 +4685,7 @@
 				"XMPP",
 				"XMPP Server"
 			],
-			"stars": 1070,
+			"stars": 1071,
 			"update": "2019-01-11"
 		},
 		{
@@ -5057,7 +5057,7 @@
 				"CMS"
 			],
 			"stars": 695,
-			"update": "2019-01-11"
+			"update": "2019-01-14"
 		},
 		{
 			"ID": 268,
@@ -5111,7 +5111,7 @@
 			"T": [
 				"CMS"
 			],
-			"stars": 3837,
+			"stars": 3838,
 			"update": "2019-01-09"
 		},
 		{
@@ -5396,7 +5396,7 @@
 			"T": [
 				"CMS"
 			],
-			"stars": 7970,
+			"stars": 7971,
 			"update": "2019-01-03"
 		},
 		{
@@ -5650,6 +5650,25 @@
 		},
 		{
 			"ID": 301,
+			"N": "Squidex",
+			"D": "Headless CMS, based on MongoDB, CQRS and Event Sourcing.",
+			"Sr": "https://github.com/Squidex/squidex",
+			"Dem": "http://cloud.squidex.io",
+			"Si": "http://squidex.io",
+			"Li": [
+				"MIT"
+			],
+			"La": [
+				".NET"
+			],
+			"T": [
+				"CMS"
+			],
+			"stars": 526,
+			"update": "2019-01-13"
+		},
+		{
+			"ID": 302,
 			"N": "Strapi",
 			"D": "The most advanced open-source Content Management Framework (headless-CMS) to build powerful API with no effort.",
 			"Sr": "https://github.com/strapi/strapi/",
@@ -5667,7 +5686,7 @@
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 302,
+			"ID": 303,
 			"N": "Subrion",
 			"D": "Subrion is a free open source content management system that allows you to build websites for any purpose. Yes, from blog to corporate mega portal.",
 			"Sr": "https://github.com/intelliants/subrion",
@@ -5686,7 +5705,7 @@
 			"update": "2018-08-16"
 		},
 		{
-			"ID": 303,
+			"ID": 304,
 			"N": "Textpattern",
 			"D": "Flexible, elegant and easy-to-use CMS.",
 			"Sr": "https://github.com/textpattern/textpattern",
@@ -5705,7 +5724,7 @@
 			"update": "2019-01-11"
 		},
 		{
-			"ID": 304,
+			"ID": 305,
 			"N": "TYPO3",
 			"D": "Powerful and advanced CMS with a large community.",
 			"Sr": "https://github.com/TYPO3/TYPO3.CMS",
@@ -5723,7 +5742,7 @@
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 305,
+			"ID": 306,
 			"N": "Umbraco",
 			"D": "The friendly CMS. Free and open source with an amazing community.",
 			"Sr": "https://github.com/umbraco/Umbraco-CMS",
@@ -5741,7 +5760,7 @@
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 306,
+			"ID": 307,
 			"N": "Wagtail",
 			"D": "Django content management system focused on flexibility and user experience.",
 			"Sr": "https://github.com/wagtail/wagtail",
@@ -5759,7 +5778,7 @@
 			"update": "2019-01-11"
 		},
 		{
-			"ID": 307,
+			"ID": 308,
 			"N": "WonderCMS",
 			"D": "WonderCMS is the smallest flat file CMS since 2008.",
 			"Sr": "https://github.com/robiso/wondercms",
@@ -5778,7 +5797,7 @@
 			"update": "2019-01-06"
 		},
 		{
-			"ID": 308,
+			"ID": 309,
 			"N": "WordPress",
 			"D": "The worlds most-used blogging and CMS engine.",
 			"Sr": "https://github.com/WordPress/WordPress",
@@ -5796,7 +5815,7 @@
 			"update": "2019-01-14"
 		},
 		{
-			"ID": 309,
+			"ID": 310,
 			"N": "OpenEats",
 			"D": "Recipe management site that allows users to create, store, share and rate recipes, create grocery lists, and more.",
 			"Sr": "https://github.com/open-eats/OpenEats",
@@ -5815,7 +5834,7 @@
 			"update": "2019-01-05"
 		},
 		{
-			"ID": 310,
+			"ID": 311,
 			"N": "Attendize",
 			"D": "Ticket selling and event management platform.",
 			"Sr": "https://github.com/attendize/attendize",
@@ -5834,7 +5853,7 @@
 			"update": "2019-01-10"
 		},
 		{
-			"ID": 311,
+			"ID": 312,
 			"N": "CoreShop",
 			"D": "CoreShop is a e-commerce plugin for Pimcore.",
 			"Sr": "https://github.com/coreshop/CoreShop",
@@ -5853,7 +5872,7 @@
 			"update": "2019-01-10"
 		},
 		{
-			"ID": 312,
+			"ID": 313,
 			"N": "Drupal Commerce",
 			"D": "Drupal Commerce is a popular e-commerce module for Drupal CMS, with support for dozens of payment, shipping, and shopping related modules.",
 			"Sr": "https://github.com/drupalcommerce/commerce",
@@ -5872,7 +5891,7 @@
 			"update": "2019-01-11"
 		},
 		{
-			"ID": 313,
+			"ID": 314,
 			"N": "Magento",
 			"D": "Leading provider of open omnichannel innovation.",
 			"Sr": "https://github.com/magento/magento2",
@@ -5892,7 +5911,7 @@
 			"update": "2019-01-11"
 		},
 		{
-			"ID": 314,
+			"ID": 315,
 			"N": "Microweber",
 			"D": "Drag and Drop CMS and online shop.",
 			"Sr": "https://github.com/microweber/microweber",
@@ -5912,7 +5931,7 @@
 			"update": "2018-12-17"
 		},
 		{
-			"ID": 315,
+			"ID": 316,
 			"N": "OpenBazaar",
 			"D": "Decentralized marketplace using cryptocurrency.",
 			"Sr": "https://github.com/openbazaar/openbazaar-go",
@@ -5931,7 +5950,7 @@
 			"update": "2019-01-11"
 		},
 		{
-			"ID": 316,
+			"ID": 317,
 			"N": "OpenCart",
 			"D": "Free open source shopping cart solution.",
 			"Sr": "https://github.com/opencart/opencart",
@@ -5950,7 +5969,7 @@
 			"update": "2019-01-03"
 		},
 		{
-			"ID": 317,
+			"ID": 318,
 			"N": "Open Classifieds",
 			"D": "Free open-source, self-hosted CMS for classifieds sites.",
 			"Sr": "https://github.com/open-classifieds/openclassifieds2",
@@ -5969,7 +5988,7 @@
 			"update": "2019-01-09"
 		},
 		{
-			"ID": 318,
+			"ID": 319,
 			"N": "Open Source POS",
 			"D": "Open Source Point of Sale is a web based point of sale system.",
 			"Sr": "https://github.com/opensourcepos/opensourcepos",
@@ -5988,7 +6007,7 @@
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 319,
+			"ID": 320,
 			"N": "Osclass",
 			"D": "One-stop shop to building your own classifieds marketplace.",
 			"Sr": "https://github.com/osclass/Osclass",
@@ -6007,7 +6026,7 @@
 			"update": "2018-07-10"
 		},
 		{
-			"ID": 320,
+			"ID": 321,
 			"N": "OXID eShop",
 			"D": "OXID eShop is a flexible open source e-commerce software with a wide range of functionalities.",
 			"Sr": "https://github.com/OXID-eSales/oxideshop_ce",
@@ -6027,7 +6046,7 @@
 			"update": "2019-01-10"
 		},
 		{
-			"ID": 321,
+			"ID": 322,
 			"N": "Open Food Network",
 			"D": "Online marketplace for local food. It enables a network of independent online food stores that connect farmers and food hubs with individuals and local businesses.",
 			"Sr": "https://github.com/openfoodfoundation/openfoodnetwork",
@@ -6046,7 +6065,7 @@
 			"update": "2019-01-11"
 		},
 		{
-			"ID": 322,
+			"ID": 323,
 			"N": "PrestaShop",
 			"D": "PrestaShop offers a free, open-source and fully scalable e-commerce solution.",
 			"Sr": "https://github.com/PrestaShop/PrestaShop",
@@ -6066,7 +6085,7 @@
 			"update": "2019-01-12"
 		},
 		{
-			"ID": 323,
+			"ID": 324,
 			"N": "Pretix",
 			"D": "Django based ticket sales platform for events.",
 			"Sr": "https://github.com/pretix",
@@ -6083,7 +6102,7 @@
 			]
 		},
 		{
-			"ID": 324,
+			"ID": 325,
 			"N": "Reaction Commerce",
 			"D": "Customizable, real-time reactive, JavaScript commerce platform.",
 			"Sr": "https://github.com/reactioncommerce/reaction",
@@ -6102,7 +6121,7 @@
 			"update": "2019-01-11"
 		},
 		{
-			"ID": 325,
+			"ID": 326,
 			"N": "Saleor",
 			"D": "Django based open-sourced e-commerce storefront.",
 			"Sr": "https://github.com/mirumee/saleor",
@@ -6122,7 +6141,7 @@
 			"update": "2019-01-11"
 		},
 		{
-			"ID": 326,
+			"ID": 327,
 			"N": "Shuup",
 			"D": "Django powered fully customizable open source e-commerce framework for small and large sites.",
 			"Sr": "https://github.com/shuup/shuup",
@@ -6141,7 +6160,7 @@
 			"update": "2019-01-11"
 		},
 		{
-			"ID": 327,
+			"ID": 328,
 			"N": "Shopware Community Edition",
 			"D": "PHP based ppen source e-commerce software made in Germany.",
 			"Sr": "https://github.com/shopware/shopware",
@@ -6161,7 +6180,7 @@
 			"update": "2019-01-11"
 		},
 		{
-			"ID": 328,
+			"ID": 329,
 			"N": "Sylius",
 			"D": "Symfony2 powered open source full-stack platform for eCommerce.",
 			"Sr": "https://github.com/Sylius/Sylius",
@@ -6181,7 +6200,7 @@
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 329,
+			"ID": 330,
 			"N": "Thelia",
 			"D": "Thelia is an open source and flexible e-commerce solution.",
 			"Sr": "https://github.com/thelia/thelia",
@@ -6201,7 +6220,7 @@
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 330,
+			"ID": 331,
 			"N": "WooCommerce",
 			"D": "WordPress based e-commerce solution.",
 			"Sr": "https://github.com/woothemes/woocommerce",
@@ -6216,11 +6235,11 @@
 				"CMS",
 				"E-commerce"
 			],
-			"stars": 4966,
+			"stars": 4967,
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 331,
+			"ID": 332,
 			"N": "CoreDNS",
 			"D": "Plugin driven DNS Server with support for proxying to Google's DNS-over-HTTPS.",
 			"Sr": "https://github.com/coredns/coredns",
@@ -6238,7 +6257,7 @@
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 332,
+			"ID": 333,
 			"N": "nsupdate.info",
 			"D": "nsupdate.info is a dynamic DNS service.",
 			"Sr": "https://github.com/nsupdate-info/nsupdate.info",
@@ -6257,7 +6276,7 @@
 			"update": "2018-12-28"
 		},
 		{
-			"ID": 333,
+			"ID": 334,
 			"N": "SPF Toolbox",
 			"D": "Application to look up DNS records such as SPF, MX, Whois, and more.",
 			"Sr": "https://github.com/bulbajackel/SPFtoolbox",
@@ -6275,7 +6294,7 @@
 			"update": "2019-01-10"
 		},
 		{
-			"ID": 334,
+			"ID": 335,
 			"N": "CaseBox",
 			"D": "Manage all your organization's information in one system.",
 			"Sr": "https://github.com/KETSE/casebox",
@@ -6294,7 +6313,7 @@
 			"update": "2017-11-06"
 		},
 		{
-			"ID": 335,
+			"ID": 336,
 			"N": "EdPaper",
 			"D": "PDF organizer with users management.",
 			"Sr": "https://github.com/Edraens/EdPaper",
@@ -6311,7 +6330,7 @@
 			"update": "2018-09-03"
 		},
 		{
-			"ID": 336,
+			"ID": 337,
 			"N": "Mayan EDMS",
 			"D": "Free Open Source Electronic Document Management System. An electronic vault for your documents with preview generation, OCR, and automatic categorization among other features.",
 			"Sr": "https://gitlab.com/mayan-edms/mayan-edms",
@@ -6326,10 +6345,10 @@
 				"Doc Mgmnt"
 			],
 			"stars": 209,
-			"update": "2019-01-11"
+			"update": "2019-01-14"
 		},
 		{
-			"ID": 337,
+			"ID": 338,
 			"N": "Paperless",
 			"D": "Scan, index, and archive all of your paper documents.",
 			"Sr": "https://github.com/danielquinn/paperless",
@@ -6346,7 +6365,7 @@
 			"update": "2019-01-04"
 		},
 		{
-			"ID": 338,
+			"ID": 339,
 			"N": "Calibre",
 			"D": "E-book library manager that can view, convert, and catalog e-books in most of the major e-book formats and provides a built-in Web server for remote clients.",
 			"Sr": "https://calibre-ebook.com/",
@@ -6363,7 +6382,7 @@
 			]
 		},
 		{
-			"ID": 339,
+			"ID": 340,
 			"N": "BicBucStriim",
 			"D": "Provides web-based access to your Calibre Library's e-book collection.",
 			"Sr": "https://github.com/rvolz/BicBucStriim",
@@ -6382,7 +6401,7 @@
 			"update": "2018-11-16"
 		},
 		{
-			"ID": 340,
+			"ID": 341,
 			"N": "Calibre Web",
 			"D": "Web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database.",
 			"Sr": "https://github.com/janeczku/calibre-web",
@@ -6401,7 +6420,7 @@
 			"update": "2019-01-12"
 		},
 		{
-			"ID": 341,
+			"ID": 342,
 			"N": "COPS",
 			"D": "Lightweight e-book server alternative to Calibre content server or [Calibre2OPDS](https://calibre2opds.com/2011/11/03/new-site-for-calibre2opds/).",
 			"Sr": "https://github.com/seblucas/cops",
@@ -6421,7 +6440,7 @@
 			"update": "2018-10-09"
 		},
 		{
-			"ID": 342,
+			"ID": 343,
 			"N": "Polar Bookshelf",
 			"D": "Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.",
 			"Sr": "https://github.com/burtonator/polar-bookshelf",
@@ -6440,7 +6459,7 @@
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 343,
+			"ID": 344,
 			"N": "Evergreen",
 			"D": "Highly-scalable software for libraries that helps library patrons find library materials, and helps libraries manage, catalog, and circulate those materials.",
 			"Sr": "https://github.com/evergreen-library-system/Evergreen",
@@ -6460,7 +6479,7 @@
 			"update": "2019-01-08"
 		},
 		{
-			"ID": 344,
+			"ID": 345,
 			"N": "Koha",
 			"D": "Enterprise-class ILS with modules for acquisitions, circulation, cataloging, label printing, offline circulation for when Internet access is not available, and much more.",
 			"Sr": "https://github.com/Koha-Community/Koha",
@@ -6480,7 +6499,7 @@
 			"update": "2019-01-11"
 		},
 		{
-			"ID": 345,
+			"ID": 346,
 			"N": "CommaFeed",
 			"D": "Google Reader inspired self-hosted RSS reader.",
 			"Sr": "https://github.com/Athou/commafeed",
@@ -6499,7 +6518,7 @@
 			"update": "2018-07-31"
 		},
 		{
-			"ID": 346,
+			"ID": 347,
 			"N": "Feedbin",
 			"D": "Simple, fast and nice looking RSS reader.",
 			"Sr": "https://github.com/feedbin/feedbin",
@@ -6518,7 +6537,7 @@
 			"update": "2019-01-14"
 		},
 		{
-			"ID": 347,
+			"ID": 348,
 			"N": "FeedHQ",
 			"D": "FeedHQ is a web-based feed reader.",
 			"Sr": "https://github.com/feedhq/feedhq",
@@ -6537,7 +6556,7 @@
 			"update": "2018-11-03"
 		},
 		{
-			"ID": 348,
+			"ID": 349,
 			"N": "FreshRSS",
 			"D": "Self-hostable RSS feed aggregator.",
 			"Sr": "https://github.com/FreshRSS/FreshRSS",
@@ -6557,7 +6576,7 @@
 			"update": "2018-12-22"
 		},
 		{
-			"ID": 349,
+			"ID": 350,
 			"N": "JARR",
 			"D": "JARR (Just Another RSS Reader) is a web-based news aggregator and reader (fork of Newspipe).",
 			"Sr": "https://github.com/jaesivsm/JARR",
@@ -6577,7 +6596,7 @@
 			"update": "2016-07-24"
 		},
 		{
-			"ID": 350,
+			"ID": 351,
 			"N": "Kriss Feed",
 			"D": "Simple and smart (or stupid) feed reader.",
 			"Sr": "https://github.com/tontof/kriss_feed/",
@@ -6597,7 +6616,7 @@
 			"update": "2018-12-14"
 		},
 		{
-			"ID": 351,
+			"ID": 352,
 			"N": "Leed",
 			"D": "Leed (for Light Feed) is a Free and minimalist RSS aggregator.",
 			"Sr": "https://github.com/ldleman/Leed",
@@ -6616,7 +6635,7 @@
 			"update": "2018-12-16"
 		},
 		{
-			"ID": 352,
+			"ID": 353,
 			"N": "Leselys",
 			"D": "Your very elegant RSS reader.",
 			"Sr": "https://github.com/socketubs/leselys",
@@ -6634,7 +6653,7 @@
 			"update": "2016-07-27"
 		},
 		{
-			"ID": 353,
+			"ID": 354,
 			"N": "Lite-Reader",
 			"D": "Read your feeds on your own machine with a simple and lite application.",
 			"Sr": "https://github.com/cubny/lite-reader",
@@ -6653,7 +6672,7 @@
 			"update": "2016-07-09"
 		},
 		{
-			"ID": 354,
+			"ID": 355,
 			"N": "Moonmoon",
 			"D": "simple feed agregator (planet like): it only aggregates feeds and spits them out in one single page.",
 			"Sr": "https://github.com/mauricesvay/moonmoon",
@@ -6672,7 +6691,7 @@
 			"update": "2018-11-10"
 		},
 		{
-			"ID": 355,
+			"ID": 356,
 			"N": "Miniflux",
 			"D": "Miniflux 2 is a minimalist and open source news reader, written in Go and PostgreSQL.",
 			"Sr": "https://github.com/miniflux/miniflux",
@@ -6691,7 +6710,7 @@
 			"update": "2019-01-08"
 		},
 		{
-			"ID": 356,
+			"ID": 357,
 			"N": "NewsBlur",
 			"D": "NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.",
 			"Sr": "https://github.com/samuelclay/NewsBlur",
@@ -6710,7 +6729,7 @@
 			"update": "2019-01-12"
 		},
 		{
-			"ID": 357,
+			"ID": 358,
 			"N": "Newspipe",
 			"D": "Newspipe is a web news aggregator and reader.",
 			"Sr": "https://github.com/newspipe/newspipe",
@@ -6730,7 +6749,7 @@
 			"update": "2018-09-21"
 		},
 		{
-			"ID": 358,
+			"ID": 359,
 			"N": "Nunux Reader",
 			"D": "Simple, fast and reactive RSS reader.",
 			"Sr": "https://github.com/ncarlier/nunux-reader",
@@ -6749,7 +6768,7 @@
 			"update": "2018-03-17"
 		},
 		{
-			"ID": 359,
+			"ID": 360,
 			"N": "Reader-Self",
 			"D": "Self-hosted rss reader (php / mysql or sqlite) - Google Reader alternative.",
 			"Sr": "https://github.com/readerself/readerself",
@@ -6768,7 +6787,7 @@
 			"update": "2017-11-12"
 		},
 		{
-			"ID": 360,
+			"ID": 361,
 			"N": "RSS2EMail",
 			"D": "Fetches RSS/Atom-feeds and pushes new Content to any email-receiver, supports OPML.",
 			"Sr": "https://github.com/wking/rss2email",
@@ -6787,7 +6806,7 @@
 			"update": "2015-12-19"
 		},
 		{
-			"ID": 361,
+			"ID": 362,
 			"N": "RSS Monster",
 			"D": "RSS Monster is an easy to use web-based RSS aggregator and reader compatible with the Fever API, created as an alternative for Google Reader.",
 			"Sr": "https://github.com/pietheinstrengholt/rssmonster",
@@ -6805,7 +6824,7 @@
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 362,
+			"ID": 363,
 			"N": "Screaming Liquid Tiger",
 			"D": "Simple script to automatically generate valid RSS and Atom feeds from a list of media files in the same folder.",
 			"Sr": "https://github.com/herrbischoff/screaming-liquid-tiger",
@@ -6823,7 +6842,7 @@
 			"update": "2018-10-10"
 		},
 		{
-			"ID": 363,
+			"ID": 364,
 			"N": "Selfoss",
 			"D": "New multipurpose rss reader, live stream, mashup, aggregation web application.",
 			"Sr": "https://github.com/SSilence/selfoss",
@@ -6842,7 +6861,7 @@
 			"update": "2018-12-15"
 		},
 		{
-			"ID": 364,
+			"ID": 365,
 			"N": "Sismics Reader",
 			"D": "Free and open source feeds reader, including all major Google Reader features.",
 			"Sr": "https://github.com/sismics/reader",
@@ -6862,7 +6881,7 @@
 			"update": "2018-10-24"
 		},
 		{
-			"ID": 365,
+			"ID": 366,
 			"N": "Stringer",
 			"D": "Work-in-progress self-hosted, anti-social RSS reader.",
 			"Sr": "https://github.com/swanson/stringer",
@@ -6880,7 +6899,7 @@
 			"update": "2018-11-05"
 		},
 		{
-			"ID": 366,
+			"ID": 367,
 			"N": "Temboz",
 			"D": "Two-column feed reader emphasizing filtering capabilities to manage information overload.",
 			"Sr": "https://github.com/fazalmajid/temboz",
@@ -6898,7 +6917,7 @@
 			"update": "2018-10-15"
 		},
 		{
-			"ID": 367,
+			"ID": 368,
 			"N": "Tiny Tiny RSS",
 			"D": "Open source web-based news feed (RSS/Atom) reader and aggregator.",
 			"Sr": "https://tt-rss.org/gitlab/fox/tt-rss",
@@ -6915,7 +6934,7 @@
 			]
 		},
 		{
-			"ID": 368,
+			"ID": 369,
 			"N": "gritttt-rss",
 			"D": "More features for Tiny Tiny RSS.",
 			"Sr": "https://github.com/nhoening/gritttt-rss",
@@ -6934,7 +6953,7 @@
 			"update": "2016-09-17"
 		},
 		{
-			"ID": 369,
+			"ID": 370,
 			"N": "ttrss-mobile",
 			"D": "Mobile webapp for Tiny Tiny RSS.",
 			"Sr": "https://github.com/mboinet/ttrss-mobile",
@@ -6952,7 +6971,7 @@
 			"update": "2016-01-28"
 		},
 		{
-			"ID": 370,
+			"ID": 371,
 			"N": "ttrss-reader",
 			"D": "Light and responsive client for TTRSS.",
 			"Sr": "https://github.com/kucrut/ttrss-reader",
@@ -6970,7 +6989,7 @@
 			"update": "2017-03-28"
 		},
 		{
-			"ID": 371,
+			"ID": 372,
 			"N": "Winds",
 			"D": "Open source and beautiful RSS reader built using React/Redux/Sails/Node and Stream. It showcases personalized feeds powered by the Stream API.",
 			"Sr": "https://github.com/GetStream/Winds",
@@ -6991,7 +7010,7 @@
 			"update": "2018-12-26"
 		},
 		{
-			"ID": 372,
+			"ID": 373,
 			"N": "Git Annex",
 			"D": "File synchronization between computers, servers, external drives.",
 			"Sr": "https://git.joeyh.name/index.cgi/git-annex.git/",
@@ -7009,7 +7028,7 @@
 			]
 		},
 		{
-			"ID": 373,
+			"ID": 374,
 			"N": "Gossa",
 			"D": "Gossa is a light and simple webserver for your files.",
 			"Sr": "https://github.com/pldubouilh/gossa/",
@@ -7028,7 +7047,7 @@
 			"update": "2018-12-23"
 		},
 		{
-			"ID": 374,
+			"ID": 375,
 			"N": "Kinto",
 			"D": "Kinto is a minimalist JSON storage service with synchronisation and sharing abilities.",
 			"Sr": "https://github.com/Kinto",
@@ -7046,7 +7065,7 @@
 			]
 		},
 		{
-			"ID": 375,
+			"ID": 376,
 			"N": "Nextcloud",
 			"D": "Access and share your files, calendars, contacts, mail and [more](https://apps.nextcloud.com/) from any device, on your terms.",
 			"Sr": "https://github.com/nextcloud/server",
@@ -7063,11 +7082,11 @@
 				"File Transfer",
 				"File Sync"
 			],
-			"stars": 6363,
+			"stars": 6365,
 			"update": "2019-01-14"
 		},
 		{
-			"ID": 376,
+			"ID": 377,
 			"N": "OpenSSH/SFTP",
 			"D": "Secure File Transfer Program.",
 			"Sr": "http://cvsweb.openbsd.org/cgi-bin/cvsweb/src/usr.bin/ssh",
@@ -7085,7 +7104,7 @@
 			]
 		},
 		{
-			"ID": 377,
+			"ID": 378,
 			"N": "ownCloud",
 			"D": "All-in-one solution for saving, synchronizing, viewing, editing and sharing files, calendars, address books and more.",
 			"Sr": "https://github.com/owncloud/core",
@@ -7108,7 +7127,7 @@
 			"update": "2019-01-12"
 		},
 		{
-			"ID": 378,
+			"ID": 379,
 			"N": "Pydio",
 			"D": "Turn any web server into a powerful file management system and an alternative to mainstream cloud storage providers.",
 			"Sr": "https://github.com/pydio/pydio-core",
@@ -7128,7 +7147,7 @@
 			"update": "2018-12-14"
 		},
 		{
-			"ID": 379,
+			"ID": 380,
 			"N": "Samba",
 			"D": "Samba is the standard Windows interoperability suite of programs for Linux and Unix. It provides secure, stable and fast file and print services for all clients using the SMB/CIFS protocol.",
 			"Sr": "https://git.samba.org/samba.git/",
@@ -7146,7 +7165,7 @@
 			]
 		},
 		{
-			"ID": 380,
+			"ID": 381,
 			"N": "Seafile",
 			"D": "File hosting and sharing solution primary for teams and organizations.",
 			"Sr": "https://github.com/haiwen/seafile",
@@ -7167,7 +7186,7 @@
 			"update": "2018-12-25"
 		},
 		{
-			"ID": 381,
+			"ID": 382,
 			"N": "SparkleShare",
 			"D": "Self hosted, instant, secure file sync.",
 			"Sr": "https://github.com/hbons/SparkleShare",
@@ -7187,7 +7206,7 @@
 			"update": "2018-12-26"
 		},
 		{
-			"ID": 382,
+			"ID": 383,
 			"N": "Syncany",
 			"D": "Secure file sync software for arbitrary storage backends, an open-source cloud storage and filesharing application. Securely synchronize your files to any kind of storage.",
 			"Sr": "https://www.syncany.org/",
@@ -7204,7 +7223,7 @@
 			]
 		},
 		{
-			"ID": 383,
+			"ID": 384,
 			"N": "Syncthing",
 			"D": "Syncthing is an open source peer-to-peer file synchronisation tool.",
 			"Sr": "https://github.com/syncthing/syncthing",
@@ -7224,7 +7243,7 @@
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 384,
+			"ID": 385,
 			"N": "Unison",
 			"D": "Unison is a file-synchronization tool for OSX, Unix, and Windows.",
 			"Sr": "https://www.cis.upenn.edu/~bcpierce/unison/",
@@ -7241,7 +7260,7 @@
 			]
 		},
 		{
-			"ID": 385,
+			"ID": 386,
 			"N": "Z-Push",
 			"D": "Implementation of Microsoft’s [ActiveSync](https://en.wikipedia.org/wiki/ActiveSync) protocol.",
 			"Sr": "https://stash.z-hub.io/projects/ZP/repos/z-push",
@@ -7259,7 +7278,7 @@
 			]
 		},
 		{
-			"ID": 386,
+			"ID": 387,
 			"N": "bittorrent-tracker",
 			"D": "Simple, robust, BitTorrent tracker (client and server) implementation.",
 			"Sr": "https://github.com/feross/bittorrent-tracker",
@@ -7278,7 +7297,7 @@
 			"update": "2019-01-01"
 		},
 		{
-			"ID": 387,
+			"ID": 388,
 			"N": "cloud-torrent",
 			"D": "Torrent Web Client with HTTP retrievable or streamable downloaded files.",
 			"Sr": "https://github.com/jpillora/cloud-torrent",
@@ -7296,7 +7315,7 @@
 			"update": "2018-04-27"
 		},
 		{
-			"ID": 388,
+			"ID": 389,
 			"N": "Dat Project",
 			"D": "Powerful decentralized file sharing applications built from a large ecosystem of modules.",
 			"Sr": "https://github.com/datproject",
@@ -7313,7 +7332,7 @@
 			]
 		},
 		{
-			"ID": 389,
+			"ID": 390,
 			"N": "FilePizza",
 			"D": "Peer-to-peer file transfers in your browser.",
 			"Sr": "https://github.com/kern/filepizza",
@@ -7332,7 +7351,7 @@
 			"update": "2018-12-17"
 		},
 		{
-			"ID": 390,
+			"ID": 391,
 			"N": "Firefox Send",
 			"D": "A file sharing experiment which allows you to send encrypted files to other users.",
 			"Sr": "https://github.com/mozilla/send",
@@ -7350,7 +7369,7 @@
 			"update": "2019-01-07"
 		},
 		{
-			"ID": 391,
+			"ID": 392,
 			"N": "instant.io",
 			"D": "Streaming file transfer over WebTorrent.",
 			"Sr": "https://github.com/feross/instant.io",
@@ -7369,7 +7388,7 @@
 			"update": "2018-12-22"
 		},
 		{
-			"ID": 392,
+			"ID": 393,
 			"N": "Magnetico",
 			"D": "Magnetico is the first autonomous (self-hosted) BitTorrent DHT search engine suite that is designed for end-users.",
 			"Sr": "https://github.com/boramalper/magnetico",
@@ -7383,11 +7402,11 @@
 				"File Sharing",
 				"P2P"
 			],
-			"stars": 1842,
+			"stars": 1843,
 			"update": "2019-01-06"
 		},
 		{
-			"ID": 393,
+			"ID": 394,
 			"N": "Magnetissimo",
 			"D": "Search engine that indexes all popular torrent sites.",
 			"Sr": "https://github.com/sergiotapia/magnetissimo",
@@ -7405,7 +7424,7 @@
 			"update": "2018-06-10"
 		},
 		{
-			"ID": 394,
+			"ID": 395,
 			"N": "Opentracker",
 			"D": "Open and free bittorrent tracker. It aims for minimal resource usage and is intended to run at your wlan router.",
 			"Sr": "http://erdgeist.org/gitweb/opentracker/",
@@ -7422,7 +7441,7 @@
 			]
 		},
 		{
-			"ID": 395,
+			"ID": 396,
 			"N": "peerflix-server",
 			"D": "Downloads torrent files and provides a direct link download or a direct link stream.",
 			"Sr": "https://github.com/asapach/peerflix-server",
@@ -7440,7 +7459,7 @@
 			"update": "2018-12-15"
 		},
 		{
-			"ID": 396,
+			"ID": 397,
 			"N": "qBittorrent",
 			"D": "Free cross-platform bittorrent client with a feature rich Web UI for remote access.",
 			"Sr": "https://github.com/qbittorrent/qBittorrent/",
@@ -7456,10 +7475,10 @@
 				"P2P"
 			],
 			"stars": 5623,
-			"update": "2019-01-12"
+			"update": "2019-01-14"
 		},
 		{
-			"ID": 397,
+			"ID": 398,
 			"N": "rartracker",
 			"D": "Complete private bittorrent tracker.",
 			"Sr": "https://github.com/swetorrentking/rartracker",
@@ -7477,7 +7496,7 @@
 			"update": "2017-04-13"
 		},
 		{
-			"ID": 398,
+			"ID": 399,
 			"N": "Reep",
 			"D": "In-browser peer-to-peer file transfer and streaming made easy.",
 			"Sr": "https://github.com/KodeKraftwerk/reepio",
@@ -7496,7 +7515,7 @@
 			"update": "2017-06-07"
 		},
 		{
-			"ID": 399,
+			"ID": 400,
 			"N": "Transmission",
 			"D": "Fast, easy, Free Bittorrent client.",
 			"Sr": "https://github.com/transmission/transmission",
@@ -7515,7 +7534,7 @@
 			"update": "2018-12-26"
 		},
 		{
-			"ID": 400,
+			"ID": 401,
 			"N": "Minio",
 			"D": "Minio is an open source object storage server compatible with Amazon S3 APIs.",
 			"Sr": "https://github.com/minio/minio",
@@ -7530,11 +7549,11 @@
 				"File Sharing",
 				"Object Storage"
 			],
-			"stars": 14263,
+			"stars": 14266,
 			"update": "2019-01-11"
 		},
 		{
-			"ID": 401,
+			"ID": 402,
 			"N": "Zenko CloudServer",
 			"D": "Zenko CloudServer, an open-source Node.js implementation of a server handling the Amazon S3 protocol.",
 			"Sr": "https://github.com/scality/S3",
@@ -7553,7 +7572,7 @@
 			"update": "2019-01-12"
 		},
 		{
-			"ID": 402,
+			"ID": 403,
 			"N": "BoZoN",
 			"D": "Minimalist Drag and drop file sharing app.",
 			"Sr": "https://github.com/broncowdd/BoZoN",
@@ -7572,7 +7591,7 @@
 			"update": "2018-11-07"
 		},
 		{
-			"ID": 403,
+			"ID": 404,
 			"N": "Coquelicot",
 			"D": "Coquelicot is a “one-click” file sharing web application with a focus on protecting users’ privacy.",
 			"Sr": "https://coquelicot.potager.org/gitweb/?p=coquelicot.git",
@@ -7590,7 +7609,7 @@
 			]
 		},
 		{
-			"ID": 404,
+			"ID": 405,
 			"N": "droppy",
 			"D": "droppy is a self-hosted cloud server with an interface similar to desktop file managers and has capabilities to edit files on-the-fly as well as view and playback media directly in the browser.",
 			"Sr": "https://github.com/silverwind/droppy",
@@ -7610,7 +7629,7 @@
 			"update": "2018-12-23"
 		},
 		{
-			"ID": 405,
+			"ID": 406,
 			"N": "FileShelter",
 			"D": "FileShelter is a self-hosted software that allows you to easily share files over the Internet.",
 			"Sr": "https://github.com/epoupon/fileshelter",
@@ -7630,7 +7649,7 @@
 			"update": "2018-03-17"
 		},
 		{
-			"ID": 406,
+			"ID": 407,
 			"N": "Files Sharing",
 			"D": "Open Source and self-hosted files sharing application based on unique and temporary links.",
 			"Sr": "https://github.com/axeloz/filesharing",
@@ -7649,7 +7668,7 @@
 			"update": "2017-07-26"
 		},
 		{
-			"ID": 407,
+			"ID": 408,
 			"N": "img.bi",
 			"D": "img.bi is a secure image hosting. Images are encrypted using AES-256 with random key in browser before upload.",
 			"Sr": "https://github.com/imgbi/img.bi",
@@ -7668,7 +7687,7 @@
 			"update": "2016-01-15"
 		},
 		{
-			"ID": 408,
+			"ID": 409,
 			"N": "ipfs.pics",
 			"D": "ipfs.pics is a distributed image hosting website.",
 			"Sr": "https://github.com/ipfspics/server",
@@ -7687,7 +7706,7 @@
 			"update": "2018-11-09"
 		},
 		{
-			"ID": 409,
+			"ID": 410,
 			"N": "Jirafeau",
 			"D": "Jirafeau is a web site permitting to upload a file in a simple way and give an unique link to it.",
 			"Sr": "https://gitlab.com/mojo42/Jirafeau",
@@ -7707,7 +7726,7 @@
 			"update": "2018-12-20"
 		},
 		{
-			"ID": 410,
+			"ID": 411,
 			"N": "linx",
 			"D": "File sharing application and pastebin with API, auto-expiry, deletion keys, and web seed support.",
 			"Sr": "https://github.com/andreimarcu/linx-server",
@@ -7727,7 +7746,7 @@
 			"update": "2019-01-11"
 		},
 		{
-			"ID": 411,
+			"ID": 412,
 			"N": "lufi",
 			"D": "Let's Upload that FIle, client-side encrypted.",
 			"Sr": "https://git.framasoft.org/luc/lufi/tree/master",
@@ -7746,7 +7765,7 @@
 			]
 		},
 		{
-			"ID": 412,
+			"ID": 413,
 			"N": "lutim",
 			"D": "Let's Upload That Image.",
 			"Sr": "https://github.com/ldidry/lutim",
@@ -7765,7 +7784,7 @@
 			"update": "2018-11-18"
 		},
 		{
-			"ID": 413,
+			"ID": 414,
 			"N": "Nimbus",
 			"D": "Drag-and-drop shortlink file sharer for OS X.",
 			"Sr": "https://github.com/ethanal/nimbus",
@@ -7784,7 +7803,7 @@
 			"update": "2017-04-18"
 		},
 		{
-			"ID": 414,
+			"ID": 415,
 			"N": "OnionShare",
 			"D": "Securely and anonymously share a file of any size.",
 			"Sr": "https://github.com/micahflee/onionshare",
@@ -7803,7 +7822,7 @@
 			"update": "2018-12-28"
 		},
 		{
-			"ID": 415,
+			"ID": 416,
 			"N": "PictShare",
 			"D": "PictShare is a multi lingual, open source image hosting service with a simple resizing and upload API.",
 			"Sr": "https://github.com/chrisiaut/pictshare",
@@ -7824,7 +7843,7 @@
 			"update": "2019-01-12"
 		},
 		{
-			"ID": 416,
+			"ID": 417,
 			"N": "Plik",
 			"D": "Plik is a scalable and friendly temporary file upload system.",
 			"Sr": "https://github.com/root-gg/plik",
@@ -7844,7 +7863,7 @@
 			"update": "2018-11-30"
 		},
 		{
-			"ID": 417,
+			"ID": 418,
 			"N": "Pomf",
 			"D": "Simple file uploading and sharing, source for the now shut down site Pomf.se.",
 			"Sr": "https://github.com/Pomf/Pomf",
@@ -7863,7 +7882,7 @@
 			"update": "2017-02-15"
 		},
 		{
-			"ID": 418,
+			"ID": 419,
 			"N": "ProjectSend",
 			"D": "Upload files and assign them to specific clients you create. Give access to those files to your clients.",
 			"Sr": "https://github.com/ignacionelson/ProjectSend",
@@ -7883,7 +7902,7 @@
 			"update": "2018-12-26"
 		},
 		{
-			"ID": 419,
+			"ID": 420,
 			"N": "PsiTransfer",
 			"D": "Simple open source self-hosted file sharing solution with robust up-/download-resume and password protection.",
 			"Sr": "https://github.com/psi-4ward/psitransfer",
@@ -7902,7 +7921,7 @@
 			"update": "2018-12-14"
 		},
 		{
-			"ID": 420,
+			"ID": 421,
 			"N": "Sharry",
 			"D": "Share files easily over the internet between authenticated and anonymous users (both ways) with resumable up- and downloads.",
 			"Sr": "https://github.com/eikek/sharry",
@@ -7923,7 +7942,7 @@
 			"update": "2018-03-26"
 		},
 		{
-			"ID": 421,
+			"ID": 422,
 			"N": "Uguu",
 			"D": "Stores files and deletes after X amount of time.",
 			"Sr": "https://github.com/nokonoko/uguu",
@@ -7943,7 +7962,7 @@
 			"update": "2018-04-28"
 		},
 		{
-			"ID": 422,
+			"ID": 423,
 			"N": "Up1",
 			"D": "Client-side Encrypted Image Host.",
 			"Sr": "https://github.com/Upload/Up1",
@@ -7962,7 +7981,7 @@
 			"update": "2017-08-05"
 		},
 		{
-			"ID": 423,
+			"ID": 424,
 			"N": "uPste",
 			"D": "Private file hosting application with an emphasis on serving technology communities.",
 			"Sr": "https://github.com/TheReverend403/uPste",
@@ -7982,7 +8001,7 @@
 			"update": "2018-11-20"
 		},
 		{
-			"ID": 424,
+			"ID": 425,
 			"N": "YouTransfer",
 			"D": "YouTransfer is a simple but elegant self-hosted file transfer and sharing solution.",
 			"Sr": "https://github.com/remie/YouTransfer",
@@ -8003,7 +8022,7 @@
 			"update": "2018-10-07"
 		},
 		{
-			"ID": 425,
+			"ID": 426,
 			"N": "Beauties",
 			"D": "Minimalist file sharing written in Go, to be used primarily from Unix shell (e.g. with curl). Can be built as a Debian package for easy install.",
 			"Sr": "https://github.com/dsx/beauties",
@@ -8023,7 +8042,7 @@
 			"update": "2018-10-21"
 		},
 		{
-			"ID": 426,
+			"ID": 427,
 			"N": "transfer.sh",
 			"D": "Easy file sharing from the command line.",
 			"Sr": "https://github.com/dutchcoders/transfer.sh",
@@ -8040,11 +8059,11 @@
 				"Drag-n-Drop Upload",
 				"CMD line upload"
 			],
-			"stars": 7734,
+			"stars": 7735,
 			"update": "2018-12-20"
 		},
 		{
-			"ID": 427,
+			"ID": 428,
 			"N": "Apaxy",
 			"D": "Theme built to enhance the experience of browsing web directories, using the mod_autoindex Apache module and some CSS to override the default style of a directory listing.",
 			"Sr": "https://github.com/AdamWhitcroft/Apaxy",
@@ -8063,7 +8082,7 @@
 			"update": "2018-12-18"
 		},
 		{
-			"ID": 428,
+			"ID": 429,
 			"N": "DirectoryLister",
 			"D": "Simple PHP based directory lister that lists a directory and all it's sub-directories and allows you to navigate there within.",
 			"Sr": "https://github.com/DirectoryLister/DirectoryLister",
@@ -8082,7 +8101,7 @@
 			"update": "2018-05-17"
 		},
 		{
-			"ID": 429,
+			"ID": 430,
 			"N": "Encode Explorer",
 			"D": "Encode Explorer is a single page file browser, it is simple and functional.",
 			"Sr": "https://github.com/marekrei/encode-explorer",
@@ -8102,7 +8121,7 @@
 			"update": "2018-03-05"
 		},
 		{
-			"ID": 430,
+			"ID": 431,
 			"N": "explorer",
 			"D": "Highly-configurable directory listing made with nodejs.",
 			"Sr": "https://github.com/soyuka/explorer",
@@ -8121,7 +8140,7 @@
 			"update": "2018-02-14"
 		},
 		{
-			"ID": 431,
+			"ID": 432,
 			"N": "filebrowser",
 			"D": "Web File Manager which can be used as a middleware or standalone app.",
 			"Sr": "https://github.com/filebrowser/filebrowser",
@@ -8141,7 +8160,7 @@
 			"update": "2019-01-11"
 		},
 		{
-			"ID": 432,
+			"ID": 433,
 			"N": "goBrowser",
 			"D": "Simple http file browser.",
 			"Sr": "https://github.com/xataz/gobrowser",
@@ -8160,7 +8179,7 @@
 			"update": "2018-01-24"
 		},
 		{
-			"ID": 433,
+			"ID": 434,
 			"N": "h5ai",
 			"D": "Modern file indexer for HTTP web servers with focus on your files. Directories are displayed in a appealing way and browsing them is enhanced by different views, a breadcrumb and a tree overview.",
 			"Sr": "https://github.com/lrsjng/h5ai",
@@ -8180,7 +8199,7 @@
 			"update": "2016-08-13"
 		},
 		{
-			"ID": 434,
+			"ID": 435,
 			"N": "IFM",
 			"D": "Single script file manager.",
 			"Sr": "https://github.com/misterunknown/ifm/",
@@ -8198,7 +8217,7 @@
 			"update": "2019-01-08"
 		},
 		{
-			"ID": 435,
+			"ID": 436,
 			"N": "ResourceSpace",
 			"D": "ResourceSpace open source digital asset management software is the simple, fast, and free way to organise your digital assets.",
 			"Sr": "https://www.resourcespace.com/svn",
@@ -8216,7 +8235,7 @@
 			]
 		},
 		{
-			"ID": 436,
+			"ID": 437,
 			"N": "Sprut.io",
 			"D": "2 panel file manager with drag and drop features, code editor, text search, hotkeys.",
 			"Sr": "https://github.com/LTD-Beget/sprutio",
@@ -8236,7 +8255,7 @@
 			"update": "2017-10-17"
 		},
 		{
-			"ID": 437,
+			"ID": 438,
 			"N": "Surfer",
 			"D": "Simple static file server with webui to manage files.",
 			"Sr": "https://github.com/nebulade/surfer",
@@ -8254,7 +8273,7 @@
 			"update": "2017-08-09"
 		},
 		{
-			"ID": 438,
+			"ID": 439,
 			"N": "TagSpaces",
 			"D": "TagSpaces is an offline, cross-platform file manager and organiser that also can function as a note taking app. The WebDAV version of the application can be installed on top of a WebDAV servers such as Nextcloud or ownCloud.",
 			"Sr": "https://github.com/tagspaces/tagspaces",
@@ -8274,7 +8293,7 @@
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 439,
+			"ID": 440,
 			"N": "A Dark Room",
 			"D": "Minimalist text adventure game for your browser.",
 			"Sr": "https://github.com/doublespeakgames/adarkroom",
@@ -8292,7 +8311,7 @@
 			"update": "2018-09-19"
 		},
 		{
-			"ID": 440,
+			"ID": 441,
 			"N": "Agar.IO Clone",
 			"D": "Agar.io clone written with Socket.IO and HTML5 canvas.",
 			"Sr": "https://github.com/huytd/agar.io-clone",
@@ -8309,7 +8328,7 @@
 			"update": "2017-07-25"
 		},
 		{
-			"ID": 441,
+			"ID": 442,
 			"N": "battlecraft",
 			"D": "Fully distributed multiplayer browser game.",
 			"Sr": "https://github.com/jbreindel/battlecraft",
@@ -8327,7 +8346,7 @@
 			"update": "2018-09-20"
 		},
 		{
-			"ID": 442,
+			"ID": 443,
 			"N": "Clumsy Bird",
 			"D": "MelonJS port of the famous Flappy Bird Game.",
 			"Sr": "https://github.com/ellisonleao/clumsy-bird",
@@ -8345,7 +8364,7 @@
 			"update": "2017-06-16"
 		},
 		{
-			"ID": 443,
+			"ID": 444,
 			"N": "elevatorsaga",
 			"D": "The elevator programming game.",
 			"Sr": "https://github.com/magwo/elevatorsaga",
@@ -8363,7 +8382,7 @@
 			"update": "2015-07-21"
 		},
 		{
-			"ID": 444,
+			"ID": 445,
 			"N": "Hextris",
 			"D": "Fast paced HTML5 puzzle game inspired by Tetris.",
 			"Sr": "https://github.com/Hextris/hextris",
@@ -8381,7 +8400,7 @@
 			"update": "2018-12-06"
 		},
 		{
-			"ID": 445,
+			"ID": 446,
 			"N": "Lila",
 			"D": "The forever free, adless and open source chess server powering lichess.org, with official iOS and Android client apps.",
 			"Sr": "https://github.com/ornicar/lila",
@@ -8395,11 +8414,11 @@
 			"T": [
 				"Game"
 			],
-			"stars": 4970,
-			"update": "2019-01-12"
+			"stars": 4971,
+			"update": "2019-01-14"
 		},
 		{
-			"ID": 446,
+			"ID": 447,
 			"N": "Posio",
 			"D": "Geography multiplayer game.",
 			"Sr": "https://github.com/abrenaut/posio/",
@@ -8417,7 +8436,7 @@
 			"update": "2016-10-22"
 		},
 		{
-			"ID": 447,
+			"ID": 448,
 			"N": "SourceBans++",
 			"D": "Admin, ban, and communication management system for games running on the Source engine.",
 			"Sr": "https://github.com/sbpp/sourcebans-pp",
@@ -8435,7 +8454,7 @@
 			"update": "2019-01-08"
 		},
 		{
-			"ID": 448,
+			"ID": 449,
 			"N": "Spyfall",
 			"D": "Fan made web version of the Spyfall party game.",
 			"Sr": "https://github.com/mpcovcd/spyfall",
@@ -8454,7 +8473,7 @@
 			"update": "2018-07-25"
 		},
 		{
-			"ID": 449,
+			"ID": 450,
 			"N": "TournamentMango",
 			"D": "TournamentMango is an open source tournament bracket and user management system. You can build an archive of players and keep track of all their scores over time as well as their regular characters, games, and aliases.",
 			"Sr": "https://github.com/seiyria/tournamentmango",
@@ -8472,7 +8491,7 @@
 			"update": "2016-11-13"
 		},
 		{
-			"ID": 450,
+			"ID": 451,
 			"N": "GateOne",
 			"D": "Gate One is an HTML5 web-based terminal emulator and SSH client.",
 			"Sr": "https://github.com/liftoff/GateOne/",
@@ -8486,11 +8505,11 @@
 			"T": [
 				"Gateway"
 			],
-			"stars": 5254,
+			"stars": 5255,
 			"update": "2017-11-25"
 		},
 		{
-			"ID": 451,
+			"ID": 452,
 			"N": "Guacamole",
 			"D": "Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC and RDP.",
 			"Sr": "https://github.com/glyptodon/",
@@ -8507,7 +8526,7 @@
 			]
 		},
 		{
-			"ID": 452,
+			"ID": 453,
 			"N": "oneye",
 			"D": "Cloud software to access your data from everywhere with any browser.",
 			"Sr": "https://github.com/oneye/oneye",
@@ -8526,7 +8545,7 @@
 			"update": "2017-07-27"
 		},
 		{
-			"ID": 453,
+			"ID": 454,
 			"N": "OS.js",
 			"D": "Desktop implementation for your browser with a fully-fledged window manager, Application APIs, GUI toolkits and filesystem abstraction.",
 			"Sr": "https://github.com/os-js/OS.js",
@@ -8545,7 +8564,7 @@
 			"update": "2019-01-09"
 		},
 		{
-			"ID": 454,
+			"ID": 455,
 			"N": "Citadel",
 			"D": "Groupware including email, calendar/scheduling, address books, forums, mailing lists, IM, wiki and blog engines, RSS aggregation and more.",
 			"Sr": "http://www.citadel.org/doku.php/installation:source",
@@ -8561,7 +8580,7 @@
 			]
 		},
 		{
-			"ID": 455,
+			"ID": 456,
 			"N": "Cozy Cloud",
 			"D": "Personal cloud where you can read your emails or manage and sync your contact, files or calendars, with an app store full of community contributions.",
 			"Sr": "https://github.com/cozy",
@@ -8577,7 +8596,7 @@
 			]
 		},
 		{
-			"ID": 456,
+			"ID": 457,
 			"N": "egroupware",
 			"D": "Software suite including calendars, address books, notepad, project management tools, client relationship management tools (CRM), knowledge management tools, a wiki and a CMS.",
 			"Sr": "https://github.com/EGroupware/egroupware",
@@ -8595,7 +8614,7 @@
 			"update": "2019-01-12"
 		},
 		{
-			"ID": 457,
+			"ID": 458,
 			"N": "Horde",
 			"D": "The Horde Project is about creating high quality Open Source applications and libraries, based on PHP and the Horde Framework.",
 			"Sr": "https://github.com/horde/horde",
@@ -8614,7 +8633,7 @@
 			"update": "2017-10-03"
 		},
 		{
-			"ID": 458,
+			"ID": 459,
 			"N": "HRCloud2",
 			"D": "Full-featured home hosted Cloud Drive, Personal Assistant, App Launcher, File Converter, Streamer, Share Tool and more.",
 			"Sr": "https://github.com/zelon88/HRCloud2",
@@ -8632,7 +8651,7 @@
 			"update": "2019-01-06"
 		},
 		{
-			"ID": 459,
+			"ID": 460,
 			"N": "Kolab",
 			"D": "Kolab community is a unified communication and collaboration system.",
 			"Sr": "https://git.kolab.org/",
@@ -8652,7 +8671,7 @@
 			]
 		},
 		{
-			"ID": 460,
+			"ID": 461,
 			"N": "Kopano",
 			"D": "Groupware suite including e-mail, calendars, tasks, todos and notes. Featuring a modern WebApp, DeskApp and mobile access over Z-Push/ActiveSync.",
 			"Sr": "https://stash.kopano.io",
@@ -8671,7 +8690,7 @@
 			]
 		},
 		{
-			"ID": 461,
+			"ID": 462,
 			"N": "Openmeetings",
 			"D": "Openmeetings provides video conferencing, instant messaging, white board, collaborative document editing and other groupware tools using API functions of the Red5 Streaming Server for Remoting and Streaming.",
 			"Sr": "https://openmeetings.apache.org/scm.html",
@@ -8687,7 +8706,7 @@
 			]
 		},
 		{
-			"ID": 462,
+			"ID": 463,
 			"N": "SOGo",
 			"D": "SOGo offers multiple ways to access the calendaring and messaging data. CalDAV, CardDAV, GroupDAV, as well as ActiveSync, including native Outlook compatibility and Web interface.",
 			"Sr": "https://github.com/inverse-inc/sogo",
@@ -8702,11 +8721,11 @@
 			"T": [
 				"Groupware"
 			],
-			"stars": 703,
+			"stars": 704,
 			"update": "2019-01-12"
 		},
 		{
-			"ID": 463,
+			"ID": 464,
 			"N": "SuiteCRM",
 			"D": "The award-winning, enterprise-class open source CRM.",
 			"Sr": "https://github.com/salesagility/SuiteCRM",
@@ -8724,7 +8743,7 @@
 			"update": "2018-12-05"
 		},
 		{
-			"ID": 464,
+			"ID": 465,
 			"N": "Tine 2.0",
 			"D": "Contacts, Calendar, Tasks, WebDAV, ActiveSync, VOIP, Mail-Client, CRM, Sales, Projects, Timetracker.",
 			"Sr": "https://packages.tine20.com/maintenance/source/",
@@ -8742,7 +8761,7 @@
 			]
 		},
 		{
-			"ID": 465,
+			"ID": 466,
 			"N": "Zimbra Collaboration",
 			"D": "Email, calendar, collaboration server with Web interface and lots of integrations.",
 			"Sr": "https://github.com/zimbra",
@@ -8759,7 +8778,7 @@
 			]
 		},
 		{
-			"ID": 466,
+			"ID": 467,
 			"N": "admidio",
 			"D": "Admidio is a free open source user management system for websites of organizations and groups. The system has a flexible role model so that it’s possible to reflect the structure and permissions of your organization.",
 			"Sr": "https://github.com/Admidio/admidio",
@@ -8779,7 +8798,7 @@
 			"update": "2019-01-04"
 		},
 		{
-			"ID": 467,
+			"ID": 468,
 			"N": "IceHrm",
 			"D": "IceHrm employee management system allows companies to centralize confidential employee information.",
 			"Sr": "https://github.com/gamonoid/icehrm/",
@@ -8799,7 +8818,7 @@
 			"update": "2018-12-30"
 		},
 		{
-			"ID": 468,
+			"ID": 469,
 			"N": "OrangeHRM",
 			"D": "OrangeHRM is a comprehensive HRM system that captures all the essential functionalities required for any enterprise.",
 			"Sr": "https://sourceforge.net/projects/orangehrm/",
@@ -8816,7 +8835,7 @@
 			]
 		},
 		{
-			"ID": 469,
+			"ID": 470,
 			"N": "Sentrifugo",
 			"D": "Sentrifugo is a HRM system that can be easily configured to meet your organizational needs.",
 			"Sr": "https://github.com/sapplica/sentrifugo",
@@ -8835,7 +8854,7 @@
 			"update": "2017-04-17"
 		},
 		{
-			"ID": 470,
+			"ID": 471,
 			"N": "TimeOff.Management",
 			"D": "Simple yet powerful absence management software for small and medium size business.",
 			"Sr": "https://github.com/timeoff-management/application",
@@ -8855,7 +8874,7 @@
 			"update": "2019-01-07"
 		},
 		{
-			"ID": 471,
+			"ID": 472,
 			"N": "DeviceHive",
 			"D": "Open Source IoT Plaform with a wide range of integration options.",
 			"Sr": "https://github.com/devicehive/devicehive-java-server",
@@ -8875,7 +8894,7 @@
 			"update": "2018-05-25"
 		},
 		{
-			"ID": 472,
+			"ID": 473,
 			"N": "Domoticz",
 			"D": "Home Automation System that lets you monitor and configure various devices like: Lights, Switches, various sensors/meters like Temperature, Rain, Wind, UV, Electra, Gas, Water and much more.",
 			"Sr": "https://github.com/domoticz/domoticz",
@@ -8898,7 +8917,7 @@
 			"update": "2019-01-12"
 		},
 		{
-			"ID": 473,
+			"ID": 474,
 			"N": "Iotdashboard",
 			"D": "Fast Django server for IOT Devices.",
 			"Sr": "https://github.com/electrocoder/iotdashboard",
@@ -8917,7 +8936,7 @@
 			"update": "2017-08-22"
 		},
 		{
-			"ID": 474,
+			"ID": 475,
 			"N": "Thingsboard",
 			"D": "Open-source IoT Platform - Device management, data collection, processing and visualization.",
 			"Sr": "https://github.com/thingsboard/thingsboard",
@@ -8937,7 +8956,7 @@
 			"update": "2019-01-11"
 		},
 		{
-			"ID": 475,
+			"ID": 476,
 			"N": "Thingspeak",
 			"D": "Open source “Internet of Things” application and API to store and retrieve data from things using HTTP.",
 			"Sr": "https://github.com/iobridge/thingspeak",
@@ -8957,7 +8976,7 @@
 			"update": "2015-07-09"
 		},
 		{
-			"ID": 476,
+			"ID": 477,
 			"N": "Canvas LMS",
 			"D": "Canvas is the trusted, open-source learning management system (LMS) that is revolutionizing the way we educate.",
 			"Sr": "https://github.com/instructure/canvas-lms",
@@ -8978,7 +8997,7 @@
 			"update": "2019-01-12"
 		},
 		{
-			"ID": 477,
+			"ID": 478,
 			"N": "Chamilo LMS",
 			"D": "Chamilo LMS allows you to create a virtual campus for the provision of online or semi-online training.",
 			"Sr": "https://github.com/chamilo/chamilo-lms",
@@ -8998,7 +9017,7 @@
 			"update": "2019-01-11"
 		},
 		{
-			"ID": 478,
+			"ID": 479,
 			"N": "edX",
 			"D": "The Open edX platform is open-source code that powers [edX.org](https://www.edx.org/).",
 			"Sr": "https://github.com/edx/",
@@ -9016,7 +9035,7 @@
 			]
 		},
 		{
-			"ID": 479,
+			"ID": 480,
 			"N": "ILIAS",
 			"D": "ILIAS is the Learning Management System that can cope with anything you throw at it.",
 			"Sr": "https://github.com/ILIAS-eLearning/ILIAS",
@@ -9037,7 +9056,7 @@
 			"update": "2019-01-11"
 		},
 		{
-			"ID": 480,
+			"ID": 481,
 			"N": "lxHive",
 			"D": "Open Source ExperienceAPI compliant Learning Record Store (LRS) - previously code-named TinCanAPI.",
 			"Sr": "https://github.com/Brightcookie/lxHive",
@@ -9057,7 +9076,7 @@
 			"update": "2018-12-04"
 		},
 		{
-			"ID": 481,
+			"ID": 482,
 			"N": "Mahara",
 			"D": "Open Source fully featured web application to build students electronic portfolio.",
 			"Sr": "https://github.com/MaharaProject/mahara",
@@ -9077,7 +9096,7 @@
 			"update": "2019-01-11"
 		},
 		{
-			"ID": 482,
+			"ID": 483,
 			"N": "Moodle",
 			"D": "Moodle is a learning and courses platform with one of the largest open source communities worldwide.",
 			"Sr": "https://git.moodle.org/gw",
@@ -9096,7 +9115,7 @@
 			]
 		},
 		{
-			"ID": 483,
+			"ID": 484,
 			"N": "Open eClass",
 			"D": "Open eClass is an advanced e-learning solution that can enhance the teaching and learning process.",
 			"Sr": "https://github.com/gunet/openeclass",
@@ -9117,7 +9136,7 @@
 			"update": "2019-01-07"
 		},
 		{
-			"ID": 484,
+			"ID": 485,
 			"N": "RELATE",
 			"D": "RELATE is a web-based courseware package, includes features such as: flexible rules, statistics, multi-course support, class calendar.",
 			"Sr": "https://github.com/inducer/relate/",
@@ -9137,7 +9156,7 @@
 			"update": "2018-11-11"
 		},
 		{
-			"ID": 485,
+			"ID": 486,
 			"N": "Sakai",
 			"D": "The Sakai project provides a flexible and feature-rich environment for teaching, learning, research and other collaboration.",
 			"Sr": "https://github.com/sakaiproject/sakai",
@@ -9158,7 +9177,7 @@
 			"update": "2019-01-12"
 		},
 		{
-			"ID": 486,
+			"ID": 487,
 			"N": "SchoolTool",
 			"D": "SchoolTool is free administrative software for schools. It includes demographics, gradebook, attendance, calendaring, reporting and more for primary and secondary schools.",
 			"Sr": "http://bazaar.launchpad.net/~schooltool-owners/schooltool/2.8/files",
@@ -9176,7 +9195,7 @@
 			]
 		},
 		{
-			"ID": 487,
+			"ID": 488,
 			"N": "Graphhopper",
 			"D": "Fast routing library and server using OpenStreetMap.",
 			"Sr": "https://github.com/graphhopper/graphhopper",
@@ -9195,7 +9214,7 @@
 			"update": "2019-01-11"
 		},
 		{
-			"ID": 488,
+			"ID": 489,
 			"N": "MapBBCodeShare",
 			"D": "Tool for sharing custom OSM maps. Support for annotated markers, polygons, lines, multi-format import/export, multiple layers, shortlinks.",
 			"Sr": "https://github.com/MapBBCode/share.mapbbcode.org",
@@ -9215,7 +9234,7 @@
 			"update": "2018-06-26"
 		},
 		{
-			"ID": 489,
+			"ID": 490,
 			"N": "OpenGTS",
 			"D": "Entry-level fleet tracking system. Supports variety of tracking devices and protocols. Comes with rich web-interface and reporting features.",
 			"Sr": "https://sourceforge.net/projects/opengts/files/server-base/",
@@ -9233,7 +9252,7 @@
 			]
 		},
 		{
-			"ID": 490,
+			"ID": 491,
 			"N": "OpenStreetMap",
 			"D": "OpenStreetMap is a map of the world, created by people like you and free to use under an open license.",
 			"Sr": "https://github.com/openstreetmap/openstreetmap-website",
@@ -9252,7 +9271,7 @@
 			"update": "2019-01-10"
 		},
 		{
-			"ID": 491,
+			"ID": 492,
 			"N": "Orion",
 			"D": "Powerful OwnTracks API-compliant location data visualization frontend for the web.",
 			"Sr": "https://github.com/LINKIWI/orion-web",
@@ -9272,7 +9291,7 @@
 			"update": "2018-12-27"
 		},
 		{
-			"ID": 492,
+			"ID": 493,
 			"N": "OwnTracks Recorder",
 			"D": "Store and access data published by [OwnTracks](http://owntracks.org/) location tracking apps.",
 			"Sr": "https://github.com/owntracks/recorder",
@@ -9291,7 +9310,7 @@
 			"update": "2019-01-11"
 		},
 		{
-			"ID": 493,
+			"ID": 494,
 			"N": "TileServer GL",
 			"D": "Vector and raster maps with GL styles. Server side rendering by Mapbox GL Native. Map tile server for Mapbox GL JS, Android, iOS, Leaflet, OpenLayers, GIS via WMTS, etc.",
 			"Sr": "https://github.com/klokantech/tileserver-gl",
@@ -9310,7 +9329,7 @@
 			"update": "2019-01-07"
 		},
 		{
-			"ID": 494,
+			"ID": 495,
 			"N": "TileServer PHP",
 			"D": "Serve map tiles from any PHP hosting.",
 			"Sr": "https://github.com/klokantech/tileserver-php",
@@ -9328,7 +9347,7 @@
 			"update": "2019-01-07"
 		},
 		{
-			"ID": 495,
+			"ID": 496,
 			"N": "Traccar",
 			"D": "Java application to track GPS positions. Supports loads of tracking devices and protocols, has an Android and iOS App. Has a web interface to view your trips.",
 			"Sr": "https://github.com/tananaev?tab=repositories",
@@ -9346,7 +9365,7 @@
 			]
 		},
 		{
-			"ID": 496,
+			"ID": 497,
 			"N": "uMap",
 			"D": "Create maps with OpenStreetMap layers in a minute and embed them in your site.",
 			"Sr": "https://github.com/umap-project/umap",
@@ -9365,7 +9384,7 @@
 			"update": "2018-11-15"
 		},
 		{
-			"ID": 497,
+			"ID": 498,
 			"N": "Darwin Streaming Server",
 			"D": "High performance server for streaming QuickTime and MPEG-4 media over RTP and RTSP protocols. Originated as Apple’s QTSS.",
 			"Sr": "https://github.com/macosforge/dss",
@@ -9385,7 +9404,7 @@
 			"update": "2016-08-30"
 		},
 		{
-			"ID": 498,
+			"ID": 499,
 			"N": "Flumotion",
 			"D": "Streaming media server with intuitive graphical administration tools.",
 			"Sr": "https://github.com/Flumotion/flumotion",
@@ -9405,7 +9424,7 @@
 			"update": "2015-06-28"
 		},
 		{
-			"ID": 499,
+			"ID": 500,
 			"N": "homehost",
 			"D": "Self-hosted React + Redux app that streams your media collection (music, movies, books, podcasts, comics etc).",
 			"Sr": "https://github.com/ridhwaans/homehost",
@@ -9425,7 +9444,7 @@
 			"update": "2018-08-02"
 		},
 		{
-			"ID": 500,
+			"ID": 501,
 			"N": "Icecast 2",
 			"D": "streaming audio/video server which can be used to create an Internet radio station or a privately running jukebox and many things in between.",
 			"Sr": "https://git.xiph.org/?p=icecast-server.git;a=summary",
@@ -9446,7 +9465,7 @@
 			]
 		},
 		{
-			"ID": 501,
+			"ID": 502,
 			"N": "Jellyfin",
 			"D": "Streaming audio/video server with a slick UI and robust transcoding capabilities (fork of Emby).",
 			"Sr": "https://github.com/jellyfin/jellyfin",
@@ -9466,7 +9485,7 @@
 			"update": "2019-01-12"
 		},
 		{
-			"ID": 502,
+			"ID": 503,
 			"N": "MistServer",
 			"D": "Streaming media server that works well in any streaming environment.",
 			"Sr": "https://github.com/DDVTECH/mistserver",
@@ -9486,7 +9505,7 @@
 			"update": "2018-11-28"
 		},
 		{
-			"ID": 503,
+			"ID": 504,
 			"N": "ReadyMedia",
 			"D": "Simple media server software, with the aim of being fully compliant with DLNA/UPnP-AV clients. Formerly known as MiniDLNA.",
 			"Sr": "https://sourceforge.net/p/minidlna/git/ci/master/tree/",
@@ -9504,7 +9523,7 @@
 			]
 		},
 		{
-			"ID": 504,
+			"ID": 505,
 			"N": "Rygel",
 			"D": "Rygel is a UPnP AV MediaServer that allows you to easily share audio, video, and pictures. Media player software may use Rygel to become a MediaRenderer that may be controlled remotely by a UPnP or DLNA Controller.",
 			"Sr": "https://gitlab.gnome.org/GNOME/rygel/",
@@ -9522,7 +9541,7 @@
 			]
 		},
 		{
-			"ID": 505,
+			"ID": 506,
 			"N": "üWave",
 			"D": "üWave is a self-hosted collaborative listening platform. Users take turns playing media—songs, talks, gameplay videos, or anything else—from a variety of media sources like YouTube and SoundCloud.",
 			"Sr": "https://github.com/u-wave",
@@ -9542,7 +9561,7 @@
 			"P": true
 		},
 		{
-			"ID": 506,
+			"ID": 507,
 			"N": "Ampache",
 			"D": "Web based audio/video streaming application.",
 			"Sr": "https://github.com/ampache/ampache",
@@ -9563,7 +9582,7 @@
 			"update": "2018-12-07"
 		},
 		{
-			"ID": 507,
+			"ID": 508,
 			"N": "Airsonic",
 			"D": "Open-source web-based media streamer and jukebox. A fork of Subsonic's last open-source release, before it switched licenses.",
 			"Sr": "https://github.com/airsonic/airsonic",
@@ -9586,7 +9605,7 @@
 			"update": "2019-01-10"
 		},
 		{
-			"ID": 508,
+			"ID": 509,
 			"N": "AzuraCast",
 			"D": "A modern and accessible self-hosted web radio management suite.",
 			"Sr": "https://github.com/AzuraCast/AzuraCast",
@@ -9606,7 +9625,7 @@
 			"update": "2019-01-10"
 		},
 		{
-			"ID": 509,
+			"ID": 510,
 			"N": "Beets",
 			"D": "Music library manager and MusicBrainz tagger (command-line and Web interface).",
 			"Sr": "https://github.com/beetbox/beets",
@@ -9626,7 +9645,7 @@
 			"update": "2019-01-12"
 		},
 		{
-			"ID": 510,
+			"ID": 511,
 			"N": "CherryMusic",
 			"D": "Minimalistic Web-Mediaplayer.",
 			"Sr": "https://github.com/devsnd/cherrymusic",
@@ -9646,7 +9665,7 @@
 			"update": "2018-02-07"
 		},
 		{
-			"ID": 511,
+			"ID": 512,
 			"N": "cloudtunes",
 			"D": "Web-based music player for the cloud.",
 			"Sr": "https://github.com/jkbrzt/cloudtunes",
@@ -9666,7 +9685,7 @@
 			"update": "2018-03-20"
 		},
 		{
-			"ID": 512,
+			"ID": 513,
 			"N": "Compactd",
 			"D": "Remote music player that supports adding content.",
 			"Sr": "https://github.com/compactd/compactd",
@@ -9685,7 +9704,7 @@
 			"update": "2018-05-25"
 		},
 		{
-			"ID": 513,
+			"ID": 514,
 			"N": "FriendsRadio",
 			"D": "Share music with your friends from Youtube and Soundcloud.",
 			"Sr": "https://github.com/xouabita/friends-radio",
@@ -9706,7 +9725,7 @@
 			"update": "2017-10-09"
 		},
 		{
-			"ID": 514,
+			"ID": 515,
 			"N": "Funkwhale",
 			"D": "A modern, web-based, convivial, multi-user and free music server.",
 			"Sr": "https://code.eliotberriot.com/funkwhale/funkwhale",
@@ -9726,7 +9745,7 @@
 			]
 		},
 		{
-			"ID": 515,
+			"ID": 516,
 			"N": "GNU FM",
 			"D": "Running music community websites, alternative to last.fm.",
 			"Sr": "http://git.savannah.gnu.org/cgit/librefm.git/",
@@ -9744,7 +9763,7 @@
 			]
 		},
 		{
-			"ID": 516,
+			"ID": 517,
 			"N": "Groove Basin",
 			"D": "Music player server with a web-based user interface inspired by Amarok 1.4.",
 			"Sr": "https://github.com/andrewrk/groovebasin",
@@ -9763,7 +9782,7 @@
 			"update": "2018-07-07"
 		},
 		{
-			"ID": 517,
+			"ID": 518,
 			"N": "Icecast 2",
 			"D": "streaming audio/video server which can be used to create an Internet radio station or a privately running jukebox and many things in between.",
 			"Sr": "https://git.xiph.org/?p=icecast-server.git;a=summary",
@@ -9781,7 +9800,7 @@
 			]
 		},
 		{
-			"ID": 518,
+			"ID": 519,
 			"N": "koel",
 			"D": "Personal music streaming server that works.",
 			"Sr": "https://github.com/phanan/koel",
@@ -9801,7 +9820,7 @@
 			"update": "2019-01-10"
 		},
 		{
-			"ID": 519,
+			"ID": 520,
 			"N": "LibreTime",
 			"D": "Simple, open source platform that lets you broadcast streaming radio on the web (fork of [Airtime](https://github.com/sourcefabric/Airtime)).",
 			"Sr": "https://github.com/LibreTime/libretime",
@@ -9817,11 +9836,11 @@
 				"Streaming",
 				"Audio"
 			],
-			"stars": 171,
+			"stars": 172,
 			"update": "2019-01-12"
 		},
 		{
-			"ID": 520,
+			"ID": 521,
 			"N": "LMS",
 			"D": "Access your self-hosted music using a web interface.",
 			"Sr": "https://github.com/epoupon/lms",
@@ -9841,7 +9860,7 @@
 			"update": "2018-11-29"
 		},
 		{
-			"ID": 521,
+			"ID": 522,
 			"N": "Mopidy",
 			"D": "Extensible music server. Offers a superset of the mpd API, as well as integration with 3rd party services like Spotify, SoundCloud etc.",
 			"Sr": "https://github.com/mopidy/mopidy",
@@ -9861,7 +9880,7 @@
 			"update": "2018-12-29"
 		},
 		{
-			"ID": 522,
+			"ID": 523,
 			"N": "Moped",
 			"D": "Responsive HTML5 + Javascript client for the Mopidy music server.",
 			"Sr": "https://github.com/martijnboland/moped",
@@ -9880,7 +9899,7 @@
 			"update": "2017-05-21"
 		},
 		{
-			"ID": 523,
+			"ID": 524,
 			"N": "Mopidy MusicBox",
 			"D": "Web Client for Mopidy Music Server.",
 			"Sr": "https://github.com/pimusicbox/mopidy-musicbox-webclient",
@@ -9899,7 +9918,7 @@
 			"update": "2018-05-21"
 		},
 		{
-			"ID": 524,
+			"ID": 525,
 			"N": "Mopidy-Party",
 			"D": "Mopidy web extension designed for party! Let your guests manage the sound.",
 			"Sr": "https://github.com/Lesterpig/mopidy-party",
@@ -9918,7 +9937,7 @@
 			"update": "2018-10-17"
 		},
 		{
-			"ID": 525,
+			"ID": 526,
 			"N": "mpd",
 			"D": "Daemon to remotely play music, stream music, handle and organize playlists. Many clients available.",
 			"Sr": "https://github.com/MusicPlayerDaemon/MPD",
@@ -9938,7 +9957,7 @@
 			"update": "2019-01-04"
 		},
 		{
-			"ID": 526,
+			"ID": 527,
 			"N": "ympd",
 			"D": "Standalone MPD Web GUI written in C, utilizing Websockets and Bootstrap/JS.",
 			"Sr": "https://github.com/notandy/ympd",
@@ -9958,7 +9977,7 @@
 			"update": "2018-03-29"
 		},
 		{
-			"ID": 527,
+			"ID": 528,
 			"N": "mStream",
 			"D": "Music streaming server with GUI management tools. Runs on Mac, Windows, and Linux.",
 			"Sr": "https://github.com/IrosTheBeggar/mStream",
@@ -9979,7 +9998,7 @@
 			"update": "2019-01-04"
 		},
 		{
-			"ID": 528,
+			"ID": 529,
 			"N": "Music Browser",
 			"D": "Browser and streamer for your music collection. It is runs on most operating systems, and is light enough to run flawlessly on NAS devices.",
 			"Sr": "https://github.com/henrik242/musicbrowser",
@@ -9998,7 +10017,7 @@
 			"update": "2014-01-20"
 		},
 		{
-			"ID": 529,
+			"ID": 530,
 			"N": "musikcube",
 			"D": "Streaming audio server with Linux/macOS/Windows/Android clients.",
 			"Sr": "https://github.com/clangen/musikcube",
@@ -10018,7 +10037,26 @@
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 530,
+			"ID": 531,
+			"N": "Polaris",
+			"D": "Music browsing and streaming application optimized for large music collections, ease of use and high performance.",
+			"Sr": "https://github.com/agersant/polaris/",
+			"Li": [
+				"MIT"
+			],
+			"La": [
+				"Rust"
+			],
+			"T": [
+				"Media",
+				"Streaming",
+				"Audio"
+			],
+			"stars": 61,
+			"update": "2018-11-04"
+		},
+		{
+			"ID": 532,
 			"N": "Sonerezh",
 			"D": "Self-hosted, web-based application for stream your music, everywhere.",
 			"Sr": "https://github.com/sonerezh/sonerezh",
@@ -10039,7 +10077,7 @@
 			"update": "2018-12-03"
 		},
 		{
-			"ID": 531,
+			"ID": 533,
 			"N": "Volumio",
 			"D": "A free and open source linux distribution, designed and fine-tuned exclusively for music playback.",
 			"Sr": "https://github.com/volumio/Volumio2",
@@ -10059,7 +10097,7 @@
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 532,
+			"ID": 534,
 			"N": "crtmpserver",
 			"D": "High performance RTMP/RTSP streaming server.",
 			"Sr": "https://packages.debian.org/stable/crtmpserver",
@@ -10076,7 +10114,7 @@
 			]
 		},
 		{
-			"ID": 533,
+			"ID": 535,
 			"N": "CyTube",
 			"D": "CyTube is a web application providing media synchronization, chat, and more for an arbitrary number of channels.",
 			"Sr": "https://github.com/calzoneman/sync",
@@ -10096,7 +10134,7 @@
 			"update": "2018-12-29"
 		},
 		{
-			"ID": 534,
+			"ID": 536,
 			"N": "Hellowlol HTPC Manager fork",
 			"D": "Fully responsive interface to manage all your favorite media on your HTPC.",
 			"Sr": "https://github.com/styxit/HTPC-Manager",
@@ -10116,7 +10154,7 @@
 			"update": "2017-08-21"
 		},
 		{
-			"ID": 535,
+			"ID": 537,
 			"N": "Icecast 2",
 			"D": "streaming audio/video server which can be used to create an Internet radio station or a privately running jukebox and many things in between.",
 			"Sr": "https://git.xiph.org/?p=icecast-server.git;a=summary",
@@ -10137,7 +10175,7 @@
 			]
 		},
 		{
-			"ID": 536,
+			"ID": 538,
 			"N": "MistServer",
 			"D": "Streaming media server that works well in any streaming environment.",
 			"Sr": "https://github.com/DDVTECH/mistserver",
@@ -10157,7 +10195,7 @@
 			"update": "2018-11-28"
 		},
 		{
-			"ID": 537,
+			"ID": 539,
 			"N": "Myflix",
 			"D": "Self-hosted, super lightweight Netflix alternative.",
 			"Sr": "https://github.com/pastapojken/Myflix",
@@ -10176,7 +10214,7 @@
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 538,
+			"ID": 540,
 			"N": "Odd Networks",
 			"D": "Open source video management system (VMS) and API for collections and videos with supporting SDKs for Roku, Apple iOS/tvOS, Google Android, and Amazon FireTV.",
 			"Sr": "https://github.com/oddnetworks/oddworks",
@@ -10196,7 +10234,7 @@
 			"update": "2018-06-18"
 		},
 		{
-			"ID": 539,
+			"ID": 541,
 			"N": "PeerTube",
 			"D": "Decentralized video streaming platform using P2P (BitTorrent) directly in the web browser.",
 			"Sr": "https://github.com/Chocobozzz/PeerTube",
@@ -10216,7 +10254,7 @@
 			"update": "2019-01-10"
 		},
 		{
-			"ID": 540,
+			"ID": 542,
 			"N": "Restreamer",
 			"D": "Restreamer allows you to do h.264 real-time video streaming on your website without a streaming provider.",
 			"Sr": "https://github.com/datarhei/restreamer",
@@ -10237,7 +10275,7 @@
 			"update": "2019-01-01"
 		},
 		{
-			"ID": 541,
+			"ID": 543,
 			"N": "Shinobi",
 			"D": "Open Source CCTV software written in Node with both IP and local camera support.",
 			"Sr": "https://github.com/moeiscool/Shinobi",
@@ -10257,7 +10295,7 @@
 			"update": "2018-06-11"
 		},
 		{
-			"ID": 542,
+			"ID": 544,
 			"N": "Streama",
 			"D": "Self hosted streaming media server.",
 			"Sr": "https://github.com/streamaserver/streama",
@@ -10277,7 +10315,7 @@
 			"update": "2018-12-22"
 		},
 		{
-			"ID": 543,
+			"ID": 545,
 			"N": "VideoLAN Client (VLC)",
 			"D": "Cross-platform multimedia player client and server supporting most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.",
 			"Sr": "https://github.com/videolan/vlc",
@@ -10297,7 +10335,7 @@
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 544,
+			"ID": 546,
 			"N": "Zoneminder",
 			"D": "Closed-circuit television (CCTV) software application which supports IP, USB and Analog cameras.",
 			"Sr": "https://github.com/ZoneMinder/ZoneMinder",
@@ -10317,7 +10355,7 @@
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 545,
+			"ID": 547,
 			"N": "411",
 			"D": "Alert Management Web Application.",
 			"Sr": "https://github.com/etsy/411",
@@ -10336,7 +10374,7 @@
 			"update": "2019-01-02"
 		},
 		{
-			"ID": 546,
+			"ID": 548,
 			"N": "AlertHub",
 			"D": "AlertHub is a simple tool to get alerted from GitHub releases.",
 			"Sr": "https://github.com/Ardakilic/alerthub",
@@ -10355,7 +10393,7 @@
 			"update": "2018-11-28"
 		},
 		{
-			"ID": 547,
+			"ID": 549,
 			"N": "Anchr",
 			"D": "Anchr is a toolbox for tiny tasks on the internet, including bookmark collections, URL shortening and (encrypted) image uploads.",
 			"Sr": "https://github.com/n1try/anchr",
@@ -10374,7 +10412,7 @@
 			"update": "2018-06-23"
 		},
 		{
-			"ID": 548,
+			"ID": 550,
 			"N": "Anuko",
 			"D": "Anuko provides simple time and project tracking on a selfhosted basis.",
 			"Sr": "https://github.com/anuko/timetracker",
@@ -10394,7 +10432,7 @@
 			"update": "2019-01-09"
 		},
 		{
-			"ID": 549,
+			"ID": 551,
 			"N": "asciiflow",
 			"D": "Flow Diagram Drawing Tool.",
 			"Sr": "https://github.com/lewish/asciiflow2",
@@ -10414,7 +10452,7 @@
 			"update": "2018-03-16"
 		},
 		{
-			"ID": 550,
+			"ID": 552,
 			"N": "blynk",
 			"D": "Platform with iOs and Android apps to control Arduino, ESP8266, Raspberry Pi and similar microcontroller boards over the Internet.",
 			"Sr": "https://github.com/blynkkk/blynk-server",
@@ -10433,7 +10471,7 @@
 			"update": "2019-01-07"
 		},
 		{
-			"ID": 551,
+			"ID": 553,
 			"N": "CUPS",
 			"D": "The Common Unix Print System uses Internet Printing Protocol (IPP) to support printing to local and network printers.",
 			"Sr": "https://github.com/apple/cups",
@@ -10452,7 +10490,7 @@
 			"update": "2019-01-10"
 		},
 		{
-			"ID": 552,
+			"ID": 554,
 			"N": "DomainMOD",
 			"D": "Application to manage your domains and other internet assets in a central location. DomainMOD includes a Data Warehouse framework that allows you to import your WHM/cPanel web server data so that you can view, export, and report on your data.",
 			"Sr": "https://github.com/domainmod/domainmod",
@@ -10472,7 +10510,7 @@
 			"update": "2018-09-12"
 		},
 		{
-			"ID": 553,
+			"ID": 555,
 			"N": "EasyBook Project",
 			"D": "Book publishing as easy as it should be.",
 			"Sr": "https://github.com/javiereguiluz/easybook",
@@ -10491,7 +10529,7 @@
 			"update": "2016-06-13"
 		},
 		{
-			"ID": 554,
+			"ID": 556,
 			"N": "Flox",
 			"D": "Self hosted movie, TV series and anime watch list with a 3-point rating system. Uses The Movie Database backend for information.",
 			"Sr": "https://github.com/devfake/flox",
@@ -10511,7 +10549,7 @@
 			"update": "2018-02-20"
 		},
 		{
-			"ID": 555,
+			"ID": 557,
 			"N": "formspree",
 			"D": "Just send your form to our URL and we'll forward it to your email. No PHP, Javascript or sign up required.",
 			"Sr": "https://github.com/formspree/formspree",
@@ -10528,11 +10566,11 @@
 				"Other"
 			],
 			"P": true,
-			"stars": 2404,
+			"stars": 2405,
 			"update": "2018-12-04"
 		},
 		{
-			"ID": 556,
+			"ID": 558,
 			"N": "GeneWeb",
 			"D": "GeneWeb is an open source genealogy software written in OCaml. It comes with a Web interface and can be used off-line or as a Web service.",
 			"Sr": "https://github.com/geneweb/geneweb",
@@ -10552,7 +10590,7 @@
 			"update": "2019-01-03"
 		},
 		{
-			"ID": 557,
+			"ID": 559,
 			"N": "How Secure Is My Password",
 			"D": "Rather than just saying a password is \"weak\" or \"strong\", How Secure is My Password? lets your users know how long it would take someone to crack their password.",
 			"Sr": "https://github.com/howsecureismypassword/hsimp",
@@ -10571,7 +10609,7 @@
 			"update": "2018-06-26"
 		},
 		{
-			"ID": 558,
+			"ID": 560,
 			"N": "google-webfonts-helper",
 			"D": "Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets.",
 			"Sr": "https://github.com/majodev/google-webfonts-helper",
@@ -10587,11 +10625,11 @@
 				"Other"
 			],
 			"P": true,
-			"stars": 4348,
+			"stars": 4349,
 			"update": "2017-11-20"
 		},
 		{
-			"ID": 559,
+			"ID": 561,
 			"N": "ytdl-webserver",
 			"D": "Docker-ready webserver for downloading youtube videos.",
 			"Sr": "https://github.com/Algram/ytdl-webserver",
@@ -10609,7 +10647,7 @@
 			"update": "2018-10-31"
 		},
 		{
-			"ID": 560,
+			"ID": 562,
 			"N": "Kimai",
 			"D": "Simple time and project tracking.",
 			"Sr": "https://github.com/kimai/kimai",
@@ -10629,7 +10667,7 @@
 			"update": "2018-11-04"
 		},
 		{
-			"ID": 561,
+			"ID": 563,
 			"N": "King Phisher",
 			"D": "King Phisher is a tool for testing and promoting user awareness by simulating real world phishing attacks.",
 			"Sr": "https://github.com/securestate/king-phisher",
@@ -10647,7 +10685,7 @@
 			"update": "2018-12-07"
 		},
 		{
-			"ID": 562,
+			"ID": 564,
 			"N": "Maily Form",
 			"D": "Self-hosted service you can use to place forms on static sites. It uses nodemailer and you can host it with Docker.",
 			"Sr": "https://github.com/jlelse/Maily-Form",
@@ -10666,7 +10704,7 @@
 			"update": "2018-12-27"
 		},
 		{
-			"ID": 563,
+			"ID": 565,
 			"N": "Mindmaps",
 			"D": "Open source, offline capable, mind mapping application.",
 			"Sr": "https://github.com/drichard/mindmaps",
@@ -10685,7 +10723,7 @@
 			"update": "2018-06-17"
 		},
 		{
-			"ID": 564,
+			"ID": 566,
 			"N": "Monica",
 			"D": "Personal relationship manager, and a new kind of CRM to organize interactions with your friends and family.",
 			"Sr": "https://github.com/monicahq/monica",
@@ -10704,7 +10742,7 @@
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 565,
+			"ID": 567,
 			"N": "Musical Artifacts",
 			"D": "Helping to catalog, preserve and free the artifacts you need to produce music.",
 			"Sr": "https://github.com/lfzawacki/musical-artifacts",
@@ -10723,7 +10761,7 @@
 			"update": "2018-11-26"
 		},
 		{
-			"ID": 566,
+			"ID": 568,
 			"N": "My Mind",
 			"D": "Web application for creating and managing mind maps.",
 			"Sr": "https://github.com/ondras/my-mind",
@@ -10742,7 +10780,7 @@
 			"update": "2018-10-31"
 		},
 		{
-			"ID": 567,
+			"ID": 569,
 			"N": "nnmm",
 			"D": "Super tiny pastebin/url minifier \"microservice\".",
 			"Sr": "https://github.com/Mechazawa/nnmm",
@@ -10761,7 +10799,7 @@
 			"update": "2018-01-19"
 		},
 		{
-			"ID": 568,
+			"ID": 570,
 			"N": "Notica",
 			"D": "Lets you send browser notifications from your terminal to your desktop or phone. No installation or registration is required.",
 			"Sr": "https://github.com/tannercollin/Notica",
@@ -10780,7 +10818,7 @@
 			"update": "2018-10-29"
 		},
 		{
-			"ID": 569,
+			"ID": 571,
 			"N": "Ombi",
 			"D": "A content request system for Plex/Emby, connects to SickRage, CouchPotato, Sonarr, with a growing feature set.",
 			"Sr": "https://github.com/tidusjar/Ombi",
@@ -10800,7 +10838,7 @@
 			"update": "2019-01-10"
 		},
 		{
-			"ID": 570,
+			"ID": 572,
 			"N": "revealjs",
 			"D": "Framework for easily creating beautiful presentations using HTML.",
 			"Sr": "https://github.com/hakimel/reveal.js",
@@ -10816,11 +10854,11 @@
 				"Misc",
 				"Other"
 			],
-			"stars": 44156,
+			"stars": 44161,
 			"update": "2018-12-12"
 		},
 		{
-			"ID": 571,
+			"ID": 573,
 			"N": "SANE Network Scanning",
 			"D": "Allow remote clients to access image acquisition devices (scanners) available on the local host.",
 			"Sr": "http://www.sane-project.org/cvs.html",
@@ -10837,7 +10875,7 @@
 			]
 		},
 		{
-			"ID": 572,
+			"ID": 574,
 			"N": "Trello Burndown",
 			"D": "Easy to use SCRUM burndown chart for Trello boards.",
 			"Sr": "https://github.com/swordbeta/trello-burndown",
@@ -10857,7 +10895,7 @@
 			"update": "2018-05-10"
 		},
 		{
-			"ID": 573,
+			"ID": 575,
 			"N": "Ulterius",
 			"D": "Ulterius is an open-source remote desktop software with lots of awesome functions.",
 			"Sr": "https://github.com/Ulterius/server",
@@ -10877,7 +10915,7 @@
 			"update": "2017-10-23"
 		},
 		{
-			"ID": 574,
+			"ID": 576,
 			"N": "ViMbAdmin",
 			"D": "Provides a web based virtual mailbox administration system to allow mail administrators to easily manage domains, mailboxes and aliases.",
 			"Sr": "https://github.com/opensolutions/ViMbAdmin",
@@ -10897,7 +10935,7 @@
 			"update": "2018-03-07"
 		},
 		{
-			"ID": 575,
+			"ID": 577,
 			"N": "visualCaptcha",
 			"D": "Configurable captcha solution, focusing on accessibility and simplicity whilst maintaining security.",
 			"Sr": "https://github.com/emotionLoop/visualCaptcha",
@@ -10920,7 +10958,7 @@
 			"update": "2018-01-24"
 		},
 		{
-			"ID": 576,
+			"ID": 578,
 			"N": "Web fonts repository",
 			"D": "A simple webfont hosting. Google Fonts alternative for your own fonts.",
 			"Sr": "https://github.com/Finesse/web-fonts-repository",
@@ -10938,7 +10976,7 @@
 			"update": "2018-12-08"
 		},
 		{
-			"ID": 577,
+			"ID": 579,
 			"N": "webtrees",
 			"D": "Webtrees is the web's leading on-line collaborative genealogy application.",
 			"Sr": "https://github.com/fisharebest/webtrees",
@@ -10958,7 +10996,7 @@
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 578,
+			"ID": 580,
 			"N": "Akaunting",
 			"D": "Akaunting is a free, online and open source accounting software designed for small businesses and freelancers.",
 			"Sr": "https://github.com/akaunting/akaunting",
@@ -10977,7 +11015,7 @@
 			"update": "2019-01-10"
 		},
 		{
-			"ID": 579,
+			"ID": 581,
 			"N": "BTCPay Server",
 			"D": "A self-hosted Bitcoin and other cryptocurrencies payment processor.",
 			"Sr": "https://github.com/btcpayserver/",
@@ -10995,7 +11033,7 @@
 			]
 		},
 		{
-			"ID": 580,
+			"ID": 582,
 			"N": "Benedetto",
 			"D": "Bennedetto is a simple, turn-based budget management app.",
 			"Sr": "https://github.com/arecker/bennedetto",
@@ -11013,7 +11051,7 @@
 			"update": "2016-05-09"
 		},
 		{
-			"ID": 581,
+			"ID": 583,
 			"N": "Boodle",
 			"D": "Simple accounting single-page application in Clojure and ClojureScript.",
 			"Sr": "https://github.com/manuel-uberti/boodle",
@@ -11031,7 +11069,7 @@
 			"update": "2019-01-12"
 		},
 		{
-			"ID": 582,
+			"ID": 584,
 			"N": "Budget App",
 			"D": "Budget App is an open source personal budgeting application.",
 			"Sr": "https://github.com/paukiatwee/budgetapp/",
@@ -11049,7 +11087,7 @@
 			"update": "2018-10-09"
 		},
 		{
-			"ID": 583,
+			"ID": 585,
 			"N": "Dot Ledger",
 			"D": "Web-based personal finance management tool.",
 			"Sr": "https://github.com/dotledger/dotledger",
@@ -11069,7 +11107,7 @@
 			"update": "2018-05-09"
 		},
 		{
-			"ID": 584,
+			"ID": 586,
 			"N": "Economizzer",
 			"D": "An easy and secure system for you to manage your personal money and achieve your goals, and can be accessed by computer, tablet or smartphone.",
 			"Sr": "https://github.com/gugoan/economizzer",
@@ -11089,7 +11127,7 @@
 			"update": "2018-09-24"
 		},
 		{
-			"ID": 585,
+			"ID": 587,
 			"N": "ExMoney",
 			"D": "Self-hosted personal finance app.",
 			"Sr": "https://github.com/gaynetdinov/ex_money",
@@ -11107,7 +11145,7 @@
 			"update": "2018-02-15"
 		},
 		{
-			"ID": 586,
+			"ID": 588,
 			"N": "Firefly III",
 			"D": "Firefly III is a modern financial manager. It helps you to keep track of your money and make budget forecasts. It supports credit cards, has an advanced rule engine and can import data from many banks. It's powered by Laravel and requires PHP7.2.",
 			"Sr": "https://github.com/firefly-iii/firefly-iii",
@@ -11127,7 +11165,7 @@
 			"update": "2018-12-23"
 		},
 		{
-			"ID": 587,
+			"ID": 589,
 			"N": "Galette",
 			"D": "Galette is a membership management web application towards non profit organizations.",
 			"Sr": "http://git.tuxfamily.org/galette/galette.git/",
@@ -11144,7 +11182,7 @@
 			]
 		},
 		{
-			"ID": 588,
+			"ID": 590,
 			"N": "GRR",
 			"D": "Assets management and booking for small/medium companies.",
 			"Sr": "https://github.com/JeromeDevome/GRR",
@@ -11163,7 +11201,7 @@
 			"update": "2018-12-27"
 		},
 		{
-			"ID": 589,
+			"ID": 591,
 			"N": "Hospital Run",
 			"D": "Hospital Run is offline enabled hospital management software.",
 			"Sr": "https://github.com/HospitalRun/hospitalrun-server",
@@ -11183,7 +11221,7 @@
 			"update": "2018-10-28"
 		},
 		{
-			"ID": 590,
+			"ID": 592,
 			"N": "Inventaire",
 			"D": "Collaborative resources mapper project, while yet only focused on exploring books mapping with wikidata and ISBNs.",
 			"Sr": "https://github.com/inventaire/inventaire",
@@ -11202,7 +11240,7 @@
 			"update": "2019-01-12"
 		},
 		{
-			"ID": 591,
+			"ID": 593,
 			"N": "Invoice Ninja",
 			"D": "Powerful tool to invoice clients online.",
 			"Sr": "https://github.com/invoiceninja/invoiceninja",
@@ -11218,11 +11256,11 @@
 				"Money",
 				"Budget"
 			],
-			"stars": 3990,
+			"stars": 3991,
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 592,
+			"ID": 594,
 			"N": "InvoicePlane",
 			"D": "Manage quotes, invoices, payments and customers for your small business.",
 			"Sr": "https://github.com/InvoicePlane/InvoicePlane",
@@ -11242,7 +11280,7 @@
 			"update": "2018-04-08"
 		},
 		{
-			"ID": 593,
+			"ID": 595,
 			"N": "IHateMoney",
 			"D": "Manage your shared expenses, easily.",
 			"Sr": "https://github.com/spiral-project/ihatemoney",
@@ -11262,7 +11300,7 @@
 			"update": "2019-01-03"
 		},
 		{
-			"ID": 594,
+			"ID": 596,
 			"N": "Kresus",
 			"D": "Open source personal finance manager.",
 			"Sr": "https://github.com/kresusapp/kresus",
@@ -11282,7 +11320,7 @@
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 595,
+			"ID": 597,
 			"N": "PartKeepr",
 			"D": "PartKeepr is an electronic part inventory management software. It helps you to keep track of your available parts and assist you with re-ordering parts.",
 			"Sr": "https://github.com/partkeepr/PartKeepr",
@@ -11302,7 +11340,7 @@
 			"update": "2018-07-20"
 		},
 		{
-			"ID": 596,
+			"ID": 598,
 			"N": "SilverStrike",
 			"D": "Personal finance management made easy.",
 			"Sr": "https://github.com/agstrike/silverstrike",
@@ -11323,7 +11361,7 @@
 			"update": "2019-01-05"
 		},
 		{
-			"ID": 597,
+			"ID": 599,
 			"N": "StockazNG",
 			"D": "Asset Management System.",
 			"Sr": "https://dev.sigpipe.me/dashie/StockazNG",
@@ -11339,7 +11377,26 @@
 			]
 		},
 		{
-			"ID": 598,
+			"ID": 600,
+			"N": "Abrays Notes",
+			"D": "Take server side encrypted notes. Self hosted, WYSIWYG editor, material design and more.",
+			"Sr": "https://github.com/abrays/notes",
+			"Si": "https://go.imadityang.xyz/notes",
+			"Li": [
+				"MIT"
+			],
+			"La": [
+				"Ruby"
+			],
+			"T": [
+				"Note-taking",
+				"Editor"
+			],
+			"stars": 1,
+			"update": "2019-01-08"
+		},
+		{
+			"ID": 601,
 			"N": "BulletNotes",
 			"D": "Workflowy / Dynalist clone with Kanban (Trello) and Calendar functionality. Organize everything.",
 			"Sr": "https://gitlab.com/NickBusey/BulletNotes",
@@ -11358,7 +11415,7 @@
 			"update": "2018-11-20"
 		},
 		{
-			"ID": 599,
+			"ID": 602,
 			"N": "Boostnote",
 			"D": "The note-taking app for programmers that focuses on markdown, snippets, and customizability.",
 			"Sr": "https://github.com/BoostIO/Boostnote/",
@@ -11373,11 +11430,11 @@
 				"Note-taking",
 				"Editor"
 			],
-			"stars": 11818,
+			"stars": 11820,
 			"update": "2019-01-07"
 		},
 		{
-			"ID": 600,
+			"ID": 603,
 			"N": "CodiMD",
 			"D": "Realtime collaborative markdown notes on all platforms, formerly HackMD CE.",
 			"Sr": "https://github.com/hackmdio/codimd/",
@@ -11396,7 +11453,7 @@
 			"update": "2019-01-12"
 		},
 		{
-			"ID": 601,
+			"ID": 604,
 			"N": "dillinger",
 			"D": "The last Markdown editor, ever.",
 			"Sr": "https://github.com/joemccann/dillinger/",
@@ -11415,7 +11472,7 @@
 			"update": "2018-10-12"
 		},
 		{
-			"ID": 602,
+			"ID": 605,
 			"N": "draw.io",
 			"D": "Diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.",
 			"Sr": "https://github.com/jgraph/drawio",
@@ -11430,11 +11487,11 @@
 				"Note-taking",
 				"Editor"
 			],
-			"stars": 8326,
+			"stars": 8328,
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 603,
+			"ID": 606,
 			"N": "Joplin",
 			"D": "Joplin is a note taking application with Markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through self hosted Nextcloud or similar. Consider it like open source alternative to Evernote.",
 			"Sr": "https://github.com/laurent22/joplin",
@@ -11449,11 +11506,11 @@
 				"Note-taking",
 				"Editor"
 			],
-			"stars": 6204,
+			"stars": 6205,
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 604,
+			"ID": 607,
 			"N": "Leanote",
 			"D": "Leanote, Not Just A Notepad! Open source cloud notepad.",
 			"Sr": "https://github.com/leanote/leanote",
@@ -11469,11 +11526,11 @@
 				"Note-taking",
 				"Editor"
 			],
-			"stars": 7878,
+			"stars": 7880,
 			"update": "2018-12-07"
 		},
 		{
-			"ID": 605,
+			"ID": 608,
 			"N": "Markdown Edit",
 			"D": "Online markdown editor/viewer.",
 			"Sr": "https://github.com/georgeOsdDev/markdown-edit",
@@ -11492,7 +11549,7 @@
 			"update": "2015-01-07"
 		},
 		{
-			"ID": 606,
+			"ID": 609,
 			"N": "Meemo",
 			"D": "Personal notes stream with Markdown support.",
 			"Sr": "https://github.com/nebulade/meemo",
@@ -11511,7 +11568,7 @@
 			"update": "2018-11-29"
 		},
 		{
-			"ID": 607,
+			"ID": 610,
 			"N": "minimalist-web-notepad",
 			"D": "Minimalist notepad.cc clone.",
 			"Sr": "https://github.com/pereorga/minimalist-web-notepad",
@@ -11529,7 +11586,7 @@
 			"update": "2018-10-02"
 		},
 		{
-			"ID": 608,
+			"ID": 611,
 			"N": "MiniNote",
 			"D": "Simple Markdown note-taking app with persistence.",
 			"Sr": "https://github.com/n1try/mininote",
@@ -11547,7 +11604,7 @@
 			"update": "2019-01-02"
 		},
 		{
-			"ID": 609,
+			"ID": 612,
 			"N": "notes",
 			"D": "Simple script for personal notes with a single page with a WYSIWYG Editor.",
 			"Sr": "https://github.com/SSilence/notes",
@@ -11563,7 +11620,7 @@
 			]
 		},
 		{
-			"ID": 610,
+			"ID": 613,
 			"N": "OpenNote",
 			"D": "OpenNote was built to be an open web-based alternative to Microsoft OneNote (T) and EverNote.",
 			"Sr": "https://github.com/FoxUSA/OpenNote",
@@ -11582,7 +11639,7 @@
 			"update": "2018-03-11"
 		},
 		{
-			"ID": 611,
+			"ID": 614,
 			"N": "Paperwork",
 			"D": "OpenSource note-taking and archiving alternative to Evernote, Microsoft OneNote and Google Keep.",
 			"Sr": "https://github.com/twostairs/paperwork",
@@ -11601,7 +11658,7 @@
 			"update": "2018-08-12"
 		},
 		{
-			"ID": 612,
+			"ID": 615,
 			"N": "savepad",
 			"D": "Minimalist notepad based on notepad.cc.",
 			"Sr": "https://github.com/novavex/textpad",
@@ -11619,7 +11676,7 @@
 			"update": "2017-11-01"
 		},
 		{
-			"ID": 613,
+			"ID": 616,
 			"N": "ShareLaTex",
 			"D": "Web-based collaborative LaTeX editor.",
 			"Sr": "https://github.com/sharelatex/sharelatex",
@@ -11638,7 +11695,7 @@
 			"update": "2018-08-02"
 		},
 		{
-			"ID": 614,
+			"ID": 617,
 			"N": "Standard Notes",
 			"D": "Simple and private notes app. Protect your privacy while getting more done. That's Standard Notes.",
 			"Sr": "https://github.com/standardnotes",
@@ -11656,7 +11713,7 @@
 			]
 		},
 		{
-			"ID": 615,
+			"ID": 618,
 			"N": "to-markdown",
 			"D": "HTML to Markdown converter written in JavaScript.",
 			"Sr": "https://github.com/domchristie/to-markdown",
@@ -11675,7 +11732,7 @@
 			"update": "2018-12-24"
 		},
 		{
-			"ID": 616,
+			"ID": 619,
 			"N": "Turtl",
 			"D": "Totally private personal database and note taking app.",
 			"Sr": "https://github.com/turtl",
@@ -11692,7 +11749,7 @@
 			]
 		},
 		{
-			"ID": 617,
+			"ID": 620,
 			"N": "Collabora Online Development Edition",
 			"D": "Collabora Online Development Edition (CODE) is a powerful LibreOffice-based online office that supports all major document, spreadsheet and presentation file formats, which you can integrate in your own infrastructure.",
 			"Sr": "https://cgit.freedesktop.org/libreoffice/online/",
@@ -11708,7 +11765,7 @@
 			]
 		},
 		{
-			"ID": 618,
+			"ID": 621,
 			"N": "CryptPad",
 			"D": "CryptPad is the zero knowledge realtime collaborative editor (rich-text, files, source-code, ...).",
 			"Sr": "https://github.com/xwiki-labs/cryptpad",
@@ -11726,7 +11783,7 @@
 			"update": "2019-01-11"
 		},
 		{
-			"ID": 619,
+			"ID": 622,
 			"N": "EtherCalc",
 			"D": "Web spreadsheet.",
 			"Sr": "https://github.com/audreyt/ethercalc",
@@ -11745,7 +11802,7 @@
 			"update": "2018-08-25"
 		},
 		{
-			"ID": 620,
+			"ID": 623,
 			"N": "EtherDraw",
 			"D": "Intuitive collaborative drawing web based tool.",
 			"Sr": "https://github.com/JohnMcLear/draw",
@@ -11762,7 +11819,7 @@
 			"update": "2017-11-26"
 		},
 		{
-			"ID": 621,
+			"ID": 624,
 			"N": "Etherpad",
 			"D": "Etherpad is a highly customizable Open Source online editor providing collaborative editing in really real-time.",
 			"Sr": "https://github.com/ether/etherpad-lite",
@@ -11781,7 +11838,7 @@
 			"update": "2018-12-27"
 		},
 		{
-			"ID": 622,
+			"ID": 625,
 			"N": "Infinoted",
 			"D": "Server for [Gobby](https://github.com/gobby/gobby/wiki), a multi-platform collaborative text editor.",
 			"Sr": "https://github.com/gobby/gobby",
@@ -11799,7 +11856,7 @@
 			"update": "2018-08-26"
 		},
 		{
-			"ID": 623,
+			"ID": 626,
 			"N": "ONLYOFFICE",
 			"D": "Office suite that enables you to manage documents, projects, team and customer relations in one place.",
 			"Sr": "https://github.com/ONLYOFFICE/DocumentServer",
@@ -11817,7 +11874,7 @@
 			"update": "2018-12-25"
 		},
 		{
-			"ID": 624,
+			"ID": 627,
 			"N": "PHPOffice",
 			"D": "PHPOffice contains libraries which permits to write and read files from most office suites.",
 			"Sr": "https://github.com/PHPOffice",
@@ -11832,7 +11889,7 @@
 			]
 		},
 		{
-			"ID": 625,
+			"ID": 628,
 			"N": "WebODF",
 			"D": "Tools and libraries to view and edit Open Document Format (ODF) files.",
 			"Sr": "https://github.com/kogmbh/WebODF",
@@ -11850,7 +11907,7 @@
 			"update": "2016-07-24"
 		},
 		{
-			"ID": 626,
+			"ID": 629,
 			"N": "Bitwarden",
 			"D": "Password manager with webapp, browser extension, and mobile app.",
 			"Sr": "https://github.com/bitwarden/core",
@@ -11868,7 +11925,7 @@
 			"update": "2019-01-11"
 		},
 		{
-			"ID": 627,
+			"ID": 630,
 			"N": "keeweb",
 			"D": "This webapp is a browser and desktop password manager compatible with KeePass databases.",
 			"Sr": "https://github.com/keeweb/keeweb",
@@ -11882,11 +11939,11 @@
 			"T": [
 				"Password Manager"
 			],
-			"stars": 7098,
+			"stars": 7097,
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 628,
+			"ID": 631,
 			"N": "Passbolt",
 			"D": "Password manager dedicated for managing passwords in a collaborative way on any Web server, using a MySQL database backend.",
 			"Sr": "https://github.com/passbolt/passbolt_api",
@@ -11904,7 +11961,7 @@
 			"update": "2018-11-14"
 		},
 		{
-			"ID": 629,
+			"ID": 632,
 			"N": "PassIt",
 			"D": "Simple password manage with sharing features by group and user, but no administration interface.",
 			"Sr": "https://gitlab.com/passit",
@@ -11921,7 +11978,7 @@
 			]
 		},
 		{
-			"ID": 630,
+			"ID": 633,
 			"N": "Psono",
 			"D": "A promising password managers fully featured for teams.",
 			"Sr": "https://gitlab.com/psono",
@@ -11938,7 +11995,7 @@
 			]
 		},
 		{
-			"ID": 631,
+			"ID": 634,
 			"N": "sysPass",
 			"D": "Multiuser password management system.",
 			"Sr": "https://github.com/nuxsmin/sysPass",
@@ -11957,7 +12014,7 @@
 			"update": "2019-01-02"
 		},
 		{
-			"ID": 632,
+			"ID": 635,
 			"N": "Teampass",
 			"D": "Password manager dedicated for managing passwords in a collaborative way. One symmetric key is used to encrypt all shared/team passwords and stored server side in a file and the database. works on any server Apache, MySQL and PHP.",
 			"Sr": "https://github.com/nilsteampassnet/TeamPass/",
@@ -11975,7 +12032,7 @@
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 633,
+			"ID": 636,
 			"N": "0bin",
 			"D": "Client side encrypted pastebin.",
 			"Sr": "https://github.com/sametmax/0bin",
@@ -11992,7 +12049,7 @@
 			"update": "2016-01-08"
 		},
 		{
-			"ID": 634,
+			"ID": 637,
 			"N": "bepasty",
 			"D": "A pastebin for all kinds of files.",
 			"Sr": "https://github.com/bepasty/bepasty-server",
@@ -12010,7 +12067,7 @@
 			"update": "2018-11-27"
 		},
 		{
-			"ID": 635,
+			"ID": 638,
 			"N": "CoderVault",
 			"D": "Open source, self-hosted, snippet manager.",
 			"Sr": "https://github.com/codervault/codervault",
@@ -12028,7 +12085,7 @@
 			"update": "2016-12-06"
 		},
 		{
-			"ID": 636,
+			"ID": 639,
 			"N": "cryptonote",
 			"D": "Simple open source web application that lets users encrypt and share messages that can only be read once.",
 			"Sr": "https://github.com/alainmeier/cryptonote",
@@ -12046,7 +12103,7 @@
 			"update": "2018-12-27"
 		},
 		{
-			"ID": 637,
+			"ID": 640,
 			"N": "EdPaste",
 			"D": "Self-hosted pastebin written in Laravel (PHP Framework).",
 			"Sr": "https://github.com/Edraens/EdPaste",
@@ -12064,7 +12121,7 @@
 			"update": "2019-01-12"
 		},
 		{
-			"ID": 638,
+			"ID": 641,
 			"N": "fiche",
 			"D": "Command line pastebin, all you need is netcat.",
 			"Sr": "https://github.com/solusipse/fiche",
@@ -12082,7 +12139,7 @@
 			"update": "2018-12-20"
 		},
 		{
-			"ID": 639,
+			"ID": 642,
 			"N": "GIST",
 			"D": "GIST is an open-source application to share code.",
 			"Sr": "https://gitnet.fr/deblan/gist",
@@ -12098,7 +12155,7 @@
 			]
 		},
 		{
-			"ID": 640,
+			"ID": 643,
 			"N": "hastebin",
 			"D": "Open source pastebin written in node.js.",
 			"Sr": "https://github.com/seejohnrun/haste-server",
@@ -12117,7 +12174,7 @@
 			"update": "2018-09-19"
 		},
 		{
-			"ID": 641,
+			"ID": 644,
 			"N": "Modern Paste",
 			"D": "Modern pastebin with a contemporary, minimalistic user interface backed by a robust feature set.",
 			"Sr": "https://github.com/LINKIWI/modern-paste",
@@ -12135,7 +12192,7 @@
 			"update": "2018-07-28"
 		},
 		{
-			"ID": 642,
+			"ID": 645,
 			"N": "mojopaste",
 			"D": "Perl based pastebin.",
 			"Sr": "https://github.com/jhthorsen/app-mojopaste",
@@ -12154,7 +12211,7 @@
 			"update": "2018-10-01"
 		},
 		{
-			"ID": 643,
+			"ID": 646,
 			"N": "NoteHub",
 			"D": "Free and Hassle-free Pastebin for Markdown Pages. Simple, clean, password provided, generated-short link.",
 			"Sr": "https://github.com/chmllr/NoteHub",
@@ -12171,7 +12228,7 @@
 			"update": "2018-02-16"
 		},
 		{
-			"ID": 644,
+			"ID": 647,
 			"N": "Paste",
 			"D": "Paste is forked from the original source pastebin.com used before it was bought.",
 			"Sr": "https://github.com/jordansamuel/PASTE",
@@ -12189,7 +12246,7 @@
 			"update": "2018-12-02"
 		},
 		{
-			"ID": 645,
+			"ID": 648,
 			"N": "pastebin",
 			"D": "Simple pastebin service with convenient api and CLI.",
 			"Sr": "https://github.com/prologic/pastebin",
@@ -12207,7 +12264,7 @@
 			"update": "2018-05-17"
 		},
 		{
-			"ID": 646,
+			"ID": 649,
 			"N": "Pastebin",
 			"D": "Modern self-hosted pastebin service with a restful API.",
 			"Sr": "https://github.com/ewhal/Pastebin",
@@ -12224,7 +12281,7 @@
 			"update": "2017-04-18"
 		},
 		{
-			"ID": 647,
+			"ID": 650,
 			"N": "pb",
 			"D": "Lightweight pastebin (and url shortener) built using flask.",
 			"Sr": "https://github.com/ptpb/pb",
@@ -12242,7 +12299,7 @@
 			"update": "2019-01-07"
 		},
 		{
-			"ID": 648,
+			"ID": 651,
 			"N": "pbnh",
 			"D": "Pastebin inspired from project pb and hastebin, with an API and a SQL-based backend.",
 			"Sr": "https://github.com/bhanderson/pbnh",
@@ -12259,7 +12316,7 @@
 			"update": "2018-10-27"
 		},
 		{
-			"ID": 649,
+			"ID": 652,
 			"N": "Phaste",
 			"D": "Phalcon-based, MySQL pastebin application with privacy-respecting Piwik integration and syntax highlighting.",
 			"Sr": "https://github.com/FoxDev/Phaste",
@@ -12277,7 +12334,7 @@
 			"update": "2015-12-07"
 		},
 		{
-			"ID": 650,
+			"ID": 653,
 			"N": "PrivateBin",
 			"D": "PrivateBin is a minimalist, opensource online pastebin/discussion board where the server has zero knowledge of hosted data.",
 			"Sr": "https://github.com/PrivateBin/PrivateBin",
@@ -12292,11 +12349,11 @@
 			"T": [
 				"Pastebin"
 			],
-			"stars": 1226,
+			"stars": 1227,
 			"update": "2019-01-07"
 		},
 		{
-			"ID": 651,
+			"ID": 654,
 			"N": "SharpPaste",
 			"D": "Cross-platform C# pastebin with client-side AES-256 encryption that just works.",
 			"Sr": "https://github.com/phonicmouse/SharpPaste",
@@ -12314,7 +12371,7 @@
 			"update": "2018-11-23"
 		},
 		{
-			"ID": 652,
+			"ID": 655,
 			"N": "Snibox",
 			"D": "Code snippets manager with attractive tag-oriented interface.",
 			"Sr": "https://github.com/snibox/snibox",
@@ -12333,7 +12390,7 @@
 			"update": "2018-11-17"
 		},
 		{
-			"ID": 653,
+			"ID": 656,
 			"N": "snipt",
 			"D": "Long-term memory for coders. Share and store code snippets.",
 			"Sr": "https://github.com/nicksergeant/snipt/",
@@ -12351,7 +12408,7 @@
 			"update": "2018-02-02"
 		},
 		{
-			"ID": 654,
+			"ID": 657,
 			"N": "Stikked",
 			"D": "Advanced and beautiful pastebin.",
 			"Sr": "https://github.com/claudehohl/Stikked",
@@ -12369,7 +12426,7 @@
 			"update": "2018-11-22"
 		},
 		{
-			"ID": 655,
+			"ID": 658,
 			"N": "Sup3rS3cretMes5age",
 			"D": "Very simple (to deploy and to use) secret message service using Hashicorp Vault as a secrets storage.",
 			"Sr": "https://github.com/algolia/sup3rS3cretMes5age",
@@ -12386,7 +12443,7 @@
 			"update": "2018-03-28"
 		},
 		{
-			"ID": 656,
+			"ID": 659,
 			"N": "tastebin",
 			"D": "Updated version of hastebin plus additional features.",
 			"Sr": "https://github.com/andreineculau/tastebin",
@@ -12403,7 +12460,7 @@
 			"update": "2016-01-30"
 		},
 		{
-			"ID": 657,
+			"ID": 660,
 			"N": "Baby Buddy",
 			"D": "Helps caregivers track baby sleep, feedings, diaper changes, and tummy time.",
 			"Sr": "https://github.com/cdubz/babybuddy",
@@ -12421,7 +12478,7 @@
 			"update": "2018-11-06"
 		},
 		{
-			"ID": 658,
+			"ID": 661,
 			"N": "Dj Diabetes",
 			"D": "My Glucose Manager - follow your daily health.",
 			"Sr": "https://github.com/foxmask/dj-diabetes",
@@ -12438,7 +12495,7 @@
 			"update": "2018-10-09"
 		},
 		{
-			"ID": 659,
+			"ID": 662,
 			"N": "Habitica",
 			"D": "Habit tracker app which treats your goals like a Role Playing Game. Previously called HabitRPG.",
 			"Sr": "https://github.com/HabitRPG/habitrpg",
@@ -12458,7 +12515,7 @@
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 660,
+			"ID": 663,
 			"N": "Heimdall",
 			"D": "Heimdall is an elegant solution to organise all your web applications.",
 			"Sr": "https://github.com/linuxserver/Heimdall",
@@ -12476,7 +12533,7 @@
 			"update": "2019-01-07"
 		},
 		{
-			"ID": 661,
+			"ID": 664,
 			"N": "Homepage",
 			"D": "Simple, standalone, self-hosted PHP page that is your window to your server and the web.",
 			"Sr": "https://github.com/tomershvueli/homepage",
@@ -12493,7 +12550,7 @@
 			"update": "2019-01-06"
 		},
 		{
-			"ID": 662,
+			"ID": 665,
 			"N": "iDashboard-PHP",
 			"D": "HTPC Dashboard to load website services.",
 			"Sr": "https://github.com/causefx/iDashboard-PHP",
@@ -12510,7 +12567,7 @@
 			"update": "2017-04-17"
 		},
 		{
-			"ID": 663,
+			"ID": 666,
 			"N": "Organizr",
 			"D": "Organizr aims to be your one stop shop for your Servers Frontend.",
 			"Sr": "https://github.com/causefx/Organizr",
@@ -12527,7 +12584,7 @@
 			"update": "2018-08-29"
 		},
 		{
-			"ID": 664,
+			"ID": 667,
 			"N": "simple-dash",
 			"D": "A simple, fully responsive Dashboard to forward to the services of your choice.",
 			"Sr": "https://github.com/Swagielka/simple-dash",
@@ -12545,7 +12602,7 @@
 			"update": "2019-01-11"
 		},
 		{
-			"ID": 665,
+			"ID": 668,
 			"N": "Tipboard",
 			"D": "In-house, tasty, local dashboarding system.",
 			"Sr": "https://github.com/allegro/tipboard",
@@ -12563,7 +12620,7 @@
 			"update": "2018-07-09"
 		},
 		{
-			"ID": 666,
+			"ID": 669,
 			"N": "wger",
 			"D": "Web-based personal workout, fitness and weight logger/tracker. It can also be used as a simple gym management utility and offers a full REST API as well.",
 			"Sr": "https://github.com/rolandgeider/wger",
@@ -12582,7 +12639,7 @@
 			"update": "2019-01-06"
 		},
 		{
-			"ID": 667,
+			"ID": 670,
 			"N": "Chevereto Free",
 			"D": "Powerful and fast image hosting script that allows you to create your very own full featured image hosting website in just minutes.",
 			"Sr": "https://github.com/Chevereto/Chevereto-Free",
@@ -12600,7 +12657,7 @@
 			"update": "2018-11-28"
 		},
 		{
-			"ID": 668,
+			"ID": 671,
 			"N": "Coppermine",
 			"D": "Multilingual photo gallery that integrates with various bulletin boards. Includes upload approval and password protected albums.",
 			"Sr": "https://github.com/coppermine-gallery/cpg1.6.x",
@@ -12619,7 +12676,7 @@
 			"update": "2018-12-31"
 		},
 		{
-			"ID": 669,
+			"ID": 672,
 			"N": "CumulusClips",
 			"D": "Your own video sharing website with CumulusClips video sharing script. You can build a YouTube clone where users can upload, rate, comment on videos, and much more.",
 			"Sr": "http://cumulusclips.org/",
@@ -12635,7 +12692,7 @@
 			]
 		},
 		{
-			"ID": 670,
+			"ID": 673,
 			"N": "Gallery CSS",
 			"D": "Gallery.css is all CSS. Think: Simple, maintainable and understandable galleries without the use of Javascript.",
 			"Sr": "https://github.com/benschwarz/gallery-css",
@@ -12653,7 +12710,7 @@
 			"update": "2016-01-21"
 		},
 		{
-			"ID": 671,
+			"ID": 674,
 			"N": "Lychee",
 			"D": "Open source grid and album based photo-management-system.",
 			"Sr": "https://github.com/electerious/Lychee",
@@ -12667,11 +12724,11 @@
 			"T": [
 				"Photo and Video Gallery"
 			],
-			"stars": 4709,
+			"stars": 4708,
 			"update": "2018-12-19"
 		},
 		{
-			"ID": 672,
+			"ID": 675,
 			"N": "MediaDrop",
 			"D": "Video, audio and podcast publication platform.",
 			"Sr": "https://github.com/mediadrop/mediadrop",
@@ -12689,7 +12746,7 @@
 			"update": "2018-04-11"
 		},
 		{
-			"ID": 673,
+			"ID": 676,
 			"N": "Mediagoblin",
 			"D": "Free software media publishing platform that anyone can run. You can think of it as a decentralized alternative to Flickr, YouTube, SoundCloud, etc.",
 			"Sr": "https://savannah.gnu.org/projects/mediagoblin",
@@ -12705,7 +12762,7 @@
 			]
 		},
 		{
-			"ID": 674,
+			"ID": 677,
 			"N": "MinigalNano",
 			"D": "MinigalNano is a very simple image gallery. It adheres to the KISS principle and is very easy to install. MinigalNano does not have a web admin interface: You just upload your images in the photo folder on your server (using FTP, SFTP).",
 			"Sr": "https://github.com/sebsauvage/MinigalNano",
@@ -12722,7 +12779,7 @@
 			"update": "2016-06-24"
 		},
 		{
-			"ID": 675,
+			"ID": 678,
 			"N": "OwnPhotos",
 			"D": "Self hosted wannabe Google Photos clone, with a slight focus on cool graphs.",
 			"Sr": "https://github.com/hooram/ownphotos",
@@ -12739,7 +12796,7 @@
 			"update": "2019-01-11"
 		},
 		{
-			"ID": 676,
+			"ID": 679,
 			"N": "Photato",
 			"D": "Self-hosted photo gallery, accessible through a responsive WebUI. Directly uses and indexes a specific folder in the filesystem.",
 			"Sr": "https://github.com/trebonius0/Photato",
@@ -12756,7 +12813,7 @@
 			"update": "2018-09-29"
 		},
 		{
-			"ID": 677,
+			"ID": 680,
 			"N": "Photofloat",
 			"D": "Web 2.0 Photo Gallery Done Right via Static JSON and Dynamic Javascript.",
 			"Sr": "http://blog.zx2c4.com/567",
@@ -12772,7 +12829,7 @@
 			]
 		},
 		{
-			"ID": 678,
+			"ID": 681,
 			"N": "PhotoLight",
 			"D": "The easiest photo gallery there is.",
 			"Sr": "https://github.com/thibaud-rohmer/PhotoLight",
@@ -12789,7 +12846,7 @@
 			"update": "2013-06-17"
 		},
 		{
-			"ID": 679,
+			"ID": 682,
 			"N": "PhotoPrism",
 			"D": "Personal photo management powered by Go and Google TensorFlow.  Browse, organize, and share your personal photo collection, using the latest technologies to automatically tag and find pictures.",
 			"Sr": "https://github.com/photoprism/photoprism",
@@ -12807,7 +12864,7 @@
 			"update": "2019-01-12"
 		},
 		{
-			"ID": 680,
+			"ID": 683,
 			"N": "Photoshow",
 			"D": "Responsive Web Gallery.",
 			"Sr": "https://github.com/thibaud-rohmer/PhotoShow",
@@ -12825,7 +12882,7 @@
 			"update": "2018-08-13"
 		},
 		{
-			"ID": 681,
+			"ID": 684,
 			"N": "Piwigo",
 			"D": "Photo gallery software for the web, built by an active community of users and developers.",
 			"Sr": "https://github.com/Piwigo/Piwigo",
@@ -12844,7 +12901,7 @@
 			"update": "2018-07-23"
 		},
 		{
-			"ID": 682,
+			"ID": 685,
 			"N": "Plumi",
 			"D": "Create your own sophisticated video-sharing site.",
 			"Sr": "https://github.com/plumi/plumi.app",
@@ -12862,7 +12919,7 @@
 			"update": "2017-12-17"
 		},
 		{
-			"ID": 683,
+			"ID": 686,
 			"N": "sigal",
 			"D": "Yet another simple static gallery generator.",
 			"Sr": "https://github.com/saimn/sigal",
@@ -12879,7 +12936,7 @@
 			"update": "2018-12-28"
 		},
 		{
-			"ID": 684,
+			"ID": 687,
 			"N": "UberGallery",
 			"D": "UberGallery is an easy to use, simple to manage, web photo gallery. UberGallery does not require a database and supports JPEG, GIF and PNG file types. Simply upload your images and UberGallery will automatically generate thumbnails and output HTML.",
 			"Sr": "https://github.com/UberGallery/UberGallery",
@@ -12897,7 +12954,7 @@
 			"update": "2015-09-09"
 		},
 		{
-			"ID": 685,
+			"ID": 688,
 			"N": "Videobin",
 			"D": "Simple video upload and sharing service with transcoding.",
 			"Sr": "https://r-w-x.org/videobin.git",
@@ -12914,7 +12971,7 @@
 			]
 		},
 		{
-			"ID": 686,
+			"ID": 689,
 			"N": "Zenphoto",
 			"D": "Open-source gallery and CMS project.",
 			"Sr": "https://github.com/zenphoto/zenphoto",
@@ -12932,7 +12989,7 @@
 			"update": "2019-01-12"
 		},
 		{
-			"ID": 687,
+			"ID": 690,
 			"N": "Calagator",
 			"D": "Event aggregator.",
 			"Sr": "http://calagator.org/",
@@ -12949,7 +13006,7 @@
 			]
 		},
 		{
-			"ID": 688,
+			"ID": 691,
 			"N": "Clerk",
 			"D": "Simple event logger to keep track of periodic events, habits, etc. as they occur.",
 			"Sr": "https://github.com/chr15m/Clerk",
@@ -12967,7 +13024,7 @@
 			"update": "2018-06-13"
 		},
 		{
-			"ID": 689,
+			"ID": 692,
 			"N": "dudle",
 			"D": "Online scheduling application.",
 			"Sr": "http://primelife.ercim.eu/results/opensource/63-dudle",
@@ -12984,7 +13041,7 @@
 			]
 		},
 		{
-			"ID": 690,
+			"ID": 693,
 			"N": "Fider",
 			"D": "Open source alternative to UserVoice for customer feedback.",
 			"Sr": "https://github.com/getfider/fider",
@@ -13004,7 +13061,7 @@
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 691,
+			"ID": 694,
 			"N": "Framadate",
 			"D": "Online service for planning an appointment or make a decision quickly and easily: Make a poll, Define dates or subjects to choose, Send the poll link to your friends or colleagues, Discuss and make a decision.",
 			"Sr": "https://git.framasoft.org/framasoft/framadate",
@@ -13022,7 +13079,7 @@
 			]
 		},
 		{
-			"ID": 692,
+			"ID": 695,
 			"N": "Kyélà",
 			"D": "Participation polls for group events.",
 			"Sr": "https://github.com/abienvenu/Kyela",
@@ -13042,7 +13099,7 @@
 			"update": "2018-12-28"
 		},
 		{
-			"ID": 693,
+			"ID": 696,
 			"N": "LimeSurvey",
 			"D": "Feature-rich Open Source web based polling software. Supports extensive survey logic.",
 			"Sr": "https://www.limesurvey.org",
@@ -13059,7 +13116,7 @@
 			]
 		},
 		{
-			"ID": 694,
+			"ID": 697,
 			"N": "Nuages",
 			"D": "Collaborative meeting poll system, similar to doodle or rdvz.",
 			"Sr": "http://git.domainepublic.net/?p=nuages.git;a=tree",
@@ -13076,7 +13133,7 @@
 			]
 		},
 		{
-			"ID": 695,
+			"ID": 698,
 			"N": "PHPBack",
 			"D": "The open source feedback system.",
 			"Sr": "https://github.com/ivandiazwm/phpback/",
@@ -13096,7 +13153,7 @@
 			"update": "2019-01-10"
 		},
 		{
-			"ID": 696,
+			"ID": 699,
 			"N": "Alf.io",
 			"D": "The open source ticket reservation system.",
 			"Sr": "https://github.com/alfio-event/alf.io",
@@ -13116,7 +13173,7 @@
 			"update": "2019-01-12"
 		},
 		{
-			"ID": 697,
+			"ID": 700,
 			"N": "Booked",
 			"D": "A web-based calendar and resource scheduling system that allows administered management of reservations on any number of resources.",
 			"Sr": "https://sourceforge.net/projects/phpscheduleit/",
@@ -13134,7 +13191,7 @@
 			]
 		},
 		{
-			"ID": 698,
+			"ID": 701,
 			"N": "Easy!Appointments",
 			"D": "A highly customizable web application that allows your customers to book appointments with you via the web.",
 			"Sr": "https://github.com/alextselegidis/easyappointments",
@@ -13154,7 +13211,7 @@
 			"update": "2018-12-06"
 		},
 		{
-			"ID": 699,
+			"ID": 702,
 			"N": "http2-serverpush-proxy",
 			"D": "Reverse proxy that helps to automatically utilize HTTP/2.0's server push mechanism for static websites. Available as middleware and standalone application.",
 			"Sr": "https://github.com/n1try/http2-serverpush-proxy",
@@ -13171,7 +13228,7 @@
 			"update": "2016-11-17"
 		},
 		{
-			"ID": 700,
+			"ID": 703,
 			"N": "imgproxy",
 			"D": "Fast and secure standalone server for resizing and converting remote images. It works great when you need to resize multiple images on the fly without preparing a ton of cached resized images or re-doing it every time the design changes.",
 			"Sr": "https://github.com/DarthSim/imgproxy",
@@ -13189,7 +13246,7 @@
 			"update": "2019-01-10"
 		},
 		{
-			"ID": 701,
+			"ID": 704,
 			"N": "iodine",
 			"D": "IPv4 over DNS tunnel solution, enabling you to start up a socks5 proxy listener.",
 			"Sr": "https://github.com/yarrick/iodine",
@@ -13207,7 +13264,7 @@
 			"update": "2018-03-24"
 		},
 		{
-			"ID": 702,
+			"ID": 705,
 			"N": "microproxy",
 			"D": "lightweight non-caching HTTP/HTTPS proxy server.",
 			"Sr": "https://github.com/thekvs/microproxy",
@@ -13225,7 +13282,7 @@
 			"update": "2018-07-12"
 		},
 		{
-			"ID": 703,
+			"ID": 706,
 			"N": "miniProxy",
 			"D": "Simple web proxy written in PHP that can allow you to bypass Internet content filters, or to browse the internet anonymously. Only one php file.",
 			"Sr": "https://github.com/joshdick/miniProxy/",
@@ -13243,7 +13300,7 @@
 			"update": "2018-11-22"
 		},
 		{
-			"ID": 704,
+			"ID": 707,
 			"N": "Oranjeproxy",
 			"D": "Anonymizing web proxy.",
 			"Sr": "https://github.com/AmauryCarrade/OranjeProxy",
@@ -13261,7 +13318,7 @@
 			"update": "2016-01-25"
 		},
 		{
-			"ID": 705,
+			"ID": 708,
 			"N": "PHP-Proxy",
 			"D": "Web proxy script built specifically to be fast, easy to modify and to support video sites such as YouTube.",
 			"Sr": "https://github.com/Athlon1600/php-proxy-app",
@@ -13280,7 +13337,7 @@
 			"update": "2018-12-15"
 		},
 		{
-			"ID": 706,
+			"ID": 709,
 			"N": "Pound",
 			"D": "Light-weight reverse proxy and load balancer for HTTP/HTTPS.",
 			"Sr": "http://www.apsis.ch/pound/",
@@ -13296,7 +13353,7 @@
 			]
 		},
 		{
-			"ID": 707,
+			"ID": 710,
 			"N": "Privoxy",
 			"D": "Non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk.",
 			"Sr": "http://www.privoxy.org",
@@ -13311,7 +13368,7 @@
 			]
 		},
 		{
-			"ID": 708,
+			"ID": 711,
 			"N": "Redbird",
 			"D": "A modern reverse proxy for node that includes cluster, HTTP2, LetsEncrypt, and Docker support.",
 			"Sr": "https://github.com/OptimalBits/redbird",
@@ -13328,7 +13385,7 @@
 			"update": "2019-01-06"
 		},
 		{
-			"ID": 709,
+			"ID": 712,
 			"N": "Squid",
 			"D": "Caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It reduces bandwidth and improves response times by caching and reusing frequently-requested web pages.",
 			"Sr": "https://code.launchpad.net/squid",
@@ -13344,7 +13401,7 @@
 			]
 		},
 		{
-			"ID": 710,
+			"ID": 713,
 			"N": "Swiperproxy",
 			"D": "Lightning-fast, open source web proxy that is easy for you to run and customize.",
 			"Sr": "https://github.com/swiperproxy/swiperproxy",
@@ -13362,7 +13419,7 @@
 			"update": "2016-10-26"
 		},
 		{
-			"ID": 711,
+			"ID": 714,
 			"N": "Tinyproxy",
 			"D": "Light-weight HTTP/HTTPS proxy daemon.",
 			"Sr": "https://github.com/tinyproxy/tinyproxy",
@@ -13380,7 +13437,7 @@
 			"update": "2018-12-15"
 		},
 		{
-			"ID": 712,
+			"ID": 715,
 			"N": "Traefik",
 			"D": "Træfɪk is a modern HTTP reverse proxy and load balancer made to deploy microservices with ease. It supports several backends (Docker, Swarm, Mesos/Marathon, …) to manage its configuration automatically and dynamically.",
 			"Sr": "https://github.com/containous/traefik",
@@ -13394,11 +13451,11 @@
 			"T": [
 				"Proxy"
 			],
-			"stars": 19757,
+			"stars": 19759,
 			"update": "2019-01-09"
 		},
 		{
-			"ID": 713,
+			"ID": 716,
 			"N": "Nunux Keeper",
 			"D": "Your personal content curation service.",
 			"Sr": "https://github.com/ncarlier/nunux-keeper",
@@ -13416,7 +13473,7 @@
 			"update": "2018-10-01"
 		},
 		{
-			"ID": 714,
+			"ID": 717,
 			"N": "Wallabag",
 			"D": "Wallabag, formerly Poche, is a web application allowing you to save articles to read them later with improved readability.",
 			"Sr": "https://github.com/wallabag/wallabag",
@@ -13431,11 +13488,11 @@
 			"T": [
 				"Read it Later Lists"
 			],
-			"stars": 3884,
+			"stars": 3885,
 			"update": "2019-01-12"
 		},
 		{
-			"ID": 715,
+			"ID": 718,
 			"N": "farmOS",
 			"D": "Web-based farm record keeping application.",
 			"Sr": "https://github.com/farmOS/farmOS",
@@ -13453,7 +13510,7 @@
 			"update": "2019-01-08"
 		},
 		{
-			"ID": 716,
+			"ID": 719,
 			"N": "Grocy",
 			"D": "grocy is a web-based selfhosted groceries management solution for your home, available in English, German, Italian and Norwegian.",
 			"Sr": "https://github.com/berrnd/grocy",
@@ -13472,7 +13529,7 @@
 			"update": "2019-01-10"
 		},
 		{
-			"ID": 717,
+			"ID": 720,
 			"N": "Tania",
 			"D": "Tania is a free and open source farming management system for everyone. You can manage your areas, reservoirs, farm tasks, inventories, and the crop growing progress.",
 			"Sr": "https://github.com/Tanibox/tania-core",
@@ -13489,7 +13546,7 @@
 			"update": "2018-08-24"
 		},
 		{
-			"ID": 718,
+			"ID": 721,
 			"N": "ERPNext",
 			"D": "Free open source ERP system.",
 			"Sr": "https://github.com/frappe/erpnext",
@@ -13509,7 +13566,7 @@
 			"update": "2019-01-11"
 		},
 		{
-			"ID": 719,
+			"ID": 722,
 			"N": "LedgerSMB",
 			"D": "Integrated accounting and ERP system for small and midsize businesses, with double entry accounting, budgeting, invoicing, quotations, projects, orders and inventory management, shipping and more.",
 			"Sr": "https://github.com/ledgersmb/LedgerSMB",
@@ -13529,7 +13586,7 @@
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 720,
+			"ID": 723,
 			"N": "Odoo",
 			"D": "Free open source ERP system.",
 			"Sr": "https://github.com/odoo/odoo",
@@ -13549,7 +13606,7 @@
 			"update": "2019-01-11"
 		},
 		{
-			"ID": 721,
+			"ID": 724,
 			"N": "Tryton",
 			"D": "Free open source business solution.",
 			"Sr": "https://hg.tryton.org/",
@@ -13567,7 +13624,7 @@
 			]
 		},
 		{
-			"ID": 722,
+			"ID": 725,
 			"N": "Ambar",
 			"D": "Document Search Engine (OCR, Store \u0026 Search).",
 			"Sr": "https://github.com/RD17/ambar",
@@ -13587,7 +13644,7 @@
 			"update": "2018-12-27"
 		},
 		{
-			"ID": 723,
+			"ID": 726,
 			"N": "Gigablast",
 			"D": "open source search engine.",
 			"Sr": "https://github.com/gigablast/open-source-search-engine",
@@ -13606,7 +13663,7 @@
 			"update": "2017-06-02"
 		},
 		{
-			"ID": 724,
+			"ID": 727,
 			"N": "Seeks",
 			"D": "Web search proxy and collaborative distributed tool for websearch.",
 			"Sr": "https://github.com/beniz/seeks",
@@ -13624,7 +13681,7 @@
 			"update": "2014-04-28"
 		},
 		{
-			"ID": 725,
+			"ID": 728,
 			"N": "Searx",
 			"D": "Privacy-respecting, hackable metasearch engine.",
 			"Sr": "https://github.com/asciimoo/searx",
@@ -13643,7 +13700,7 @@
 			"update": "2019-01-11"
 		},
 		{
-			"ID": 726,
+			"ID": 729,
 			"N": "Yacy",
 			"D": "Peer based, decentralized search engine server.",
 			"Sr": "https://github.com/yacy/yacy_search_server",
@@ -13662,7 +13719,7 @@
 			"update": "2019-01-10"
 		},
 		{
-			"ID": 727,
+			"ID": 730,
 			"N": "Apache Bloodhound",
 			"D": "Manage software products, Keep track of features, tasks and bugs.",
 			"Sr": "https://bloodhound.apache.org/",
@@ -13678,7 +13735,7 @@
 			]
 		},
 		{
-			"ID": 728,
+			"ID": 731,
 			"N": "Bonobo Git Server",
 			"D": "Set up your own self hosted git server on IIS for Windows. Manage users and have full control over your repositories with a nice user friendly graphical interface.",
 			"Sr": "https://github.com/jakubgarfield/Bonobo-Git-Server",
@@ -13697,7 +13754,7 @@
 			"update": "2017-09-15"
 		},
 		{
-			"ID": 729,
+			"ID": 732,
 			"N": "Fossil",
 			"D": "Distributed version control system featuring wiki and bug tracker.",
 			"Sr": "https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki",
@@ -13713,7 +13770,7 @@
 			]
 		},
 		{
-			"ID": 730,
+			"ID": 733,
 			"N": "Goodwork",
 			"D": "Self hosted project management and collaboration tool powered by Laravel \u0026 VueJS.",
 			"Sr": "https://github.com/iluminar/goodwork",
@@ -13732,7 +13789,7 @@
 			"update": "2019-01-08"
 		},
 		{
-			"ID": 731,
+			"ID": 734,
 			"N": "Gitblit",
 			"D": "Pure Java stack for managing, viewing, and serving Git repositories.",
 			"Sr": "https://github.com/gitblit/gitblit",
@@ -13751,7 +13808,7 @@
 			"update": "2017-06-05"
 		},
 		{
-			"ID": 732,
+			"ID": 735,
 			"N": "gitbucket",
 			"D": "The easily installable GitHub clone powered by Scala.",
 			"Sr": "https://github.com/gitbucket/gitbucket",
@@ -13768,10 +13825,10 @@
 				"Project Mgmnt"
 			],
 			"stars": 7531,
-			"update": "2019-01-13"
+			"update": "2019-01-14"
 		},
 		{
-			"ID": 733,
+			"ID": 736,
 			"N": "Gitea",
 			"D": "Community managed fork of Gogs, lightweight code hosting solution.",
 			"Sr": "https://github.com/go-gitea/gitea",
@@ -13787,11 +13844,11 @@
 				"Software Dev",
 				"Project Mgmnt"
 			],
-			"stars": 11732,
-			"update": "2019-01-13"
+			"stars": 11733,
+			"update": "2019-01-14"
 		},
 		{
-			"ID": 734,
+			"ID": 737,
 			"N": "GitLab",
 			"D": "Self Hosted Git repository management, code reviews, issue tracking, activity feeds and wikis.",
 			"Sr": "https://gitlab.com/gitlab-org/gitlab-ce",
@@ -13811,7 +13868,7 @@
 			"update": "2019-01-14"
 		},
 		{
-			"ID": 735,
+			"ID": 738,
 			"N": "Gitlist",
 			"D": "Web-based git repository browser - GitList allows you to browse repositories using your favorite browser, viewing files under different revisions, commit history and diffs.",
 			"Sr": "https://github.com/klaussilveira/gitlist",
@@ -13830,7 +13887,7 @@
 			"update": "2018-12-30"
 		},
 		{
-			"ID": 736,
+			"ID": 739,
 			"N": "Gitolite",
 			"D": "Gitolite allows you to setup git hosting on a central server, with fine-grained access control and many more powerful features.",
 			"Sr": "https://github.com/sitaramc/gitolite",
@@ -13849,7 +13906,7 @@
 			"update": "2019-01-08"
 		},
 		{
-			"ID": 737,
+			"ID": 740,
 			"N": "GitPrep",
 			"D": "Portable Github clone.",
 			"Sr": "https://github.com/yuki-kimoto/gitprep",
@@ -13869,7 +13926,7 @@
 			"update": "2018-11-12"
 		},
 		{
-			"ID": 738,
+			"ID": 741,
 			"N": "Git WebUI",
 			"D": "Standalone web based user interface for git repositories.",
 			"Sr": "https://github.com/alberthier/git-webui",
@@ -13887,7 +13944,7 @@
 			"update": "2017-11-10"
 		},
 		{
-			"ID": 739,
+			"ID": 742,
 			"N": "Gogs",
 			"D": "Painless self-hosted Git Service written in Go.",
 			"Sr": "https://github.com/gogits/gogs",
@@ -13903,11 +13960,11 @@
 				"Software Dev",
 				"Project Mgmnt"
 			],
-			"stars": 28859,
+			"stars": 28860,
 			"update": "2019-01-07"
 		},
 		{
-			"ID": 740,
+			"ID": 743,
 			"N": "Kallithea",
 			"D": "Source code management system that supports two leading version control systems, Mercurial and Git, with a web interface.",
 			"Sr": "https://kallithea-scm.org/repos/kallithea",
@@ -13924,7 +13981,7 @@
 			]
 		},
 		{
-			"ID": 741,
+			"ID": 744,
 			"N": "Klaus",
 			"D": "Simple, easy-to-set-up Git web viewer that Just Works.",
 			"Sr": "https://github.com/jonashaag/klaus/",
@@ -13942,7 +13999,7 @@
 			"update": "2018-11-10"
 		},
 		{
-			"ID": 742,
+			"ID": 745,
 			"N": "Lavagna",
 			"D": "Lavagna is an open-source issue/project management tool designed for small teams. Lightweight, pure Java, easy to install, easy to use.",
 			"Sr": "https://github.com/digitalfondue/lavagna",
@@ -13961,7 +14018,7 @@
 			"update": "2019-01-05"
 		},
 		{
-			"ID": 743,
+			"ID": 746,
 			"N": "Octobox",
 			"D": "Take back control of your GitHub Notifications.",
 			"Sr": "https://github.com/octobox/octobox",
@@ -13981,7 +14038,7 @@
 			"update": "2019-01-11"
 		},
 		{
-			"ID": 744,
+			"ID": 747,
 			"N": "OpenProject",
 			"D": "OpenProject is a web-based project management system.",
 			"Sr": "https://github.com/opf/openproject",
@@ -14000,7 +14057,7 @@
 			"update": "2019-01-11"
 		},
 		{
-			"ID": 745,
+			"ID": 748,
 			"N": "Phabricator",
 			"D": "Collection of web applications that help build better software.",
 			"Sr": "https://github.com/phacility/phabricator",
@@ -14016,11 +14073,11 @@
 				"Software Dev",
 				"Project Mgmnt"
 			],
-			"stars": 10425,
+			"stars": 10426,
 			"update": "2019-01-11"
 		},
 		{
-			"ID": 746,
+			"ID": 749,
 			"N": "Phproject",
 			"D": "High performance full-featured project management system.",
 			"Sr": "https://github.com/Alanaktion/phproject",
@@ -14040,7 +14097,7 @@
 			"update": "2018-12-24"
 		},
 		{
-			"ID": 747,
+			"ID": 750,
 			"N": "Redmine",
 			"D": "Redmine is a flexible project management web application.",
 			"Sr": "https://svn.redmine.org/redmine/",
@@ -14058,7 +14115,7 @@
 			]
 		},
 		{
-			"ID": 748,
+			"ID": 751,
 			"N": "RhodeCode",
 			"D": "RhodeCode is an open source platform for software development teams. It unifies and simplifies repository management for Git, Subversion, and Mercurial.",
 			"Sr": "https://code.rhodecode.com/",
@@ -14076,7 +14133,7 @@
 			]
 		},
 		{
-			"ID": 749,
+			"ID": 752,
 			"N": "SCM Manager",
 			"D": "The easiest way to share and manage your Git, Mercurial and Subversion repositories over http.",
 			"Sr": "https://bitbucket.org/sdorra/scm-manager/src",
@@ -14093,7 +14150,7 @@
 			]
 		},
 		{
-			"ID": 750,
+			"ID": 753,
 			"N": "Taiga",
 			"D": "Agile Project Management Tool based on the Kanban and Scrum methods.",
 			"Sr": "https://github.com/taigaio",
@@ -14110,7 +14167,7 @@
 			]
 		},
 		{
-			"ID": 751,
+			"ID": 754,
 			"N": "The Bug Genie",
 			"D": "The Bug Genie is a friendly project management and issue tracking tool.",
 			"Sr": "https://github.com/thebuggenie/thebuggenie",
@@ -14129,7 +14186,7 @@
 			"update": "2019-01-11"
 		},
 		{
-			"ID": 752,
+			"ID": 755,
 			"N": "Trac",
 			"D": "Trac is an enhanced wiki and issue tracking system for software development projects.",
 			"Sr": "http://trac.edgewall.org/",
@@ -14145,7 +14202,7 @@
 			]
 		},
 		{
-			"ID": 753,
+			"ID": 756,
 			"N": "Tuleap",
 			"D": "Tuleap is a libre suite to plan, track, code and collaborate on software projects.",
 			"Sr": "https://tuleap.net/plugins/git/tuleap/tuleap/stable?p=tuleap%2Fstable.git\u0026a=tree",
@@ -14162,7 +14219,7 @@
 			]
 		},
 		{
-			"ID": 754,
+			"ID": 757,
 			"N": "Babelfish",
 			"D": "Self-hosted server for source code parsing. It can parse any file, in any supported language, extract an Abstract Syntax Tree from it, and convert it to a Universal Abstract Syntax Tree which can enable further analysis and transformation.",
 			"Sr": "https://github.com/bblfsh/",
@@ -14179,7 +14236,7 @@
 			]
 		},
 		{
-			"ID": 755,
+			"ID": 758,
 			"N": "Eclipse Che",
 			"D": "Open source workspace server and cloud IDE.",
 			"Sr": "https://github.com/eclipse/che",
@@ -14199,7 +14256,7 @@
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 756,
+			"ID": 759,
 			"N": "ICEcoder",
 			"D": "ICEcoder is a web IDE / browser based code editor, which allows you to develop websites directly within the web browser.",
 			"Sr": "https://github.com/mattpass/ICEcoder",
@@ -14219,7 +14276,7 @@
 			"update": "2018-12-14"
 		},
 		{
-			"ID": 757,
+			"ID": 760,
 			"N": "JS Bin",
 			"D": "Open source collaborative web development debugging tool.",
 			"Sr": "https://github.com/jsbin/jsbin",
@@ -14238,7 +14295,7 @@
 			"update": "2018-10-29"
 		},
 		{
-			"ID": 758,
+			"ID": 761,
 			"N": "Judge0 API",
 			"D": "Open source API to compile and run source code.",
 			"Sr": "https://github.com/judge0/api",
@@ -14257,7 +14314,7 @@
 			"update": "2019-01-11"
 		},
 		{
-			"ID": 759,
+			"ID": 762,
 			"N": "Koding",
 			"D": "The simplest way to manage your entire Dev Infrastructure.",
 			"Sr": "https://github.com/koding/koding",
@@ -14276,7 +14333,7 @@
 			"update": "2018-11-04"
 		},
 		{
-			"ID": 760,
+			"ID": 763,
 			"N": "Microglark",
 			"D": "Hacky minimalistic remote pair programming editor.",
 			"Sr": "https://github.com/Bluefinch/microglark",
@@ -14296,7 +14353,7 @@
 			"update": "2016-07-18"
 		},
 		{
-			"ID": 761,
+			"ID": 764,
 			"N": "Regexr",
 			"D": "RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.",
 			"Sr": "https://github.com/gskinner/regexr/",
@@ -14315,7 +14372,7 @@
 			"update": "2018-11-02"
 		},
 		{
-			"ID": 762,
+			"ID": 765,
 			"N": "RequestBin",
 			"D": "Inspect HTTP requests. Debug webhooks.",
 			"Sr": "https://github.com/Runscope/requestbin",
@@ -14334,7 +14391,7 @@
 			"update": "2018-04-09"
 		},
 		{
-			"ID": 763,
+			"ID": 766,
 			"N": "RStudio Server",
 			"D": "Web browser based IDE for R.",
 			"Sr": "https://github.com/rstudio/rstudio/",
@@ -14350,11 +14407,11 @@
 				"Software Dev",
 				"IDE"
 			],
-			"stars": 2589,
+			"stars": 2590,
 			"update": "2019-01-12"
 		},
 		{
-			"ID": 764,
+			"ID": 767,
 			"N": "Selenoid",
 			"D": "Lightweight Selenium hub implementation launching browsers within Docker containers.",
 			"Sr": "https://github.com/aerokube/selenoid",
@@ -14373,7 +14430,7 @@
 			"update": "2019-01-12"
 		},
 		{
-			"ID": 765,
+			"ID": 768,
 			"N": "sourcegraph",
 			"D": "Sourcegraph is a fast, open-source, fully-featured code search and navigation engine written in Go.",
 			"Sr": "https://github.com/sourcegraph/sourcegraph",
@@ -14388,11 +14445,11 @@
 				"Software Dev",
 				"IDE"
 			],
-			"stars": 1194,
+			"stars": 1195,
 			"update": "2019-01-14"
 		},
 		{
-			"ID": 766,
+			"ID": 769,
 			"N": "Wide",
 			"D": "Web-based IDE for Teams using Go programming language/Golang.",
 			"Sr": "https://github.com/b3log/wide",
@@ -14411,7 +14468,7 @@
 			"update": "2019-01-02"
 		},
 		{
-			"ID": 767,
+			"ID": 770,
 			"N": "Zalenium",
 			"D": "Allows anyone to have a disposable and flexible Docker-based Selenium Grid infrastructure featuring video recording, live preview and online/offline dashboards.",
 			"Sr": "https://github.com/zalando/zalenium",
@@ -14430,7 +14487,7 @@
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 768,
+			"ID": 771,
 			"N": "Concourse",
 			"D": "Concourse is a CI tool that treats pipelines as first class objects and containerizes every step along the way.",
 			"Sr": "https://github.com/concourse/concourse",
@@ -14450,7 +14507,7 @@
 			"update": "2019-01-12"
 		},
 		{
-			"ID": 769,
+			"ID": 772,
 			"N": "drone",
 			"D": "Drone is a Continuous Delivery platform built on Docker, written in Go.",
 			"Sr": "https://github.com/drone/drone",
@@ -14469,7 +14526,7 @@
 			"update": "2018-12-06"
 		},
 		{
-			"ID": 770,
+			"ID": 773,
 			"N": "Factor",
 			"D": "It's like IFTTT (if-this-then-that) for Dev and DevOps.",
 			"Sr": "https://github.com/factor-io/factor",
@@ -14488,7 +14545,7 @@
 			"update": "2016-05-11"
 		},
 		{
-			"ID": 771,
+			"ID": 774,
 			"N": "GolangCI",
 			"D": "Open Source automated code review service for Go integrated with GitHub pull requests.",
 			"Sr": "https://github.com/golangci/golangci",
@@ -14507,7 +14564,7 @@
 			"update": "2018-05-25"
 		},
 		{
-			"ID": 772,
+			"ID": 775,
 			"N": "Jenkins",
 			"D": "Continuous Integration Server.",
 			"Sr": "https://github.com/jenkinsci/jenkins/",
@@ -14526,7 +14583,7 @@
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 773,
+			"ID": 776,
 			"N": "Laminar",
 			"D": "Fast, lightweight, simple and flexible Continuous Integration.",
 			"Sr": "https://github.com/ohwgiles/laminar",
@@ -14545,7 +14602,7 @@
 			"update": "2018-12-30"
 		},
 		{
-			"ID": 774,
+			"ID": 777,
 			"N": "PHP Censor",
 			"D": "Open source self-hosted continuous integration server for PHP projects.",
 			"Sr": "https://github.com/php-censor/php-censor",
@@ -14563,7 +14620,7 @@
 			"update": "2019-01-12"
 		},
 		{
-			"ID": 775,
+			"ID": 778,
 			"N": "PHPCI",
 			"D": "Free and open source continuous integration specifically designed for PHP.",
 			"Sr": "https://github.com/block8/phpci",
@@ -14582,7 +14639,7 @@
 			"update": "2018-12-05"
 		},
 		{
-			"ID": 776,
+			"ID": 779,
 			"N": "Strider",
 			"D": "Open Source Continuous Deployment / Continuous Integration platform.",
 			"Sr": "https://github.com/Strider-CD/strider",
@@ -14601,7 +14658,7 @@
 			"update": "2018-08-14"
 		},
 		{
-			"ID": 777,
+			"ID": 780,
 			"N": "FX",
 			"D": "fx is a tool to help you do Function as a Service with painless on your own servers.",
 			"Sr": "https://github.com/metrue/fx",
@@ -14620,7 +14677,7 @@
 			"update": "2019-01-02"
 		},
 		{
-			"ID": 778,
+			"ID": 781,
 			"N": "IronFunctions",
 			"D": "The serverless microservices platform by [iron.io](https://www.iron.io/).",
 			"Sr": "https://github.com/iron-io/functions",
@@ -14639,7 +14696,7 @@
 			"update": "2018-08-20"
 		},
 		{
-			"ID": 779,
+			"ID": 782,
 			"N": "LocalStack",
 			"D": "LocalStack is a fully functional local AWS cloud stack. This includes Lambda for serverless computation.",
 			"Sr": "https://github.com/localstack/localstack",
@@ -14655,11 +14712,11 @@
 				"FAAS",
 				"Severless"
 			],
-			"stars": 14823,
+			"stars": 14826,
 			"update": "2019-01-07"
 		},
 		{
-			"ID": 780,
+			"ID": 783,
 			"N": "OpenFaaS",
 			"D": "Serverless Functions Made Simple for Docker \u0026 Kubernetes.",
 			"Sr": "https://github.com/openfaas/faas",
@@ -14679,7 +14736,7 @@
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 781,
+			"ID": 784,
 			"N": "DreamFactory",
 			"D": "Turns any SQL/NoSQL/Structured data into Restful API.",
 			"Sr": "https://github.com/dreamfactorysoftware/dreamfactory",
@@ -14698,7 +14755,7 @@
 			"update": "2018-09-19"
 		},
 		{
-			"ID": 782,
+			"ID": 785,
 			"N": "Endpoint",
 			"D": "Super simple mock HTTP API endpoints that return static JSON data, for testing webhooks and client libraries in development.",
 			"Sr": "https://github.com/LINKIWI/endpoint/",
@@ -14716,7 +14773,7 @@
 			"update": "2018-03-05"
 		},
 		{
-			"ID": 783,
+			"ID": 786,
 			"N": "Fusio",
 			"D": "Open-source API management platform which helps to build and manage REST APIs.",
 			"Sr": "https://github.com/apioo/fusio",
@@ -14736,7 +14793,7 @@
 			"update": "2019-01-07"
 		},
 		{
-			"ID": 784,
+			"ID": 787,
 			"N": "Hapttic",
 			"D": "Simple HTTP server that forwards all requests to a shell script to handle webhooks you receive.",
 			"Sr": "https://github.com/jsoendermann/hapttic",
@@ -14754,7 +14811,7 @@
 			"update": "2018-11-21"
 		},
 		{
-			"ID": 785,
+			"ID": 788,
 			"N": "Para",
 			"D": "Flexible and modular backend framework/server for object persistence, API development and authentication.",
 			"Sr": "https://github.com/erudika/para",
@@ -14773,7 +14830,7 @@
 			"update": "2019-01-04"
 		},
 		{
-			"ID": 786,
+			"ID": 789,
 			"N": "Docstore",
 			"D": "Static document hosting without any server-side processing, does not require you to recompile every time you change an article. Clone the repository and add articles in the text/ directory to get started.",
 			"Sr": "https://github.com/haldean/docstore",
@@ -14792,7 +14849,7 @@
 			"update": "2017-04-04"
 		},
 		{
-			"ID": 787,
+			"ID": 790,
 			"N": "Flatdoc",
 			"D": "Small Javascript file that fetches Markdown files and renders them as full pages.",
 			"Sr": "http://ricostacruz.com/flatdoc/",
@@ -14808,7 +14865,7 @@
 			]
 		},
 		{
-			"ID": 788,
+			"ID": 791,
 			"N": "markdown-tree",
 			"D": "Serve a hierarchy / tree directory of markdown files. Use intended for small sites built in markdown.",
 			"Sr": "https://github.com/mil/markdown-tree",
@@ -14826,7 +14883,7 @@
 			"update": "2015-01-24"
 		},
 		{
-			"ID": 789,
+			"ID": 792,
 			"N": "Read the Docs",
 			"D": "Host documentation, making it fully searchable and easy to find; import your docs using any major version control system, including Mercurial, Git, Subversion, and Bazaar.",
 			"Sr": "https://github.com/rtfd/readthedocs.org",
@@ -14846,7 +14903,7 @@
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 790,
+			"ID": 793,
 			"N": "Accent",
 			"D": "Open-source, self-hosted, developer-oriented translation tool.",
 			"Sr": "https://github.com/mirego/accent",
@@ -14865,7 +14922,7 @@
 			"update": "2019-01-11"
 		},
 		{
-			"ID": 791,
+			"ID": 794,
 			"N": "Parrot",
 			"D": "Self-hosted Localization Management Platform built with Go and Angular 2.",
 			"Sr": "https://github.com/parrot-translate/parrot",
@@ -14884,7 +14941,7 @@
 			"update": "2018-05-26"
 		},
 		{
-			"ID": 792,
+			"ID": 795,
 			"N": "Pootle",
 			"D": "Online translation and localization tool.",
 			"Sr": "https://github.com/translate/pootle",
@@ -14903,7 +14960,7 @@
 			"update": "2018-04-21"
 		},
 		{
-			"ID": 793,
+			"ID": 796,
 			"N": "Weblate",
 			"D": "Web-based translation tool with tight version control integration.",
 			"Sr": "https://github.com/WeblateOrg/weblate",
@@ -14923,7 +14980,7 @@
 			"update": "2019-01-12"
 		},
 		{
-			"ID": 794,
+			"ID": 797,
 			"N": "Zanata",
 			"D": "Web-based translation platform for translators, content creators and developers to manage localisation projects.",
 			"Sr": "https://github.com/zanata/zanata-platform",
@@ -14942,7 +14999,7 @@
 			"update": "2018-09-04"
 		},
 		{
-			"ID": 795,
+			"ID": 798,
 			"N": "Crepido",
 			"D": "Create (kanban) boards to track users and projects from flat markdown files.",
 			"Sr": "https://github.com/arshad/crepido",
@@ -14960,7 +15017,7 @@
 			"update": "2015-12-27"
 		},
 		{
-			"ID": 796,
+			"ID": 799,
 			"N": "Kanboard",
 			"D": "Simple and open source visual task board.",
 			"Sr": "https://github.com/kanboard/kanboard",
@@ -14979,7 +15036,7 @@
 			"update": "2019-01-12"
 		},
 		{
-			"ID": 797,
+			"ID": 800,
 			"N": "myTinyTodo",
 			"D": "Simple way to manage your todo list in AJAX style. Uses PHP, jQuery, SQLite/MySQL. GTD compliant.",
 			"Sr": "https://bitbucket.org/maxpozdeev/mytinytodo",
@@ -14997,7 +15054,7 @@
 			]
 		},
 		{
-			"ID": 798,
+			"ID": 801,
 			"N": "omgnata",
 			"D": "Mobile friendly zero-feature TODO list web app. Unix philosophy.",
 			"Sr": "https://github.com/chr15m/omgnata",
@@ -15015,7 +15072,7 @@
 			"update": "2018-05-13"
 		},
 		{
-			"ID": 799,
+			"ID": 802,
 			"N": "PHP Task/Todo list",
 			"D": "Simple task/todo list that uses a JSON text file for the tasks.",
 			"Sr": "https://github.com/lgg/tasks.php",
@@ -15033,7 +15090,7 @@
 			"update": "2016-05-10"
 		},
 		{
-			"ID": 800,
+			"ID": 803,
 			"N": "Restyaboard",
 			"D": "Open source Trello-like kanban board.",
 			"Sr": "https://github.com/RestyaPlatform/board",
@@ -15053,7 +15110,7 @@
 			"update": "2019-01-10"
 		},
 		{
-			"ID": 801,
+			"ID": 804,
 			"N": "scrumblr",
 			"D": "Collaborative Online Scrum Tool Using Websockets, Node.js, jQuery, and CSS3.",
 			"Sr": "https://github.com/ocdtrekkie/scrumblr/tree/sandstorm",
@@ -15073,7 +15130,7 @@
 			"update": "2018-05-30"
 		},
 		{
-			"ID": 802,
+			"ID": 805,
 			"N": "TaskBoard",
 			"D": "Kanban-inspired app for keeping track of things that need to get done.",
 			"Sr": "https://github.com/kiswa/TaskBoard",
@@ -15093,7 +15150,7 @@
 			"update": "2018-05-30"
 		},
 		{
-			"ID": 803,
+			"ID": 806,
 			"N": "Taskfreak",
 			"D": "Simple but efficient web based task manager written in PHP.",
 			"Sr": "http://www.taskfreak.com/original",
@@ -15109,7 +15166,7 @@
 			]
 		},
 		{
-			"ID": 804,
+			"ID": 807,
 			"N": "Tasks",
 			"D": "Simple tasks and notes manager written in PHP, jQuery and Bootstrap using a custom flat file database.",
 			"Sr": "https://github.com/m1guelpf/tasks",
@@ -15127,7 +15184,7 @@
 			"update": "2018-07-23"
 		},
 		{
-			"ID": 805,
+			"ID": 808,
 			"N": "Tasks",
 			"D": "Kanban based to-do list manager written in Go.",
 			"Sr": "https://github.com/thewhitetulip/Tasks",
@@ -15145,7 +15202,7 @@
 			"update": "2018-12-29"
 		},
 		{
-			"ID": 806,
+			"ID": 809,
 			"N": "tasks.php",
 			"D": "Simple task/todo list manager.",
 			"Sr": "https://github.com/RaymiiOrg/tasks.php",
@@ -15163,7 +15220,7 @@
 			"update": "2013-06-06"
 		},
 		{
-			"ID": 807,
+			"ID": 810,
 			"N": "Taskwarrior",
 			"D": "Taskwarrior is Free and Open Source Software that manages your TODO list from your command line. It is flexible, fast, efficient, and unobtrusive. It does its job then gets out of your way.",
 			"Sr": "https://taskwarrior.org/download/#git",
@@ -15180,7 +15237,7 @@
 			]
 		},
 		{
-			"ID": 808,
+			"ID": 811,
 			"N": "Tinyissue",
 			"D": "Simple Issue Tracking for Teams.",
 			"Sr": "https://github.com/satrun77/tinyissue",
@@ -15198,7 +15255,7 @@
 			"update": "2016-08-19"
 		},
 		{
-			"ID": 809,
+			"ID": 812,
 			"N": "todo",
 			"D": "Simple todo list manager.",
 			"Sr": "https://github.com/prologic/todo",
@@ -15217,7 +15274,7 @@
 			"update": "2018-03-08"
 		},
 		{
-			"ID": 810,
+			"ID": 813,
 			"N": "Tracks",
 			"D": "Web-based application to help you implement David Allen’s [Getting Things Done™](https://en.wikipedia.org/wiki/Getting_Things_Done) methodology.",
 			"Sr": "https://github.com/TracksApp/tracks",
@@ -15236,7 +15293,7 @@
 			"update": "2018-12-07"
 		},
 		{
-			"ID": 811,
+			"ID": 814,
 			"N": "Volition",
 			"D": "Opinionated open-source task management.",
 			"Sr": "https://github.com/garrettqmartin8/volition",
@@ -15256,7 +15313,7 @@
 			"update": "2018-01-22"
 		},
 		{
-			"ID": 812,
+			"ID": 815,
 			"N": "Wekan",
 			"D": "Open-source Trello-like kanban.",
 			"Sr": "https://github.com/wekan/wekan",
@@ -15276,7 +15333,7 @@
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 813,
+			"ID": 816,
 			"N": "Wheatbin",
 			"D": "Project management software that combines Kanban methodology with the Law of the Harvest.",
 			"Sr": "https://github.com/wheatbin/wheatbin",
@@ -15295,7 +15352,7 @@
 			"update": "2017-04-09"
 		},
 		{
-			"ID": 814,
+			"ID": 817,
 			"N": "Brimir",
 			"D": "Simple and clean open-source ticket manager written in Ruby on Rails.",
 			"Sr": "https://github.com/ivaldi/brimir",
@@ -15313,7 +15370,7 @@
 			"update": "2018-12-22"
 		},
 		{
-			"ID": 815,
+			"ID": 818,
 			"N": "Bugzilla",
 			"D": "General-purpose bugtracker and testing tool originally developed and used by the Mozilla project.",
 			"Sr": "https://www.bugzilla.org/",
@@ -15328,7 +15385,7 @@
 			]
 		},
 		{
-			"ID": 816,
+			"ID": 819,
 			"N": "Bumpy Booby",
 			"D": "Simple, responsive and highly customizable PHP bug tracking system.",
 			"Sr": "https://github.com/piero-la-lune/Bumpy-Booby",
@@ -15346,7 +15403,7 @@
 			"update": "2016-09-19"
 		},
 		{
-			"ID": 817,
+			"ID": 820,
 			"N": "Cerb",
 			"D": "Group-based e-mail management project.",
 			"Sr": "https://github.com/wgm/cerb",
@@ -15364,7 +15421,7 @@
 			"update": "2018-04-25"
 		},
 		{
-			"ID": 818,
+			"ID": 821,
 			"N": "Coordino",
 			"D": "Open Source question and answer system on top of CakePHP.",
 			"Sr": "https://github.com/Datawalke/Coordino",
@@ -15382,7 +15439,7 @@
 			"update": "2015-10-23"
 		},
 		{
-			"ID": 819,
+			"ID": 822,
 			"N": "Deskulu",
 			"D": "Opensource helpdesk and ticketing system based on Drupal 7.",
 			"Sr": "https://github.com/Taskulu/deskulu",
@@ -15400,7 +15457,7 @@
 			"update": "2016-06-15"
 		},
 		{
-			"ID": 820,
+			"ID": 823,
 			"N": "DiamanteDesk",
 			"D": "DiamanteDesk is FREE Open Source easy-to-use help-desk solution.",
 			"Sr": "https://github.com/eltrino/diamantedesk-application",
@@ -15419,7 +15476,7 @@
 			"update": "2018-01-03"
 		},
 		{
-			"ID": 821,
+			"ID": 824,
 			"N": "Flyspray",
 			"D": "Uncomplicated, web-based bug tracking system.",
 			"Sr": "https://github.com/Flyspray/flyspray",
@@ -15437,7 +15494,7 @@
 			"update": "2019-01-11"
 		},
 		{
-			"ID": 822,
+			"ID": 825,
 			"N": "FreeScout",
 			"D": "Open source clone of Help Scout: email-based customer support application, help desk and shared mailbox.",
 			"Sr": "https://github.com/freescout-helpdesk/freescout",
@@ -15454,7 +15511,7 @@
 			"update": "2019-01-02"
 		},
 		{
-			"ID": 823,
+			"ID": 826,
 			"N": "HuBoard",
 			"D": "Instant project management for your GitHub issues (Connects directly GitHub API).",
 			"Sr": "https://github.com/huboard/huboard",
@@ -15472,7 +15529,7 @@
 			"update": "2016-07-28"
 		},
 		{
-			"ID": 824,
+			"ID": 827,
 			"N": "MantisBT",
 			"D": "Self hosted bug tracker, fits best for software development.",
 			"Sr": "https://github.com/mantisbt/mantisbt",
@@ -15491,7 +15548,7 @@
 			"update": "2019-01-10"
 		},
 		{
-			"ID": 825,
+			"ID": 828,
 			"N": "OpenSupports",
 			"D": "Multi language ticket system with FAQ, role management, metrics and canned response features.",
 			"Sr": "https://github.com/opensupports/opensupports",
@@ -15510,7 +15567,7 @@
 			"update": "2018-12-02"
 		},
 		{
-			"ID": 826,
+			"ID": 829,
 			"N": "osTicket",
 			"D": "Manage, organize and archive all your support requests and responses in one place.",
 			"Sr": "https://github.com/osTicket/osTicket",
@@ -15528,7 +15585,7 @@
 			"update": "2019-01-07"
 		},
 		{
-			"ID": 827,
+			"ID": 830,
 			"N": "OTRS",
 			"D": "Trouble ticket system for assigning tickets to incoming queries and tracking further communications.",
 			"Sr": "https://github.com/OTRS/otrs",
@@ -15546,7 +15603,7 @@
 			"update": "2019-01-12"
 		},
 		{
-			"ID": 828,
+			"ID": 831,
 			"N": "Request Tracker",
 			"D": "An enterprise-grade issue tracking system.",
 			"Sr": "https://github.com/bestpractical/rt",
@@ -15564,7 +15621,7 @@
 			"update": "2019-01-11"
 		},
 		{
-			"ID": 829,
+			"ID": 832,
 			"N": "Sentry On-Premise",
 			"D": "A powerful error tracking platform with wide language support and a robust API.",
 			"Sr": "https://github.com/getsentry/sentry",
@@ -15583,7 +15640,7 @@
 			"update": "2019-01-12"
 		},
 		{
-			"ID": 830,
+			"ID": 833,
 			"N": "SIT",
 			"D": "SCM-agnostic, file-based, offline-first, immutable issue tracker.",
 			"Sr": "https://github.com/sit-it/sit",
@@ -15601,7 +15658,7 @@
 			"update": "2018-12-20"
 		},
 		{
-			"ID": 831,
+			"ID": 834,
 			"N": "TheBugGenie",
 			"D": "Ticket system with extensive user rights system.",
 			"Sr": "https://github.com/thebuggenie/thebuggenie",
@@ -15619,7 +15676,7 @@
 			"update": "2019-01-11"
 		},
 		{
-			"ID": 832,
+			"ID": 835,
 			"N": "Zammad",
 			"D": "Easy to use but powerful open-source support and ticketing system.",
 			"Sr": "https://github.com/zammad/zammad",
@@ -15637,7 +15694,7 @@
 			"update": "2019-01-08"
 		},
 		{
-			"ID": 833,
+			"ID": 836,
 			"N": "Kutt",
 			"D": "A modern URL shortener with support for custom domains.",
 			"Sr": "https://github.com/thedevs-network/kutt",
@@ -15655,7 +15712,7 @@
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 834,
+			"ID": 837,
 			"N": "Link-shortener-bot",
 			"D": "URL shortener using a Telegram Bot.",
 			"Sr": "https://github.com/tommyku/link-shortener-front-end",
@@ -15674,7 +15731,7 @@
 			"update": "2017-09-29"
 		},
 		{
-			"ID": 835,
+			"ID": 838,
 			"N": "Linkr",
 			"D": "Beautiful, fast URL shortening.",
 			"Sr": "https://github.com/LINKIWI/linkr",
@@ -15694,7 +15751,7 @@
 			"update": "2018-12-27"
 		},
 		{
-			"ID": 836,
+			"ID": 839,
 			"N": "Lstu",
 			"D": "_Let's SHorten That Url_ - Lightweight URL shortener.",
 			"Sr": "https://github.com/ldidry/lstu",
@@ -15711,7 +15768,7 @@
 			"update": "2018-12-17"
 		},
 		{
-			"ID": 837,
+			"ID": 840,
 			"N": "Nimbus",
 			"D": "URL shortener and file sharer with a drag-and-drop OS X menu bar client and web interface.",
 			"Sr": "https://github.com/ethanal/nimbus",
@@ -15728,7 +15785,7 @@
 			"update": "2017-04-18"
 		},
 		{
-			"ID": 838,
+			"ID": 841,
 			"N": "Polr",
 			"D": "Modern, minimalist, modular, and lightweight URL shortener.",
 			"Sr": "https://github.com/Cydrobolt/polr",
@@ -15746,7 +15803,7 @@
 			"update": "2018-05-24"
 		},
 		{
-			"ID": 839,
+			"ID": 842,
 			"N": "reduc.io",
 			"D": "URL shortener service written in Scala, using Akka-Http and Redis.",
 			"Sr": "https://github.com/ziyasal/reducio",
@@ -15763,7 +15820,7 @@
 			"update": "2018-11-23"
 		},
 		{
-			"ID": 840,
+			"ID": 843,
 			"N": "schort",
 			"D": "No login, no javascript, just short links.",
 			"Sr": "https://github.com/sqozz/schort",
@@ -15781,7 +15838,7 @@
 			"update": "2018-06-09"
 		},
 		{
-			"ID": 841,
+			"ID": 844,
 			"N": "shorturl",
 			"D": "Simple URL shortener with very tiny URLs.",
 			"Sr": "https://github.com/prologic/shorturl",
@@ -15799,7 +15856,7 @@
 			"update": "2018-12-31"
 		},
 		{
-			"ID": 842,
+			"ID": 845,
 			"N": "shuri",
 			"D": "SHort URI - Lighweight URL shortener.",
 			"Sr": "https://github.com/pips-/shuri",
@@ -15816,7 +15873,7 @@
 			"update": "2018-04-27"
 		},
 		{
-			"ID": 843,
+			"ID": 846,
 			"N": "url-shortener",
 			"D": "Shitty url shortener, emoji and AI powered.",
 			"Sr": "https://github.com/cagataycali/url-shortener",
@@ -15834,7 +15891,7 @@
 			"update": "2018-07-05"
 		},
 		{
-			"ID": 844,
+			"ID": 847,
 			"N": "YOURLS",
 			"D": "YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener. Features include password protection, URL customization, bookmarklets, statistics, API, plugins, jsonp.",
 			"Sr": "https://github.com/YOURLS/YOURLS/",
@@ -15852,7 +15909,7 @@
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 845,
+			"ID": 848,
 			"N": "BookStack",
 			"D": "BookStack is a simple, self-hosted, easy-to-use platform for organizing and storing information. It allows for documentation to be stored in a book like fashion.",
 			"Sr": "https://github.com/ssddanbrown/BookStack",
@@ -15871,7 +15928,7 @@
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 846,
+			"ID": 849,
 			"N": "Cowyo",
 			"D": "Cowyo is a feature-rich wiki for minimalists.",
 			"Sr": "https://github.com/schollz/cowyo/",
@@ -15889,7 +15946,7 @@
 			"update": "2018-08-23"
 		},
 		{
-			"ID": 847,
+			"ID": 850,
 			"N": "django-wiki",
 			"D": "Wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models.",
 			"Sr": "https://github.com/django-wiki/django-wiki",
@@ -15907,7 +15964,7 @@
 			"update": "2018-11-16"
 		},
 		{
-			"ID": 848,
+			"ID": 851,
 			"N": "Documize",
 			"D": "Modern Docs + Wiki software with built-in workflow, single binary executable, just bring MySQL/Percona.",
 			"Sr": "https://github.com/documize/community",
@@ -15925,7 +15982,7 @@
 			"update": "2018-11-21"
 		},
 		{
-			"ID": 849,
+			"ID": 852,
 			"N": "Dokuwiki",
 			"D": "Easy to use, lightweight, standards-compliant wiki engine with a simple syntax allowing reading the data outside the wiki. All data is stored in plain files, therefore no database is required.",
 			"Sr": "https://github.com/splitbrain/dokuwiki",
@@ -15943,7 +16000,7 @@
 			"update": "2019-01-09"
 		},
 		{
-			"ID": 850,
+			"ID": 853,
 			"N": "Gitit",
 			"D": "Wiki program that stores pages and uploaded files in a git repository, which can then be modified using the VCS command line tools or the wiki's web interface.",
 			"Sr": "https://github.com/jgm/gitit",
@@ -15960,7 +16017,7 @@
 			"update": "2018-12-31"
 		},
 		{
-			"ID": 851,
+			"ID": 854,
 			"N": "Gollum",
 			"D": "Simple, Git-powered wiki with a sweet API and local frontend.",
 			"Sr": "https://github.com/gollum/gollum",
@@ -15973,11 +16030,11 @@
 			"T": [
 				"Wiki"
 			],
-			"stars": 9677,
+			"stars": 9678,
 			"update": "2018-12-02"
 		},
 		{
-			"ID": 852,
+			"ID": 855,
 			"N": "jingo",
 			"D": "Git based wiki engine written for node.js, with a decent design, a search capability and a good typography.",
 			"Sr": "https://github.com/claudioc/jingo",
@@ -15996,7 +16053,7 @@
 			"update": "2018-12-18"
 		},
 		{
-			"ID": 853,
+			"ID": 856,
 			"N": "Mediawiki",
 			"D": "MediaWiki is a free and open-source wiki software package written in PHP. It serves as the platform for Wikipedia and the other Wikimedia projects, used by hundreds of millions of people each month.",
 			"Sr": "https://phabricator.wikimedia.org/diffusion/MW/",
@@ -16012,7 +16069,7 @@
 			]
 		},
 		{
-			"ID": 854,
+			"ID": 857,
 			"N": "MoinMoin",
 			"D": "Advanced, easy to use and extensible WikiEngine with a large community of users.",
 			"Sr": "http://hg.moinmo.in/moin",
@@ -16028,7 +16085,7 @@
 			]
 		},
 		{
-			"ID": 855,
+			"ID": 858,
 			"N": "Olelo",
 			"D": "Olelo is a wiki that stores pages in a Git repository, supports many markup styles and has an extensible, hackable architecture.",
 			"Sr": "https://github.com/minad/olelo",
@@ -16046,7 +16103,7 @@
 			"update": "2017-02-05"
 		},
 		{
-			"ID": 856,
+			"ID": 859,
 			"N": "Outline",
 			"D": "An open, extensible, wiki for your team built using React and Node.js.",
 			"Sr": "https://github.com/outline/outline",
@@ -16065,7 +16122,7 @@
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 857,
+			"ID": 860,
 			"N": "Pepperminty Wiki",
 			"D": "Complete markdown-powered wiki contained in a single PHP file.",
 			"Sr": "https://github.com/sbrl/Pepperminty-Wiki/",
@@ -16083,7 +16140,7 @@
 			"update": "2019-01-06"
 		},
 		{
-			"ID": 858,
+			"ID": 861,
 			"N": "PineDocs",
 			"D": "Simple, fast, customizable and lightweight site for browsing files.",
 			"Sr": "https://github.com/xy2z/PineDocs",
@@ -16100,7 +16157,7 @@
 			"update": "2018-10-27"
 		},
 		{
-			"ID": 859,
+			"ID": 862,
 			"N": "PmWiki",
 			"D": "Wiki-based system for collaborative creation and maintenance of websites.",
 			"Sr": "http://www.pmwiki.org",
@@ -16115,7 +16172,7 @@
 			]
 		},
 		{
-			"ID": 860,
+			"ID": 863,
 			"N": "Raneto",
 			"D": "Raneto is an open source Knowledgebase platform that uses static Markdown files to power your Knowledgebase.",
 			"Sr": "http://raneto.com/",
@@ -16130,7 +16187,7 @@
 			]
 		},
 		{
-			"ID": 861,
+			"ID": 864,
 			"N": "Realms",
 			"D": "Git-backed wiki inspired by Gollum.",
 			"Sr": "https://github.com/scragg0x/realms-wiki",
@@ -16148,7 +16205,7 @@
 			"update": "2018-07-24"
 		},
 		{
-			"ID": 862,
+			"ID": 865,
 			"N": "TiddlyWiki",
 			"D": "Reusable non-linear personal web notebook.",
 			"Sr": "https://github.com/Jermolene/TiddlyWiki5",
@@ -16162,11 +16219,11 @@
 			"T": [
 				"Wiki"
 			],
-			"stars": 3722,
+			"stars": 3723,
 			"update": "2019-01-11"
 		},
 		{
-			"ID": 863,
+			"ID": 866,
 			"N": "Tiki",
 			"D": "Wiki CMS Groupware with the most built-in features.",
 			"Sr": "https://sourceforge.net/p/tikiwiki/code/HEAD/tree/",
@@ -16183,7 +16240,7 @@
 			]
 		},
 		{
-			"ID": 864,
+			"ID": 867,
 			"N": "TWiki",
 			"D": "TWiki is a Perl-based structured wiki application, typically used to run a collaboration platform, knowledge or document management system, a knowledge base, or team portal.",
 			"Sr": "http://svn.twiki.org/svn/twiki/",
@@ -16200,7 +16257,7 @@
 			]
 		},
 		{
-			"ID": 865,
+			"ID": 868,
 			"N": "wiki",
 			"D": "Simple Markdown based wiki engine.",
 			"Sr": "https://github.com/prologic/wiki",
@@ -16218,7 +16275,7 @@
 			"update": "2018-05-21"
 		},
 		{
-			"ID": 866,
+			"ID": 869,
 			"N": "Wiki.js",
 			"D": "Modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown.",
 			"Sr": "https://wiki.js.org/",
@@ -16234,7 +16291,7 @@
 			]
 		},
 		{
-			"ID": 867,
+			"ID": 870,
 			"N": "WiKiss",
 			"D": "Wiki, simple to use and install.",
 			"Sr": "https://svnweb.tuxfamily.org/listing.php?repname=wikiss/svn\u0026path=%2F\u0026sc=0",
@@ -16250,7 +16307,7 @@
 			]
 		},
 		{
-			"ID": 868,
+			"ID": 871,
 			"N": "XWiki",
 			"D": "Second generation wiki that allows the user to extend its functionalities with a powerful extension-based architecture.",
 			"Sr": "https://github.com/xwiki/xwiki-platform",
@@ -16269,7 +16326,7 @@
 			"update": "2019-01-12"
 		},
 		{
-			"ID": 869,
+			"ID": 872,
 			"N": "1Backend",
 			"D": "Self-host web apps, microservices and lambdas on your server. Advanced features enable service reuse and composition.",
 			"Sr": "https://github.com/1backend/1backend",
@@ -16286,7 +16343,7 @@
 			"update": "2018-03-11"
 		},
 		{
-			"ID": 870,
+			"ID": 873,
 			"N": "Ansible-NAS",
 			"D": "Build a full-featured home server with this playbook and an Ubuntu box.",
 			"Sr": "https://github.com/DaveStephens/ansible-nas",
@@ -16304,7 +16361,7 @@
 			"update": "2019-01-12"
 		},
 		{
-			"ID": 871,
+			"ID": 874,
 			"N": "DietPi",
 			"D": "Minimal Debian OS optimized for single-board computers, which allows you to easily install and manage several services for selfhosting at home.",
 			"Sr": "https://github.com/Fourdee/DietPi",
@@ -16322,7 +16379,7 @@
 			"update": "2018-12-10"
 		},
 		{
-			"ID": 872,
+			"ID": 875,
 			"N": "DPlatform",
 			"D": "Deploy self-hosted apps easily: simple, bloat-free, independent installation.",
 			"Sr": "https://github.com/j8r/DPlatform",
@@ -16340,7 +16397,7 @@
 			"update": "2018-04-19"
 		},
 		{
-			"ID": 873,
+			"ID": 876,
 			"N": "FreedomBone",
 			"D": "Home server configuration based on Debian.",
 			"Sr": "https://code.freedombone.net/bashrc/freedombone",
@@ -16356,7 +16413,7 @@
 			]
 		},
 		{
-			"ID": 874,
+			"ID": 877,
 			"N": "FreedomBox",
 			"D": "Community project to develop, design and promote personal servers running free software for private, personal, communications.",
 			"Sr": "https://wiki.debian.org/FreedomBox",
@@ -16371,7 +16428,7 @@
 			]
 		},
 		{
-			"ID": 875,
+			"ID": 878,
 			"N": "FreeNAS",
 			"D": "Network-attached storage (NAS) software based on FreeBSD and the OpenZFS file system. Support for SMB, AFP, NFS, iSCSI, SSH, rsync and FTP/TFTP protocols. Advanced features include full-disk encryption and plug-ins.",
 			"Sr": "https://github.com/freenas/freenas",
@@ -16385,11 +16442,11 @@
 			"T": [
 				"Self-hosting Solution"
 			],
-			"stars": 1120,
+			"stars": 1121,
 			"update": "2019-01-12"
 		},
 		{
-			"ID": 876,
+			"ID": 879,
 			"N": "HomelabOS",
 			"D": "Your very own offline-first privacy-centric open-source data-center.",
 			"Sr": "https://gitlab.com/NickBusey/HomelabOS",
@@ -16406,7 +16463,7 @@
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 877,
+			"ID": 880,
 			"N": "OpenMediaVault",
 			"D": "OpenMediaVault is the next generation network attached storage (NAS) solution based on Debian Linux. It contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more.",
 			"Sr": "https://github.com/openmediavault/openmediavault",
@@ -16424,7 +16481,7 @@
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 878,
+			"ID": 881,
 			"N": "Piratebox",
 			"D": "DIY anonymous offline file-sharing and communications system built with free software and inexpensive off-the-shelf hardware.",
 			"Sr": "https://github.com/PirateBox-Dev",
@@ -16440,7 +16497,7 @@
 			]
 		},
 		{
-			"ID": 879,
+			"ID": 882,
 			"N": "Puffin",
 			"D": "Lightweight webapp catalog based on containers, with user interface à la mobile app store.",
 			"Sr": "https://github.com/puffinrocks/puffin",
@@ -16460,7 +16517,7 @@
 			"update": "2018-05-10"
 		},
 		{
-			"ID": 880,
+			"ID": 883,
 			"N": "Sandstorm",
 			"D": "Personal server for running self-hosted apps easily and securely.",
 			"Sr": "https://github.com/sandstorm-io/sandstorm",
@@ -16475,11 +16532,11 @@
 			"T": [
 				"Self-hosting Solution"
 			],
-			"stars": 4929,
+			"stars": 4931,
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 881,
+			"ID": 884,
 			"N": "sovereign",
 			"D": "Set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.",
 			"Sr": "https://github.com/sovereign/sovereign",
@@ -16496,7 +16553,7 @@
 			"update": "2018-04-27"
 		},
 		{
-			"ID": 882,
+			"ID": 885,
 			"N": "Syncloud",
 			"D": "Your own online file storage, social network or email server.",
 			"Sr": "https://github.com/syncloud/platform",
@@ -16514,7 +16571,7 @@
 			"update": "2019-01-13"
 		},
 		{
-			"ID": 883,
+			"ID": 886,
 			"N": "UBOS",
 			"D": "Linux distro that runs on indie boxes (personal servers and IoT devices). Single-command installation and management of apps - Jenkins, Mediawiki, Owncloud, WordPress, etc., and other [features](http://ubos.net/about/).",
 			"Sr": "http://ubos.net/",
@@ -16529,7 +16586,7 @@
 			]
 		},
 		{
-			"ID": 884,
+			"ID": 887,
 			"N": "WikiSuite",
 			"D": "The most comprehensive and integrated Free / Libre / Open Source software suite ever developed.",
 			"Sr": "http://wikisuite.org/Source-Code",
@@ -16545,7 +16602,7 @@
 			]
 		},
 		{
-			"ID": 885,
+			"ID": 888,
 			"N": "YunoHost",
 			"D": "Server operating system aiming to make self-hosting accessible to everyone.",
 			"Sr": "https://github.com/YunoHost",
@@ -16565,7 +16622,7 @@
 	"Langs": [
 		{
 			"Lang": ".NET",
-			"Count": 1
+			"Count": 2
 		},
 		{
 			"Lang": "C",
@@ -16653,11 +16710,11 @@
 		},
 		{
 			"Lang": "Ruby",
-			"Count": 55
+			"Count": 56
 		},
 		{
 			"Lang": "Rust",
-			"Count": 1
+			"Count": 2
 		},
 		{
 			"Lang": "Shell",
@@ -16695,7 +16752,7 @@
 		},
 		{
 			"Tag": "Audio",
-			"C": 26
+			"C": 27
 		},
 		{
 			"Tag": "Automation",
@@ -16723,7 +16780,7 @@
 		},
 		{
 			"Tag": "CMS",
-			"C": 66
+			"C": 67
 		},
 		{
 			"Tag": "CalDAV",
@@ -16791,7 +16848,7 @@
 		},
 		{
 			"Tag": "Editor",
-			"C": 19
+			"C": 20
 		},
 		{
 			"Tag": "Email",
@@ -16919,7 +16976,7 @@
 		},
 		{
 			"Tag": "Media",
-			"C": 48
+			"C": 49
 		},
 		{
 			"Tag": "Misc",
@@ -16939,7 +16996,7 @@
 		},
 		{
 			"Tag": "Note-taking",
-			"C": 19
+			"C": 20
 		},
 		{
 			"Tag": "Object Storage",
@@ -17035,7 +17092,7 @@
 		},
 		{
 			"Tag": "Streaming",
-			"C": 48
+			"C": 49
 		},
 		{
 			"Tag": "Task Mgmnt",

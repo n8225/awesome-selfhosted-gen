@@ -3828,6 +3828,18 @@ entries:
   Tags:
   - CMS
 - ID: 301
+  Name: Squidex
+  Description: Headless CMS, based on MongoDB, CQRS and Event Sourcing.
+  Source Code: https://github.com/Squidex/squidex
+  Demo: http://cloud.squidex.io
+  Website: http://squidex.io
+  License:
+  - MIT
+  Languages:
+  - .NET
+  Tags:
+  - CMS
+- ID: 302
   Name: Strapi
   Description: The most advanced open-source Content Management Framework (headless-CMS)
     to build powerful API with no effort.
@@ -3839,7 +3851,7 @@ entries:
   - Nodejs
   Tags:
   - CMS
-- ID: 302
+- ID: 303
   Name: Subrion
   Description: Subrion is a free open source content management system that allows
     you to build websites for any purpose. Yes, from blog to corporate mega portal.
@@ -3852,7 +3864,7 @@ entries:
   - PHP
   Tags:
   - CMS
-- ID: 303
+- ID: 304
   Name: Textpattern
   Description: Flexible, elegant and easy-to-use CMS.
   Source Code: https://github.com/textpattern/textpattern
@@ -3864,7 +3876,7 @@ entries:
   - PHP
   Tags:
   - CMS
-- ID: 304
+- ID: 305
   Name: TYPO3
   Description: Powerful and advanced CMS with a large community.
   Source Code: https://github.com/TYPO3/TYPO3.CMS
@@ -3875,7 +3887,7 @@ entries:
   - PHP
   Tags:
   - CMS
-- ID: 305
+- ID: 306
   Name: Umbraco
   Description: The friendly CMS. Free and open source with an amazing community.
   Source Code: https://github.com/umbraco/Umbraco-CMS
@@ -3886,7 +3898,7 @@ entries:
   - .NET
   Tags:
   - CMS
-- ID: 306
+- ID: 307
   Name: Wagtail
   Description: Django content management system focused on flexibility and user experience.
   Source Code: https://github.com/wagtail/wagtail
@@ -3897,7 +3909,7 @@ entries:
   - Python
   Tags:
   - CMS
-- ID: 307
+- ID: 308
   Name: WonderCMS
   Description: WonderCMS is the smallest flat file CMS since 2008.
   Source Code: https://github.com/robiso/wondercms
@@ -3909,7 +3921,7 @@ entries:
   - PHP
   Tags:
   - CMS
-- ID: 308
+- ID: 309
   Name: WordPress
   Description: The worlds most-used blogging and CMS engine.
   Source Code: https://github.com/WordPress/WordPress
@@ -3920,7 +3932,7 @@ entries:
   - PHP
   Tags:
   - CMS
-- ID: 309
+- ID: 310
   Name: OpenEats
   Description: Recipe management site that allows users to create, store, share and
     rate recipes, create grocery lists, and more.
@@ -3933,7 +3945,7 @@ entries:
   Tags:
   - CMS
   - Recipe Mgmnt
-- ID: 310
+- ID: 311
   Name: Attendize
   Description: Ticket selling and event management platform.
   Source Code: https://github.com/attendize/attendize
@@ -3945,7 +3957,7 @@ entries:
   Tags:
   - CMS
   - E-commerce
-- ID: 311
+- ID: 312
   Name: CoreShop
   Description: CoreShop is a e-commerce plugin for Pimcore.
   Source Code: https://github.com/coreshop/CoreShop
@@ -3957,7 +3969,7 @@ entries:
   Tags:
   - CMS
   - E-commerce
-- ID: 312
+- ID: 313
   Name: Drupal Commerce
   Description: Drupal Commerce is a popular e-commerce module for Drupal CMS, with
     support for dozens of payment, shipping, and shopping related modules.
@@ -3970,7 +3982,7 @@ entries:
   Tags:
   - CMS
   - E-commerce
-- ID: 313
+- ID: 314
   Name: Magento
   Description: Leading provider of open omnichannel innovation.
   Source Code: https://github.com/magento/magento2
@@ -3983,7 +3995,7 @@ entries:
   Tags:
   - CMS
   - E-commerce
-- ID: 314
+- ID: 315
   Name: Microweber
   Description: Drag and Drop CMS and online shop.
   Source Code: https://github.com/microweber/microweber
@@ -3996,7 +4008,7 @@ entries:
   Tags:
   - CMS
   - E-commerce
-- ID: 315
+- ID: 316
   Name: OpenBazaar
   Description: Decentralized marketplace using cryptocurrency.
   Source Code: https://github.com/openbazaar/openbazaar-go
@@ -4008,7 +4020,7 @@ entries:
   Tags:
   - CMS
   - E-commerce
-- ID: 316
+- ID: 317
   Name: OpenCart
   Description: Free open source shopping cart solution.
   Source Code: https://github.com/opencart/opencart
@@ -4020,7 +4032,7 @@ entries:
   Tags:
   - CMS
   - E-commerce
-- ID: 317
+- ID: 318
   Name: Open Classifieds
   Description: Free open-source, self-hosted CMS for classifieds sites.
   Source Code: https://github.com/open-classifieds/openclassifieds2
@@ -4032,7 +4044,7 @@ entries:
   Tags:
   - CMS
   - E-commerce
-- ID: 318
+- ID: 319
   Name: Open Source POS
   Description: Open Source Point of Sale is a web based point of sale system.
   Source Code: https://github.com/opensourcepos/opensourcepos
@@ -4044,7 +4056,7 @@ entries:
   Tags:
   - CMS
   - E-commerce
-- ID: 319
+- ID: 320
   Name: Osclass
   Description: One-stop shop to building your own classifieds marketplace.
   Source Code: https://github.com/osclass/Osclass
@@ -4056,7 +4068,7 @@ entries:
   Tags:
   - CMS
   - E-commerce
-- ID: 320
+- ID: 321
   Name: OXID eShop
   Description: OXID eShop is a flexible open source e-commerce software with a wide
     range of functionalities.
@@ -4070,7 +4082,7 @@ entries:
   Tags:
   - CMS
   - E-commerce
-- ID: 321
+- ID: 322
   Name: Open Food Network
   Description: Online marketplace for local food. It enables a network of independent
     online food stores that connect farmers and food hubs with individuals and local
@@ -4084,7 +4096,7 @@ entries:
   Tags:
   - CMS
   - E-commerce
-- ID: 322
+- ID: 323
   Name: PrestaShop
   Description: PrestaShop offers a free, open-source and fully scalable e-commerce
     solution.
@@ -4098,7 +4110,7 @@ entries:
   Tags:
   - CMS
   - E-commerce
-- ID: 323
+- ID: 324
   Name: Pretix
   Description: Django based ticket sales platform for events.
   Source Code: https://github.com/pretix
@@ -4110,7 +4122,7 @@ entries:
   Tags:
   - CMS
   - E-commerce
-- ID: 324
+- ID: 325
   Name: Reaction Commerce
   Description: Customizable, real-time reactive, JavaScript commerce platform.
   Source Code: https://github.com/reactioncommerce/reaction
@@ -4122,7 +4134,7 @@ entries:
   Tags:
   - CMS
   - E-commerce
-- ID: 325
+- ID: 326
   Name: Saleor
   Description: Django based open-sourced e-commerce storefront.
   Source Code: https://github.com/mirumee/saleor
@@ -4135,7 +4147,7 @@ entries:
   Tags:
   - CMS
   - E-commerce
-- ID: 326
+- ID: 327
   Name: Shuup
   Description: Django powered fully customizable open source e-commerce framework
     for small and large sites.
@@ -4148,7 +4160,7 @@ entries:
   Tags:
   - CMS
   - E-commerce
-- ID: 327
+- ID: 328
   Name: Shopware Community Edition
   Description: PHP based ppen source e-commerce software made in Germany.
   Source Code: https://github.com/shopware/shopware
@@ -4161,7 +4173,7 @@ entries:
   Tags:
   - CMS
   - E-commerce
-- ID: 328
+- ID: 329
   Name: Sylius
   Description: Symfony2 powered open source full-stack platform for eCommerce.
   Source Code: https://github.com/Sylius/Sylius
@@ -4174,7 +4186,7 @@ entries:
   Tags:
   - CMS
   - E-commerce
-- ID: 329
+- ID: 330
   Name: Thelia
   Description: Thelia is an open source and flexible e-commerce solution.
   Source Code: https://github.com/thelia/thelia
@@ -4187,7 +4199,7 @@ entries:
   Tags:
   - CMS
   - E-commerce
-- ID: 330
+- ID: 331
   Name: WooCommerce
   Description: WordPress based e-commerce solution.
   Source Code: https://github.com/woothemes/woocommerce
@@ -4199,7 +4211,7 @@ entries:
   Tags:
   - CMS
   - E-commerce
-- ID: 331
+- ID: 332
   Name: CoreDNS
   Description: Plugin driven DNS Server with support for proxying to Google's DNS-over-HTTPS.
   Source Code: https://github.com/coredns/coredns
@@ -4210,7 +4222,7 @@ entries:
   - Go
   Tags:
   - DNS
-- ID: 332
+- ID: 333
   Name: nsupdate.info
   Description: nsupdate.info is a dynamic DNS service.
   Source Code: https://github.com/nsupdate-info/nsupdate.info
@@ -4222,7 +4234,7 @@ entries:
   - Python
   Tags:
   - DNS
-- ID: 333
+- ID: 334
   Name: SPF Toolbox
   Description: Application to look up DNS records such as SPF, MX, Whois, and more.
   Source Code: https://github.com/bulbajackel/SPFtoolbox
@@ -4233,7 +4245,7 @@ entries:
   - PHP
   Tags:
   - DNS
-- ID: 334
+- ID: 335
   Name: CaseBox
   Description: Manage all your organization's information in one system.
   Source Code: https://github.com/KETSE/casebox
@@ -4245,7 +4257,7 @@ entries:
   - Java
   Tags:
   - Doc Mgmnt
-- ID: 335
+- ID: 336
   Name: EdPaper
   Description: PDF organizer with users management.
   Source Code: https://github.com/Edraens/EdPaper
@@ -4255,7 +4267,7 @@ entries:
   - PHP
   Tags:
   - Doc Mgmnt
-- ID: 336
+- ID: 337
   Name: Mayan EDMS
   Description: Free Open Source Electronic Document Management System. An electronic
     vault for your documents with preview generation, OCR, and automatic categorization
@@ -4268,7 +4280,7 @@ entries:
   - Python
   Tags:
   - Doc Mgmnt
-- ID: 337
+- ID: 338
   Name: Paperless
   Description: Scan, index, and archive all of your paper documents.
   Source Code: https://github.com/danielquinn/paperless
@@ -4278,7 +4290,7 @@ entries:
   - Python
   Tags:
   - Doc Mgmnt
-- ID: 338
+- ID: 339
   Name: Calibre
   Description: E-book library manager that can view, convert, and catalog e-books
     in most of the major e-book formats and provides a built-in Web server for remote
@@ -4292,7 +4304,7 @@ entries:
   Tags:
   - E-book
   - ILS
-- ID: 339
+- ID: 340
   Name: BicBucStriim
   Description: Provides web-based access to your Calibre Library's e-book collection.
   Source Code: https://github.com/rvolz/BicBucStriim
@@ -4304,7 +4316,7 @@ entries:
   Tags:
   - E-book
   - ILS
-- ID: 340
+- ID: 341
   Name: Calibre Web
   Description: Web app providing a clean interface for browsing, reading and downloading
     eBooks using an existing Calibre database.
@@ -4317,7 +4329,7 @@ entries:
   Tags:
   - E-book
   - ILS
-- ID: 341
+- ID: 342
   Name: COPS
   Description: Lightweight e-book server alternative to Calibre content server or
     [Calibre2OPDS](https://calibre2opds.com/2011/11/03/new-site-for-calibre2opds/).
@@ -4331,7 +4343,7 @@ entries:
   Tags:
   - E-book
   - ILS
-- ID: 342
+- ID: 343
   Name: Polar Bookshelf
   Description: Polar is a personal knowledge repository for PDF and web content supporting
     incremental reading and document annotation.
@@ -4344,7 +4356,7 @@ entries:
   Tags:
   - E-book
   - ILS
-- ID: 343
+- ID: 344
   Name: Evergreen
   Description: Highly-scalable software for libraries that helps library patrons find
     library materials, and helps libraries manage, catalog, and circulate those materials.
@@ -4358,7 +4370,7 @@ entries:
   Tags:
   - E-book
   - ILS
-- ID: 344
+- ID: 345
   Name: Koha
   Description: Enterprise-class ILS with modules for acquisitions, circulation, cataloging,
     label printing, offline circulation for when Internet access is not available,
@@ -4373,7 +4385,7 @@ entries:
   Tags:
   - E-book
   - ILS
-- ID: 345
+- ID: 346
   Name: CommaFeed
   Description: Google Reader inspired self-hosted RSS reader.
   Source Code: https://github.com/Athou/commafeed
@@ -4385,7 +4397,7 @@ entries:
   Tags:
   - RSS
   - Feed Reader
-- ID: 346
+- ID: 347
   Name: Feedbin
   Description: Simple, fast and nice looking RSS reader.
   Source Code: https://github.com/feedbin/feedbin
@@ -4397,7 +4409,7 @@ entries:
   Tags:
   - RSS
   - Feed Reader
-- ID: 347
+- ID: 348
   Name: FeedHQ
   Description: FeedHQ is a web-based feed reader.
   Source Code: https://github.com/feedhq/feedhq
@@ -4409,7 +4421,7 @@ entries:
   Tags:
   - RSS
   - Feed Reader
-- ID: 348
+- ID: 349
   Name: FreshRSS
   Description: Self-hostable RSS feed aggregator.
   Source Code: https://github.com/FreshRSS/FreshRSS
@@ -4422,7 +4434,7 @@ entries:
   Tags:
   - RSS
   - Feed Reader
-- ID: 349
+- ID: 350
   Name: JARR
   Description: JARR (Just Another RSS Reader) is a web-based news aggregator and reader
     (fork of Newspipe).
@@ -4436,7 +4448,7 @@ entries:
   Tags:
   - RSS
   - Feed Reader
-- ID: 350
+- ID: 351
   Name: Kriss Feed
   Description: Simple and smart (or stupid) feed reader.
   Source Code: https://github.com/tontof/kriss_feed/
@@ -4449,7 +4461,7 @@ entries:
   Tags:
   - RSS
   - Feed Reader
-- ID: 351
+- ID: 352
   Name: Leed
   Description: Leed (for Light Feed) is a Free and minimalist RSS aggregator.
   Source Code: https://github.com/ldleman/Leed
@@ -4461,7 +4473,7 @@ entries:
   Tags:
   - RSS
   - Feed Reader
-- ID: 352
+- ID: 353
   Name: Leselys
   Description: Your very elegant RSS reader.
   Source Code: https://github.com/socketubs/leselys
@@ -4472,7 +4484,7 @@ entries:
   Tags:
   - RSS
   - Feed Reader
-- ID: 353
+- ID: 354
   Name: Lite-Reader
   Description: Read your feeds on your own machine with a simple and lite application.
   Source Code: https://github.com/cubny/lite-reader
@@ -4484,7 +4496,7 @@ entries:
   Tags:
   - RSS
   - Feed Reader
-- ID: 354
+- ID: 355
   Name: Moonmoon
   Description: 'simple feed agregator (planet like): it only aggregates feeds and
     spits them out in one single page.'
@@ -4497,7 +4509,7 @@ entries:
   Tags:
   - RSS
   - Feed Reader
-- ID: 355
+- ID: 356
   Name: Miniflux
   Description: Miniflux 2 is a minimalist and open source news reader, written in
     Go and PostgreSQL.
@@ -4510,7 +4522,7 @@ entries:
   Tags:
   - RSS
   - Feed Reader
-- ID: 356
+- ID: 357
   Name: NewsBlur
   Description: NewsBlur is a personal news reader that brings people together to talk
     about the world. A new sound of an old instrument.
@@ -4523,7 +4535,7 @@ entries:
   Tags:
   - RSS
   - Feed Reader
-- ID: 357
+- ID: 358
   Name: Newspipe
   Description: Newspipe is a web news aggregator and reader.
   Source Code: https://github.com/newspipe/newspipe
@@ -4536,7 +4548,7 @@ entries:
   Tags:
   - RSS
   - Feed Reader
-- ID: 358
+- ID: 359
   Name: Nunux Reader
   Description: Simple, fast and reactive RSS reader.
   Source Code: https://github.com/ncarlier/nunux-reader
@@ -4548,7 +4560,7 @@ entries:
   Tags:
   - RSS
   - Feed Reader
-- ID: 359
+- ID: 360
   Name: Reader-Self
   Description: Self-hosted rss reader (php / mysql or sqlite) - Google Reader alternative.
   Source Code: https://github.com/readerself/readerself
@@ -4560,7 +4572,7 @@ entries:
   Tags:
   - RSS
   - Feed Reader
-- ID: 360
+- ID: 361
   Name: RSS2EMail
   Description: Fetches RSS/Atom-feeds and pushes new Content to any email-receiver,
     supports OPML.
@@ -4573,7 +4585,7 @@ entries:
   Tags:
   - RSS
   - Feed Reader
-- ID: 361
+- ID: 362
   Name: RSS Monster
   Description: RSS Monster is an easy to use web-based RSS aggregator and reader compatible
     with the Fever API, created as an alternative for Google Reader.
@@ -4585,7 +4597,7 @@ entries:
   Tags:
   - RSS
   - Feed Reader
-- ID: 362
+- ID: 363
   Name: Screaming Liquid Tiger
   Description: Simple script to automatically generate valid RSS and Atom feeds from
     a list of media files in the same folder.
@@ -4597,7 +4609,7 @@ entries:
   Tags:
   - RSS
   - Feed Reader
-- ID: 363
+- ID: 364
   Name: Selfoss
   Description: New multipurpose rss reader, live stream, mashup, aggregation web application.
   Source Code: https://github.com/SSilence/selfoss
@@ -4609,7 +4621,7 @@ entries:
   Tags:
   - RSS
   - Feed Reader
-- ID: 364
+- ID: 365
   Name: Sismics Reader
   Description: Free and open source feeds reader, including all major Google Reader
     features.
@@ -4623,7 +4635,7 @@ entries:
   Tags:
   - RSS
   - Feed Reader
-- ID: 365
+- ID: 366
   Name: Stringer
   Description: Work-in-progress self-hosted, anti-social RSS reader.
   Source Code: https://github.com/swanson/stringer
@@ -4634,7 +4646,7 @@ entries:
   Tags:
   - RSS
   - Feed Reader
-- ID: 366
+- ID: 367
   Name: Temboz
   Description: Two-column feed reader emphasizing filtering capabilities to manage
     information overload.
@@ -4646,7 +4658,7 @@ entries:
   Tags:
   - RSS
   - Feed Reader
-- ID: 367
+- ID: 368
   Name: Tiny Tiny RSS
   Description: Open source web-based news feed (RSS/Atom) reader and aggregator.
   Source Code: https://tt-rss.org/gitlab/fox/tt-rss
@@ -4658,7 +4670,7 @@ entries:
   Tags:
   - RSS
   - Feed Reader
-- ID: 368
+- ID: 369
   Name: gritttt-rss
   Description: More features for Tiny Tiny RSS.
   Source Code: https://github.com/nhoening/gritttt-rss
@@ -4670,7 +4682,7 @@ entries:
   Tags:
   - RSS
   - Feed Reader
-- ID: 369
+- ID: 370
   Name: ttrss-mobile
   Description: Mobile webapp for Tiny Tiny RSS.
   Source Code: https://github.com/mboinet/ttrss-mobile
@@ -4681,7 +4693,7 @@ entries:
   Tags:
   - RSS
   - Feed Reader
-- ID: 370
+- ID: 371
   Name: ttrss-reader
   Description: Light and responsive client for TTRSS.
   Source Code: https://github.com/kucrut/ttrss-reader
@@ -4692,7 +4704,7 @@ entries:
   Tags:
   - RSS
   - Feed Reader
-- ID: 371
+- ID: 372
   Name: Winds
   Description: Open source and beautiful RSS reader built using React/Redux/Sails/Node
     and Stream. It showcases personalized feeds powered by the Stream API.
@@ -4707,7 +4719,7 @@ entries:
   - RSS
   - Feed Reader
   ProprietaryDependency: true
-- ID: 372
+- ID: 373
   Name: Git Annex
   Description: File synchronization between computers, servers, external drives.
   Source Code: https://git.joeyh.name/index.cgi/git-annex.git/
@@ -4720,7 +4732,7 @@ entries:
   - File Sharing
   - File Transfer
   - File Sync
-- ID: 373
+- ID: 374
   Name: Gossa
   Description: Gossa is a light and simple webserver for your files.
   Source Code: https://github.com/pldubouilh/gossa/
@@ -4732,7 +4744,7 @@ entries:
   - File Sharing
   - File Transfer
   - File Sync
-- ID: 374
+- ID: 375
   Name: Kinto
   Description: Kinto is a minimalist JSON storage service with synchronisation and
     sharing abilities.
@@ -4746,7 +4758,7 @@ entries:
   - File Sharing
   - File Transfer
   - File Sync
-- ID: 375
+- ID: 376
   Name: Nextcloud
   Description: Access and share your files, calendars, contacts, mail and [more](https://apps.nextcloud.com/)
     from any device, on your terms.
@@ -4761,7 +4773,7 @@ entries:
   - File Sharing
   - File Transfer
   - File Sync
-- ID: 376
+- ID: 377
   Name: OpenSSH/SFTP
   Description: Secure File Transfer Program.
   Source Code: http://cvsweb.openbsd.org/cgi-bin/cvsweb/src/usr.bin/ssh
@@ -4774,7 +4786,7 @@ entries:
   - File Sharing
   - File Transfer
   - File Sync
-- ID: 377
+- ID: 378
   Name: ownCloud
   Description: All-in-one solution for saving, synchronizing, viewing, editing and
     sharing files, calendars, address books and more.
@@ -4790,7 +4802,7 @@ entries:
   - File Sharing
   - File Transfer
   - File Sync
-- ID: 378
+- ID: 379
   Name: Pydio
   Description: Turn any web server into a powerful file management system and an alternative
     to mainstream cloud storage providers.
@@ -4804,7 +4816,7 @@ entries:
   - File Sharing
   - File Transfer
   - File Sync
-- ID: 379
+- ID: 380
   Name: Samba
   Description: Samba is the standard Windows interoperability suite of programs for
     Linux and Unix. It provides secure, stable and fast file and print services for
@@ -4819,7 +4831,7 @@ entries:
   - File Sharing
   - File Transfer
   - File Sync
-- ID: 380
+- ID: 381
   Name: Seafile
   Description: File hosting and sharing solution primary for teams and organizations.
   Source Code: https://github.com/haiwen/seafile
@@ -4833,7 +4845,7 @@ entries:
   - File Sharing
   - File Transfer
   - File Sync
-- ID: 381
+- ID: 382
   Name: SparkleShare
   Description: Self hosted, instant, secure file sync.
   Source Code: https://github.com/hbons/SparkleShare
@@ -4846,7 +4858,7 @@ entries:
   - File Sharing
   - File Transfer
   - File Sync
-- ID: 382
+- ID: 383
   Name: Syncany
   Description: Secure file sync software for arbitrary storage backends, an open-source
     cloud storage and filesharing application. Securely synchronize your files to
@@ -4860,7 +4872,7 @@ entries:
   - File Sharing
   - File Transfer
   - File Sync
-- ID: 383
+- ID: 384
   Name: Syncthing
   Description: Syncthing is an open source peer-to-peer file synchronisation tool.
   Source Code: https://github.com/syncthing/syncthing
@@ -4873,7 +4885,7 @@ entries:
   - File Sharing
   - File Transfer
   - File Sync
-- ID: 384
+- ID: 385
   Name: Unison
   Description: Unison is a file-synchronization tool for OSX, Unix, and Windows.
   Source Code: https://www.cis.upenn.edu/~bcpierce/unison/
@@ -4885,7 +4897,7 @@ entries:
   - File Sharing
   - File Transfer
   - File Sync
-- ID: 385
+- ID: 386
   Name: Z-Push
   Description: Implementation of Microsoft’s [ActiveSync](https://en.wikipedia.org/wiki/ActiveSync)
     protocol.
@@ -4899,7 +4911,7 @@ entries:
   - File Sharing
   - File Transfer
   - File Sync
-- ID: 386
+- ID: 387
   Name: bittorrent-tracker
   Description: Simple, robust, BitTorrent tracker (client and server) implementation.
   Source Code: https://github.com/feross/bittorrent-tracker
@@ -4911,7 +4923,7 @@ entries:
   Tags:
   - File Sharing
   - P2P
-- ID: 387
+- ID: 388
   Name: cloud-torrent
   Description: Torrent Web Client with HTTP retrievable or streamable downloaded files.
   Source Code: https://github.com/jpillora/cloud-torrent
@@ -4922,7 +4934,7 @@ entries:
   Tags:
   - File Sharing
   - P2P
-- ID: 388
+- ID: 389
   Name: Dat Project
   Description: Powerful decentralized file sharing applications built from a large
     ecosystem of modules.
@@ -4935,7 +4947,7 @@ entries:
   Tags:
   - File Sharing
   - P2P
-- ID: 389
+- ID: 390
   Name: FilePizza
   Description: Peer-to-peer file transfers in your browser.
   Source Code: https://github.com/kern/filepizza
@@ -4947,7 +4959,7 @@ entries:
   Tags:
   - File Sharing
   - P2P
-- ID: 390
+- ID: 391
   Name: Firefox Send
   Description: A file sharing experiment which allows you to send encrypted files
     to other users.
@@ -4959,7 +4971,7 @@ entries:
   Tags:
   - File Sharing
   - P2P
-- ID: 391
+- ID: 392
   Name: instant.io
   Description: Streaming file transfer over WebTorrent.
   Source Code: https://github.com/feross/instant.io
@@ -4971,7 +4983,7 @@ entries:
   Tags:
   - File Sharing
   - P2P
-- ID: 392
+- ID: 393
   Name: Magnetico
   Description: Magnetico is the first autonomous (self-hosted) BitTorrent DHT search
     engine suite that is designed for end-users.
@@ -4983,7 +4995,7 @@ entries:
   Tags:
   - File Sharing
   - P2P
-- ID: 393
+- ID: 394
   Name: Magnetissimo
   Description: Search engine that indexes all popular torrent sites.
   Source Code: https://github.com/sergiotapia/magnetissimo
@@ -4994,7 +5006,7 @@ entries:
   Tags:
   - File Sharing
   - P2P
-- ID: 394
+- ID: 395
   Name: Opentracker
   Description: Open and free bittorrent tracker. It aims for minimal resource usage
     and is intended to run at your wlan router.
@@ -5007,7 +5019,7 @@ entries:
   Tags:
   - File Sharing
   - P2P
-- ID: 395
+- ID: 396
   Name: peerflix-server
   Description: Downloads torrent files and provides a direct link download or a direct
     link stream.
@@ -5019,7 +5031,7 @@ entries:
   Tags:
   - File Sharing
   - P2P
-- ID: 396
+- ID: 397
   Name: qBittorrent
   Description: Free cross-platform bittorrent client with a feature rich Web UI for
     remote access.
@@ -5032,7 +5044,7 @@ entries:
   Tags:
   - File Sharing
   - P2P
-- ID: 397
+- ID: 398
   Name: rartracker
   Description: Complete private bittorrent tracker.
   Source Code: https://github.com/swetorrentking/rartracker
@@ -5043,7 +5055,7 @@ entries:
   Tags:
   - File Sharing
   - P2P
-- ID: 398
+- ID: 399
   Name: Reep
   Description: In-browser peer-to-peer file transfer and streaming made easy.
   Source Code: https://github.com/KodeKraftwerk/reepio
@@ -5055,7 +5067,7 @@ entries:
   Tags:
   - File Sharing
   - P2P
-- ID: 399
+- ID: 400
   Name: Transmission
   Description: Fast, easy, Free Bittorrent client.
   Source Code: https://github.com/transmission/transmission
@@ -5067,7 +5079,7 @@ entries:
   Tags:
   - File Sharing
   - P2P
-- ID: 400
+- ID: 401
   Name: Minio
   Description: Minio is an open source object storage server compatible with Amazon
     S3 APIs.
@@ -5080,7 +5092,7 @@ entries:
   Tags:
   - File Sharing
   - Object Storage
-- ID: 401
+- ID: 402
   Name: Zenko CloudServer
   Description: Zenko CloudServer, an open-source Node.js implementation of a server
     handling the Amazon S3 protocol.
@@ -5093,7 +5105,7 @@ entries:
   Tags:
   - File Sharing
   - Object Storage
-- ID: 402
+- ID: 403
   Name: BoZoN
   Description: Minimalist Drag and drop file sharing app.
   Source Code: https://github.com/broncowdd/BoZoN
@@ -5105,7 +5117,7 @@ entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
-- ID: 403
+- ID: 404
   Name: Coquelicot
   Description: Coquelicot is a “one-click” file sharing web application with a focus
     on protecting users’ privacy.
@@ -5119,7 +5131,7 @@ entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
-- ID: 404
+- ID: 405
   Name: droppy
   Description: droppy is a self-hosted cloud server with an interface similar to desktop
     file managers and has capabilities to edit files on-the-fly as well as view and
@@ -5134,7 +5146,7 @@ entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
-- ID: 405
+- ID: 406
   Name: FileShelter
   Description: FileShelter is a self-hosted software that allows you to easily share
     files over the Internet.
@@ -5148,7 +5160,7 @@ entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
-- ID: 406
+- ID: 407
   Name: Files Sharing
   Description: Open Source and self-hosted files sharing application based on unique
     and temporary links.
@@ -5161,7 +5173,7 @@ entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
-- ID: 407
+- ID: 408
   Name: img.bi
   Description: img.bi is a secure image hosting. Images are encrypted using AES-256
     with random key in browser before upload.
@@ -5174,7 +5186,7 @@ entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
-- ID: 408
+- ID: 409
   Name: ipfs.pics
   Description: ipfs.pics is a distributed image hosting website.
   Source Code: https://github.com/ipfspics/server
@@ -5186,7 +5198,7 @@ entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
-- ID: 409
+- ID: 410
   Name: Jirafeau
   Description: Jirafeau is a web site permitting to upload a file in a simple way
     and give an unique link to it.
@@ -5200,7 +5212,7 @@ entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
-- ID: 410
+- ID: 411
   Name: linx
   Description: File sharing application and pastebin with API, auto-expiry, deletion
     keys, and web seed support.
@@ -5214,7 +5226,7 @@ entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
-- ID: 411
+- ID: 412
   Name: lufi
   Description: Let's Upload that FIle, client-side encrypted.
   Source Code: https://git.framasoft.org/luc/lufi/tree/master
@@ -5228,7 +5240,7 @@ entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
-- ID: 412
+- ID: 413
   Name: lutim
   Description: Let's Upload That Image.
   Source Code: https://github.com/ldidry/lutim
@@ -5240,7 +5252,7 @@ entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
-- ID: 413
+- ID: 414
   Name: Nimbus
   Description: Drag-and-drop shortlink file sharer for OS X.
   Source Code: https://github.com/ethanal/nimbus
@@ -5252,7 +5264,7 @@ entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
-- ID: 414
+- ID: 415
   Name: OnionShare
   Description: Securely and anonymously share a file of any size.
   Source Code: https://github.com/micahflee/onionshare
@@ -5264,7 +5276,7 @@ entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
-- ID: 415
+- ID: 416
   Name: PictShare
   Description: PictShare is a multi lingual, open source image hosting service with
     a simple resizing and upload API.
@@ -5279,7 +5291,7 @@ entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
-- ID: 416
+- ID: 417
   Name: Plik
   Description: Plik is a scalable and friendly temporary file upload system.
   Source Code: https://github.com/root-gg/plik
@@ -5292,7 +5304,7 @@ entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
-- ID: 417
+- ID: 418
   Name: Pomf
   Description: Simple file uploading and sharing, source for the now shut down site
     Pomf.se.
@@ -5305,7 +5317,7 @@ entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
-- ID: 418
+- ID: 419
   Name: ProjectSend
   Description: Upload files and assign them to specific clients you create. Give access
     to those files to your clients.
@@ -5319,7 +5331,7 @@ entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
-- ID: 419
+- ID: 420
   Name: PsiTransfer
   Description: Simple open source self-hosted file sharing solution with robust up-/download-resume
     and password protection.
@@ -5332,7 +5344,7 @@ entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
-- ID: 420
+- ID: 421
   Name: Sharry
   Description: Share files easily over the internet between authenticated and anonymous
     users (both ways) with resumable up- and downloads.
@@ -5347,7 +5359,7 @@ entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
-- ID: 421
+- ID: 422
   Name: Uguu
   Description: Stores files and deletes after X amount of time.
   Source Code: https://github.com/nokonoko/uguu
@@ -5360,7 +5372,7 @@ entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
-- ID: 422
+- ID: 423
   Name: Up1
   Description: Client-side Encrypted Image Host.
   Source Code: https://github.com/Upload/Up1
@@ -5372,7 +5384,7 @@ entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
-- ID: 423
+- ID: 424
   Name: uPste
   Description: Private file hosting application with an emphasis on serving technology
     communities.
@@ -5386,7 +5398,7 @@ entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
-- ID: 424
+- ID: 425
   Name: YouTransfer
   Description: YouTransfer is a simple but elegant self-hosted file transfer and sharing
     solution.
@@ -5401,7 +5413,7 @@ entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
-- ID: 425
+- ID: 426
   Name: Beauties
   Description: Minimalist file sharing written in Go, to be used primarily from Unix
     shell (e.g. with curl). Can be built as a Debian package for easy install.
@@ -5415,7 +5427,7 @@ entries:
   - Single-Click Upload
   - Drag-n-Drop Upload
   - CMD line upload
-- ID: 426
+- ID: 427
   Name: transfer.sh
   Description: Easy file sharing from the command line.
   Source Code: https://github.com/dutchcoders/transfer.sh
@@ -5429,7 +5441,7 @@ entries:
   - Single-Click Upload
   - Drag-n-Drop Upload
   - CMD line upload
-- ID: 427
+- ID: 428
   Name: Apaxy
   Description: Theme built to enhance the experience of browsing web directories,
     using the mod_autoindex Apache module and some CSS to override the default style
@@ -5443,7 +5455,7 @@ entries:
   Tags:
   - File Sharing
   - Web File MGR
-- ID: 428
+- ID: 429
   Name: DirectoryLister
   Description: Simple PHP based directory lister that lists a directory and all it's
     sub-directories and allows you to navigate there within.
@@ -5456,7 +5468,7 @@ entries:
   Tags:
   - File Sharing
   - Web File MGR
-- ID: 429
+- ID: 430
   Name: Encode Explorer
   Description: Encode Explorer is a single page file browser, it is simple and functional.
   Source Code: https://github.com/marekrei/encode-explorer
@@ -5469,7 +5481,7 @@ entries:
   Tags:
   - File Sharing
   - Web File MGR
-- ID: 430
+- ID: 431
   Name: explorer
   Description: Highly-configurable directory listing made with nodejs.
   Source Code: https://github.com/soyuka/explorer
@@ -5481,7 +5493,7 @@ entries:
   Tags:
   - File Sharing
   - Web File MGR
-- ID: 431
+- ID: 432
   Name: filebrowser
   Description: Web File Manager which can be used as a middleware or standalone app.
   Source Code: https://github.com/filebrowser/filebrowser
@@ -5494,7 +5506,7 @@ entries:
   Tags:
   - File Sharing
   - Web File MGR
-- ID: 432
+- ID: 433
   Name: goBrowser
   Description: Simple http file browser.
   Source Code: https://github.com/xataz/gobrowser
@@ -5506,7 +5518,7 @@ entries:
   Tags:
   - File Sharing
   - Web File MGR
-- ID: 433
+- ID: 434
   Name: h5ai
   Description: Modern file indexer for HTTP web servers with focus on your files.
     Directories are displayed in a appealing way and browsing them is enhanced by
@@ -5521,7 +5533,7 @@ entries:
   Tags:
   - File Sharing
   - Web File MGR
-- ID: 434
+- ID: 435
   Name: IFM
   Description: Single script file manager.
   Source Code: https://github.com/misterunknown/ifm/
@@ -5532,7 +5544,7 @@ entries:
   Tags:
   - File Sharing
   - Web File MGR
-- ID: 435
+- ID: 436
   Name: ResourceSpace
   Description: ResourceSpace open source digital asset management software is the
     simple, fast, and free way to organise your digital assets.
@@ -5546,7 +5558,7 @@ entries:
   Tags:
   - File Sharing
   - Web File MGR
-- ID: 436
+- ID: 437
   Name: Sprut.io
   Description: 2 panel file manager with drag and drop features, code editor, text
     search, hotkeys.
@@ -5560,7 +5572,7 @@ entries:
   Tags:
   - File Sharing
   - Web File MGR
-- ID: 437
+- ID: 438
   Name: Surfer
   Description: Simple static file server with webui to manage files.
   Source Code: https://github.com/nebulade/surfer
@@ -5571,7 +5583,7 @@ entries:
   Tags:
   - File Sharing
   - Web File MGR
-- ID: 438
+- ID: 439
   Name: TagSpaces
   Description: TagSpaces is an offline, cross-platform file manager and organiser
     that also can function as a note taking app. The WebDAV version of the application
@@ -5586,7 +5598,7 @@ entries:
   Tags:
   - File Sharing
   - Web File MGR
-- ID: 439
+- ID: 440
   Name: A Dark Room
   Description: Minimalist text adventure game for your browser.
   Source Code: https://github.com/doublespeakgames/adarkroom
@@ -5597,7 +5609,7 @@ entries:
   - HTML5
   Tags:
   - Game
-- ID: 440
+- ID: 441
   Name: Agar.IO Clone
   Description: Agar.io clone written with Socket.IO and HTML5 canvas.
   Source Code: https://github.com/huytd/agar.io-clone
@@ -5607,7 +5619,7 @@ entries:
   - Nodejs
   Tags:
   - Game
-- ID: 441
+- ID: 442
   Name: battlecraft
   Description: Fully distributed multiplayer browser game.
   Source Code: https://github.com/jbreindel/battlecraft
@@ -5618,7 +5630,7 @@ entries:
   - Erlang
   Tags:
   - Game
-- ID: 442
+- ID: 443
   Name: Clumsy Bird
   Description: MelonJS port of the famous Flappy Bird Game.
   Source Code: https://github.com/ellisonleao/clumsy-bird
@@ -5629,7 +5641,7 @@ entries:
   - Nodejs
   Tags:
   - Game
-- ID: 443
+- ID: 444
   Name: elevatorsaga
   Description: The elevator programming game.
   Source Code: https://github.com/magwo/elevatorsaga
@@ -5640,7 +5652,7 @@ entries:
   - HTML5
   Tags:
   - Game
-- ID: 444
+- ID: 445
   Name: Hextris
   Description: Fast paced HTML5 puzzle game inspired by Tetris.
   Source Code: https://github.com/Hextris/hextris
@@ -5651,7 +5663,7 @@ entries:
   - HTML5
   Tags:
   - Game
-- ID: 445
+- ID: 446
   Name: Lila
   Description: The forever free, adless and open source chess server powering lichess.org,
     with official iOS and Android client apps.
@@ -5663,7 +5675,7 @@ entries:
   - scala
   Tags:
   - Game
-- ID: 446
+- ID: 447
   Name: Posio
   Description: Geography multiplayer game.
   Source Code: https://github.com/abrenaut/posio/
@@ -5674,7 +5686,7 @@ entries:
   - Python
   Tags:
   - Game
-- ID: 447
+- ID: 448
   Name: SourceBans++
   Description: Admin, ban, and communication management system for games running on
     the Source engine.
@@ -5686,7 +5698,7 @@ entries:
   - PHP
   Tags:
   - Game
-- ID: 448
+- ID: 449
   Name: Spyfall
   Description: Fan made web version of the Spyfall party game.
   Source Code: https://github.com/mpcovcd/spyfall
@@ -5698,7 +5710,7 @@ entries:
   - HTML5
   Tags:
   - Game
-- ID: 449
+- ID: 450
   Name: TournamentMango
   Description: TournamentMango is an open source tournament bracket and user management
     system. You can build an archive of players and keep track of all their scores
@@ -5711,7 +5723,7 @@ entries:
   - HTML5
   Tags:
   - Game
-- ID: 450
+- ID: 451
   Name: GateOne
   Description: Gate One is an HTML5 web-based terminal emulator and SSH client.
   Source Code: https://github.com/liftoff/GateOne/
@@ -5722,7 +5734,7 @@ entries:
   - Python
   Tags:
   - Gateway
-- ID: 451
+- ID: 452
   Name: Guacamole
   Description: Guacamole is a clientless remote desktop gateway. It supports standard
     protocols like VNC and RDP.
@@ -5735,7 +5747,7 @@ entries:
   - C
   Tags:
   - Gateway
-- ID: 452
+- ID: 453
   Name: oneye
   Description: Cloud software to access your data from everywhere with any browser.
   Source Code: https://github.com/oneye/oneye
@@ -5747,7 +5759,7 @@ entries:
   - PHP
   Tags:
   - Gateway
-- ID: 453
+- ID: 454
   Name: OS.js
   Description: Desktop implementation for your browser with a fully-fledged window
     manager, Application APIs, GUI toolkits and filesystem abstraction.
@@ -5760,7 +5772,7 @@ entries:
   - Nodejs
   Tags:
   - Gateway
-- ID: 454
+- ID: 455
   Name: Citadel
   Description: Groupware including email, calendar/scheduling, address books, forums,
     mailing lists, IM, wiki and blog engines, RSS aggregation and more.
@@ -5772,7 +5784,7 @@ entries:
   - C
   Tags:
   - Groupware
-- ID: 455
+- ID: 456
   Name: Cozy Cloud
   Description: Personal cloud where you can read your emails or manage and sync your
     contact, files or calendars, with an app store full of community contributions.
@@ -5784,7 +5796,7 @@ entries:
   - Nodejs
   Tags:
   - Groupware
-- ID: 456
+- ID: 457
   Name: egroupware
   Description: Software suite including calendars, address books, notepad, project
     management tools, client relationship management tools (CRM), knowledge management
@@ -5797,7 +5809,7 @@ entries:
   - PHP
   Tags:
   - Groupware
-- ID: 457
+- ID: 458
   Name: Horde
   Description: The Horde Project is about creating high quality Open Source applications
     and libraries, based on PHP and the Horde Framework.
@@ -5810,7 +5822,7 @@ entries:
   - PHP
   Tags:
   - Groupware
-- ID: 458
+- ID: 459
   Name: HRCloud2
   Description: Full-featured home hosted Cloud Drive, Personal Assistant, App Launcher,
     File Converter, Streamer, Share Tool and more.
@@ -5822,7 +5834,7 @@ entries:
   - PHP
   Tags:
   - Groupware
-- ID: 459
+- ID: 460
   Name: Kolab
   Description: Kolab community is a unified communication and collaboration system.
   Source Code: https://git.kolab.org/
@@ -5837,7 +5849,7 @@ entries:
   - PHP
   Tags:
   - Groupware
-- ID: 460
+- ID: 461
   Name: Kopano
   Description: Groupware suite including e-mail, calendars, tasks, todos and notes.
     Featuring a modern WebApp, DeskApp and mobile access over Z-Push/ActiveSync.
@@ -5852,7 +5864,7 @@ entries:
   - PHP
   Tags:
   - Groupware
-- ID: 461
+- ID: 462
   Name: Openmeetings
   Description: Openmeetings provides video conferencing, instant messaging, white
     board, collaborative document editing and other groupware tools using API functions
@@ -5865,7 +5877,7 @@ entries:
   - Java
   Tags:
   - Groupware
-- ID: 462
+- ID: 463
   Name: SOGo
   Description: SOGo offers multiple ways to access the calendaring and messaging data.
     CalDAV, CardDAV, GroupDAV, as well as ActiveSync, including native Outlook compatibility
@@ -5879,7 +5891,7 @@ entries:
   - Objective-C
   Tags:
   - Groupware
-- ID: 463
+- ID: 464
   Name: SuiteCRM
   Description: The award-winning, enterprise-class open source CRM.
   Source Code: https://github.com/salesagility/SuiteCRM
@@ -5890,7 +5902,7 @@ entries:
   - PHP
   Tags:
   - Groupware
-- ID: 464
+- ID: 465
   Name: Tine 2.0
   Description: Contacts, Calendar, Tasks, WebDAV, ActiveSync, VOIP, Mail-Client, CRM,
     Sales, Projects, Timetracker.
@@ -5904,7 +5916,7 @@ entries:
   - PHP
   Tags:
   - Groupware
-- ID: 465
+- ID: 466
   Name: Zimbra Collaboration
   Description: Email, calendar, collaboration server with Web interface and lots of
     integrations.
@@ -5917,7 +5929,7 @@ entries:
   - Java
   Tags:
   - Groupware
-- ID: 466
+- ID: 467
   Name: admidio
   Description: Admidio is a free open source user management system for websites of
     organizations and groups. The system has a flexible role model so that it’s possible
@@ -5932,7 +5944,7 @@ entries:
   Tags:
   - HRM
   - Human Resources MGMNT
-- ID: 467
+- ID: 468
   Name: IceHrm
   Description: IceHrm employee management system allows companies to centralize confidential
     employee information.
@@ -5946,7 +5958,7 @@ entries:
   Tags:
   - HRM
   - Human Resources MGMNT
-- ID: 468
+- ID: 469
   Name: OrangeHRM
   Description: OrangeHRM is a comprehensive HRM system that captures all the essential
     functionalities required for any enterprise.
@@ -5959,7 +5971,7 @@ entries:
   Tags:
   - HRM
   - Human Resources MGMNT
-- ID: 469
+- ID: 470
   Name: Sentrifugo
   Description: Sentrifugo is a HRM system that can be easily configured to meet your
     organizational needs.
@@ -5972,7 +5984,7 @@ entries:
   Tags:
   - HRM
   - Human Resources MGMNT
-- ID: 470
+- ID: 471
   Name: TimeOff.Management
   Description: Simple yet powerful absence management software for small and medium
     size business.
@@ -5986,7 +5998,7 @@ entries:
   Tags:
   - HRM
   - Human Resources MGMNT
-- ID: 471
+- ID: 472
   Name: DeviceHive
   Description: Open Source IoT Plaform with a wide range of integration options.
   Source Code: https://github.com/devicehive/devicehive-java-server
@@ -5999,7 +6011,7 @@ entries:
   Tags:
   - Internet Of Things
   - IoT
-- ID: 472
+- ID: 473
   Name: Domoticz
   Description: 'Home Automation System that lets you monitor and configure various
     devices like: Lights, Switches, various sensors/meters like Temperature, Rain,
@@ -6016,7 +6028,7 @@ entries:
   Tags:
   - Internet Of Things
   - IoT
-- ID: 473
+- ID: 474
   Name: Iotdashboard
   Description: Fast Django server for IOT Devices.
   Source Code: https://github.com/electrocoder/iotdashboard
@@ -6028,7 +6040,7 @@ entries:
   Tags:
   - Internet Of Things
   - IoT
-- ID: 474
+- ID: 475
   Name: Thingsboard
   Description: Open-source IoT Platform - Device management, data collection, processing
     and visualization.
@@ -6042,7 +6054,7 @@ entries:
   Tags:
   - Internet Of Things
   - IoT
-- ID: 475
+- ID: 476
   Name: Thingspeak
   Description: Open source “Internet of Things” application and API to store and retrieve
     data from things using HTTP.
@@ -6056,7 +6068,7 @@ entries:
   Tags:
   - Internet Of Things
   - IoT
-- ID: 476
+- ID: 477
   Name: Canvas LMS
   Description: Canvas is the trusted, open-source learning management system (LMS)
     that is revolutionizing the way we educate.
@@ -6071,7 +6083,7 @@ entries:
   - Learning
   - Courses
   - LMS
-- ID: 477
+- ID: 478
   Name: Chamilo LMS
   Description: Chamilo LMS allows you to create a virtual campus for the provision
     of online or semi-online training.
@@ -6085,7 +6097,7 @@ entries:
   - Learning
   - Courses
   - LMS
-- ID: 478
+- ID: 479
   Name: edX
   Description: The Open edX platform is open-source code that powers [edX.org](https://www.edx.org/).
   Source Code: https://github.com/edx/
@@ -6098,7 +6110,7 @@ entries:
   - Learning
   - Courses
   - LMS
-- ID: 479
+- ID: 480
   Name: ILIAS
   Description: ILIAS is the Learning Management System that can cope with anything
     you throw at it.
@@ -6113,7 +6125,7 @@ entries:
   - Learning
   - Courses
   - LMS
-- ID: 480
+- ID: 481
   Name: lxHive
   Description: Open Source ExperienceAPI compliant Learning Record Store (LRS) - previously
     code-named TinCanAPI.
@@ -6127,7 +6139,7 @@ entries:
   - Learning
   - Courses
   - LMS
-- ID: 481
+- ID: 482
   Name: Mahara
   Description: Open Source fully featured web application to build students electronic
     portfolio.
@@ -6141,7 +6153,7 @@ entries:
   - Learning
   - Courses
   - LMS
-- ID: 482
+- ID: 483
   Name: Moodle
   Description: Moodle is a learning and courses platform with one of the largest open
     source communities worldwide.
@@ -6156,7 +6168,7 @@ entries:
   - Learning
   - Courses
   - LMS
-- ID: 483
+- ID: 484
   Name: Open eClass
   Description: Open eClass is an advanced e-learning solution that can enhance the
     teaching and learning process.
@@ -6171,7 +6183,7 @@ entries:
   - Learning
   - Courses
   - LMS
-- ID: 484
+- ID: 485
   Name: RELATE
   Description: 'RELATE is a web-based courseware package, includes features such as:
     flexible rules, statistics, multi-course support, class calendar.'
@@ -6185,7 +6197,7 @@ entries:
   - Learning
   - Courses
   - LMS
-- ID: 485
+- ID: 486
   Name: Sakai
   Description: The Sakai project provides a flexible and feature-rich environment
     for teaching, learning, research and other collaboration.
@@ -6200,7 +6212,7 @@ entries:
   - Learning
   - Courses
   - LMS
-- ID: 486
+- ID: 487
   Name: SchoolTool
   Description: SchoolTool is free administrative software for schools. It includes
     demographics, gradebook, attendance, calendaring, reporting and more for primary
@@ -6215,7 +6227,7 @@ entries:
   - Learning
   - Courses
   - LMS
-- ID: 487
+- ID: 488
   Name: Graphhopper
   Description: Fast routing library and server using OpenStreetMap.
   Source Code: https://github.com/graphhopper/graphhopper
@@ -6227,7 +6239,7 @@ entries:
   Tags:
   - Maps
   - GPS
-- ID: 488
+- ID: 489
   Name: MapBBCodeShare
   Description: Tool for sharing custom OSM maps. Support for annotated markers, polygons,
     lines, multi-format import/export, multiple layers, shortlinks.
@@ -6241,7 +6253,7 @@ entries:
   Tags:
   - Maps
   - GPS
-- ID: 489
+- ID: 490
   Name: OpenGTS
   Description: Entry-level fleet tracking system. Supports variety of tracking devices
     and protocols. Comes with rich web-interface and reporting features.
@@ -6255,7 +6267,7 @@ entries:
   Tags:
   - Maps
   - GPS
-- ID: 490
+- ID: 491
   Name: OpenStreetMap
   Description: OpenStreetMap is a map of the world, created by people like you and
     free to use under an open license.
@@ -6268,7 +6280,7 @@ entries:
   Tags:
   - Maps
   - GPS
-- ID: 491
+- ID: 492
   Name: Orion
   Description: Powerful OwnTracks API-compliant location data visualization frontend
     for the web.
@@ -6282,7 +6294,7 @@ entries:
   Tags:
   - Maps
   - GPS
-- ID: 492
+- ID: 493
   Name: OwnTracks Recorder
   Description: Store and access data published by [OwnTracks](http://owntracks.org/)
     location tracking apps.
@@ -6295,7 +6307,7 @@ entries:
   - Maps
   - GPS
   ProprietaryDependency: true
-- ID: 493
+- ID: 494
   Name: TileServer GL
   Description: Vector and raster maps with GL styles. Server side rendering by Mapbox
     GL Native. Map tile server for Mapbox GL JS, Android, iOS, Leaflet, OpenLayers,
@@ -6309,7 +6321,7 @@ entries:
   Tags:
   - Maps
   - GPS
-- ID: 494
+- ID: 495
   Name: TileServer PHP
   Description: Serve map tiles from any PHP hosting.
   Source Code: https://github.com/klokantech/tileserver-php
@@ -6320,7 +6332,7 @@ entries:
   Tags:
   - Maps
   - GPS
-- ID: 495
+- ID: 496
   Name: Traccar
   Description: Java application to track GPS positions. Supports loads of tracking
     devices and protocols, has an Android and iOS App. Has a web interface to view
@@ -6335,7 +6347,7 @@ entries:
   Tags:
   - Maps
   - GPS
-- ID: 496
+- ID: 497
   Name: uMap
   Description: Create maps with OpenStreetMap layers in a minute and embed them in
     your site.
@@ -6348,7 +6360,7 @@ entries:
   Tags:
   - Maps
   - GPS
-- ID: 497
+- ID: 498
   Name: Darwin Streaming Server
   Description: High performance server for streaming QuickTime and MPEG-4 media over
     RTP and RTSP protocols. Originated as Apple’s QTSS.
@@ -6362,7 +6374,7 @@ entries:
   - Media
   - Streaming
   - Multimedia
-- ID: 498
+- ID: 499
   Name: Flumotion
   Description: Streaming media server with intuitive graphical administration tools.
   Source Code: https://github.com/Flumotion/flumotion
@@ -6375,7 +6387,7 @@ entries:
   - Media
   - Streaming
   - Multimedia
-- ID: 499
+- ID: 500
   Name: homehost
   Description: Self-hosted React + Redux app that streams your media collection (music,
     movies, books, podcasts, comics etc).
@@ -6389,7 +6401,7 @@ entries:
   - Streaming
   - Multimedia
   ProprietaryDependency: true
-- ID: 500
+- ID: 501
   Name: Icecast 2
   Description: streaming audio/video server which can be used to create an Internet
     radio station or a privately running jukebox and many things in between.
@@ -6405,7 +6417,7 @@ entries:
   - Media
   - Streaming
   - Multimedia
-- ID: 501
+- ID: 502
   Name: Jellyfin
   Description: Streaming audio/video server with a slick UI and robust transcoding
     capabilities (fork of Emby).
@@ -6419,7 +6431,7 @@ entries:
   - Media
   - Streaming
   - Multimedia
-- ID: 502
+- ID: 503
   Name: MistServer
   Description: Streaming media server that works well in any streaming environment.
   Source Code: https://github.com/DDVTECH/mistserver
@@ -6432,7 +6444,7 @@ entries:
   - Media
   - Streaming
   - Multimedia
-- ID: 503
+- ID: 504
   Name: ReadyMedia
   Description: Simple media server software, with the aim of being fully compliant
     with DLNA/UPnP-AV clients. Formerly known as MiniDLNA.
@@ -6446,7 +6458,7 @@ entries:
   - Media
   - Streaming
   - Multimedia
-- ID: 504
+- ID: 505
   Name: Rygel
   Description: Rygel is a UPnP AV MediaServer that allows you to easily share audio,
     video, and pictures. Media player software may use Rygel to become a MediaRenderer
@@ -6461,7 +6473,7 @@ entries:
   - Media
   - Streaming
   - Multimedia
-- ID: 505
+- ID: 506
   Name: üWave
   Description: üWave is a self-hosted collaborative listening platform. Users take
     turns playing media—songs, talks, gameplay videos, or anything else—from a variety
@@ -6478,7 +6490,7 @@ entries:
   - Streaming
   - Multimedia
   ProprietaryDependency: true
-- ID: 506
+- ID: 507
   Name: Ampache
   Description: Web based audio/video streaming application.
   Source Code: https://github.com/ampache/ampache
@@ -6492,7 +6504,7 @@ entries:
   - Media
   - Streaming
   - Audio
-- ID: 507
+- ID: 508
   Name: Airsonic
   Description: Open-source web-based media streamer and jukebox. A fork of Subsonic's
     last open-source release, before it switched licenses.
@@ -6508,7 +6520,7 @@ entries:
   - Media
   - Streaming
   - Audio
-- ID: 508
+- ID: 509
   Name: AzuraCast
   Description: A modern and accessible self-hosted web radio management suite.
   Source Code: https://github.com/AzuraCast/AzuraCast
@@ -6521,7 +6533,7 @@ entries:
   - Media
   - Streaming
   - Audio
-- ID: 509
+- ID: 510
   Name: Beets
   Description: Music library manager and MusicBrainz tagger (command-line and Web
     interface).
@@ -6535,7 +6547,7 @@ entries:
   - Media
   - Streaming
   - Audio
-- ID: 510
+- ID: 511
   Name: CherryMusic
   Description: Minimalistic Web-Mediaplayer.
   Source Code: https://github.com/devsnd/cherrymusic
@@ -6548,7 +6560,7 @@ entries:
   - Media
   - Streaming
   - Audio
-- ID: 511
+- ID: 512
   Name: cloudtunes
   Description: Web-based music player for the cloud.
   Source Code: https://github.com/jkbrzt/cloudtunes
@@ -6561,7 +6573,7 @@ entries:
   - Streaming
   - Audio
   ProprietaryDependency: true
-- ID: 512
+- ID: 513
   Name: Compactd
   Description: Remote music player that supports adding content.
   Source Code: https://github.com/compactd/compactd
@@ -6573,7 +6585,7 @@ entries:
   - Media
   - Streaming
   - Audio
-- ID: 513
+- ID: 514
   Name: FriendsRadio
   Description: Share music with your friends from Youtube and Soundcloud.
   Source Code: https://github.com/xouabita/friends-radio
@@ -6587,7 +6599,7 @@ entries:
   - Streaming
   - Audio
   ProprietaryDependency: true
-- ID: 514
+- ID: 515
   Name: Funkwhale
   Description: A modern, web-based, convivial, multi-user and free music server.
   Source Code: https://code.eliotberriot.com/funkwhale/funkwhale
@@ -6602,7 +6614,7 @@ entries:
   - Media
   - Streaming
   - Audio
-- ID: 515
+- ID: 516
   Name: GNU FM
   Description: Running music community websites, alternative to last.fm.
   Source Code: http://git.savannah.gnu.org/cgit/librefm.git/
@@ -6615,7 +6627,7 @@ entries:
   - Media
   - Streaming
   - Audio
-- ID: 516
+- ID: 517
   Name: Groove Basin
   Description: Music player server with a web-based user interface inspired by Amarok
     1.4.
@@ -6628,7 +6640,7 @@ entries:
   - Media
   - Streaming
   - Audio
-- ID: 517
+- ID: 518
   Name: Icecast 2
   Description: streaming audio/video server which can be used to create an Internet
     radio station or a privately running jukebox and many things in between.
@@ -6642,7 +6654,7 @@ entries:
   - Media
   - Streaming
   - Audio
-- ID: 518
+- ID: 519
   Name: koel
   Description: Personal music streaming server that works.
   Source Code: https://github.com/phanan/koel
@@ -6655,7 +6667,7 @@ entries:
   - Media
   - Streaming
   - Audio
-- ID: 519
+- ID: 520
   Name: LibreTime
   Description: Simple, open source platform that lets you broadcast streaming radio
     on the web (fork of [Airtime](https://github.com/sourcefabric/Airtime)).
@@ -6669,7 +6681,7 @@ entries:
   - Media
   - Streaming
   - Audio
-- ID: 520
+- ID: 521
   Name: LMS
   Description: Access your self-hosted music using a web interface.
   Source Code: https://github.com/epoupon/lms
@@ -6682,7 +6694,7 @@ entries:
   - Media
   - Streaming
   - Audio
-- ID: 521
+- ID: 522
   Name: Mopidy
   Description: Extensible music server. Offers a superset of the mpd API, as well
     as integration with 3rd party services like Spotify, SoundCloud etc.
@@ -6696,7 +6708,7 @@ entries:
   - Media
   - Streaming
   - Audio
-- ID: 522
+- ID: 523
   Name: Moped
   Description: Responsive HTML5 + Javascript client for the Mopidy music server.
   Source Code: https://github.com/martijnboland/moped
@@ -6708,7 +6720,7 @@ entries:
   - Media
   - Streaming
   - Audio
-- ID: 523
+- ID: 524
   Name: Mopidy MusicBox
   Description: Web Client for Mopidy Music Server.
   Source Code: https://github.com/pimusicbox/mopidy-musicbox-webclient
@@ -6720,7 +6732,7 @@ entries:
   - Media
   - Streaming
   - Audio
-- ID: 524
+- ID: 525
   Name: Mopidy-Party
   Description: Mopidy web extension designed for party! Let your guests manage the
     sound.
@@ -6733,7 +6745,7 @@ entries:
   - Media
   - Streaming
   - Audio
-- ID: 525
+- ID: 526
   Name: mpd
   Description: Daemon to remotely play music, stream music, handle and organize playlists.
     Many clients available.
@@ -6747,7 +6759,7 @@ entries:
   - Media
   - Streaming
   - Audio
-- ID: 526
+- ID: 527
   Name: ympd
   Description: Standalone MPD Web GUI written in C, utilizing Websockets and Bootstrap/JS.
   Source Code: https://github.com/notandy/ympd
@@ -6760,7 +6772,7 @@ entries:
   - Media
   - Streaming
   - Audio
-- ID: 527
+- ID: 528
   Name: mStream
   Description: Music streaming server with GUI management tools. Runs on Mac, Windows,
     and Linux.
@@ -6775,7 +6787,7 @@ entries:
   - Media
   - Streaming
   - Audio
-- ID: 528
+- ID: 529
   Name: Music Browser
   Description: Browser and streamer for your music collection. It is runs on most
     operating systems, and is light enough to run flawlessly on NAS devices.
@@ -6788,7 +6800,7 @@ entries:
   - Media
   - Streaming
   - Audio
-- ID: 529
+- ID: 530
   Name: musikcube
   Description: Streaming audio server with Linux/macOS/Windows/Android clients.
   Source Code: https://github.com/clangen/musikcube
@@ -6801,7 +6813,20 @@ entries:
   - Media
   - Streaming
   - Audio
-- ID: 530
+- ID: 531
+  Name: Polaris
+  Description: Music browsing and streaming application optimized for large music
+    collections, ease of use and high performance.
+  Source Code: https://github.com/agersant/polaris/
+  License:
+  - MIT
+  Languages:
+  - Rust
+  Tags:
+  - Media
+  - Streaming
+  - Audio
+- ID: 532
   Name: Sonerezh
   Description: Self-hosted, web-based application for stream your music, everywhere.
   Source Code: https://github.com/sonerezh/sonerezh
@@ -6815,7 +6840,7 @@ entries:
   - Media
   - Streaming
   - Audio
-- ID: 531
+- ID: 533
   Name: Volumio
   Description: A free and open source linux distribution, designed and fine-tuned
     exclusively for music playback.
@@ -6829,7 +6854,7 @@ entries:
   - Media
   - Streaming
   - Audio
-- ID: 532
+- ID: 534
   Name: crtmpserver
   Description: High performance RTMP/RTSP streaming server.
   Source Code: https://packages.debian.org/stable/crtmpserver
@@ -6841,7 +6866,7 @@ entries:
   - Media
   - Streaming
   - Video
-- ID: 533
+- ID: 535
   Name: CyTube
   Description: CyTube is a web application providing media synchronization, chat,
     and more for an arbitrary number of channels.
@@ -6855,7 +6880,7 @@ entries:
   - Media
   - Streaming
   - Video
-- ID: 534
+- ID: 536
   Name: Hellowlol HTPC Manager fork
   Description: Fully responsive interface to manage all your favorite media on your
     HTPC.
@@ -6869,7 +6894,7 @@ entries:
   - Media
   - Streaming
   - Video
-- ID: 535
+- ID: 537
   Name: Icecast 2
   Description: streaming audio/video server which can be used to create an Internet
     radio station or a privately running jukebox and many things in between.
@@ -6885,7 +6910,7 @@ entries:
   - Media
   - Streaming
   - Video
-- ID: 536
+- ID: 538
   Name: MistServer
   Description: Streaming media server that works well in any streaming environment.
   Source Code: https://github.com/DDVTECH/mistserver
@@ -6898,7 +6923,7 @@ entries:
   - Media
   - Streaming
   - Video
-- ID: 537
+- ID: 539
   Name: Myflix
   Description: Self-hosted, super lightweight Netflix alternative.
   Source Code: https://github.com/pastapojken/Myflix
@@ -6910,7 +6935,7 @@ entries:
   - Media
   - Streaming
   - Video
-- ID: 538
+- ID: 540
   Name: Odd Networks
   Description: Open source video management system (VMS) and API for collections and
     videos with supporting SDKs for Roku, Apple iOS/tvOS, Google Android, and Amazon
@@ -6925,7 +6950,7 @@ entries:
   - Media
   - Streaming
   - Video
-- ID: 539
+- ID: 541
   Name: PeerTube
   Description: Decentralized video streaming platform using P2P (BitTorrent) directly
     in the web browser.
@@ -6939,7 +6964,7 @@ entries:
   - Media
   - Streaming
   - Video
-- ID: 540
+- ID: 542
   Name: Restreamer
   Description: Restreamer allows you to do h.264 real-time video streaming on your
     website without a streaming provider.
@@ -6954,7 +6979,7 @@ entries:
   - Media
   - Streaming
   - Video
-- ID: 541
+- ID: 543
   Name: Shinobi
   Description: Open Source CCTV software written in Node with both IP and local camera
     support.
@@ -6968,7 +6993,7 @@ entries:
   - Media
   - Streaming
   - Video
-- ID: 542
+- ID: 544
   Name: Streama
   Description: Self hosted streaming media server.
   Source Code: https://github.com/streamaserver/streama
@@ -6981,7 +7006,7 @@ entries:
   - Media
   - Streaming
   - Video
-- ID: 543
+- ID: 545
   Name: VideoLAN Client (VLC)
   Description: Cross-platform multimedia player client and server supporting most
     multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.
@@ -6995,7 +7020,7 @@ entries:
   - Media
   - Streaming
   - Video
-- ID: 544
+- ID: 546
   Name: Zoneminder
   Description: Closed-circuit television (CCTV) software application which supports
     IP, USB and Analog cameras.
@@ -7009,7 +7034,7 @@ entries:
   - Media
   - Streaming
   - Video
-- ID: 545
+- ID: 547
   Name: "411"
   Description: Alert Management Web Application.
   Source Code: https://github.com/etsy/411
@@ -7021,7 +7046,7 @@ entries:
   Tags:
   - Misc
   - Other
-- ID: 546
+- ID: 548
   Name: AlertHub
   Description: AlertHub is a simple tool to get alerted from GitHub releases.
   Source Code: https://github.com/Ardakilic/alerthub
@@ -7033,7 +7058,7 @@ entries:
   - Misc
   - Other
   ProprietaryDependency: true
-- ID: 547
+- ID: 549
   Name: Anchr
   Description: Anchr is a toolbox for tiny tasks on the internet, including bookmark
     collections, URL shortening and (encrypted) image uploads.
@@ -7046,7 +7071,7 @@ entries:
   Tags:
   - Misc
   - Other
-- ID: 548
+- ID: 550
   Name: Anuko
   Description: Anuko provides simple time and project tracking on a selfhosted basis.
   Source Code: https://github.com/anuko/timetracker
@@ -7059,7 +7084,7 @@ entries:
   Tags:
   - Misc
   - Other
-- ID: 549
+- ID: 551
   Name: asciiflow
   Description: Flow Diagram Drawing Tool.
   Source Code: https://github.com/lewish/asciiflow2
@@ -7072,7 +7097,7 @@ entries:
   Tags:
   - Misc
   - Other
-- ID: 550
+- ID: 552
   Name: blynk
   Description: Platform with iOs and Android apps to control Arduino, ESP8266, Raspberry
     Pi and similar microcontroller boards over the Internet.
@@ -7085,7 +7110,7 @@ entries:
   Tags:
   - Misc
   - Other
-- ID: 551
+- ID: 553
   Name: CUPS
   Description: The Common Unix Print System uses Internet Printing Protocol (IPP)
     to support printing to local and network printers.
@@ -7098,7 +7123,7 @@ entries:
   Tags:
   - Misc
   - Other
-- ID: 552
+- ID: 554
   Name: DomainMOD
   Description: Application to manage your domains and other internet assets in a central
     location. DomainMOD includes a Data Warehouse framework that allows you to import
@@ -7114,7 +7139,7 @@ entries:
   Tags:
   - Misc
   - Other
-- ID: 553
+- ID: 555
   Name: EasyBook Project
   Description: Book publishing as easy as it should be.
   Source Code: https://github.com/javiereguiluz/easybook
@@ -7126,7 +7151,7 @@ entries:
   Tags:
   - Misc
   - Other
-- ID: 554
+- ID: 556
   Name: Flox
   Description: Self hosted movie, TV series and anime watch list with a 3-point rating
     system. Uses The Movie Database backend for information.
@@ -7140,7 +7165,7 @@ entries:
   - Misc
   - Other
   ProprietaryDependency: true
-- ID: 555
+- ID: 557
   Name: formspree
   Description: Just send your form to our URL and we'll forward it to your email.
     No PHP, Javascript or sign up required.
@@ -7155,7 +7180,7 @@ entries:
   - Misc
   - Other
   ProprietaryDependency: true
-- ID: 556
+- ID: 558
   Name: GeneWeb
   Description: GeneWeb is an open source genealogy software written in OCaml. It comes
     with a Web interface and can be used off-line or as a Web service.
@@ -7169,7 +7194,7 @@ entries:
   Tags:
   - Misc
   - Other
-- ID: 557
+- ID: 559
   Name: How Secure Is My Password
   Description: Rather than just saying a password is "weak" or "strong", How Secure
     is My Password? lets your users know how long it would take someone to crack their
@@ -7183,7 +7208,7 @@ entries:
   Tags:
   - Misc
   - Other
-- ID: 558
+- ID: 560
   Name: google-webfonts-helper
   Description: Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff
     and woff2 files + CSS snippets.
@@ -7197,7 +7222,7 @@ entries:
   - Misc
   - Other
   ProprietaryDependency: true
-- ID: 559
+- ID: 561
   Name: ytdl-webserver
   Description: Docker-ready webserver for downloading youtube videos.
   Source Code: https://github.com/Algram/ytdl-webserver
@@ -7208,7 +7233,7 @@ entries:
   Tags:
   - Misc
   - Other
-- ID: 560
+- ID: 562
   Name: Kimai
   Description: Simple time and project tracking.
   Source Code: https://github.com/kimai/kimai
@@ -7221,7 +7246,7 @@ entries:
   Tags:
   - Misc
   - Other
-- ID: 561
+- ID: 563
   Name: King Phisher
   Description: King Phisher is a tool for testing and promoting user awareness by
     simulating real world phishing attacks.
@@ -7233,7 +7258,7 @@ entries:
   Tags:
   - Misc
   - Other
-- ID: 562
+- ID: 564
   Name: Maily Form
   Description: Self-hosted service you can use to place forms on static sites. It
     uses nodemailer and you can host it with Docker.
@@ -7246,7 +7271,7 @@ entries:
   Tags:
   - Misc
   - Other
-- ID: 563
+- ID: 565
   Name: Mindmaps
   Description: Open source, offline capable, mind mapping application.
   Source Code: https://github.com/drichard/mindmaps
@@ -7258,7 +7283,7 @@ entries:
   Tags:
   - Misc
   - Other
-- ID: 564
+- ID: 566
   Name: Monica
   Description: Personal relationship manager, and a new kind of CRM to organize interactions
     with your friends and family.
@@ -7271,7 +7296,7 @@ entries:
   Tags:
   - Misc
   - Other
-- ID: 565
+- ID: 567
   Name: Musical Artifacts
   Description: Helping to catalog, preserve and free the artifacts you need to produce
     music.
@@ -7284,7 +7309,7 @@ entries:
   Tags:
   - Misc
   - Other
-- ID: 566
+- ID: 568
   Name: My Mind
   Description: Web application for creating and managing mind maps.
   Source Code: https://github.com/ondras/my-mind
@@ -7296,7 +7321,7 @@ entries:
   Tags:
   - Misc
   - Other
-- ID: 567
+- ID: 569
   Name: nnmm
   Description: Super tiny pastebin/url minifier "microservice".
   Source Code: https://github.com/Mechazawa/nnmm
@@ -7308,7 +7333,7 @@ entries:
   Tags:
   - Misc
   - Other
-- ID: 568
+- ID: 570
   Name: Notica
   Description: Lets you send browser notifications from your terminal to your desktop
     or phone. No installation or registration is required.
@@ -7321,7 +7346,7 @@ entries:
   Tags:
   - Misc
   - Other
-- ID: 569
+- ID: 571
   Name: Ombi
   Description: A content request system for Plex/Emby, connects to SickRage, CouchPotato,
     Sonarr, with a growing feature set.
@@ -7335,7 +7360,7 @@ entries:
   Tags:
   - Misc
   - Other
-- ID: 570
+- ID: 572
   Name: revealjs
   Description: Framework for easily creating beautiful presentations using HTML.
   Source Code: https://github.com/hakimel/reveal.js
@@ -7348,7 +7373,7 @@ entries:
   Tags:
   - Misc
   - Other
-- ID: 571
+- ID: 573
   Name: SANE Network Scanning
   Description: Allow remote clients to access image acquisition devices (scanners)
     available on the local host.
@@ -7361,7 +7386,7 @@ entries:
   Tags:
   - Misc
   - Other
-- ID: 572
+- ID: 574
   Name: Trello Burndown
   Description: Easy to use SCRUM burndown chart for Trello boards.
   Source Code: https://github.com/swordbeta/trello-burndown
@@ -7374,7 +7399,7 @@ entries:
   - Misc
   - Other
   ProprietaryDependency: true
-- ID: 573
+- ID: 575
   Name: Ulterius
   Description: Ulterius is an open-source remote desktop software with lots of awesome
     functions.
@@ -7388,7 +7413,7 @@ entries:
   Tags:
   - Misc
   - Other
-- ID: 574
+- ID: 576
   Name: ViMbAdmin
   Description: Provides a web based virtual mailbox administration system to allow
     mail administrators to easily manage domains, mailboxes and aliases.
@@ -7402,7 +7427,7 @@ entries:
   Tags:
   - Misc
   - Other
-- ID: 575
+- ID: 577
   Name: visualCaptcha
   Description: Configurable captcha solution, focusing on accessibility and simplicity
     whilst maintaining security.
@@ -7419,7 +7444,7 @@ entries:
   Tags:
   - Misc
   - Other
-- ID: 576
+- ID: 578
   Name: Web fonts repository
   Description: A simple webfont hosting. Google Fonts alternative for your own fonts.
   Source Code: https://github.com/Finesse/web-fonts-repository
@@ -7430,7 +7455,7 @@ entries:
   Tags:
   - Misc
   - Other
-- ID: 577
+- ID: 579
   Name: webtrees
   Description: Webtrees is the web's leading on-line collaborative genealogy application.
   Source Code: https://github.com/fisharebest/webtrees
@@ -7443,7 +7468,7 @@ entries:
   Tags:
   - Misc
   - Other
-- ID: 578
+- ID: 580
   Name: Akaunting
   Description: Akaunting is a free, online and open source accounting software designed
     for small businesses and freelancers.
@@ -7456,7 +7481,7 @@ entries:
   Tags:
   - Money
   - Budget
-- ID: 579
+- ID: 581
   Name: BTCPay Server
   Description: A self-hosted Bitcoin and other cryptocurrencies payment processor.
   Source Code: https://github.com/btcpayserver/
@@ -7469,7 +7494,7 @@ entries:
   Tags:
   - Money
   - Budget
-- ID: 580
+- ID: 582
   Name: Benedetto
   Description: Bennedetto is a simple, turn-based budget management app.
   Source Code: https://github.com/arecker/bennedetto
@@ -7480,7 +7505,7 @@ entries:
   Tags:
   - Money
   - Budget
-- ID: 581
+- ID: 583
   Name: Boodle
   Description: Simple accounting single-page application in Clojure and ClojureScript.
   Source Code: https://github.com/manuel-uberti/boodle
@@ -7491,7 +7516,7 @@ entries:
   Tags:
   - Money
   - Budget
-- ID: 582
+- ID: 584
   Name: Budget App
   Description: Budget App is an open source personal budgeting application.
   Source Code: https://github.com/paukiatwee/budgetapp/
@@ -7502,7 +7527,7 @@ entries:
   Tags:
   - Money
   - Budget
-- ID: 583
+- ID: 585
   Name: Dot Ledger
   Description: Web-based personal finance management tool.
   Source Code: https://github.com/dotledger/dotledger
@@ -7515,7 +7540,7 @@ entries:
   Tags:
   - Money
   - Budget
-- ID: 584
+- ID: 586
   Name: Economizzer
   Description: An easy and secure system for you to manage your personal money and
     achieve your goals, and can be accessed by computer, tablet or smartphone.
@@ -7529,7 +7554,7 @@ entries:
   Tags:
   - Money
   - Budget
-- ID: 585
+- ID: 587
   Name: ExMoney
   Description: Self-hosted personal finance app.
   Source Code: https://github.com/gaynetdinov/ex_money
@@ -7540,7 +7565,7 @@ entries:
   Tags:
   - Money
   - Budget
-- ID: 586
+- ID: 588
   Name: Firefly III
   Description: Firefly III is a modern financial manager. It helps you to keep track
     of your money and make budget forecasts. It supports credit cards, has an advanced
@@ -7556,7 +7581,7 @@ entries:
   Tags:
   - Money
   - Budget
-- ID: 587
+- ID: 589
   Name: Galette
   Description: Galette is a membership management web application towards non profit
     organizations.
@@ -7569,7 +7594,7 @@ entries:
   Tags:
   - Money
   - Budget
-- ID: 588
+- ID: 590
   Name: GRR
   Description: Assets management and booking for small/medium companies.
   Source Code: https://github.com/JeromeDevome/GRR
@@ -7581,7 +7606,7 @@ entries:
   Tags:
   - Money
   - Budget
-- ID: 589
+- ID: 591
   Name: Hospital Run
   Description: Hospital Run is offline enabled hospital management software.
   Source Code: https://github.com/HospitalRun/hospitalrun-server
@@ -7594,7 +7619,7 @@ entries:
   Tags:
   - Money
   - Budget
-- ID: 590
+- ID: 592
   Name: Inventaire
   Description: Collaborative resources mapper project, while yet only focused on exploring
     books mapping with wikidata and ISBNs.
@@ -7607,7 +7632,7 @@ entries:
   Tags:
   - Money
   - Budget
-- ID: 591
+- ID: 593
   Name: Invoice Ninja
   Description: Powerful tool to invoice clients online.
   Source Code: https://github.com/invoiceninja/invoiceninja
@@ -7620,7 +7645,7 @@ entries:
   Tags:
   - Money
   - Budget
-- ID: 592
+- ID: 594
   Name: InvoicePlane
   Description: Manage quotes, invoices, payments and customers for your small business.
   Source Code: https://github.com/InvoicePlane/InvoicePlane
@@ -7633,7 +7658,7 @@ entries:
   Tags:
   - Money
   - Budget
-- ID: 593
+- ID: 595
   Name: IHateMoney
   Description: Manage your shared expenses, easily.
   Source Code: https://github.com/spiral-project/ihatemoney
@@ -7646,7 +7671,7 @@ entries:
   Tags:
   - Money
   - Budget
-- ID: 594
+- ID: 596
   Name: Kresus
   Description: Open source personal finance manager.
   Source Code: https://github.com/kresusapp/kresus
@@ -7659,7 +7684,7 @@ entries:
   Tags:
   - Money
   - Budget
-- ID: 595
+- ID: 597
   Name: PartKeepr
   Description: PartKeepr is an electronic part inventory management software. It helps
     you to keep track of your available parts and assist you with re-ordering parts.
@@ -7673,7 +7698,7 @@ entries:
   Tags:
   - Money
   - Budget
-- ID: 596
+- ID: 598
   Name: SilverStrike
   Description: Personal finance management made easy.
   Source Code: https://github.com/agstrike/silverstrike
@@ -7687,7 +7712,7 @@ entries:
   Tags:
   - Money
   - Budget
-- ID: 597
+- ID: 599
   Name: StockazNG
   Description: Asset Management System.
   Source Code: https://dev.sigpipe.me/dashie/StockazNG
@@ -7698,7 +7723,20 @@ entries:
   Tags:
   - Money
   - Budget
-- ID: 598
+- ID: 600
+  Name: Abrays Notes
+  Description: Take server side encrypted notes. Self hosted, WYSIWYG editor, material
+    design and more.
+  Source Code: https://github.com/abrays/notes
+  Website: https://go.imadityang.xyz/notes
+  License:
+  - MIT
+  Languages:
+  - Ruby
+  Tags:
+  - Note-taking
+  - Editor
+- ID: 601
   Name: BulletNotes
   Description: Workflowy / Dynalist clone with Kanban (Trello) and Calendar functionality.
     Organize everything.
@@ -7711,7 +7749,7 @@ entries:
   Tags:
   - Note-taking
   - Editor
-- ID: 599
+- ID: 602
   Name: Boostnote
   Description: The note-taking app for programmers that focuses on markdown, snippets,
     and customizability.
@@ -7724,7 +7762,7 @@ entries:
   Tags:
   - Note-taking
   - Editor
-- ID: 600
+- ID: 603
   Name: CodiMD
   Description: Realtime collaborative markdown notes on all platforms, formerly HackMD
     CE.
@@ -7737,7 +7775,7 @@ entries:
   Tags:
   - Note-taking
   - Editor
-- ID: 601
+- ID: 604
   Name: dillinger
   Description: The last Markdown editor, ever.
   Source Code: https://github.com/joemccann/dillinger/
@@ -7749,7 +7787,7 @@ entries:
   Tags:
   - Note-taking
   - Editor
-- ID: 602
+- ID: 605
   Name: draw.io
   Description: Diagram software for making flowcharts, process diagrams, org charts,
     UML, ER and network diagrams.
@@ -7762,7 +7800,7 @@ entries:
   Tags:
   - Note-taking
   - Editor
-- ID: 603
+- ID: 606
   Name: Joplin
   Description: Joplin is a note taking application with Markdown editor and encryption
     support for mobile and desktop platforms. Runs client-side and syncs through self
@@ -7776,7 +7814,7 @@ entries:
   Tags:
   - Note-taking
   - Editor
-- ID: 604
+- ID: 607
   Name: Leanote
   Description: Leanote, Not Just A Notepad! Open source cloud notepad.
   Source Code: https://github.com/leanote/leanote
@@ -7789,7 +7827,7 @@ entries:
   Tags:
   - Note-taking
   - Editor
-- ID: 605
+- ID: 608
   Name: Markdown Edit
   Description: Online markdown editor/viewer.
   Source Code: https://github.com/georgeOsdDev/markdown-edit
@@ -7801,7 +7839,7 @@ entries:
   Tags:
   - Note-taking
   - Editor
-- ID: 606
+- ID: 609
   Name: Meemo
   Description: Personal notes stream with Markdown support.
   Source Code: https://github.com/nebulade/meemo
@@ -7813,7 +7851,7 @@ entries:
   Tags:
   - Note-taking
   - Editor
-- ID: 607
+- ID: 610
   Name: minimalist-web-notepad
   Description: Minimalist notepad.cc clone.
   Source Code: https://github.com/pereorga/minimalist-web-notepad
@@ -7824,7 +7862,7 @@ entries:
   Tags:
   - Note-taking
   - Editor
-- ID: 608
+- ID: 611
   Name: MiniNote
   Description: Simple Markdown note-taking app with persistence.
   Source Code: https://github.com/n1try/mininote
@@ -7835,7 +7873,7 @@ entries:
   Tags:
   - Note-taking
   - Editor
-- ID: 609
+- ID: 612
   Name: notes
   Description: Simple script for personal notes with a single page with a WYSIWYG
     Editor.
@@ -7847,7 +7885,7 @@ entries:
   Tags:
   - Note-taking
   - Editor
-- ID: 610
+- ID: 613
   Name: OpenNote
   Description: OpenNote was built to be an open web-based alternative to Microsoft
     OneNote (T) and EverNote.
@@ -7860,7 +7898,7 @@ entries:
   Tags:
   - Note-taking
   - Editor
-- ID: 611
+- ID: 614
   Name: Paperwork
   Description: OpenSource note-taking and archiving alternative to Evernote, Microsoft
     OneNote and Google Keep.
@@ -7873,7 +7911,7 @@ entries:
   Tags:
   - Note-taking
   - Editor
-- ID: 612
+- ID: 615
   Name: savepad
   Description: Minimalist notepad based on notepad.cc.
   Source Code: https://github.com/novavex/textpad
@@ -7884,7 +7922,7 @@ entries:
   Tags:
   - Note-taking
   - Editor
-- ID: 613
+- ID: 616
   Name: ShareLaTex
   Description: Web-based collaborative LaTeX editor.
   Source Code: https://github.com/sharelatex/sharelatex
@@ -7896,7 +7934,7 @@ entries:
   Tags:
   - Note-taking
   - Editor
-- ID: 614
+- ID: 617
   Name: Standard Notes
   Description: Simple and private notes app. Protect your privacy while getting more
     done. That's Standard Notes.
@@ -7910,7 +7948,7 @@ entries:
   Tags:
   - Note-taking
   - Editor
-- ID: 615
+- ID: 618
   Name: to-markdown
   Description: HTML to Markdown converter written in JavaScript.
   Source Code: https://github.com/domchristie/to-markdown
@@ -7922,7 +7960,7 @@ entries:
   Tags:
   - Note-taking
   - Editor
-- ID: 616
+- ID: 619
   Name: Turtl
   Description: Totally private personal database and note taking app.
   Source Code: https://github.com/turtl
@@ -7934,7 +7972,7 @@ entries:
   Tags:
   - Note-taking
   - Editor
-- ID: 617
+- ID: 620
   Name: Collabora Online Development Edition
   Description: Collabora Online Development Edition (CODE) is a powerful LibreOffice-based
     online office that supports all major document, spreadsheet and presentation file
@@ -7947,7 +7985,7 @@ entries:
   - C++
   Tags:
   - Office Suites
-- ID: 618
+- ID: 621
   Name: CryptPad
   Description: CryptPad is the zero knowledge realtime collaborative editor (rich-text,
     files, source-code, ...).
@@ -7959,7 +7997,7 @@ entries:
   - Nodejs
   Tags:
   - Office Suites
-- ID: 619
+- ID: 622
   Name: EtherCalc
   Description: Web spreadsheet.
   Source Code: https://github.com/audreyt/ethercalc
@@ -7971,7 +8009,7 @@ entries:
   - Nodejs
   Tags:
   - Office Suites
-- ID: 620
+- ID: 623
   Name: EtherDraw
   Description: Intuitive collaborative drawing web based tool.
   Source Code: https://github.com/JohnMcLear/draw
@@ -7981,7 +8019,7 @@ entries:
   - Nodejs
   Tags:
   - Office Suites
-- ID: 621
+- ID: 624
   Name: Etherpad
   Description: Etherpad is a highly customizable Open Source online editor providing
     collaborative editing in really real-time.
@@ -7994,7 +8032,7 @@ entries:
   - Nodejs
   Tags:
   - Office Suites
-- ID: 622
+- ID: 625
   Name: Infinoted
   Description: Server for [Gobby](https://github.com/gobby/gobby/wiki), a multi-platform
     collaborative text editor.
@@ -8006,7 +8044,7 @@ entries:
   - C++
   Tags:
   - Office Suites
-- ID: 623
+- ID: 626
   Name: ONLYOFFICE
   Description: Office suite that enables you to manage documents, projects, team and
     customer relations in one place.
@@ -8018,7 +8056,7 @@ entries:
   - Nodejs
   Tags:
   - Office Suites
-- ID: 624
+- ID: 627
   Name: PHPOffice
   Description: PHPOffice contains libraries which permits to write and read files
     from most office suites.
@@ -8029,7 +8067,7 @@ entries:
   - PHP
   Tags:
   - Office Suites
-- ID: 625
+- ID: 628
   Name: WebODF
   Description: Tools and libraries to view and edit Open Document Format (ODF) files.
   Source Code: https://github.com/kogmbh/WebODF
@@ -8040,7 +8078,7 @@ entries:
   - HTML5
   Tags:
   - Office Suites
-- ID: 626
+- ID: 629
   Name: Bitwarden
   Description: Password manager with webapp, browser extension, and mobile app.
   Source Code: https://github.com/bitwarden/core
@@ -8051,7 +8089,7 @@ entries:
   - C#
   Tags:
   - Password Manager
-- ID: 627
+- ID: 630
   Name: keeweb
   Description: This webapp is a browser and desktop password manager compatible with
     KeePass databases.
@@ -8063,7 +8101,7 @@ entries:
   - HTML5
   Tags:
   - Password Manager
-- ID: 628
+- ID: 631
   Name: Passbolt
   Description: Password manager dedicated for managing passwords in a collaborative
     way on any Web server, using a MySQL database backend.
@@ -8075,7 +8113,7 @@ entries:
   - PHP
   Tags:
   - Password Manager
-- ID: 629
+- ID: 632
   Name: PassIt
   Description: Simple password manage with sharing features by group and user, but
     no administration interface.
@@ -8088,7 +8126,7 @@ entries:
   - Python
   Tags:
   - Password Manager
-- ID: 630
+- ID: 633
   Name: Psono
   Description: A promising password managers fully featured for teams.
   Source Code: https://gitlab.com/psono
@@ -8100,7 +8138,7 @@ entries:
   - Python
   Tags:
   - Password Manager
-- ID: 631
+- ID: 634
   Name: sysPass
   Description: Multiuser password management system.
   Source Code: https://github.com/nuxsmin/sysPass
@@ -8112,7 +8150,7 @@ entries:
   - PHP
   Tags:
   - Password Manager
-- ID: 632
+- ID: 635
   Name: Teampass
   Description: Password manager dedicated for managing passwords in a collaborative
     way. One symmetric key is used to encrypt all shared/team passwords and stored
@@ -8126,7 +8164,7 @@ entries:
   - PHP
   Tags:
   - Password Manager
-- ID: 633
+- ID: 636
   Name: 0bin
   Description: Client side encrypted pastebin.
   Source Code: https://github.com/sametmax/0bin
@@ -8136,7 +8174,7 @@ entries:
   - Python
   Tags:
   - Pastebin
-- ID: 634
+- ID: 637
   Name: bepasty
   Description: A pastebin for all kinds of files.
   Source Code: https://github.com/bepasty/bepasty-server
@@ -8147,7 +8185,7 @@ entries:
   - Python
   Tags:
   - Pastebin
-- ID: 635
+- ID: 638
   Name: CoderVault
   Description: Open source, self-hosted, snippet manager.
   Source Code: https://github.com/codervault/codervault
@@ -8158,7 +8196,7 @@ entries:
   - Ruby
   Tags:
   - Pastebin
-- ID: 636
+- ID: 639
   Name: cryptonote
   Description: Simple open source web application that lets users encrypt and share
     messages that can only be read once.
@@ -8170,7 +8208,7 @@ entries:
   - Ruby
   Tags:
   - Pastebin
-- ID: 637
+- ID: 640
   Name: EdPaste
   Description: Self-hosted pastebin written in Laravel (PHP Framework).
   Source Code: https://github.com/Edraens/EdPaste
@@ -8181,7 +8219,7 @@ entries:
   - PHP
   Tags:
   - Pastebin
-- ID: 638
+- ID: 641
   Name: fiche
   Description: Command line pastebin, all you need is netcat.
   Source Code: https://github.com/solusipse/fiche
@@ -8192,7 +8230,7 @@ entries:
   - C
   Tags:
   - Pastebin
-- ID: 639
+- ID: 642
   Name: GIST
   Description: GIST is an open-source application to share code.
   Source Code: https://gitnet.fr/deblan/gist
@@ -8203,7 +8241,7 @@ entries:
   - PHP
   Tags:
   - Pastebin
-- ID: 640
+- ID: 643
   Name: hastebin
   Description: Open source pastebin written in node.js.
   Source Code: https://github.com/seejohnrun/haste-server
@@ -8215,7 +8253,7 @@ entries:
   - Nodejs
   Tags:
   - Pastebin
-- ID: 641
+- ID: 644
   Name: Modern Paste
   Description: Modern pastebin with a contemporary, minimalistic user interface backed
     by a robust feature set.
@@ -8227,7 +8265,7 @@ entries:
   - Python
   Tags:
   - Pastebin
-- ID: 642
+- ID: 645
   Name: mojopaste
   Description: Perl based pastebin.
   Source Code: https://github.com/jhthorsen/app-mojopaste
@@ -8239,7 +8277,7 @@ entries:
   - Perl
   Tags:
   - Pastebin
-- ID: 643
+- ID: 646
   Name: NoteHub
   Description: Free and Hassle-free Pastebin for Markdown Pages. Simple, clean, password
     provided, generated-short link.
@@ -8250,7 +8288,7 @@ entries:
   - Nodejs
   Tags:
   - Pastebin
-- ID: 644
+- ID: 647
   Name: Paste
   Description: Paste is forked from the original source pastebin.com used before it
     was bought.
@@ -8262,7 +8300,7 @@ entries:
   - PHP
   Tags:
   - Pastebin
-- ID: 645
+- ID: 648
   Name: pastebin
   Description: Simple pastebin service with convenient api and CLI.
   Source Code: https://github.com/prologic/pastebin
@@ -8273,7 +8311,7 @@ entries:
   - Go
   Tags:
   - Pastebin
-- ID: 646
+- ID: 649
   Name: Pastebin
   Description: Modern self-hosted pastebin service with a restful API.
   Source Code: https://github.com/ewhal/Pastebin
@@ -8283,7 +8321,7 @@ entries:
   - Go
   Tags:
   - Pastebin
-- ID: 647
+- ID: 650
   Name: pb
   Description: Lightweight pastebin (and url shortener) built using flask.
   Source Code: https://github.com/ptpb/pb
@@ -8294,7 +8332,7 @@ entries:
   - Python
   Tags:
   - Pastebin
-- ID: 648
+- ID: 651
   Name: pbnh
   Description: Pastebin inspired from project pb and hastebin, with an API and a SQL-based
     backend.
@@ -8305,7 +8343,7 @@ entries:
   - Python
   Tags:
   - Pastebin
-- ID: 649
+- ID: 652
   Name: Phaste
   Description: Phalcon-based, MySQL pastebin application with privacy-respecting Piwik
     integration and syntax highlighting.
@@ -8317,7 +8355,7 @@ entries:
   - PHP
   Tags:
   - Pastebin
-- ID: 650
+- ID: 653
   Name: PrivateBin
   Description: PrivateBin is a minimalist, opensource online pastebin/discussion board
     where the server has zero knowledge of hosted data.
@@ -8330,7 +8368,7 @@ entries:
   - PHP
   Tags:
   - Pastebin
-- ID: 651
+- ID: 654
   Name: SharpPaste
   Description: Cross-platform C# pastebin with client-side AES-256 encryption that
     just works.
@@ -8342,7 +8380,7 @@ entries:
   - C#
   Tags:
   - Pastebin
-- ID: 652
+- ID: 655
   Name: Snibox
   Description: Code snippets manager with attractive tag-oriented interface.
   Source Code: https://github.com/snibox/snibox
@@ -8354,7 +8392,7 @@ entries:
   - Ruby
   Tags:
   - Pastebin
-- ID: 653
+- ID: 656
   Name: snipt
   Description: Long-term memory for coders. Share and store code snippets.
   Source Code: https://github.com/nicksergeant/snipt/
@@ -8365,7 +8403,7 @@ entries:
   - Python
   Tags:
   - Pastebin
-- ID: 654
+- ID: 657
   Name: Stikked
   Description: Advanced and beautiful pastebin.
   Source Code: https://github.com/claudehohl/Stikked
@@ -8376,7 +8414,7 @@ entries:
   - PHP
   Tags:
   - Pastebin
-- ID: 655
+- ID: 658
   Name: Sup3rS3cretMes5age
   Description: Very simple (to deploy and to use) secret message service using Hashicorp
     Vault as a secrets storage.
@@ -8387,7 +8425,7 @@ entries:
   - Go
   Tags:
   - Pastebin
-- ID: 656
+- ID: 659
   Name: tastebin
   Description: Updated version of hastebin plus additional features.
   Source Code: https://github.com/andreineculau/tastebin
@@ -8397,7 +8435,7 @@ entries:
   - Nodejs
   Tags:
   - Pastebin
-- ID: 657
+- ID: 660
   Name: Baby Buddy
   Description: Helps caregivers track baby sleep, feedings, diaper changes, and tummy
     time.
@@ -8409,7 +8447,7 @@ entries:
   - Python
   Tags:
   - Dashboard
-- ID: 658
+- ID: 661
   Name: Dj Diabetes
   Description: My Glucose Manager - follow your daily health.
   Source Code: https://github.com/foxmask/dj-diabetes
@@ -8419,7 +8457,7 @@ entries:
   - Python
   Tags:
   - Dashboard
-- ID: 659
+- ID: 662
   Name: Habitica
   Description: Habit tracker app which treats your goals like a Role Playing Game.
     Previously called HabitRPG.
@@ -8433,7 +8471,7 @@ entries:
   - Nodejs
   Tags:
   - Dashboard
-- ID: 660
+- ID: 663
   Name: Heimdall
   Description: Heimdall is an elegant solution to organise all your web applications.
   Source Code: https://github.com/linuxserver/Heimdall
@@ -8444,7 +8482,7 @@ entries:
   - PHP
   Tags:
   - Dashboard
-- ID: 661
+- ID: 664
   Name: Homepage
   Description: Simple, standalone, self-hosted PHP page that is your window to your
     server and the web.
@@ -8455,7 +8493,7 @@ entries:
   - PHP
   Tags:
   - Dashboard
-- ID: 662
+- ID: 665
   Name: iDashboard-PHP
   Description: HTPC Dashboard to load website services.
   Source Code: https://github.com/causefx/iDashboard-PHP
@@ -8465,7 +8503,7 @@ entries:
   - PHP
   Tags:
   - Dashboard
-- ID: 663
+- ID: 666
   Name: Organizr
   Description: Organizr aims to be your one stop shop for your Servers Frontend.
   Source Code: https://github.com/causefx/Organizr
@@ -8475,7 +8513,7 @@ entries:
   - PHP
   Tags:
   - Dashboard
-- ID: 664
+- ID: 667
   Name: simple-dash
   Description: A simple, fully responsive Dashboard to forward to the services of
     your choice.
@@ -8487,7 +8525,7 @@ entries:
   - PHP
   Tags:
   - Dashboard
-- ID: 665
+- ID: 668
   Name: Tipboard
   Description: In-house, tasty, local dashboarding system.
   Source Code: https://github.com/allegro/tipboard
@@ -8498,7 +8536,7 @@ entries:
   - Python
   Tags:
   - Dashboard
-- ID: 666
+- ID: 669
   Name: wger
   Description: Web-based personal workout, fitness and weight logger/tracker. It can
     also be used as a simple gym management utility and offers a full REST API as
@@ -8512,7 +8550,7 @@ entries:
   - Python
   Tags:
   - Dashboard
-- ID: 667
+- ID: 670
   Name: Chevereto Free
   Description: Powerful and fast image hosting script that allows you to create your
     very own full featured image hosting website in just minutes.
@@ -8524,7 +8562,7 @@ entries:
   - PHP
   Tags:
   - Photo and Video Gallery
-- ID: 668
+- ID: 671
   Name: Coppermine
   Description: Multilingual photo gallery that integrates with various bulletin boards.
     Includes upload approval and password protected albums.
@@ -8537,7 +8575,7 @@ entries:
   - PHP
   Tags:
   - Photo and Video Gallery
-- ID: 669
+- ID: 672
   Name: CumulusClips
   Description: Your own video sharing website with CumulusClips video sharing script.
     You can build a YouTube clone where users can upload, rate, comment on videos,
@@ -8550,7 +8588,7 @@ entries:
   - PHP
   Tags:
   - Photo and Video Gallery
-- ID: 670
+- ID: 673
   Name: Gallery CSS
   Description: 'Gallery.css is all CSS. Think: Simple, maintainable and understandable
     galleries without the use of Javascript.'
@@ -8562,7 +8600,7 @@ entries:
   - HTML5
   Tags:
   - Photo and Video Gallery
-- ID: 671
+- ID: 674
   Name: Lychee
   Description: Open source grid and album based photo-management-system.
   Source Code: https://github.com/electerious/Lychee
@@ -8573,7 +8611,7 @@ entries:
   - PHP
   Tags:
   - Photo and Video Gallery
-- ID: 672
+- ID: 675
   Name: MediaDrop
   Description: Video, audio and podcast publication platform.
   Source Code: https://github.com/mediadrop/mediadrop
@@ -8584,7 +8622,7 @@ entries:
   - Python
   Tags:
   - Photo and Video Gallery
-- ID: 673
+- ID: 676
   Name: Mediagoblin
   Description: Free software media publishing platform that anyone can run. You can
     think of it as a decentralized alternative to Flickr, YouTube, SoundCloud, etc.
@@ -8596,7 +8634,7 @@ entries:
   - Python
   Tags:
   - Photo and Video Gallery
-- ID: 674
+- ID: 677
   Name: MinigalNano
   Description: 'MinigalNano is a very simple image gallery. It adheres to the KISS
     principle and is very easy to install. MinigalNano does not have a web admin interface:
@@ -8608,7 +8646,7 @@ entries:
   - PHP
   Tags:
   - Photo and Video Gallery
-- ID: 675
+- ID: 678
   Name: OwnPhotos
   Description: Self hosted wannabe Google Photos clone, with a slight focus on cool
     graphs.
@@ -8619,7 +8657,7 @@ entries:
   - Python
   Tags:
   - Photo and Video Gallery
-- ID: 676
+- ID: 679
   Name: Photato
   Description: Self-hosted photo gallery, accessible through a responsive WebUI. Directly
     uses and indexes a specific folder in the filesystem.
@@ -8630,7 +8668,7 @@ entries:
   - Java
   Tags:
   - Photo and Video Gallery
-- ID: 677
+- ID: 680
   Name: Photofloat
   Description: Web 2.0 Photo Gallery Done Right via Static JSON and Dynamic Javascript.
   Source Code: http://blog.zx2c4.com/567
@@ -8641,7 +8679,7 @@ entries:
   - Python
   Tags:
   - Photo and Video Gallery
-- ID: 678
+- ID: 681
   Name: PhotoLight
   Description: The easiest photo gallery there is.
   Source Code: https://github.com/thibaud-rohmer/PhotoLight
@@ -8651,7 +8689,7 @@ entries:
   - PHP
   Tags:
   - Photo and Video Gallery
-- ID: 679
+- ID: 682
   Name: PhotoPrism
   Description: Personal photo management powered by Go and Google TensorFlow.  Browse,
     organize, and share your personal photo collection, using the latest technologies
@@ -8664,7 +8702,7 @@ entries:
   - Go
   Tags:
   - Photo and Video Gallery
-- ID: 680
+- ID: 683
   Name: Photoshow
   Description: Responsive Web Gallery.
   Source Code: https://github.com/thibaud-rohmer/PhotoShow
@@ -8675,7 +8713,7 @@ entries:
   - PHP
   Tags:
   - Photo and Video Gallery
-- ID: 681
+- ID: 684
   Name: Piwigo
   Description: Photo gallery software for the web, built by an active community of
     users and developers.
@@ -8688,7 +8726,7 @@ entries:
   - PHP
   Tags:
   - Photo and Video Gallery
-- ID: 682
+- ID: 685
   Name: Plumi
   Description: Create your own sophisticated video-sharing site.
   Source Code: https://github.com/plumi/plumi.app
@@ -8699,7 +8737,7 @@ entries:
   - Python
   Tags:
   - Photo and Video Gallery
-- ID: 683
+- ID: 686
   Name: sigal
   Description: Yet another simple static gallery generator.
   Source Code: https://github.com/saimn/sigal
@@ -8709,7 +8747,7 @@ entries:
   - Python
   Tags:
   - Photo and Video Gallery
-- ID: 684
+- ID: 687
   Name: UberGallery
   Description: UberGallery is an easy to use, simple to manage, web photo gallery.
     UberGallery does not require a database and supports JPEG, GIF and PNG file types.
@@ -8723,7 +8761,7 @@ entries:
   - PHP
   Tags:
   - Photo and Video Gallery
-- ID: 685
+- ID: 688
   Name: Videobin
   Description: Simple video upload and sharing service with transcoding.
   Source Code: https://r-w-x.org/videobin.git
@@ -8735,7 +8773,7 @@ entries:
   - Python
   Tags:
   - Photo and Video Gallery
-- ID: 686
+- ID: 689
   Name: Zenphoto
   Description: Open-source gallery and CMS project.
   Source Code: https://github.com/zenphoto/zenphoto
@@ -8746,7 +8784,7 @@ entries:
   - PHP
   Tags:
   - Photo and Video Gallery
-- ID: 687
+- ID: 690
   Name: Calagator
   Description: Event aggregator.
   Source Code: http://calagator.org/
@@ -8758,7 +8796,7 @@ entries:
   Tags:
   - Polls
   - Events
-- ID: 688
+- ID: 691
   Name: Clerk
   Description: Simple event logger to keep track of periodic events, habits, etc.
     as they occur.
@@ -8770,7 +8808,7 @@ entries:
   Tags:
   - Polls
   - Events
-- ID: 689
+- ID: 692
   Name: dudle
   Description: Online scheduling application.
   Source Code: http://primelife.ercim.eu/results/opensource/63-dudle
@@ -8782,7 +8820,7 @@ entries:
   Tags:
   - Polls
   - Events
-- ID: 690
+- ID: 693
   Name: Fider
   Description: Open source alternative to UserVoice for customer feedback.
   Source Code: https://github.com/getfider/fider
@@ -8795,7 +8833,7 @@ entries:
   Tags:
   - Polls
   - Events
-- ID: 691
+- ID: 694
   Name: Framadate
   Description: 'Online service for planning an appointment or make a decision quickly
     and easily: Make a poll, Define dates or subjects to choose, Send the poll link
@@ -8810,7 +8848,7 @@ entries:
   Tags:
   - Polls
   - Events
-- ID: 692
+- ID: 695
   Name: Kyélà
   Description: Participation polls for group events.
   Source Code: https://github.com/abienvenu/Kyela
@@ -8823,7 +8861,7 @@ entries:
   Tags:
   - Polls
   - Events
-- ID: 693
+- ID: 696
   Name: LimeSurvey
   Description: Feature-rich Open Source web based polling software. Supports extensive
     survey logic.
@@ -8836,7 +8874,7 @@ entries:
   Tags:
   - Polls
   - Events
-- ID: 694
+- ID: 697
   Name: Nuages
   Description: Collaborative meeting poll system, similar to doodle or rdvz.
   Source Code: http://git.domainepublic.net/?p=nuages.git;a=tree
@@ -8848,7 +8886,7 @@ entries:
   Tags:
   - Polls
   - Events
-- ID: 695
+- ID: 698
   Name: PHPBack
   Description: The open source feedback system.
   Source Code: https://github.com/ivandiazwm/phpback/
@@ -8861,7 +8899,7 @@ entries:
   Tags:
   - Polls
   - Events
-- ID: 696
+- ID: 699
   Name: Alf.io
   Description: The open source ticket reservation system.
   Source Code: https://github.com/alfio-event/alf.io
@@ -8874,7 +8912,7 @@ entries:
   Tags:
   - Polls
   - Events
-- ID: 697
+- ID: 700
   Name: Booked
   Description: A web-based calendar and resource scheduling system that allows administered
     management of reservations on any number of resources.
@@ -8888,7 +8926,7 @@ entries:
   Tags:
   - Polls
   - Events
-- ID: 698
+- ID: 701
   Name: Easy!Appointments
   Description: A highly customizable web application that allows your customers to
     book appointments with you via the web.
@@ -8902,7 +8940,7 @@ entries:
   Tags:
   - Polls
   - Events
-- ID: 699
+- ID: 702
   Name: http2-serverpush-proxy
   Description: Reverse proxy that helps to automatically utilize HTTP/2.0's server
     push mechanism for static websites. Available as middleware and standalone application.
@@ -8913,7 +8951,7 @@ entries:
   - Nodejs
   Tags:
   - Proxy
-- ID: 700
+- ID: 703
   Name: imgproxy
   Description: Fast and secure standalone server for resizing and converting remote
     images. It works great when you need to resize multiple images on the fly without
@@ -8927,7 +8965,7 @@ entries:
   - Docker
   Tags:
   - Proxy
-- ID: 701
+- ID: 704
   Name: iodine
   Description: IPv4 over DNS tunnel solution, enabling you to start up a socks5 proxy
     listener.
@@ -8939,7 +8977,7 @@ entries:
   - C
   Tags:
   - Proxy
-- ID: 702
+- ID: 705
   Name: microproxy
   Description: lightweight non-caching HTTP/HTTPS proxy server.
   Source Code: https://github.com/thekvs/microproxy
@@ -8950,7 +8988,7 @@ entries:
   - Go
   Tags:
   - Proxy
-- ID: 703
+- ID: 706
   Name: miniProxy
   Description: Simple web proxy written in PHP that can allow you to bypass Internet
     content filters, or to browse the internet anonymously. Only one php file.
@@ -8962,7 +9000,7 @@ entries:
   - PHP
   Tags:
   - Proxy
-- ID: 704
+- ID: 707
   Name: Oranjeproxy
   Description: Anonymizing web proxy.
   Source Code: https://github.com/AmauryCarrade/OranjeProxy
@@ -8973,7 +9011,7 @@ entries:
   - PHP
   Tags:
   - Proxy
-- ID: 705
+- ID: 708
   Name: PHP-Proxy
   Description: Web proxy script built specifically to be fast, easy to modify and
     to support video sites such as YouTube.
@@ -8986,7 +9024,7 @@ entries:
   - PHP
   Tags:
   - Proxy
-- ID: 706
+- ID: 709
   Name: Pound
   Description: Light-weight reverse proxy and load balancer for HTTP/HTTPS.
   Source Code: http://www.apsis.ch/pound/
@@ -8997,7 +9035,7 @@ entries:
   - C
   Tags:
   - Proxy
-- ID: 707
+- ID: 710
   Name: Privoxy
   Description: Non-caching web proxy with advanced filtering capabilities for enhancing
     privacy, modifying web page data and HTTP headers, controlling access, and removing
@@ -9009,7 +9047,7 @@ entries:
   - C
   Tags:
   - Proxy
-- ID: 708
+- ID: 711
   Name: Redbird
   Description: A modern reverse proxy for node that includes cluster, HTTP2, LetsEncrypt,
     and Docker support.
@@ -9020,7 +9058,7 @@ entries:
   - HTML5
   Tags:
   - Proxy
-- ID: 709
+- ID: 712
   Name: Squid
   Description: Caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It
     reduces bandwidth and improves response times by caching and reusing frequently-requested
@@ -9033,7 +9071,7 @@ entries:
   - C
   Tags:
   - Proxy
-- ID: 710
+- ID: 713
   Name: Swiperproxy
   Description: Lightning-fast, open source web proxy that is easy for you to run and
     customize.
@@ -9045,7 +9083,7 @@ entries:
   - Python
   Tags:
   - Proxy
-- ID: 711
+- ID: 714
   Name: Tinyproxy
   Description: Light-weight HTTP/HTTPS proxy daemon.
   Source Code: https://github.com/tinyproxy/tinyproxy
@@ -9056,7 +9094,7 @@ entries:
   - C
   Tags:
   - Proxy
-- ID: 712
+- ID: 715
   Name: Traefik
   Description: Træfɪk is a modern HTTP reverse proxy and load balancer made to deploy
     microservices with ease. It supports several backends (Docker, Swarm, Mesos/Marathon,
@@ -9069,7 +9107,7 @@ entries:
   - Go
   Tags:
   - Proxy
-- ID: 713
+- ID: 716
   Name: Nunux Keeper
   Description: Your personal content curation service.
   Source Code: https://github.com/ncarlier/nunux-keeper
@@ -9080,7 +9118,7 @@ entries:
   - Nodejs
   Tags:
   - Read it Later Lists
-- ID: 714
+- ID: 717
   Name: Wallabag
   Description: Wallabag, formerly Poche, is a web application allowing you to save
     articles to read them later with improved readability.
@@ -9093,7 +9131,7 @@ entries:
   - PHP
   Tags:
   - Read it Later Lists
-- ID: 715
+- ID: 718
   Name: farmOS
   Description: Web-based farm record keeping application.
   Source Code: https://github.com/farmOS/farmOS
@@ -9104,7 +9142,7 @@ entries:
   - PHP
   Tags:
   - Resource Planning
-- ID: 716
+- ID: 719
   Name: Grocy
   Description: grocy is a web-based selfhosted groceries management solution for your
     home, available in English, German, Italian and Norwegian.
@@ -9117,7 +9155,7 @@ entries:
   - PHP
   Tags:
   - Resource Planning
-- ID: 717
+- ID: 720
   Name: Tania
   Description: Tania is a free and open source farming management system for everyone.
     You can manage your areas, reservoirs, farm tasks, inventories, and the crop growing
@@ -9129,7 +9167,7 @@ entries:
   - Go
   Tags:
   - Resource Planning
-- ID: 718
+- ID: 721
   Name: ERPNext
   Description: Free open source ERP system.
   Source Code: https://github.com/frappe/erpnext
@@ -9142,7 +9180,7 @@ entries:
   Tags:
   - Resource Planning
   - Enterprise rsrc planning
-- ID: 719
+- ID: 722
   Name: LedgerSMB
   Description: Integrated accounting and ERP system for small and midsize businesses,
     with double entry accounting, budgeting, invoicing, quotations, projects, orders
@@ -9157,7 +9195,7 @@ entries:
   Tags:
   - Resource Planning
   - Enterprise rsrc planning
-- ID: 720
+- ID: 723
   Name: Odoo
   Description: Free open source ERP system.
   Source Code: https://github.com/odoo/odoo
@@ -9170,7 +9208,7 @@ entries:
   Tags:
   - Resource Planning
   - Enterprise rsrc planning
-- ID: 721
+- ID: 724
   Name: Tryton
   Description: Free open source business solution.
   Source Code: https://hg.tryton.org/
@@ -9183,7 +9221,7 @@ entries:
   Tags:
   - Resource Planning
   - Enterprise rsrc planning
-- ID: 722
+- ID: 725
   Name: Ambar
   Description: Document Search Engine (OCR, Store & Search).
   Source Code: https://github.com/RD17/ambar
@@ -9196,7 +9234,7 @@ entries:
   - Python
   Tags:
   - Search Engine
-- ID: 723
+- ID: 726
   Name: Gigablast
   Description: open source search engine.
   Source Code: https://github.com/gigablast/open-source-search-engine
@@ -9208,7 +9246,7 @@ entries:
   - C++
   Tags:
   - Search Engine
-- ID: 724
+- ID: 727
   Name: Seeks
   Description: Web search proxy and collaborative distributed tool for websearch.
   Source Code: https://github.com/beniz/seeks
@@ -9219,7 +9257,7 @@ entries:
   - C++
   Tags:
   - Search Engine
-- ID: 725
+- ID: 728
   Name: Searx
   Description: Privacy-respecting, hackable metasearch engine.
   Source Code: https://github.com/asciimoo/searx
@@ -9231,7 +9269,7 @@ entries:
   - Python
   Tags:
   - Search Engine
-- ID: 726
+- ID: 729
   Name: Yacy
   Description: Peer based, decentralized search engine server.
   Source Code: https://github.com/yacy/yacy_search_server
@@ -9243,7 +9281,7 @@ entries:
   - Java
   Tags:
   - Search Engine
-- ID: 727
+- ID: 730
   Name: Apache Bloodhound
   Description: Manage software products, Keep track of features, tasks and bugs.
   Source Code: https://bloodhound.apache.org/
@@ -9254,7 +9292,7 @@ entries:
   Tags:
   - Software Dev
   - Project Mgmnt
-- ID: 728
+- ID: 731
   Name: Bonobo Git Server
   Description: Set up your own self hosted git server on IIS for Windows. Manage users
     and have full control over your repositories with a nice user friendly graphical
@@ -9268,7 +9306,7 @@ entries:
   Tags:
   - Software Dev
   - Project Mgmnt
-- ID: 729
+- ID: 732
   Name: Fossil
   Description: Distributed version control system featuring wiki and bug tracker.
   Source Code: https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki
@@ -9279,7 +9317,7 @@ entries:
   Tags:
   - Software Dev
   - Project Mgmnt
-- ID: 730
+- ID: 733
   Name: Goodwork
   Description: Self hosted project management and collaboration tool powered by Laravel
     & VueJS.
@@ -9292,7 +9330,7 @@ entries:
   Tags:
   - Software Dev
   - Project Mgmnt
-- ID: 731
+- ID: 734
   Name: Gitblit
   Description: Pure Java stack for managing, viewing, and serving Git repositories.
   Source Code: https://github.com/gitblit/gitblit
@@ -9304,7 +9342,7 @@ entries:
   Tags:
   - Software Dev
   - Project Mgmnt
-- ID: 732
+- ID: 735
   Name: gitbucket
   Description: The easily installable GitHub clone powered by Scala.
   Source Code: https://github.com/gitbucket/gitbucket
@@ -9317,7 +9355,7 @@ entries:
   Tags:
   - Software Dev
   - Project Mgmnt
-- ID: 733
+- ID: 736
   Name: Gitea
   Description: Community managed fork of Gogs, lightweight code hosting solution.
   Source Code: https://github.com/go-gitea/gitea
@@ -9330,7 +9368,7 @@ entries:
   Tags:
   - Software Dev
   - Project Mgmnt
-- ID: 734
+- ID: 737
   Name: GitLab
   Description: Self Hosted Git repository management, code reviews, issue tracking,
     activity feeds and wikis.
@@ -9344,7 +9382,7 @@ entries:
   Tags:
   - Software Dev
   - Project Mgmnt
-- ID: 735
+- ID: 738
   Name: Gitlist
   Description: Web-based git repository browser - GitList allows you to browse repositories
     using your favorite browser, viewing files under different revisions, commit history
@@ -9358,7 +9396,7 @@ entries:
   Tags:
   - Software Dev
   - Project Mgmnt
-- ID: 736
+- ID: 739
   Name: Gitolite
   Description: Gitolite allows you to setup git hosting on a central server, with
     fine-grained access control and many more powerful features.
@@ -9371,7 +9409,7 @@ entries:
   Tags:
   - Software Dev
   - Project Mgmnt
-- ID: 737
+- ID: 740
   Name: GitPrep
   Description: Portable Github clone.
   Source Code: https://github.com/yuki-kimoto/gitprep
@@ -9384,7 +9422,7 @@ entries:
   Tags:
   - Software Dev
   - Project Mgmnt
-- ID: 738
+- ID: 741
   Name: Git WebUI
   Description: Standalone web based user interface for git repositories.
   Source Code: https://github.com/alberthier/git-webui
@@ -9395,7 +9433,7 @@ entries:
   Tags:
   - Software Dev
   - Project Mgmnt
-- ID: 739
+- ID: 742
   Name: Gogs
   Description: Painless self-hosted Git Service written in Go.
   Source Code: https://github.com/gogits/gogs
@@ -9408,7 +9446,7 @@ entries:
   Tags:
   - Software Dev
   - Project Mgmnt
-- ID: 740
+- ID: 743
   Name: Kallithea
   Description: Source code management system that supports two leading version control
     systems, Mercurial and Git, with a web interface.
@@ -9421,7 +9459,7 @@ entries:
   Tags:
   - Software Dev
   - Project Mgmnt
-- ID: 741
+- ID: 744
   Name: Klaus
   Description: Simple, easy-to-set-up Git web viewer that Just Works.
   Source Code: https://github.com/jonashaag/klaus/
@@ -9432,7 +9470,7 @@ entries:
   Tags:
   - Software Dev
   - Project Mgmnt
-- ID: 742
+- ID: 745
   Name: Lavagna
   Description: Lavagna is an open-source issue/project management tool designed for
     small teams. Lightweight, pure Java, easy to install, easy to use.
@@ -9445,7 +9483,7 @@ entries:
   Tags:
   - Software Dev
   - Project Mgmnt
-- ID: 743
+- ID: 746
   Name: Octobox
   Description: Take back control of your GitHub Notifications.
   Source Code: https://github.com/octobox/octobox
@@ -9458,7 +9496,7 @@ entries:
   - Software Dev
   - Project Mgmnt
   ProprietaryDependency: true
-- ID: 744
+- ID: 747
   Name: OpenProject
   Description: OpenProject is a web-based project management system.
   Source Code: https://github.com/opf/openproject
@@ -9470,7 +9508,7 @@ entries:
   Tags:
   - Software Dev
   - Project Mgmnt
-- ID: 745
+- ID: 748
   Name: Phabricator
   Description: Collection of web applications that help build better software.
   Source Code: https://github.com/phacility/phabricator
@@ -9483,7 +9521,7 @@ entries:
   Tags:
   - Software Dev
   - Project Mgmnt
-- ID: 746
+- ID: 749
   Name: Phproject
   Description: High performance full-featured project management system.
   Source Code: https://github.com/Alanaktion/phproject
@@ -9496,7 +9534,7 @@ entries:
   Tags:
   - Software Dev
   - Project Mgmnt
-- ID: 747
+- ID: 750
   Name: Redmine
   Description: Redmine is a flexible project management web application.
   Source Code: https://svn.redmine.org/redmine/
@@ -9509,7 +9547,7 @@ entries:
   Tags:
   - Software Dev
   - Project Mgmnt
-- ID: 748
+- ID: 751
   Name: RhodeCode
   Description: RhodeCode is an open source platform for software development teams.
     It unifies and simplifies repository management for Git, Subversion, and Mercurial.
@@ -9523,7 +9561,7 @@ entries:
   Tags:
   - Software Dev
   - Project Mgmnt
-- ID: 749
+- ID: 752
   Name: SCM Manager
   Description: The easiest way to share and manage your Git, Mercurial and Subversion
     repositories over http.
@@ -9536,7 +9574,7 @@ entries:
   Tags:
   - Software Dev
   - Project Mgmnt
-- ID: 750
+- ID: 753
   Name: Taiga
   Description: Agile Project Management Tool based on the Kanban and Scrum methods.
   Source Code: https://github.com/taigaio
@@ -9548,7 +9586,7 @@ entries:
   Tags:
   - Software Dev
   - Project Mgmnt
-- ID: 751
+- ID: 754
   Name: The Bug Genie
   Description: The Bug Genie is a friendly project management and issue tracking tool.
   Source Code: https://github.com/thebuggenie/thebuggenie
@@ -9560,7 +9598,7 @@ entries:
   Tags:
   - Software Dev
   - Project Mgmnt
-- ID: 752
+- ID: 755
   Name: Trac
   Description: Trac is an enhanced wiki and issue tracking system for software development
     projects.
@@ -9572,7 +9610,7 @@ entries:
   Tags:
   - Software Dev
   - Project Mgmnt
-- ID: 753
+- ID: 756
   Name: Tuleap
   Description: Tuleap is a libre suite to plan, track, code and collaborate on software
     projects.
@@ -9585,7 +9623,7 @@ entries:
   Tags:
   - Software Dev
   - Project Mgmnt
-- ID: 754
+- ID: 757
   Name: Babelfish
   Description: Self-hosted server for source code parsing. It can parse any file,
     in any supported language, extract an Abstract Syntax Tree from it, and convert
@@ -9599,7 +9637,7 @@ entries:
   Tags:
   - Software Dev
   - IDE
-- ID: 755
+- ID: 758
   Name: Eclipse Che
   Description: Open source workspace server and cloud IDE.
   Source Code: https://github.com/eclipse/che
@@ -9612,7 +9650,7 @@ entries:
   Tags:
   - Software Dev
   - IDE
-- ID: 756
+- ID: 759
   Name: ICEcoder
   Description: ICEcoder is a web IDE / browser based code editor, which allows you
     to develop websites directly within the web browser.
@@ -9626,7 +9664,7 @@ entries:
   Tags:
   - Software Dev
   - IDE
-- ID: 757
+- ID: 760
   Name: JS Bin
   Description: Open source collaborative web development debugging tool.
   Source Code: https://github.com/jsbin/jsbin
@@ -9638,7 +9676,7 @@ entries:
   Tags:
   - Software Dev
   - IDE
-- ID: 758
+- ID: 761
   Name: Judge0 API
   Description: Open source API to compile and run source code.
   Source Code: https://github.com/judge0/api
@@ -9650,7 +9688,7 @@ entries:
   Tags:
   - Software Dev
   - IDE
-- ID: 759
+- ID: 762
   Name: Koding
   Description: The simplest way to manage your entire Dev Infrastructure.
   Source Code: https://github.com/koding/koding
@@ -9662,7 +9700,7 @@ entries:
   Tags:
   - Software Dev
   - IDE
-- ID: 760
+- ID: 763
   Name: Microglark
   Description: Hacky minimalistic remote pair programming editor.
   Source Code: https://github.com/Bluefinch/microglark
@@ -9675,7 +9713,7 @@ entries:
   Tags:
   - Software Dev
   - IDE
-- ID: 761
+- ID: 764
   Name: Regexr
   Description: RegExr is a HTML/JS based tool for creating, testing, and learning
     about Regular Expressions.
@@ -9688,7 +9726,7 @@ entries:
   Tags:
   - Software Dev
   - IDE
-- ID: 762
+- ID: 765
   Name: RequestBin
   Description: Inspect HTTP requests. Debug webhooks.
   Source Code: https://github.com/Runscope/requestbin
@@ -9700,7 +9738,7 @@ entries:
   Tags:
   - Software Dev
   - IDE
-- ID: 763
+- ID: 766
   Name: RStudio Server
   Description: Web browser based IDE for R.
   Source Code: https://github.com/rstudio/rstudio/
@@ -9713,7 +9751,7 @@ entries:
   Tags:
   - Software Dev
   - IDE
-- ID: 764
+- ID: 767
   Name: Selenoid
   Description: Lightweight Selenium hub implementation launching browsers within Docker
     containers.
@@ -9726,7 +9764,7 @@ entries:
   Tags:
   - Software Dev
   - IDE
-- ID: 765
+- ID: 768
   Name: sourcegraph
   Description: Sourcegraph is a fast, open-source, fully-featured code search and
     navigation engine written in Go.
@@ -9739,7 +9777,7 @@ entries:
   Tags:
   - Software Dev
   - IDE
-- ID: 766
+- ID: 769
   Name: Wide
   Description: Web-based IDE for Teams using Go programming language/Golang.
   Source Code: https://github.com/b3log/wide
@@ -9751,7 +9789,7 @@ entries:
   Tags:
   - Software Dev
   - IDE
-- ID: 767
+- ID: 770
   Name: Zalenium
   Description: Allows anyone to have a disposable and flexible Docker-based Selenium
     Grid infrastructure featuring video recording, live preview and online/offline
@@ -9765,7 +9803,7 @@ entries:
   Tags:
   - Software Dev
   - IDE
-- ID: 768
+- ID: 771
   Name: Concourse
   Description: Concourse is a CI tool that treats pipelines as first class objects
     and containerizes every step along the way.
@@ -9779,7 +9817,7 @@ entries:
   Tags:
   - Software Dev
   - CI
-- ID: 769
+- ID: 772
   Name: drone
   Description: Drone is a Continuous Delivery platform built on Docker, written in
     Go.
@@ -9792,7 +9830,7 @@ entries:
   Tags:
   - Software Dev
   - CI
-- ID: 770
+- ID: 773
   Name: Factor
   Description: It's like IFTTT (if-this-then-that) for Dev and DevOps.
   Source Code: https://github.com/factor-io/factor
@@ -9804,7 +9842,7 @@ entries:
   Tags:
   - Software Dev
   - CI
-- ID: 771
+- ID: 774
   Name: GolangCI
   Description: Open Source automated code review service for Go integrated with GitHub
     pull requests.
@@ -9817,7 +9855,7 @@ entries:
   Tags:
   - Software Dev
   - CI
-- ID: 772
+- ID: 775
   Name: Jenkins
   Description: Continuous Integration Server.
   Source Code: https://github.com/jenkinsci/jenkins/
@@ -9829,7 +9867,7 @@ entries:
   Tags:
   - Software Dev
   - CI
-- ID: 773
+- ID: 776
   Name: Laminar
   Description: Fast, lightweight, simple and flexible Continuous Integration.
   Source Code: https://github.com/ohwgiles/laminar
@@ -9841,7 +9879,7 @@ entries:
   Tags:
   - Software Dev
   - CI
-- ID: 774
+- ID: 777
   Name: PHP Censor
   Description: Open source self-hosted continuous integration server for PHP projects.
   Source Code: https://github.com/php-censor/php-censor
@@ -9852,7 +9890,7 @@ entries:
   Tags:
   - Software Dev
   - CI
-- ID: 775
+- ID: 778
   Name: PHPCI
   Description: Free and open source continuous integration specifically designed for
     PHP.
@@ -9865,7 +9903,7 @@ entries:
   Tags:
   - Software Dev
   - CI
-- ID: 776
+- ID: 779
   Name: Strider
   Description: Open Source Continuous Deployment / Continuous Integration platform.
   Source Code: https://github.com/Strider-CD/strider
@@ -9877,7 +9915,7 @@ entries:
   Tags:
   - Software Dev
   - CI
-- ID: 777
+- ID: 780
   Name: FX
   Description: fx is a tool to help you do Function as a Service with painless on
     your own servers.
@@ -9890,7 +9928,7 @@ entries:
   - Software Dev
   - FAAS
   - Severless
-- ID: 778
+- ID: 781
   Name: IronFunctions
   Description: The serverless microservices platform by [iron.io](https://www.iron.io/).
   Source Code: https://github.com/iron-io/functions
@@ -9902,7 +9940,7 @@ entries:
   - Software Dev
   - FAAS
   - Severless
-- ID: 779
+- ID: 782
   Name: LocalStack
   Description: LocalStack is a fully functional local AWS cloud stack. This includes
     Lambda for serverless computation.
@@ -9916,7 +9954,7 @@ entries:
   - Software Dev
   - FAAS
   - Severless
-- ID: 780
+- ID: 783
   Name: OpenFaaS
   Description: Serverless Functions Made Simple for Docker & Kubernetes.
   Source Code: https://github.com/openfaas/faas
@@ -9929,7 +9967,7 @@ entries:
   - Software Dev
   - FAAS
   - Severless
-- ID: 781
+- ID: 784
   Name: DreamFactory
   Description: Turns any SQL/NoSQL/Structured data into Restful API.
   Source Code: https://github.com/dreamfactorysoftware/dreamfactory
@@ -9941,7 +9979,7 @@ entries:
   Tags:
   - Software Dev
   - API Mgmnt
-- ID: 782
+- ID: 785
   Name: Endpoint
   Description: Super simple mock HTTP API endpoints that return static JSON data,
     for testing webhooks and client libraries in development.
@@ -9953,7 +9991,7 @@ entries:
   Tags:
   - Software Dev
   - API Mgmnt
-- ID: 783
+- ID: 786
   Name: Fusio
   Description: Open-source API management platform which helps to build and manage
     REST APIs.
@@ -9967,7 +10005,7 @@ entries:
   Tags:
   - Software Dev
   - API Mgmnt
-- ID: 784
+- ID: 787
   Name: Hapttic
   Description: Simple HTTP server that forwards all requests to a shell script to
     handle webhooks you receive.
@@ -9979,7 +10017,7 @@ entries:
   Tags:
   - Software Dev
   - API Mgmnt
-- ID: 785
+- ID: 788
   Name: Para
   Description: Flexible and modular backend framework/server for object persistence,
     API development and authentication.
@@ -9992,7 +10030,7 @@ entries:
   Tags:
   - Software Dev
   - API Mgmnt
-- ID: 786
+- ID: 789
   Name: Docstore
   Description: Static document hosting without any server-side processing, does not
     require you to recompile every time you change an article. Clone the repository
@@ -10006,7 +10044,7 @@ entries:
   Tags:
   - Software Dev
   - Documentation Gen
-- ID: 787
+- ID: 790
   Name: Flatdoc
   Description: Small Javascript file that fetches Markdown files and renders them
     as full pages.
@@ -10018,7 +10056,7 @@ entries:
   Tags:
   - Software Dev
   - Documentation Gen
-- ID: 788
+- ID: 791
   Name: markdown-tree
   Description: Serve a hierarchy / tree directory of markdown files. Use intended
     for small sites built in markdown.
@@ -10030,7 +10068,7 @@ entries:
   Tags:
   - Software Dev
   - Documentation Gen
-- ID: 789
+- ID: 792
   Name: Read the Docs
   Description: Host documentation, making it fully searchable and easy to find; import
     your docs using any major version control system, including Mercurial, Git, Subversion,
@@ -10045,7 +10083,7 @@ entries:
   Tags:
   - Software Dev
   - Documentation Gen
-- ID: 790
+- ID: 793
   Name: Accent
   Description: Open-source, self-hosted, developer-oriented translation tool.
   Source Code: https://github.com/mirego/accent
@@ -10057,7 +10095,7 @@ entries:
   Tags:
   - Software Dev
   - Localiztion
-- ID: 791
+- ID: 794
   Name: Parrot
   Description: Self-hosted Localization Management Platform built with Go and Angular
     2.
@@ -10070,7 +10108,7 @@ entries:
   Tags:
   - Software Dev
   - Localiztion
-- ID: 792
+- ID: 795
   Name: Pootle
   Description: Online translation and localization tool.
   Source Code: https://github.com/translate/pootle
@@ -10082,7 +10120,7 @@ entries:
   Tags:
   - Software Dev
   - Localiztion
-- ID: 793
+- ID: 796
   Name: Weblate
   Description: Web-based translation tool with tight version control integration.
   Source Code: https://github.com/WeblateOrg/weblate
@@ -10095,7 +10133,7 @@ entries:
   Tags:
   - Software Dev
   - Localiztion
-- ID: 794
+- ID: 797
   Name: Zanata
   Description: Web-based translation platform for translators, content creators and
     developers to manage localisation projects.
@@ -10108,7 +10146,7 @@ entries:
   Tags:
   - Software Dev
   - Localiztion
-- ID: 795
+- ID: 798
   Name: Crepido
   Description: Create (kanban) boards to track users and projects from flat markdown
     files.
@@ -10120,7 +10158,7 @@ entries:
   Tags:
   - To-Do
   - Task Mgmnt
-- ID: 796
+- ID: 799
   Name: Kanboard
   Description: Simple and open source visual task board.
   Source Code: https://github.com/kanboard/kanboard
@@ -10132,7 +10170,7 @@ entries:
   Tags:
   - To-Do
   - Task Mgmnt
-- ID: 797
+- ID: 800
   Name: myTinyTodo
   Description: Simple way to manage your todo list in AJAX style. Uses PHP, jQuery,
     SQLite/MySQL. GTD compliant.
@@ -10146,7 +10184,7 @@ entries:
   Tags:
   - To-Do
   - Task Mgmnt
-- ID: 798
+- ID: 801
   Name: omgnata
   Description: Mobile friendly zero-feature TODO list web app. Unix philosophy.
   Source Code: https://github.com/chr15m/omgnata
@@ -10157,7 +10195,7 @@ entries:
   Tags:
   - To-Do
   - Task Mgmnt
-- ID: 799
+- ID: 802
   Name: PHP Task/Todo list
   Description: Simple task/todo list that uses a JSON text file for the tasks.
   Source Code: https://github.com/lgg/tasks.php
@@ -10168,7 +10206,7 @@ entries:
   Tags:
   - To-Do
   - Task Mgmnt
-- ID: 800
+- ID: 803
   Name: Restyaboard
   Description: Open source Trello-like kanban board.
   Source Code: https://github.com/RestyaPlatform/board
@@ -10181,7 +10219,7 @@ entries:
   Tags:
   - To-Do
   - Task Mgmnt
-- ID: 801
+- ID: 804
   Name: scrumblr
   Description: Collaborative Online Scrum Tool Using Websockets, Node.js, jQuery,
     and CSS3.
@@ -10195,7 +10233,7 @@ entries:
   Tags:
   - To-Do
   - Task Mgmnt
-- ID: 802
+- ID: 805
   Name: TaskBoard
   Description: Kanban-inspired app for keeping track of things that need to get done.
   Source Code: https://github.com/kiswa/TaskBoard
@@ -10208,7 +10246,7 @@ entries:
   Tags:
   - To-Do
   - Task Mgmnt
-- ID: 803
+- ID: 806
   Name: Taskfreak
   Description: Simple but efficient web based task manager written in PHP.
   Source Code: http://www.taskfreak.com/original
@@ -10219,7 +10257,7 @@ entries:
   Tags:
   - To-Do
   - Task Mgmnt
-- ID: 804
+- ID: 807
   Name: Tasks
   Description: Simple tasks and notes manager written in PHP, jQuery and Bootstrap
     using a custom flat file database.
@@ -10231,7 +10269,7 @@ entries:
   Tags:
   - To-Do
   - Task Mgmnt
-- ID: 805
+- ID: 808
   Name: Tasks
   Description: Kanban based to-do list manager written in Go.
   Source Code: https://github.com/thewhitetulip/Tasks
@@ -10242,7 +10280,7 @@ entries:
   Tags:
   - To-Do
   - Task Mgmnt
-- ID: 806
+- ID: 809
   Name: tasks.php
   Description: Simple task/todo list manager.
   Source Code: https://github.com/RaymiiOrg/tasks.php
@@ -10253,7 +10291,7 @@ entries:
   Tags:
   - To-Do
   - Task Mgmnt
-- ID: 807
+- ID: 810
   Name: Taskwarrior
   Description: Taskwarrior is Free and Open Source Software that manages your TODO
     list from your command line. It is flexible, fast, efficient, and unobtrusive.
@@ -10267,7 +10305,7 @@ entries:
   Tags:
   - To-Do
   - Task Mgmnt
-- ID: 808
+- ID: 811
   Name: Tinyissue
   Description: Simple Issue Tracking for Teams.
   Source Code: https://github.com/satrun77/tinyissue
@@ -10278,7 +10316,7 @@ entries:
   Tags:
   - To-Do
   - Task Mgmnt
-- ID: 809
+- ID: 812
   Name: todo
   Description: Simple todo list manager.
   Source Code: https://github.com/prologic/todo
@@ -10290,7 +10328,7 @@ entries:
   Tags:
   - To-Do
   - Task Mgmnt
-- ID: 810
+- ID: 813
   Name: Tracks
   Description: Web-based application to help you implement David Allen’s [Getting
     Things Done™](https://en.wikipedia.org/wiki/Getting_Things_Done) methodology.
@@ -10303,7 +10341,7 @@ entries:
   Tags:
   - To-Do
   - Task Mgmnt
-- ID: 811
+- ID: 814
   Name: Volition
   Description: Opinionated open-source task management.
   Source Code: https://github.com/garrettqmartin8/volition
@@ -10316,7 +10354,7 @@ entries:
   Tags:
   - To-Do
   - Task Mgmnt
-- ID: 812
+- ID: 815
   Name: Wekan
   Description: Open-source Trello-like kanban.
   Source Code: https://github.com/wekan/wekan
@@ -10329,7 +10367,7 @@ entries:
   Tags:
   - To-Do
   - Task Mgmnt
-- ID: 813
+- ID: 816
   Name: Wheatbin
   Description: Project management software that combines Kanban methodology with the
     Law of the Harvest.
@@ -10342,7 +10380,7 @@ entries:
   Tags:
   - To-Do
   - Task Mgmnt
-- ID: 814
+- ID: 817
   Name: Brimir
   Description: Simple and clean open-source ticket manager written in Ruby on Rails.
   Source Code: https://github.com/ivaldi/brimir
@@ -10353,7 +10391,7 @@ entries:
   - Ruby
   Tags:
   - Ticketing
-- ID: 815
+- ID: 818
   Name: Bugzilla
   Description: General-purpose bugtracker and testing tool originally developed and
     used by the Mozilla project.
@@ -10364,7 +10402,7 @@ entries:
   - Perl
   Tags:
   - Ticketing
-- ID: 816
+- ID: 819
   Name: Bumpy Booby
   Description: Simple, responsive and highly customizable PHP bug tracking system.
   Source Code: https://github.com/piero-la-lune/Bumpy-Booby
@@ -10375,7 +10413,7 @@ entries:
   - PHP
   Tags:
   - Ticketing
-- ID: 817
+- ID: 820
   Name: Cerb
   Description: Group-based e-mail management project.
   Source Code: https://github.com/wgm/cerb
@@ -10386,7 +10424,7 @@ entries:
   - PHP
   Tags:
   - Ticketing
-- ID: 818
+- ID: 821
   Name: Coordino
   Description: Open Source question and answer system on top of CakePHP.
   Source Code: https://github.com/Datawalke/Coordino
@@ -10397,7 +10435,7 @@ entries:
   - PHP
   Tags:
   - Ticketing
-- ID: 819
+- ID: 822
   Name: Deskulu
   Description: Opensource helpdesk and ticketing system based on Drupal 7.
   Source Code: https://github.com/Taskulu/deskulu
@@ -10408,7 +10446,7 @@ entries:
   - PHP
   Tags:
   - Ticketing
-- ID: 820
+- ID: 823
   Name: DiamanteDesk
   Description: DiamanteDesk is FREE Open Source easy-to-use help-desk solution.
   Source Code: https://github.com/eltrino/diamantedesk-application
@@ -10420,7 +10458,7 @@ entries:
   - PHP
   Tags:
   - Ticketing
-- ID: 821
+- ID: 824
   Name: Flyspray
   Description: Uncomplicated, web-based bug tracking system.
   Source Code: https://github.com/Flyspray/flyspray
@@ -10431,7 +10469,7 @@ entries:
   - PHP
   Tags:
   - Ticketing
-- ID: 822
+- ID: 825
   Name: FreeScout
   Description: 'Open source clone of Help Scout: email-based customer support application,
     help desk and shared mailbox.'
@@ -10442,7 +10480,7 @@ entries:
   - PHP
   Tags:
   - Ticketing
-- ID: 823
+- ID: 826
   Name: HuBoard
   Description: Instant project management for your GitHub issues (Connects directly
     GitHub API).
@@ -10454,7 +10492,7 @@ entries:
   Tags:
   - Ticketing
   ProprietaryDependency: true
-- ID: 824
+- ID: 827
   Name: MantisBT
   Description: Self hosted bug tracker, fits best for software development.
   Source Code: https://github.com/mantisbt/mantisbt
@@ -10466,7 +10504,7 @@ entries:
   - PHP
   Tags:
   - Ticketing
-- ID: 825
+- ID: 828
   Name: OpenSupports
   Description: Multi language ticket system with FAQ, role management, metrics and
     canned response features.
@@ -10479,7 +10517,7 @@ entries:
   - PHP
   Tags:
   - Ticketing
-- ID: 826
+- ID: 829
   Name: osTicket
   Description: Manage, organize and archive all your support requests and responses
     in one place.
@@ -10491,7 +10529,7 @@ entries:
   - PHP
   Tags:
   - Ticketing
-- ID: 827
+- ID: 830
   Name: OTRS
   Description: Trouble ticket system for assigning tickets to incoming queries and
     tracking further communications.
@@ -10503,7 +10541,7 @@ entries:
   - Perl
   Tags:
   - Ticketing
-- ID: 828
+- ID: 831
   Name: Request Tracker
   Description: An enterprise-grade issue tracking system.
   Source Code: https://github.com/bestpractical/rt
@@ -10514,7 +10552,7 @@ entries:
   - Perl
   Tags:
   - Ticketing
-- ID: 829
+- ID: 832
   Name: Sentry On-Premise
   Description: A powerful error tracking platform with wide language support and a
     robust API.
@@ -10527,7 +10565,7 @@ entries:
   - Python
   Tags:
   - Ticketing
-- ID: 830
+- ID: 833
   Name: SIT
   Description: SCM-agnostic, file-based, offline-first, immutable issue tracker.
   Source Code: https://github.com/sit-it/sit
@@ -10538,7 +10576,7 @@ entries:
   - Rust
   Tags:
   - Ticketing
-- ID: 831
+- ID: 834
   Name: TheBugGenie
   Description: Ticket system with extensive user rights system.
   Source Code: https://github.com/thebuggenie/thebuggenie
@@ -10549,7 +10587,7 @@ entries:
   - PHP
   Tags:
   - Ticketing
-- ID: 832
+- ID: 835
   Name: Zammad
   Description: Easy to use but powerful open-source support and ticketing system.
   Source Code: https://github.com/zammad/zammad
@@ -10560,7 +10598,7 @@ entries:
   - Ruby
   Tags:
   - Ticketing
-- ID: 833
+- ID: 836
   Name: Kutt
   Description: A modern URL shortener with support for custom domains.
   Source Code: https://github.com/thedevs-network/kutt
@@ -10571,7 +10609,7 @@ entries:
   - Nodejs
   Tags:
   - URL Shortener
-- ID: 834
+- ID: 837
   Name: Link-shortener-bot
   Description: URL shortener using a Telegram Bot.
   Source Code: https://github.com/tommyku/link-shortener-front-end
@@ -10583,7 +10621,7 @@ entries:
   Tags:
   - URL Shortener
   ProprietaryDependency: true
-- ID: 835
+- ID: 838
   Name: Linkr
   Description: Beautiful, fast URL shortening.
   Source Code: https://github.com/LINKIWI/linkr
@@ -10596,7 +10634,7 @@ entries:
   - Nodejs
   Tags:
   - URL Shortener
-- ID: 836
+- ID: 839
   Name: Lstu
   Description: _Let's SHorten That Url_ - Lightweight URL shortener.
   Source Code: https://github.com/ldidry/lstu
@@ -10606,7 +10644,7 @@ entries:
   - Perl
   Tags:
   - URL Shortener
-- ID: 837
+- ID: 840
   Name: Nimbus
   Description: URL shortener and file sharer with a drag-and-drop OS X menu bar client
     and web interface.
@@ -10617,7 +10655,7 @@ entries:
   - Python
   Tags:
   - URL Shortener
-- ID: 838
+- ID: 841
   Name: Polr
   Description: Modern, minimalist, modular, and lightweight URL shortener.
   Source Code: https://github.com/Cydrobolt/polr
@@ -10628,7 +10666,7 @@ entries:
   - PHP
   Tags:
   - URL Shortener
-- ID: 839
+- ID: 842
   Name: reduc.io
   Description: URL shortener service written in Scala, using Akka-Http and Redis.
   Source Code: https://github.com/ziyasal/reducio
@@ -10638,7 +10676,7 @@ entries:
   - scala
   Tags:
   - URL Shortener
-- ID: 840
+- ID: 843
   Name: schort
   Description: No login, no javascript, just short links.
   Source Code: https://github.com/sqozz/schort
@@ -10649,7 +10687,7 @@ entries:
   - Python
   Tags:
   - URL Shortener
-- ID: 841
+- ID: 844
   Name: shorturl
   Description: Simple URL shortener with very tiny URLs.
   Source Code: https://github.com/prologic/shorturl
@@ -10660,7 +10698,7 @@ entries:
   - Go
   Tags:
   - URL Shortener
-- ID: 842
+- ID: 845
   Name: shuri
   Description: SHort URI - Lighweight URL shortener.
   Source Code: https://github.com/pips-/shuri
@@ -10670,7 +10708,7 @@ entries:
   - PHP
   Tags:
   - URL Shortener
-- ID: 843
+- ID: 846
   Name: url-shortener
   Description: Shitty url shortener, emoji and AI powered.
   Source Code: https://github.com/cagataycali/url-shortener
@@ -10681,7 +10719,7 @@ entries:
   Tags:
   - URL Shortener
   ProprietaryDependency: true
-- ID: 844
+- ID: 847
   Name: YOURLS
   Description: YOURLS is a set of PHP scripts that will allow you to run Your Own
     URL Shortener. Features include password protection, URL customization, bookmarklets,
@@ -10694,7 +10732,7 @@ entries:
   - PHP
   Tags:
   - URL Shortener
-- ID: 845
+- ID: 848
   Name: BookStack
   Description: BookStack is a simple, self-hosted, easy-to-use platform for organizing
     and storing information. It allows for documentation to be stored in a book like
@@ -10708,7 +10746,7 @@ entries:
   - PHP
   Tags:
   - Wiki
-- ID: 846
+- ID: 849
   Name: Cowyo
   Description: Cowyo is a feature-rich wiki for minimalists.
   Source Code: https://github.com/schollz/cowyo/
@@ -10719,7 +10757,7 @@ entries:
   - Go
   Tags:
   - Wiki
-- ID: 847
+- ID: 850
   Name: django-wiki
   Description: 'Wiki system with complex functionality for simple integration and
     a superb interface. Store your knowledge with style: Use django models.'
@@ -10731,7 +10769,7 @@ entries:
   - Python
   Tags:
   - Wiki
-- ID: 848
+- ID: 851
   Name: Documize
   Description: Modern Docs + Wiki software with built-in workflow, single binary executable,
     just bring MySQL/Percona.
@@ -10743,7 +10781,7 @@ entries:
   - Go
   Tags:
   - Wiki
-- ID: 849
+- ID: 852
   Name: Dokuwiki
   Description: Easy to use, lightweight, standards-compliant wiki engine with a simple
     syntax allowing reading the data outside the wiki. All data is stored in plain
@@ -10756,7 +10794,7 @@ entries:
   - PHP
   Tags:
   - Wiki
-- ID: 850
+- ID: 853
   Name: Gitit
   Description: Wiki program that stores pages and uploaded files in a git repository,
     which can then be modified using the VCS command line tools or the wiki's web
@@ -10768,7 +10806,7 @@ entries:
   - Haskell
   Tags:
   - Wiki
-- ID: 851
+- ID: 854
   Name: Gollum
   Description: Simple, Git-powered wiki with a sweet API and local frontend.
   Source Code: https://github.com/gollum/gollum
@@ -10778,7 +10816,7 @@ entries:
   - Ruby
   Tags:
   - Wiki
-- ID: 852
+- ID: 855
   Name: jingo
   Description: Git based wiki engine written for node.js, with a decent design, a
     search capability and a good typography.
@@ -10791,7 +10829,7 @@ entries:
   - Nodejs
   Tags:
   - Wiki
-- ID: 853
+- ID: 856
   Name: Mediawiki
   Description: MediaWiki is a free and open-source wiki software package written in
     PHP. It serves as the platform for Wikipedia and the other Wikimedia projects,
@@ -10804,7 +10842,7 @@ entries:
   - PHP
   Tags:
   - Wiki
-- ID: 854
+- ID: 857
   Name: MoinMoin
   Description: Advanced, easy to use and extensible WikiEngine with a large community
     of users.
@@ -10816,7 +10854,7 @@ entries:
   - Python
   Tags:
   - Wiki
-- ID: 855
+- ID: 858
   Name: Olelo
   Description: Olelo is a wiki that stores pages in a Git repository, supports many
     markup styles and has an extensible, hackable architecture.
@@ -10828,7 +10866,7 @@ entries:
   - Ruby
   Tags:
   - Wiki
-- ID: 856
+- ID: 859
   Name: Outline
   Description: An open, extensible, wiki for your team built using React and Node.js.
   Source Code: https://github.com/outline/outline
@@ -10840,7 +10878,7 @@ entries:
   Tags:
   - Wiki
   ProprietaryDependency: true
-- ID: 857
+- ID: 860
   Name: Pepperminty Wiki
   Description: Complete markdown-powered wiki contained in a single PHP file.
   Source Code: https://github.com/sbrl/Pepperminty-Wiki/
@@ -10851,7 +10889,7 @@ entries:
   - PHP
   Tags:
   - Wiki
-- ID: 858
+- ID: 861
   Name: PineDocs
   Description: Simple, fast, customizable and lightweight site for browsing files.
   Source Code: https://github.com/xy2z/PineDocs
@@ -10861,7 +10899,7 @@ entries:
   - PHP
   Tags:
   - Wiki
-- ID: 859
+- ID: 862
   Name: PmWiki
   Description: Wiki-based system for collaborative creation and maintenance of websites.
   Source Code: http://www.pmwiki.org
@@ -10871,7 +10909,7 @@ entries:
   - PHP
   Tags:
   - Wiki
-- ID: 860
+- ID: 863
   Name: Raneto
   Description: Raneto is an open source Knowledgebase platform that uses static Markdown
     files to power your Knowledgebase.
@@ -10882,7 +10920,7 @@ entries:
   - Nodejs
   Tags:
   - Wiki
-- ID: 861
+- ID: 864
   Name: Realms
   Description: Git-backed wiki inspired by Gollum.
   Source Code: https://github.com/scragg0x/realms-wiki
@@ -10893,7 +10931,7 @@ entries:
   - Python
   Tags:
   - Wiki
-- ID: 862
+- ID: 865
   Name: TiddlyWiki
   Description: Reusable non-linear personal web notebook.
   Source Code: https://github.com/Jermolene/TiddlyWiki5
@@ -10904,7 +10942,7 @@ entries:
   - Nodejs
   Tags:
   - Wiki
-- ID: 863
+- ID: 866
   Name: Tiki
   Description: Wiki CMS Groupware with the most built-in features.
   Source Code: https://sourceforge.net/p/tikiwiki/code/HEAD/tree/
@@ -10916,7 +10954,7 @@ entries:
   - PHP
   Tags:
   - Wiki
-- ID: 864
+- ID: 867
   Name: TWiki
   Description: TWiki is a Perl-based structured wiki application, typically used to
     run a collaboration platform, knowledge or document management system, a knowledge
@@ -10930,7 +10968,7 @@ entries:
   - Perl
   Tags:
   - Wiki
-- ID: 865
+- ID: 868
   Name: wiki
   Description: Simple Markdown based wiki engine.
   Source Code: https://github.com/prologic/wiki
@@ -10941,7 +10979,7 @@ entries:
   - Go
   Tags:
   - Wiki
-- ID: 866
+- ID: 869
   Name: Wiki.js
   Description: Modern, lightweight and powerful wiki app built on NodeJS, Git and
     Markdown.
@@ -10953,7 +10991,7 @@ entries:
   - Nodejs
   Tags:
   - Wiki
-- ID: 867
+- ID: 870
   Name: WiKiss
   Description: Wiki, simple to use and install.
   Source Code: https://svnweb.tuxfamily.org/listing.php?repname=wikiss/svn&path=%2F&sc=0
@@ -10964,7 +11002,7 @@ entries:
   - PHP
   Tags:
   - Wiki
-- ID: 868
+- ID: 871
   Name: XWiki
   Description: Second generation wiki that allows the user to extend its functionalities
     with a powerful extension-based architecture.
@@ -10977,7 +11015,7 @@ entries:
   - Java
   Tags:
   - Wiki
-- ID: 869
+- ID: 872
   Name: 1Backend
   Description: Self-host web apps, microservices and lambdas on your server. Advanced
     features enable service reuse and composition.
@@ -10988,7 +11026,7 @@ entries:
   - Go
   Tags:
   - Self-hosting Solution
-- ID: 870
+- ID: 873
   Name: Ansible-NAS
   Description: Build a full-featured home server with this playbook and an Ubuntu
     box.
@@ -11000,7 +11038,7 @@ entries:
   - Docker
   Tags:
   - Self-hosting Solution
-- ID: 871
+- ID: 874
   Name: DietPi
   Description: Minimal Debian OS optimized for single-board computers, which allows
     you to easily install and manage several services for selfhosting at home.
@@ -11012,7 +11050,7 @@ entries:
   - Shell
   Tags:
   - Self-hosting Solution
-- ID: 872
+- ID: 875
   Name: DPlatform
   Description: 'Deploy self-hosted apps easily: simple, bloat-free, independent installation.'
   Source Code: https://github.com/j8r/DPlatform
@@ -11023,7 +11061,7 @@ entries:
   - Shell
   Tags:
   - Self-hosting Solution
-- ID: 873
+- ID: 876
   Name: FreedomBone
   Description: Home server configuration based on Debian.
   Source Code: https://code.freedombone.net/bashrc/freedombone
@@ -11034,7 +11072,7 @@ entries:
   - Shell
   Tags:
   - Self-hosting Solution
-- ID: 874
+- ID: 877
   Name: FreedomBox
   Description: Community project to develop, design and promote personal servers running
     free software for private, personal, communications.
@@ -11045,7 +11083,7 @@ entries:
   - Python
   Tags:
   - Self-hosting Solution
-- ID: 875
+- ID: 878
   Name: FreeNAS
   Description: Network-attached storage (NAS) software based on FreeBSD and the OpenZFS
     file system. Support for SMB, AFP, NFS, iSCSI, SSH, rsync and FTP/TFTP protocols.
@@ -11058,7 +11096,7 @@ entries:
   - Python
   Tags:
   - Self-hosting Solution
-- ID: 876
+- ID: 879
   Name: HomelabOS
   Description: Your very own offline-first privacy-centric open-source data-center.
   Source Code: https://gitlab.com/NickBusey/HomelabOS
@@ -11068,7 +11106,7 @@ entries:
   - Docker
   Tags:
   - Self-hosting Solution
-- ID: 877
+- ID: 880
   Name: OpenMediaVault
   Description: OpenMediaVault is the next generation network attached storage (NAS)
     solution based on Debian Linux. It contains services like SSH, (S)FTP, SMB/CIFS,
@@ -11081,7 +11119,7 @@ entries:
   - PHP
   Tags:
   - Self-hosting Solution
-- ID: 878
+- ID: 881
   Name: Piratebox
   Description: DIY anonymous offline file-sharing and communications system built
     with free software and inexpensive off-the-shelf hardware.
@@ -11093,7 +11131,7 @@ entries:
   - Python
   Tags:
   - Self-hosting Solution
-- ID: 879
+- ID: 882
   Name: Puffin
   Description: Lightweight webapp catalog based on containers, with user interface
     à la mobile app store.
@@ -11107,7 +11145,7 @@ entries:
   - Docker
   Tags:
   - Self-hosting Solution
-- ID: 880
+- ID: 883
   Name: Sandstorm
   Description: Personal server for running self-hosted apps easily and securely.
   Source Code: https://github.com/sandstorm-io/sandstorm
@@ -11119,7 +11157,7 @@ entries:
   - C++
   Tags:
   - Self-hosting Solution
-- ID: 881
+- ID: 884
   Name: sovereign
   Description: 'Set of Ansible playbooks to build and maintain your own private cloud:
     email, calendar, contacts, file sync, IRC bouncer, VPN, and more.'
@@ -11130,7 +11168,7 @@ entries:
   - YAML
   Tags:
   - Self-hosting Solution
-- ID: 882
+- ID: 885
   Name: Syncloud
   Description: Your own online file storage, social network or email server.
   Source Code: https://github.com/syncloud/platform
@@ -11141,7 +11179,7 @@ entries:
   - Python
   Tags:
   - Self-hosting Solution
-- ID: 883
+- ID: 886
   Name: UBOS
   Description: Linux distro that runs on indie boxes (personal servers and IoT devices).
     Single-command installation and management of apps - Jenkins, Mediawiki, Owncloud,
@@ -11153,7 +11191,7 @@ entries:
   - Perl
   Tags:
   - Self-hosting Solution
-- ID: 884
+- ID: 887
   Name: WikiSuite
   Description: The most comprehensive and integrated Free / Libre / Open Source software
     suite ever developed.
@@ -11165,7 +11203,7 @@ entries:
   - PHP
   Tags:
   - Self-hosting Solution
-- ID: 885
+- ID: 888
   Name: YunoHost
   Description: Server operating system aiming to make self-hosting accessible to everyone.
   Source Code: https://github.com/YunoHost
