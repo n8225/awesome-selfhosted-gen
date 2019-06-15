@@ -118,10 +118,10 @@ function populateAllEntries() {
         txt += `<article class="media"><div class="media-content"><span class="field is-grouped is-grouped-multiline"><span class="control"><strong>` + entries[x].N + `</strong></span>`;
         if (entries[x].P !== undefined) {txt += `<span class="control"><a class="icon has-text-warning"><i class="fas fa-lg fa-exclamation-triangle"></i></a></span>`;}
         if (entries[x].NF !== undefined) {txt += `<span class="control"><a class="icon has-text-warning"><i class="fas fa-lg fa-ban"></i></a></span>`;}
-        txt += parseArr(entries[x].T, "tag");
+        txt += parseArr(entries[x].T, "tag", entries[x].N);
         if (entries[x].stars !== undefined) {txt += `<span class="control"><span class="tags has-addons"><a class="tag is-light">Updated</a><a class="tag is-info">` + entries[x].update + `</a></span></span>` +
             `<span class="control"><span class="tags has-addons"><a class="tag is-dark icon"><i class="fas fa fa-star"></i></a><a class="tag is-light">` + entries[x].stars + `</a></span></span>`;}
-        txt += getL(entries[x].Li) + parseArr(entries[x].La, "lang");
+        txt += getL(entries[x].Li, entries[x].N) + parseArr(entries[x].La, "lang", entries[x].N);
         txt += `<span class="control"><a href="` + entries[x].Sr + `" target="_blank" class=""><span class="icon has-text-link"><i class="fas fa-lg fa-code-branch"></i></span></a></span>`;
         if (entries[x].Si !== undefined) {txt +=`<span class="control"><a href="` + entries[x].Si + `" target="_blank" class=""><span class="icon has-text-link"><i class="fas fa-lg fa-external-link-alt"></i></span></a></span>`;}
         if (entries[x].Dem !== undefined) {txt +=`<span class="control"><a href="` + entries[x].Dem + `" target="_blank" class=""><span class="icon has-text-link"><i class="fas fa-lg fa-chevron-circle-right"></i></span></a></span>`;}
@@ -154,7 +154,11 @@ function langPicker(l) {
     langSelect = l;
     populateEntries()
 }
-function parseArr(e, t) {
+function parseArr(e, t, n) {
+    if ( e == null) {
+        console.log(n + " " + t + " Is null")
+        return
+    }
     switch (t) {
         case ("tag"):
             oc = `tagPicker`;
@@ -172,7 +176,7 @@ function parseArr(e, t) {
     return res;
 }
 
-function getL(t, cl) {
+function getL(t, n) {
     let lics = "";
     t.forEach(function(item) {
         lics += `<span class="control"><a class="tag is-primary">` + item + `</a></span>`;

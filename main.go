@@ -6,7 +6,6 @@ import (
 	"encoding/json"
 	"flag"
 	"fmt"
-	"gopkg.in/yaml.v2"
 	"io/ioutil"
 	"log"
 	"net/http"
@@ -15,15 +14,18 @@ import (
 	"regexp"
 	"sort"
 	"strings"
+
+	"gopkg.in/yaml.v2"
 )
 
 // List is the total struct
 type List struct {
-	Entries  []Entry	`json:"Entries"`
-	LangList []Langs	`json:"Langs" yaml:"-"`
+	Entries  []Entry `json:"Entries"`
+	LangList []Langs `json:"Langs" yaml:"-"`
 	//CatList  []Cats		`json:"Cats", yaml:""`
-	TagList  []Tags		`json:"Tags" yaml:"-"`
+	TagList []Tags `json:"Tags" yaml:"-"`
 }
+
 // Entry is the structure of each entry
 type Entry struct {
 	ID      int      `json:"ID" yaml:"ID"`
@@ -37,34 +39,36 @@ type Entry struct {
 	Lang    []string `json:"La" yaml:"Languages"`
 	//Cat     string   `json:"C,omitempty"`
 	Tags    []string `json:"T" yaml:"Tags"`
-	NonFree    bool  `json:"NF,omitempty" yaml:"NonFree,omitempty"`
+	NonFree bool     `json:"NF,omitempty" yaml:"NonFree,omitempty"`
 	Pdep    bool     `json:"P,omitempty" yaml:"ProprietaryDependency,omitempty"`
-	Stars	int		`json:"stars,omitempty" yaml:"-"`
-	Created	string	`json:"create,omitempty" yaml:"-"`
-	Updated	string	`json:"update,omitempty" yaml:"-"`
+	Stars   int      `json:"stars,omitempty" yaml:"-"`
+	Created string   `json:"create,omitempty" yaml:"-"`
+	Updated string   `json:"update,omitempty" yaml:"-"`
 }
 
 // Licenses is the struct of licenses
 type Langs struct {
-	Lang	string `json:"Lang"`
-	Count 	int `json:"Count"`
+	Lang  string `json:"Lang"`
+	Count int    `json:"Count"`
 }
+
 //Category struct
 type Cats struct {
 	Cat   string
 	Count int
 }
+
 //Tags Struct
 type Tags struct {
-	Tag   string	`json:"Tag"`
-	Count int		`json:"C"`
+	Tag   string `json:"Tag"`
+	Count int    `json:"C"`
 }
 
 func main() {
 	var path string
 	const (
 		defaultPath = ""
-		usage = "Path to Readme.md(On windows wrap path in \""
+		usage       = "Path to Readme.md(On windows wrap path in \""
 	)
 	flag.StringVar(&path, "path", defaultPath, usage)
 	flag.StringVar(&path, "p", defaultPath, usage)
@@ -95,7 +99,7 @@ func makeLangs(entries []Entry) []Langs {
 	for _, item := range tmp {
 		_, exist := langMap[item]
 		if exist {
-			langMap[item] +=1
+			langMap[item] += 1
 		} else {
 			langMap[item] = 1
 		}
@@ -122,7 +126,7 @@ func makeTags(entries []Entry) []Tags {
 	for _, item := range tmp {
 		_, exist := tagMap[item]
 		if exist {
-			tagMap[item] +=1
+			tagMap[item] += 1
 		} else {
 			tagMap[item] = 1
 		}
@@ -164,7 +168,6 @@ func makeTags(entries []Entry) []Tags {
 	})
 	return catsl
 }*/
-
 
 func freeReadMd(path, gh string) []Entry {
 	fmt.Println("Parsing:", path)
@@ -240,7 +243,7 @@ func freeReadMd(path, gh string) []Entry {
 					e.Lang = langSplit(strings.TrimSpace(result[0][6]))
 					pdep = result[0][3]
 				}
-				if strings.Contains(pdep,"⚠") == true  {
+				if strings.Contains(pdep, "⚠") == true {
 					e.Pdep = true
 				}
 				if demoP.MatchString(scanner.Text()) {
@@ -265,7 +268,7 @@ func freeReadMd(path, gh string) []Entry {
 
 				} else if ghregex.MatchString(e.Source) {
 					result := ghregex.FindAllStringSubmatch(e.Source, -1)
-					ghur:= strings.TrimSpace(result[0][4])
+					ghur := strings.TrimSpace(result[0][4])
 					e.Stars, e.Updated = getGHRepo(ghur, gh)
 
 				}
@@ -277,7 +280,7 @@ func freeReadMd(path, gh string) []Entry {
 	return entries
 }
 
-func getGLRepo (url string) (int, string){
+func getGLRepo(url string) (int, string) {
 	res, err := http.Get(url)
 	if err != nil {
 		log.Fatal(err)
@@ -288,7 +291,7 @@ func getGLRepo (url string) (int, string){
 		log.Fatal(err)
 	}
 	type gl struct {
-		Stars int `json:"star_count"`
+		Stars   int    `json:"star_count"`
 		Created string `json:"created_at"`
 		Updated string `json:"last_activity_at"`
 		//Node_id int `json:"id"`
@@ -310,7 +313,7 @@ type Gh struct {
 			DefaultBranchRef struct {
 				Target struct {
 					History struct {
-						Edges [] struct {
+						Edges []struct {
 							Node struct {
 								CommittedDate string `json:"committedDate"`
 							} `json:"node"`
@@ -320,14 +323,14 @@ type Gh struct {
 			} `json:"defaultBranchRef"`
 		} `json:"repository"`
 	} `json:"data"`
- Errors [] struct {
-	 Message string `json:"message"`
-	 Type string `json:"type"`
-	 path string `json:"path"`
- }`json:"errors"`
+	Errors []struct {
+		Message string `json:"message"`
+		Type    string `json:"type"`
+		path    string `json:"path"`
+	} `json:"errors"`
 }
 
-func getGHRepo (ur, ght string) (int, string){
+func getGHRepo(ur, ght string) (int, string) {
 	if strings.Contains(ur, "/") != true {
 		log.Printf("No repository provided. Update %s to include a repo.", ur)
 		return 0, ""
@@ -341,13 +344,13 @@ func getGHRepo (ur, ght string) (int, string){
 
 	req, err := http.NewRequest("POST", "https://api.github.com/graphql", bytes.NewBuffer(jsonStr))
 
-	req.Header.Set("Authorization", "bearer " + ght)
+	req.Header.Set("Authorization", "bearer "+ght)
 	req.Header.Set("Accept", "application/vnd.github.quicksilver-preview+json")
 	req.Header.Set("Content-Type", "application/json")
 	//log.Printf("req: ", req.Body)
 
 	client := &http.Client{}
-	res, err :=client.Do(req)
+	res, err := client.Do(req)
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -359,8 +362,8 @@ func getGHRepo (ur, ght string) (int, string){
 	//log.Printf("Body: %s\n", body)
 
 	gh := &Gh{}
-		err = json.Unmarshal(body, &gh)
-		if err != nil {
+	err = json.Unmarshal(body, &gh)
+	if err != nil {
 		log.Fatal(err)
 	}
 	//Fallback to github v3 api on error
@@ -378,9 +381,9 @@ func ghv3api(u, r, ght string) (int, string) {
 	//fmt.Println(ghURL)
 	// request http api
 	req, err := http.NewRequest("GET", ghURL, nil)
-	req.Header.Set("Authorization", "bearer " + ght)
+	req.Header.Set("Authorization", "bearer "+ght)
 	client := http.Client{}
-	res, err :=client.Do(req)
+	res, err := client.Do(req)
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -399,9 +402,9 @@ func ghv3api(u, r, ght string) (int, string) {
 
 	type Gh struct {
 		FullName string `json:"full_name"`
-		Stars int `json:"stargazers_count"`
-		Created string `json:"created_at"`
-		Updated string `json:"pushed_at"`
+		Stars    int    `json:"stargazers_count"`
+		Created  string `json:"created_at"`
+		Updated  string `json:"pushed_at"`
 	}
 	gh := Gh{}
 	err = json.Unmarshal(body, &gh)
@@ -409,26 +412,25 @@ func ghv3api(u, r, ght string) (int, string) {
 		log.Fatal(err)
 	}
 	log.Printf("Update https://github.com/%s/%s Source code link to: https://github.com/%s\n", u, r, gh.FullName)
-	if "/" + u + "/" + r != gh.FullName {
+	if "/"+u+"/"+r != gh.FullName {
 		log.Printf("Retrying Github api v4 with %s", gh.FullName)
 		getGHRepo(gh.FullName, ght)
 	}
 	return gh.Stars, strings.Split(gh.Updated, "T")[0]
 }
 
-
 func toJson(list List) {
-		yamlFile, err := os.Create("./output.yaml")
-		if err != nil {
-			fmt.Println(err)
-		}
-		defer yamlFile.Close()
-		YAML, err := yaml.Marshal(list)
-		if err != nil{
-			fmt.Println("error:", err)
-		}
-		yamlFile.Write(YAML)
-		yamlFile.Close()
+	yamlFile, err := os.Create("./output.yaml")
+	if err != nil {
+		fmt.Println(err)
+	}
+	defer yamlFile.Close()
+	YAML, err := yaml.Marshal(list)
+	if err != nil {
+		fmt.Println("error:", err)
+	}
+	yamlFile.Write(YAML)
+	yamlFile.Close()
 
 	jsonFile, err := os.Create("./output.json")
 	if err != nil {
@@ -462,6 +464,9 @@ func toJson(list List) {
 func lSplit(lang string) []string {
 	if strings.Contains(lang, "/") {
 		return strings.Split(lang, "/")
+	} else if strings.Contains(lang, "\\") {
+		fmt.Println(strings.Split(lang, "\\"))
+		return strings.Split(lang, "\\")
 	} else {
 		l := make([]string, 1)
 		l[0] = lang
@@ -479,54 +484,54 @@ func langSplit(lang string) []string {
 }
 
 var langs = map[string][]string{
-	".NET":				{".NET"},
-	"Angular":			{"HTML5"},
-	"C":				{"C"},
-	"C#":				{"C#"},
-	"C++":				{"C++"},
-	"CSS":				{"HTML5"},
-	"ClearOS":			{"PHP"},
-	"Clojure":			{"Clojure"},
-	"ClojureScript":	{"Clojure"},
-	"CommonLisp":		{"CommonLisp"},
-	"Django":			{"Python"},
-	"Docker":			{"Docker"},
-	"Elixir":			{"Elixir"},
-	"Erlang":			{"Erlang"},
-	"Go":				{"Go"},
-	"GO":				{"Go"},
-	"Golang":			{"Golang"},
-	"HTML":				{"HTML5"},
-	"HTML5":			{"HTML5"},
-	"Haskell":			{"Haskell"},
-	"Java":				{"Java"},
-	"JavaScript":		{"HTML5"},
-	"Javascript":		{"HTML5"},
-	"Kotlin":			{"Kotlin"},
-	"Linux":			{"Shell"},
-	"Lua":				{"Lua"},
-	"Nix":				{"Nix"},
-	"Node.js":			{"Nodejs"},
-	"NodeJS":			{"Nodejs"},
-	"Nodejs":			{"Nodejs"},
-	"OCAML":			{"OCaml"},
-	"OCaml":			{"OCaml"},
-	"Objective-C":		{"Objective-C"},
-	"PHP":				{"PHP"},
-	"PL":				{"Perl"},
-	"Perl":				{"Perl"},
-	"Python":			{"Python"},
-	"Ruby":				{"Ruby"},
-	"Rust":				{"Rust"},
-	"Scala":			{"scala"},
-	"Shell":			{"Shell"},
-	"TypeScript":		{"TypeScript"},
-	"VueJS":			{"HTML5"},
-	"YAML":				{"YAML"},
-	"pgSQL":			{"pgSQL"},
-	"python":			{"Python"},
-	"С++":				{"C++"},
-	"rc":				{"rc"},
+	".NET":          {".NET"},
+	"Angular":       {"HTML5"},
+	"C":             {"C"},
+	"C#":            {"C#"},
+	"C++":           {"C++"},
+	"CSS":           {"HTML5"},
+	"ClearOS":       {"PHP"},
+	"Clojure":       {"Clojure"},
+	"ClojureScript": {"Clojure"},
+	"CommonLisp":    {"CommonLisp"},
+	"Django":        {"Python"},
+	"Docker":        {"Docker"},
+	"Elixir":        {"Elixir"},
+	"Erlang":        {"Erlang"},
+	"Go":            {"Go"},
+	"GO":            {"Go"},
+	"Golang":        {"Golang"},
+	"HTML":          {"HTML5"},
+	"HTML5":         {"HTML5"},
+	"Haskell":       {"Haskell"},
+	"Java":          {"Java"},
+	"JavaScript":    {"HTML5"},
+	"Javascript":    {"HTML5"},
+	"Kotlin":        {"Kotlin"},
+	"Linux":         {"Shell"},
+	"Lua":           {"Lua"},
+	"Nix":           {"Nix"},
+	"Node.js":       {"Nodejs"},
+	"NodeJS":        {"Nodejs"},
+	"Nodejs":        {"Nodejs"},
+	"OCAML":         {"OCaml"},
+	"OCaml":         {"OCaml"},
+	"Objective-C":   {"Objective-C"},
+	"PHP":           {"PHP"},
+	"PL":            {"Perl"},
+	"Perl":          {"Perl"},
+	"Python":        {"Python"},
+	"Ruby":          {"Ruby"},
+	"Rust":          {"Rust"},
+	"Scala":         {"scala"},
+	"Shell":         {"Shell"},
+	"TypeScript":    {"TypeScript"},
+	"VueJS":         {"HTML5"},
+	"YAML":          {"YAML"},
+	"pgSQL":         {"pgSQL"},
+	"python":        {"Python"},
+	"С++":           {"C++"},
+	"rc":            {"rc"},
 }
 
 var tags = map[string][]string{
