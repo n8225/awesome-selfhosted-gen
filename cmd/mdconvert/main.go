@@ -13,7 +13,8 @@ import (
 
 	"gopkg.in/yaml.v2"
 
-	"github.com/ash_gen/pkg/util"
+	"github.com/n8225/ash_gen/pkg/parse"
+	"github.com/n8225/ash_gen/pkg/getexternal"
 )
 
 func main() {
@@ -32,46 +33,15 @@ func main() {
 		log.Fatal(err)
 	}
 	e := freeReadMd(apath, *ghToken)
-	l := new(List)
+	l := new(parse.List)
 	l.Entries = e
-	l.TagList = makeTags(e)
+	l.TagList = parse.MakeTags(e)
 	//l.CatList = makeCats(e)
-	l.LangList = makeLangs(e)
+	l.LangList = parse.MakeLangs(e)
 	toJson(*l)
 }
 
-
-
-
-
-/*func makeCats(entries []Entry) []Cats {
-	catsl := []Cats{}
-	c := new(Cats)
-	var tmp []string
-	for _, e := range entries {
-		tmp = append(tmp, e.Cat)
-	}
-	catMap := make(map[string]int)
-	for _, item := range tmp {
-		_, exist := catMap[item]
-		if exist {
-			catMap[item] +=1
-		} else {
-			catMap[item] = 1
-		}
-	}
-	for k, v := range catMap {
-		c.Cat = k
-		c.Count = v
-		catsl = append(catsl, *c)
-	}
-	sort.Slice(catsl, func(i, j int) bool {
-		return catsl[i].Cat < catsl[j].Cat
-	})
-	return catsl
-}*/
-
-func freeReadMd(path, gh string) []Entry {
+func freeReadMd(path, gh string) []parse.Entry {
 	fmt.Println("Parsing:", path)
 	inputFile, _ := os.Open(path)
 	defer inputFile.Close()
@@ -87,7 +57,7 @@ func freeReadMd(path, gh string) []Entry {
 	demoP := *regexp.MustCompile("\\Q[Demo](\\E(.*?)\\Q)\\E")
 	sourceP := *regexp.MustCompile("\\Q[Source Code](\\E(.*?)\\Q)\\E")
 	clientP := *regexp.MustCompile("\\Q[Clients](\\E(.*?)\\Q)\\E")
-	entries := []Entry{}
+	entries := []parse.Entry{}
 	glregex := regexp.MustCompile("^(http.://)(www.){0,1}(gitlab.com)/(.*)/(.*)$")
 	ghregex := regexp.MustCompile("^(http.://)(www.){0,1}(github.com)/(.*)$")
 	for scanner.Scan() {
@@ -110,24 +80,24 @@ func freeReadMd(path, gh string) []Entry {
 				tagi = strings.Trim(scanner.Text(), "_")
 			}
 			if strings.HasPrefix(scanner.Text(), "- [") || strings.HasPrefix(scanner.Text(), "  - [") {
-				e := new(Entry)
+				e := new(parse.Entry)
 				//e.Cat = tag2
 				//e.Tags = strings.Trim(strings.Join([]string{tag2, tag3, tag4, tagi}, ", "), " , ")
 				if tag2 != "" {
 					//e.Tags = append(e.Tags, strings.TrimSpace(tag2))
-					e.Tags = append(e.Tags, tags[tag2]...)
+					e.Tags = append(e.Tags, parse.Tagmap[tag2]...)
 				}
 				if tag3 != "" {
 					//e.Tags = append(e.Tags, strings.TrimSpace(tag3))
-					e.Tags = append(e.Tags, tags[tag3]...)
+					e.Tags = append(e.Tags, parse.Tagmap[tag3]...)
 				}
 				if tag4 != "" {
 					//e.Tags = append(e.Tags, strings.TrimSpace(tag4))
-					e.Tags = append(e.Tags, tags[tag4]...)
+					e.Tags = append(e.Tags, parse.Tagmap[tag4]...)
 				}
 				if tagi != "" {
 					//e.Tags = append(e.Tags, strings.TrimSpace(tagi))
-					e.Tags = append(e.Tags, tags[tagi]...)
+					e.Tags = append(e.Tags, parse.Tagmap[tagi]...)
 				}
 
 				if pattern.MatchString(scanner.Text()) {
@@ -141,8 +111,8 @@ func freeReadMd(path, gh string) []Entry {
 					}
 					site = strings.TrimSpace(result[0][2])
 					e.Descrip = strings.TrimSpace(result[0][4])
-					e.License = lSplit(strings.TrimSpace(result[0][5]))
-					e.Lang = langSplit(strings.TrimSpace(result[0][6]))
+					e.License = parse.LSplit(strings.TrimSpace(result[0][5]))
+					e.Lang = parse.LangSplit(strings.TrimSpace(result[0][6]))
 					pdep = result[0][3]
 				}
 				if strings.Contains(pdep, "⚠") == true {
@@ -166,12 +136,12 @@ func freeReadMd(path, gh string) []Entry {
 				if glregex.MatchString(e.Source) {
 					result := glregex.FindAllStringSubmatch(e.Source, -1)
 					glApi := "https://gitlab.com/api/v4/projects/" + result[0][4] + "%2F" + result[0][5]
-					e.Stars, e.Updated = getGLRepo(glApi)
+					e.Stars, e.Updated = getexternal.GetGLRepo(glApi)
 
 				} else if ghregex.MatchString(e.Source) {
 					result := ghregex.FindAllStringSubmatch(e.Source, -1)
 					ghur := strings.TrimSpace(result[0][4])
-					e.Stars, e.Updated = getGHRepo(ghur, gh)
+					e.Stars, e.Updated = getexternal.GetGHRepo(ghur, gh)
 
 				}
 
@@ -182,11 +152,7 @@ func freeReadMd(path, gh string) []Entry {
 	return entries
 }
 
-
-
-
-
-func toJson(list List) {
+func toJson(list parse.List) {
 	yamlFile, err := os.Create("./output.yaml")
 	if err != nil {
 		fmt.Println(err)
@@ -227,29 +193,3 @@ func toJson(list List) {
 	jsonFileMin.Write(JSONmin)
 	jsonFileMin.Close()
 }
-
-func lSplit(lang string) []string {
-	if strings.Contains(lang, "/") {
-		return strings.Split(lang, "/")
-	} else if strings.Contains(lang, "\\") {
-		fmt.Println(strings.Split(lang, "\\"))
-		return strings.Split(lang, "\\")
-	} else {
-		l := make([]string, 1)
-		l[0] = lang
-		return l
-	}
-}
-
-func langSplit(lang string) []string {
-	nLangs := lSplit(lang)
-	var mLangs []string
-	for _, lang := range nLangs {
-		mLangs = append(mLangs, langs[lang]...)
-	}
-	return mLangs
-}
-
-
-
-

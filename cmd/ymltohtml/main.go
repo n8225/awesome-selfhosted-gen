@@ -7,15 +7,20 @@ import (
 	"log"
 	"os"
 	"strings"
+	"flag"
 
 	"gopkg.in/yaml.v2"
 
-	"github.com/ash_gen/pkg/util"
+	"github.com/n8225/ash_gen/pkg/parse"
+
 
 )
 
 func main() {
 	inputFile, err := os.Open("./list.yaml")
+	var ghToken = flag.String("ghtoken", "", "github oauth token")
+	flag.Parse()
+
 	if inputFile != nil {
 		defer func() {
 			if ferr := inputFile.Close(); ferr != nil {
@@ -24,7 +29,7 @@ func main() {
 		}()
 	}
 	ybytes, _ := ioutil.ReadAll(inputFile)
-	l := List{}
+	l := parse.List{}
 	err = yaml.Unmarshal(ybytes, &l)
 	if err != nil {
 		log.Fatal(err)
@@ -35,14 +40,14 @@ func main() {
 	}
 	for _, f := range files {
 		if strings.HasSuffix("./add/"+f.Name(), ".yaml") {
-			e := Entry{}
+			e := parse.Entry{}
 			fFile, err := os.Open("./add/" + f.Name())
 			if err != nil {
 				fmt.Println(err)
 			}
 			fbytes, _ := ioutil.ReadAll(fFile)
 			err = yaml.Unmarshal(fbytes, &e)
-			e = CheckYamlAdd(e, l, gh)
+			e = parse.CheckYamlAdd(e, l, *ghToken)
 			log.Println(e.Errors)
 			log.Println(e.Warns)
 			if e.Errors == nil {
@@ -50,8 +55,8 @@ func main() {
 			}
 		}
 	}
-	l.TagList = makeTags(l.Entries)
-	l.LangList = makeLangs(l.Entries)
+	l.TagList = parse.MakeTags(l.Entries)
+	l.LangList = parse.MakeLangs(l.Entries)
 
 	/*	for _, e := range l.Entries {
 		getStars(e, gh)
