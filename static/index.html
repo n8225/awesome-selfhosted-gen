@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Awesome-Selfhosted</title>
+        <script type="text/javascript" src="script.js" async></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.min.css">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+        <link rel="stylesheet" href="style.css">
+    </head>
+<body>           
+    <section class="hero is-dark is-bold">
+            <div class="hero-body">
+                <div class="columns">
+                <div class="column is-12">
+                    <div class="container content">
+                    <h1 class="title"><span class='icon has-text-light'><i class='fab fa-2x fa-github' data-glyph='warning'></i></span>Awesome-Selfhosted</h1>
+                    <h4 class="subtitle">
+                            This is a list of Free Software network services and web applications which can be hosted locally.
+                    </h4>
+                    </div>
+                </div>
+                </div>
+            </div>
+        </section>
+    <section class="section is-paddingless">
+        <div class="">
+            <div class="main-content columns is-fullheight is-12">
+                <aside class="menu column tags is-4 is-fullheight section">
+
+                    <div id="filters">
+                    </div>
+                    <div class="accordion message">
+                        <input type="checkbox" name="langs" id="panel-l" checked>
+                        <label for="panel-l" class="message-header">Programming Languages<span class="icon is-small"><i class="fas fa-angle-down" aria-hidden="true"></i></span></label>
+                        <div class="accordion_content message-body">
+                            <span class="tags" id="lang"></span>
+                        </div>
+
+                    </div>
+                    <div class="accordion message">
+                        <input type="checkbox" name="tags" id="panel-t" checked>
+                        <label for="panel-t" class="message-header">Tags<span class="icon is-small"><i class="fas fa-angle-down" aria-hidden="true"></i></span></label>
+                        <div class="accordion_content message-body">
+                            <span class="tags" id="tagList"></span>
+                        </div>
+                    </div>
+                </aside>
+                <div class="container is-8">
+                    <div class="section" >
+                        <div id="demo">
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+</html>

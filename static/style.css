@@ -1,0 +1,32 @@
+.tag {
+    cursor: pointer;
+}
+
+.accordion label {
+    cursor: pointer;
+}
+
+.accordion .accordion_content {
+    transition: height 1s ease;
+    overflow: hidden;
+    display: none;
+}
+
+.accordion input:checked + label + .accordion_content {
+    transition: height 1s ease;
+    display: block;
+    padding-bottom: .75rem;
+}
+
+.accordion input {
+    display: none;
+}
+
+.up {
+    margin-top: -.5rem
+}
+
+
+
+
+
