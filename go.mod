@@ -1,4 +1,4 @@
-module git.kangarew.party/ash_gen
+module github.com/n8225/ash_gen
 
 go 1.12
 
