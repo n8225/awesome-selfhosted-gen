@@ -2,7 +2,7 @@ package main
 
 import (
 	"bufio"
-	"encoding/json"
+	
 	"flag"
 	"fmt"
 	"log"
@@ -11,10 +11,10 @@ import (
 	"regexp"
 	"strings"
 
-	"gopkg.in/yaml.v2"
 
 	"github.com/n8225/ash_gen/pkg/parse"
 	"github.com/n8225/ash_gen/pkg/getexternal"
+	"github.com/n8225/ash_gen/pkg/exporter"
 )
 
 func main() {
@@ -35,10 +35,11 @@ func main() {
 	e := freeReadMd(apath, *ghToken)
 	l := new(parse.List)
 	l.Entries = e
-	l.TagList = parse.MakeTags(e)
-	//l.CatList = makeCats(e)
-	l.LangList = parse.MakeLangs(e)
-	toJson(*l)
+	l.TagList = parse.MakeTags(l.Entries)
+	l.CatList = parse.MakeCats(l.Entries)
+	l.LangList = parse.MakeLangs(l.Entries)
+	exporter.ToJSON(*l, "list")
+	exporter.ToYaml(*l, "list")
 }
 
 func freeReadMd(path, gh string) []parse.Entry {
@@ -81,7 +82,7 @@ func freeReadMd(path, gh string) []parse.Entry {
 			}
 			if strings.HasPrefix(scanner.Text(), "- [") || strings.HasPrefix(scanner.Text(), "  - [") {
 				e := new(parse.Entry)
-				//e.Cat = tag2
+				e.Cat = tag2
 				//e.Tags = strings.Trim(strings.Join([]string{tag2, tag3, tag4, tagi}, ", "), " , ")
 				if tag2 != "" {
 					//e.Tags = append(e.Tags, strings.TrimSpace(tag2))
@@ -135,61 +136,22 @@ func freeReadMd(path, gh string) []parse.Entry {
 				}
 				if glregex.MatchString(e.Source) {
 					result := glregex.FindAllStringSubmatch(e.Source, -1)
-					glApi := "https://gitlab.com/api/v4/projects/" + result[0][4] + "%2F" + result[0][5]
-					e.Stars, e.Updated = getexternal.GetGLRepo(glApi)
+					glAPI := "https://gitlab.com/api/v4/projects/" + result[0][4] + "%2F" + result[0][5]
+					e.Stars, e.Updated = getexternal.GetGLRepo(glAPI)
 
 				} else if ghregex.MatchString(e.Source) {
+					src := ""
 					result := ghregex.FindAllStringSubmatch(e.Source, -1)
 					ghur := strings.TrimSpace(result[0][4])
-					e.Stars, e.Updated = getexternal.GetGHRepo(ghur, gh)
-
+					e.Stars, e.Updated, _, _, src = getexternal.GetGHRepo(ghur, gh, src)
+					if src != "" {
+						fmt.Println("Update " + e.Source + " to https://www.github.com/" + src)
+						e.Source = "https://www.github.com/" + src
+					}
 				}
-
 				entries = append(entries, *e)
 			}
 		}
 	}
 	return entries
-}
-
-func toJson(list parse.List) {
-	yamlFile, err := os.Create("./output.yaml")
-	if err != nil {
-		fmt.Println(err)
-	}
-	defer yamlFile.Close()
-	YAML, err := yaml.Marshal(list)
-	if err != nil {
-		fmt.Println("error:", err)
-	}
-	yamlFile.Write(YAML)
-	yamlFile.Close()
-
-	jsonFile, err := os.Create("./output.json")
-	if err != nil {
-		fmt.Println(err)
-	}
-	defer jsonFile.Close()
-	JSON, err := json.MarshalIndent(list, "", "\t")
-	if err != nil {
-		fmt.Println("error:", err)
-		return
-	}
-	//fmt.Println(string(JSON))
-	jsonFile.Write(JSON)
-	jsonFile.Close()
-
-	jsonFileMin, err := os.Create("./output.min.json")
-	if err != nil {
-		fmt.Println(err)
-	}
-	defer jsonFile.Close()
-	JSONmin, err := json.Marshal(list)
-	if err != nil {
-		fmt.Println("error:", err)
-		return
-	}
-	//fmt.Println(string(JSON))
-	jsonFileMin.Write(JSONmin)
-	jsonFileMin.Close()
 }

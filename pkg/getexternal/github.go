@@ -16,6 +16,12 @@ type Gh struct {
 			Stargazers struct {
 				TotalCount int `json:"totalCount"`
 			} `json:"stargazers"`
+			PrimaryLanguage struct {
+				Name string `json:"name"`
+			} `json:"primaryLanguage"`
+			LicenseInfo struct {
+				SpdxID string `json:"spdxId"`
+			} `json:"licenseInfo"`
 			DefaultBranchRef struct {
 				Target struct {
 					History struct {
@@ -36,17 +42,18 @@ type Gh struct {
 	} `json:"errors"`
 }
 
-func GetGHRepo(ur, ght string) (int, string) {
+// GetGHRepo uses the github APIv4 (GRAPHQL) to retrieve star count, last commit, license, and language info. If the repository has moved or there is an error it will fall back to APIv3.
+func GetGHRepo(ur, ght, src string) (stars int, commitDate, license, language, srcUpdate string) {
 	if strings.Contains(ur, "/") != true {
 		log.Printf("No repository provided. Update %s to include a repo.", ur)
-		return 0, ""
+		return 0, "", "", "", src
 	}
 	r := strings.Split(ur, "/")
 	if r[1] == "" {
 		log.Printf("No repository provided. Update %s to include a repo.", ur)
-		return 0, ""
+		return 0, "", "", "", src
 	}
-	var jsonStr = []byte(`{"query":"{repository(owner:\"` + r[0] + `\",name:\"` + r[1] + `\"){stargazers{totalCount}defaultBranchRef{target{... on Commit{history(first: 1){edges{node{committedDate}}}}}}}}"}`)
+	var jsonStr = []byte(`{"query":"{repository(owner:\"` + r[0] + `\",name:\"` + r[1] + `\"){stargazers{totalCount}licenseInfo{spdxId}primaryLanguage{name}defaultBranchRef{target{... on Commit{history(first: 1){edges{node{committedDate}}}}}}}}"}`)
 
 	req, err := http.NewRequest("POST", "https://api.github.com/graphql", bytes.NewBuffer(jsonStr))
 
@@ -75,17 +82,15 @@ func GetGHRepo(ur, ght string) (int, string) {
 	//Fallback to github v3 api on error
 	if gh.Data.Repository.Stargazers.TotalCount == 0 {
 		log.Printf("Error: https://github.com/%s/%s => %v Trying github api v3.  ", r[0], r[1], gh.Errors[0].Message)
-		return ghv3api(r[0], r[1], ght)
+		return ghv3api(r[0], r[1], ght, srcUpdate)
 	}
-	//return *repo.StargazersCount
-	return gh.Data.Repository.Stargazers.TotalCount, strings.Split(gh.Data.Repository.DefaultBranchRef.Target.History.Edges[0].Node.CommittedDate, "T")[0]
+	return gh.Data.Repository.Stargazers.TotalCount, strings.Split(gh.Data.Repository.DefaultBranchRef.Target.History.Edges[0].Node.CommittedDate, "T")[0], gh.Data.Repository.LicenseInfo.SpdxID, gh.Data.Repository.PrimaryLanguage.Name, src
 }
 
-func ghv3api(u, r, ght string) (int, string) {
-	ghURL := "https://api.github.com/repos/" + u + "/" + r + "?" //+ ght
+func ghv3api(u, r, ght, src string) (stars int, commitDate, license, language, srcUpdate string) {
+	ghURL := "https://api.github.com/repos/" + u + "/" + r + "?"
 
-	//fmt.Println(ghURL)
-	// request http api
+
 	req, err := http.NewRequest("GET", ghURL, nil)
 	req.Header.Set("Authorization", "bearer "+ght)
 	client := http.Client{}
@@ -95,7 +100,7 @@ func ghv3api(u, r, ght string) (int, string) {
 	}
 	if res.StatusCode != 200 {
 		log.Printf("StatusCode: %v. Source link is invalid: %v/%v\n", res.StatusCode, u, r)
-		return 0, ""
+		return 0, "", "", "", srcUpdate
 	}
 
 	// read body
@@ -111,6 +116,11 @@ func ghv3api(u, r, ght string) (int, string) {
 		Stars    int    `json:"stargazers_count"`
 		Created  string `json:"created_at"`
 		Updated  string `json:"pushed_at"`
+		License struct {
+			SpdxID string `json:"spdx_id"`
+		} `json:"license"`
+		Language string `json:"language"`
+
 	}
 	gh := Gh{}
 	err = json.Unmarshal(body, &gh)
@@ -120,7 +130,7 @@ func ghv3api(u, r, ght string) (int, string) {
 	log.Printf("Update https://github.com/%s/%s Source code link to: https://github.com/%s\n", u, r, gh.FullName)
 	if "/"+u+"/"+r != gh.FullName {
 		log.Printf("Retrying Github api v4 with %s", gh.FullName)
-		GetGHRepo(gh.FullName, ght)
+		GetGHRepo(gh.FullName, ght, gh.FullName)
 	}
-	return gh.Stars, strings.Split(gh.Updated, "T")[0]
+	return gh.Stars, strings.Split(gh.Updated, "T")[0], gh.License.SpdxID, gh.Language, gh.FullName
 }

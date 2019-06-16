@@ -3,7 +3,6 @@ package parse
 import (
 	"sort"
 	"strings"
-	"fmt"
 )
 
 // Langs is the struct of programming languages
@@ -12,6 +11,7 @@ type Langs struct {
 	Count int    `json:"Count"`
 }
 
+// MakeLangs creates the language struct with a count
 func MakeLangs(entries []Entry) []Langs {
 	langsl := []Langs{}
 	l := new(Langs)
@@ -39,11 +39,11 @@ func MakeLangs(entries []Entry) []Langs {
 	return langsl
 }
 
+// LSplit splits language or license string delimited by '/' or '\'
 func LSplit(lang string) []string {
 	if strings.Contains(lang, "/") {
 		return strings.Split(lang, "/")
 	} else if strings.Contains(lang, "\\") {
-		fmt.Println(strings.Split(lang, "\\"))
 		return strings.Split(lang, "\\")
 	} else {
 		l := make([]string, 1)
@@ -52,6 +52,7 @@ func LSplit(lang string) []string {
 	}
 }
 
+// LangSplit creates new laguage slice from string
 func LangSplit(lang string) []string {
 	nLangs := LSplit(lang)
 	var mLangs []string

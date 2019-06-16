@@ -1,7 +1,6 @@
 package parse
 
 import (
-	"bytes"
 	"encoding/json"
 	"io/ioutil"
 	"log"
@@ -9,6 +8,8 @@ import (
 	"net/url"
 	"strconv"
 	"strings"
+	"fmt"
+	"unicode"
 
 	"github.com/n8225/ash_gen/pkg/getexternal"
 )
@@ -36,26 +37,39 @@ type Spdx struct {
 	ReleaseDate string `json:"releaseDate"`
 }
 
-func CheckYamlAdd(e Entry, l List, ght string) Entry {
-
+// CheckEntry runs tests on entries
+func CheckEntry(e Entry, l List, ght string) Entry {
+	e.Error = false
 	ghR := RepoCheckStruct{}
+
 	if e.Name == "" {
+		e.Error = true
 		e.Errors = append(e.Errors, "Error: Name is null.")
 	}
-	if dErr, dWarn := checkDup(e, l); dErr != "" {
-		e.Errors = append(e.Errors, dErr)
+	if dErr, dErrs, dWarn := checkDup(e, l); dErr == true {
+		fmt.Println("ln47: ", dErr, dWarn)
+		e.Error = true
+		e.Errors = append(e.Errors, dErrs)
 		e.Warns = append(e.Warns, dWarn)
 	}
 	if e.Source == "" {
+		e.Error = true
 		e.Errors = append(e.Errors, "Error: Source is null.")
 	} else {
-		dErr, dWarn := checkLinks(e.Source, "Source Link ")
-		fErr, fWarn := "", ""
-		fErr, fWarn, ghR = checkSource(e.Source, ght)
+		dErr, dErrs, dWarn := checkLinks(e.Source, "Source Link ")
+			if dErr == true {
+					e.Errors = append(e.Errors, dErrs)
+			}
+		fWarn, src := "", ""
+		fWarn, src, ghR = checkSource(e.Source, ght)
+		if src != "" {
+			e.Source = "https://www.github.com/" + src
+		}
 		e.Warns = append(e.Warns, dWarn, fWarn)
-		e.Errors = append(e.Errors, dErr, fErr)
+
 	}
 	if e.License == nil {
+		e.Error = true
 		e.Errors = append(e.Errors, "Error: License is null.")
 	} else if ghR.License != "" && ghR.License != e.License[0] {
 		e.Warns = append(e.Warns, "Github reported license does not match first license in license array.")
@@ -84,36 +98,44 @@ func CheckYamlAdd(e Entry, l List, ght string) Entry {
 		e.Errors = append(e.Errors, dErr)
 	}
 	if e.Demo != "" {
-		dErr, dWarn := checkLinks(e.Demo, "Demo Link ")
+		dErr, dErrs, dWarn := checkLinks(e.Demo, "Demo Link ")
+		if dErr == true {
+					e.Errors = append(e.Errors, dErrs)
+		}
 		e.Warns = append(e.Warns, dWarn)
-		e.Errors = append(e.Errors, dErr)
 	}
 	if e.Site != "" {
-		dErr, dWarn := checkLinks(e.Site, "Site Link ")
-		e.Warns = append(e.Warns, dWarn)
-		e.Errors = append(e.Errors, dErr)
+		dErr, dErrs, dWarn := checkLinks(e.Site, "Site Link ")
+		if dErr == true {
+			e.Errors = append(e.Errors, dErrs)
+}
+e.Warns = append(e.Warns, dWarn)
 	}
 	if e.Clients != nil {
 		for _, c := range e.Clients {
-			dErr, dWarn := checkLinks(c, "Clients")
+			dErr, dErrs, dWarn := checkLinks(c, "Clients")
+			if dErr == true {
+				e.Errors = append(e.Errors, dErrs)
+			}
 			e.Warns = append(e.Warns, dWarn)
-			e.Errors = append(e.Errors, dErr)
 		}
 	}
 	return e
 }
-func checkDup(e Entry, l List) (eErr, eWarn string) {
+func checkDup(e Entry, l List) (eErr bool, eErrs , eWarn string) {
 	for _, es := range l.Entries {
-		if e.Name == es.Name {
-			eWarn += "Warn: " + e.Name + ", is a possible duplicate; "
-		}
 		if e.Source == es.Source || e.Site == es.Source || e.Source == es.Site || e.Site == es.Site {
-			eErr += "Error: " + e.Name + ", " + e.Source + " is already on the List; "
+			eErr = true
+			eErrs = "Error: " + e.Name + ", " + e.Source + " is already on the List as" + es.Name + "; "
+		}
+		if e.Name == es.Name {
+			eErr = true
+			eWarn = "Warn: " + e.Name + ", is a possible duplicate; "
 		}
 	}
 	return
 }
-func checkLinks(l, n string) (dErr, dWarn string) {
+func checkLinks(l, n string) (dErr bool, dErrs, dWarn string) {
 	resp, err := http.Get(l)
 	if err != nil {
 		log.Println(err)
@@ -124,59 +146,22 @@ func checkLinks(l, n string) (dErr, dWarn string) {
 		dWarn = "Warning: " + n + l + " => " + strconv.Itoa(resp.StatusCode) + http.StatusText(resp.StatusCode)
 		return
 	} else if resp.StatusCode >= 400 && resp.StatusCode <= 499 {
-		dErr = "Error: " + n + l + " => " + strconv.Itoa(resp.StatusCode) + http.StatusText(resp.StatusCode)
+		dErr = true
+		dErrs = "Error: " + n + l + " => " + strconv.Itoa(resp.StatusCode) + http.StatusText(resp.StatusCode)
 		return
 	}
-	return "Error: " + n + l + "Not Checked.", ""
+	return true, "Error: " + n + l + "Not Checked.", ""
 }
-func checkSource(l, ght string) (dErr, dWarn string, ghR RepoCheckStruct) {
+func checkSource(l, ght string) (dWarn, src string, ghR RepoCheckStruct) {
 	u, err := url.Parse(l)
 	if err != nil {
 		panic(err)
 	}
 	if u.Host == "github.com" {
-		r := strings.Split(u.Path, "/")
-		var jsonStr = []byte(`{"query":"{repository(owner:\"` + r[0] + `\",name:\"` + r[1] + `\"){licenseInfo{spdxInfo}primaryLanguage{name}updatedAt}}"}`)
-		req, err := http.NewRequest("POST", "https://api.github.com/graphql", bytes.NewBuffer(jsonStr))
-		req.Header.Set("Authorization", "bearer "+ght)
-		req.Header.Set("Accept", "application/vnd.github.quicksilver-preview+json")
-		req.Header.Set("Content-Type", "application/json")
-		//log.Printf("req: ", req.Body)
-		client := &http.Client{}
-		res, err := client.Do(req)
-		if err != nil {
-			log.Fatal(err)
-		}
-		defer res.Body.Close()
-		if err != nil {
-			log.Fatal(err)
-		}
-		body, err := ioutil.ReadAll(res.Body)
-		//log.Printf("Body: %s\n", body)
-		type ghCheck struct {
-			data struct {
-				repository struct {
-					licenseInfo struct {
-						spdxID string
-					}
-					primaryLanguage struct {
-						name string
-					}
-					updatedAt string
-				}
-			}
-		}
-		ghC := &ghCheck{}
-		err = json.Unmarshal(body, &ghC)
-		if err != nil {
-			log.Fatal(err)
-		}
-		ghR := RepoCheckStruct{
-			License:  ghC.data.repository.licenseInfo.spdxID,
-			Language: ghC.data.repository.primaryLanguage.name,
-			Updated:  ghC.data.repository.updatedAt,
-		}
-		return "", "", ghR
+		ghR = RepoCheckStruct{}
+		gh := strings.TrimFunc(u.Path, func(r rune) bool {return !unicode.IsLetter(r) && !unicode.IsNumber(r)})
+		_, ghR.Updated, ghR.License, ghR.Language, src = getexternal.GetGHRepo(gh, ght, gh)
+		return "", src, ghR
 	} else if u.Host == "gitlab.com" {
 		_, updated := getexternal.GetGLRepo(l)
 		ghR := RepoCheckStruct{
@@ -185,7 +170,7 @@ func checkSource(l, ght string) (dErr, dWarn string, ghR RepoCheckStruct) {
 		return "", "", ghR
 	} else {
 		ghR := RepoCheckStruct{}
-		return "", "Not github or gitlab, no source checks performed.", ghR
+		return "Not github or gitlab, no source checks performed.", "", ghR
 	}
 }
 func checkLicense(lic []string) (dWarn []string) {

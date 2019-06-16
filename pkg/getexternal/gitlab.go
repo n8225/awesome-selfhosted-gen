@@ -8,6 +8,7 @@ import (
 	"strings"
 )
 
+// GetGLRepo retrieves star count and last activity.  This should probable be update to retrieve last commit and possible use GRAPHQL.
 func GetGLRepo(url string) (int, string) {
 	res, err := http.Get(url)
 	if err != nil {
@@ -20,7 +21,6 @@ func GetGLRepo(url string) (int, string) {
 	}
 	type gl struct {
 		Stars   int    `json:"star_count"`
-		Created string `json:"created_at"`
 		Updated string `json:"last_activity_at"`
 		//Node_id int `json:"id"`
 	}

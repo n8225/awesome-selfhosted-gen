@@ -1,7 +1,6 @@
 package main
 
 import (
-	"encoding/json"
 	"fmt"
 	"io/ioutil"
 	"log"
@@ -12,8 +11,7 @@ import (
 	"gopkg.in/yaml.v2"
 
 	"github.com/n8225/ash_gen/pkg/parse"
-
-
+	"github.com/n8225/ash_gen/pkg/exporter"
 )
 
 func main() {
@@ -38,49 +36,43 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
+	var yamlFiles, addedFiles int = 0, 0
+	newID := parse.GetHighestID(l.Entries) + 1
+	fmt.Println("There are ", len(l.Entries), " entries on the list. Next ID will be: ", newID)
 	for _, f := range files {
-		if strings.HasSuffix("./add/"+f.Name(), ".yaml") {
+		if strings.HasSuffix(f.Name(), ".yaml") == true {
 			e := parse.Entry{}
+			yamlFiles++
 			fFile, err := os.Open("./add/" + f.Name())
 			if err != nil {
 				fmt.Println(err)
 			}
 			fbytes, _ := ioutil.ReadAll(fFile)
 			err = yaml.Unmarshal(fbytes, &e)
-			e = parse.CheckYamlAdd(e, l, *ghToken)
-			log.Println(e.Errors)
-			log.Println(e.Warns)
-			if e.Errors == nil {
+			e = parse.CheckEntry(e, l, *ghToken)
+			
+			if e.Error == true {
+				log.Println(e.Errors)
+				log.Println(e.Warns)
+			} else {
+				e.ID = newID
 				l.Entries = append(l.Entries, e)
+				fmt.Println("Adding ", e.Name, " with ID ", newID)
+				addedFiles++
+				newID++
 			}
-		}
+		} 
 	}
+	fmt.Printf("Added %d of %d yaml files found. There are now %d entries on the list.", addedFiles, yamlFiles, len(l.Entries))
 	l.TagList = parse.MakeTags(l.Entries)
 	l.LangList = parse.MakeLangs(l.Entries)
+	l.CatList = parse.MakeCats(l.Entries)
 
 	/*	for _, e := range l.Entries {
 		getStars(e, gh)
 	}*/
 
-	jsonFile, err := os.Create("./outputfy.json")
-	if jsonFile != nil {
-		defer func() {
-			if ferr := jsonFile.Close(); ferr != nil {
-				err = ferr
-			}
-		}()
-	}
-	if err != nil {
-		log.Fatal(err)
-	}
-	JSON, err := json.MarshalIndent(l, "", "\t")
-	if err != nil {
-		fmt.Println("error:", err)
-	}
-	//fmt.Println(string(JSON))
-	_, err = jsonFile.Write(JSON)
-	if err != nil {
-		fmt.Println(err)
-	}
+	exporter.ToJSON(l, "list")
+	exporter.ToYaml(l, "list")
 
 }

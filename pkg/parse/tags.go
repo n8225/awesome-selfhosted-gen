@@ -10,6 +10,7 @@ type Tags struct {
 	Count int    `json:"C"`
 }
 
+// MakeTags creates the tag struct with counts
 func MakeTags(entries []Entry) []Tags {
 	tagsl := []Tags{}
 	t := new(Tags)
@@ -37,6 +38,7 @@ func MakeTags(entries []Entry) []Tags {
 	return tagsl
 }
 
+//Tagmap is used to create tags from category labels
 var Tagmap = map[string][]string{
 	"Analytics":     {"Analytics"},
 	"Web Analytics": {"Web Analytics"},

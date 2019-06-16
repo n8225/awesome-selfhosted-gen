@@ -2,7 +2,7 @@ var entries, langSelect = "";
 var tagSelect = new Array;
 
 
-var requestURL = 'output.min.json';
+var requestURL = 'list.min.json';
 var request = new XMLHttpRequest();
 request.open('GET', requestURL);
 request.responseType = 'json';
