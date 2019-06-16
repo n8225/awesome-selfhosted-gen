@@ -12,6 +12,8 @@ Entries:
   Tags:
   - Analytics
   - Web Analytics
+  stars: 145
+  update: "2018-12-17"
 - ID: 1
   Name: Countly
   Description: Real time mobile and web analytics, crash reporting and push notifications
@@ -39,6 +41,8 @@ Entries:
   Tags:
   - Analytics
   - Web Analytics
+  stars: 8210
+  update: "2019-06-16"
 - ID: 3
   Name: Fathom Analytics
   Description: Simple & trustworthy website analytics.
@@ -52,6 +56,8 @@ Entries:
   Tags:
   - Analytics
   - Web Analytics
+  stars: 5580
+  update: "2019-05-31"
 - ID: 4
   Name: GoAccess
   Description: Real-time web log analyzer and interactive viewer that runs in a terminal.
@@ -65,6 +71,8 @@ Entries:
   Tags:
   - Analytics
   - Web Analytics
+  stars: 9137
+  update: "2019-05-27"
 - ID: 5
   Name: Hastic
   Description: Hackable time series pattern recognition tool with UI for Grafana.
@@ -92,6 +100,8 @@ Entries:
   Tags:
   - Analytics
   - Web Analytics
+  stars: 9
+  update: "2019-05-27"
 - ID: 7
   Name: Matomo
   Description: Leading open-source analytics platform that gives you more than just
@@ -119,6 +129,8 @@ Entries:
   Tags:
   - Analytics
   - Web Analytics
+  stars: 840
+  update: "2018-08-26"
 - ID: 9
   Name: Rakam
   Description: Custom analytics platform that allows you to create your own analytics
@@ -134,6 +146,8 @@ Entries:
   Tags:
   - Analytics
   - Web Analytics
+  stars: 718
+  update: "2019-05-30"
 - ID: 10
   Name: Serposcope
   Description: Serposcope is a free and open-source rank tracker to monitor websites
@@ -148,6 +162,8 @@ Entries:
   Tags:
   - Analytics
   - Web Analytics
+  stars: 456
+  update: "2019-04-03"
 - ID: 11
   Name: Snowplow
   Description: Have every single event, from your websites, mobile apps, desktop applications
@@ -177,6 +193,8 @@ Entries:
   - Analytics
   - Web Analytics
   ProprietaryDependency: true
+  stars: 104
+  update: "2019-02-01"
 - ID: 13
   Name: Metabase
   Description: Simple Dashboarding and GUI Query tool, Nightly Emails and Slack Integration
@@ -190,6 +208,8 @@ Entries:
   C: Analytics
   Tags:
   - Analytics
+  stars: 15328
+  update: "2019-06-14"
 - ID: 14
   Name: Redash
   Description: connect to over 18 types of databases (SQL and "NoSQL"), query your
@@ -205,6 +225,8 @@ Entries:
   C: Analytics
   Tags:
   - Analytics
+  stars: 12894
+  update: "2019-06-16"
 - ID: 15
   Name: Superset
   Description: Modern, enterprise-ready business intelligence web application.
@@ -217,6 +239,8 @@ Entries:
   C: Analytics
   Tags:
   - Analytics
+  stars: 24800
+  update: "2019-06-14"
 - ID: 16
   Name: IG Monitoring
   Description: Instagram Analytics and Stats.
@@ -231,6 +255,8 @@ Entries:
   Tags:
   - Analytics
   ProprietaryDependency: true
+  stars: 138
+  update: "2019-05-22"
 - ID: 17
   Name: Access to Memory (AtoM)
   Description: Web-based, open source application for standards-based archival description
@@ -246,6 +272,8 @@ Entries:
   Tags:
   - archiving
   - Digital Preservation
+  stars: 108
+  update: "2019-06-10"
 - ID: 18
   Name: Archivematica
   Description: Mature digital preservation system designed to maintain standards-based,
@@ -261,6 +289,8 @@ Entries:
   Tags:
   - archiving
   - Digital Preservation
+  stars: 175
+  update: "2019-06-10"
 - ID: 19
   Name: ArchiveBox
   Description: Self-hosted "wayback machine" that creates HTML & screenshot archives
@@ -276,6 +306,8 @@ Entries:
   Tags:
   - archiving
   - Digital Preservation
+  stars: 5074
+  update: "2019-05-27"
 - ID: 20
   Name: ArchivesSpace
   Description: Archives information management application for managing and providing
@@ -291,6 +323,8 @@ Entries:
   Tags:
   - archiving
   - Digital Preservation
+  stars: 187
+  update: "2019-06-12"
 - ID: 21
   Name: 'Collective Access: Providence'
   Description: Highly configurable Web-based framework for management, description,
@@ -306,6 +340,8 @@ Entries:
   Tags:
   - archiving
   - Digital Preservation
+  stars: 140
+  update: "2019-06-13"
 - ID: 22
   Name: Alltube
   Description: Web interface for [youtube-dl](https://github.com/rg3/youtube-dl),
@@ -319,6 +355,8 @@ Entries:
   C: Automation
   Tags:
   - Automation
+  stars: 845
+  update: "2019-04-28"
 - ID: 23
   Name: AmIUnique
   Description: Learn how identifiable you are on the Internet (browser fingerprinting
@@ -332,6 +370,8 @@ Entries:
   C: Automation
   Tags:
   - Automation
+  stars: 525
+  update: "2019-02-21"
 - ID: 24
   Name: Beehive
   Description: Flexible event and agent system, which allows you to create your own
@@ -344,6 +384,8 @@ Entries:
   C: Automation
   Tags:
   - Automation
+  stars: 3706
+  update: "2019-05-24"
 - ID: 25
   Name: CouchPotato
   Description: CouchPotato is an automatic Video Library Manager for Movies. Automatic
@@ -357,6 +399,8 @@ Entries:
   C: Automation
   Tags:
   - Automation
+  stars: 3512
+  update: "2019-01-13"
 - ID: 26
   Name: Episodes
   Description: Self Hosted TV show Episode tracker and recommender built using django,
@@ -370,6 +414,8 @@ Entries:
   Tags:
   - Automation
   ProprietaryDependency: true
+  stars: 119
+  update: "2017-07-14"
 - ID: 27
   Name: feedmixer
   Description: FeedMixer is a WSGI (Python3) micro web service which takes a list
@@ -384,6 +430,8 @@ Entries:
   C: Automation
   Tags:
   - Automation
+  stars: 19
+  update: "2018-10-29"
 - ID: 28
   Name: FHEM
   Description: FHEM is used to automate common tasks in the household like switching
@@ -412,6 +460,8 @@ Entries:
   C: Automation
   Tags:
   - Automation
+  stars: 8189
+  update: "2019-04-29"
 - ID: 30
   Name: Gladys
   Description: Gladys is an open-source home assistant which runs on your Raspberry
@@ -425,6 +475,8 @@ Entries:
   C: Automation
   Tags:
   - Automation
+  stars: 1167
+  update: "2019-05-19"
 - ID: 31
   Name: Headphones
   Description: Automated music downloader for NZB and Torrent, written in Python.
@@ -437,6 +489,8 @@ Entries:
   C: Automation
   Tags:
   - Automation
+  stars: 2783
+  update: "2019-01-08"
 - ID: 32
   Name: Healthchecks
   Description: Django app which listens for pings and sends alerts when pings are
@@ -450,6 +504,8 @@ Entries:
   C: Automation
   Tags:
   - Automation
+  stars: 1871
+  update: "2019-06-04"
 - ID: 33
   Name: Home Assistant
   Description: Open-source home automation platform.
@@ -463,6 +519,8 @@ Entries:
   C: Automation
   Tags:
   - Automation
+  stars: 24264
+  update: "2019-06-16"
 - ID: 34
   Name: homebank-converter
   Description: Web app to convert an export bank file to compatible Homebank csv.
@@ -475,6 +533,8 @@ Entries:
   C: Automation
   Tags:
   - Automation
+  stars: 17
+  update: "2018-11-04"
 - ID: 35
   Name: HRConvert2
   Description: Drag-and-drop file conversion server with session based authentication,
@@ -489,6 +549,8 @@ Entries:
   C: Automation
   Tags:
   - Automation
+  stars: 58
+  update: "2019-03-28"
 - ID: 36
   Name: Huginn
   Description: Allows you to build agents that monitor and act on your behalf.
@@ -500,6 +562,8 @@ Entries:
   C: Automation
   Tags:
   - Automation
+  stars: 21552
+  update: "2019-06-10"
 - ID: 37
   Name: Http2pic
   Description: Website screenshots/renderer. It uses the wkhtmltox to render websites
@@ -514,6 +578,8 @@ Entries:
   C: Automation
   Tags:
   - Automation
+  stars: 174
+  update: "2016-11-20"
 - ID: 38
   Name: Kibitzr
   Description: Lightweight personal web assistant with powerful integrations.
@@ -526,6 +592,8 @@ Entries:
   C: Automation
   Tags:
   - Automation
+  stars: 207
+  update: "2019-06-14"
 - ID: 39
   Name: LazyLibrarian
   Description: LazyLibrarian is a program to follow authors and grab metadata for
@@ -540,6 +608,8 @@ Entries:
   Tags:
   - Automation
   ProprietaryDependency: true
+  stars: 678
+  update: "2018-12-03"
 - ID: 40
   Name: Leon
   Description: Open-source personal assistant who can live on your server.
@@ -553,6 +623,8 @@ Entries:
   C: Automation
   Tags:
   - Automation
+  stars: 5497
+  update: "2019-06-10"
 - ID: 41
   Name: Lidarr
   Description: Lidarr is a music collection manager for Usenet and BitTorrent users.
@@ -565,6 +637,8 @@ Entries:
   C: Automation
   Tags:
   - Automation
+  stars: 1045
+  update: "2019-06-12"
 - ID: 42
   Name: Medusa
   Description: Automatic Video Library Manager for TV Shows. It watches for new episodes
@@ -577,6 +651,8 @@ Entries:
   C: Automation
   Tags:
   - Automation
+  stars: 876
+  update: "2019-06-13"
 - ID: 43
   Name: Node RED
   Description: Browser-based flow editor that helps you wiring hardware devices, APIs
@@ -590,6 +666,8 @@ Entries:
   C: Automation
   Tags:
   - Automation
+  stars: 7942
+  update: "2019-06-09"
 - ID: 44
   Name: openHAB
   Description: Vendor and technology agnostic open source software for home automation.
@@ -602,6 +680,8 @@ Entries:
   C: Automation
   Tags:
   - Automation
+  stars: 3482
+  update: "2019-06-16"
 - ID: 45
   Name: PolitePol
   Description: Online tool for creation of RSS feeds for any web page.
@@ -614,6 +694,8 @@ Entries:
   C: Automation
   Tags:
   - Automation
+  stars: 95
+  update: "2019-02-04"
 - ID: 46
   Name: Poffer
   Description: Tool that makes it easier to share the content you like thanks to Pocket+Buffer.
@@ -627,6 +709,8 @@ Entries:
   Tags:
   - Automation
   ProprietaryDependency: true
+  stars: 10
+  update: "2017-01-29"
 - ID: 47
   Name: pyLoad
   Description: Lightweight, customizable and remotely manageable downloader for 1-click-hosting
@@ -640,6 +724,8 @@ Entries:
   C: Automation
   Tags:
   - Automation
+  stars: 1537
+  update: "2019-06-14"
 - ID: 48
   Name: Radarr
   Description: Radarr is an independent fork of Sonarr reworked for automatically
@@ -653,6 +739,8 @@ Entries:
   C: Automation
   Tags:
   - Automation
+  stars: 3103
+  update: "2019-05-30"
 - ID: 49
   Name: RSS-Bridge
   Description: rss-bridge is a PHP project capable of generating ATOM feeds for websites
@@ -665,6 +753,8 @@ Entries:
   C: Automation
   Tags:
   - Automation
+  stars: 1623
+  update: "2019-06-16"
 - ID: 50
   Name: RSS Merger
   Description: PHP script which will take multiple RSS / Atom feeds as input and merge
@@ -677,6 +767,8 @@ Entries:
   C: Automation
   Tags:
   - Automation
+  stars: 18
+  update: "2017-04-10"
 - ID: 51
   Name: SickRage
   Description: SickRage is an automatic Video Library Manager for TV Shows. Automatic
@@ -690,6 +782,8 @@ Entries:
   C: Automation
   Tags:
   - Automation
+  stars: 1505
+  update: "2019-04-06"
 - ID: 52
   Name: Sonarr
   Description: Automatic TV Shows downloader and manager for Usenet and BitTorrent.
@@ -704,6 +798,8 @@ Entries:
   C: Automation
   Tags:
   - Automation
+  stars: 4377
+  update: "2019-06-15"
 - ID: 53
   Name: TriggerHappy
   Description: Open source clone of IFTTT, a bridge between your internet services.
@@ -716,6 +812,8 @@ Entries:
   C: Automation
   Tags:
   - Automation
+  stars: 1214
+  update: "2019-02-05"
 - ID: 54
   Name: WebUI-aria2
   Description: Interface to interact with the aria2 downloader. Very simple to use,
@@ -729,6 +827,8 @@ Entries:
   C: Automation
   Tags:
   - Automation
+  stars: 6480
+  update: "2018-12-09"
 - ID: 55
   Name: WTFDYUM
   Description: Why The Fuck Did You Unfollow Me - Find out who stops following you
@@ -743,6 +843,8 @@ Entries:
   Tags:
   - Automation
   ProprietaryDependency: true
+  stars: 55
+  update: "2018-04-02"
 - ID: 56
   Name: Zenbot 3
   Description: Zenbot is a lightweight, extendable, artificially intelligent trading
@@ -755,6 +857,8 @@ Entries:
   C: Automation
   Tags:
   - Automation
+  stars: 5902
+  update: "2019-06-14"
 - ID: 57
   Name: Anchor CMS
   Description: Free, lightweight, faster-than-a-bullet, simple blogging system, made
@@ -768,6 +872,8 @@ Entries:
   C: Blogging Platforms
   Tags:
   - Blog
+  stars: 3285
+  update: "2019-04-01"
 - ID: 58
   Name: Antville
   Description: Free, open source project aimed at the development of a high performance,
@@ -781,6 +887,8 @@ Entries:
   C: Blogging Platforms
   Tags:
   - Blog
+  stars: 24
+  update: "2019-05-23"
 - ID: 59
   Name: Blogotext
   Description: Free blog-engine written in PHP and using SQLite. This offers you both
@@ -794,6 +902,8 @@ Entries:
   C: Blogging Platforms
   Tags:
   - Blog
+  stars: 114
+  update: "2019-06-14"
 - ID: 60
   Name: Bludit
   Description: Simple application to build a site or blog in seconds. Bludit uses
@@ -809,6 +919,8 @@ Entries:
   Tags:
   - Blog
   ProprietaryDependency: true
+  stars: 504
+  update: "2019-06-10"
 - ID: 61
   Name: Cadmus
   Description: Cadmus is an extremely lightweight, flat-file blogging platform powered
@@ -821,6 +933,8 @@ Entries:
   C: Blogging Platforms
   Tags:
   - Blog
+  stars: 4
+  update: "2019-01-06"
 - ID: 62
   Name: Chyrp Lite
   Description: Extra-awesome, extra-lightweight blog engine.
@@ -833,6 +947,8 @@ Entries:
   C: Blogging Platforms
   Tags:
   - Blog
+  stars: 86
+  update: "2019-05-24"
 - ID: 63
   Name: Dante Stories
   Description: A self hosted Medium platform built with Ruby on Rails.
@@ -845,6 +961,8 @@ Entries:
   C: Blogging Platforms
   Tags:
   - Blog
+  stars: 355
+  update: "2019-02-04"
 - ID: 64
   Name: Dotclear
   Description: Take control over your blog.
@@ -882,6 +1000,8 @@ Entries:
   C: Blogging Platforms
   Tags:
   - Blog
+  stars: 30144
+  update: "2019-06-13"
 - ID: 67
   Name: Hexo
   Description: Fast, simple and powerful blog framework, powered by Node.js.
@@ -894,6 +1014,8 @@ Entries:
   C: Blogging Platforms
   Tags:
   - Blog
+  stars: 26846
+  update: "2019-06-16"
 - ID: 68
   Name: Hotglue
   Description: Freehand CMS which allows to construct websites directly in a web-browser.
@@ -908,6 +1030,8 @@ Entries:
   C: Blogging Platforms
   Tags:
   - Blog
+  stars: 98
+  update: "2017-07-10"
 - ID: 69
   Name: htmly
   Description: Databaseless Blogging Platform (Flat-File Blog).
@@ -921,6 +1045,8 @@ Entries:
   C: Blogging Platforms
   Tags:
   - Blog
+  stars: 605
+  update: "2017-04-24"
 - ID: 70
   Name: Known
   Description: Single website for all your content.
@@ -933,6 +1059,8 @@ Entries:
   C: Blogging Platforms
   Tags:
   - Blog
+  stars: 748
+  update: "2019-06-16"
 - ID: 71
   Name: Noddity
   Description: It's a blog, it's a wiki, it's a fast CMS.
@@ -945,6 +1073,8 @@ Entries:
   C: Blogging Platforms
   Tags:
   - Blog
+  stars: 52
+  update: "2017-07-31"
 - ID: 72
   Name: Plume
   Description: Federated blogging engine, based on ActivityPub.
@@ -957,6 +1087,8 @@ Entries:
   C: Blogging Platforms
   Tags:
   - Blog
+  stars: 1023
+  update: "2019-06-15"
 - ID: 73
   Name: PluXml
   Description: XML-based blog/CMS platform.
@@ -969,6 +1101,8 @@ Entries:
   C: Blogging Platforms
   Tags:
   - Blog
+  stars: 150
+  update: "2019-04-28"
 - ID: 74
   Name: Postleaf
   Description: Open source blogging platform with inline editing, handlebar templates,
@@ -982,6 +1116,8 @@ Entries:
   C: Blogging Platforms
   Tags:
   - Blog
+  stars: 453
+  update: "2018-10-03"
 - ID: 75
   Name: Solo
   Description: Blogging system written in Java, feel free to create your or your team
@@ -996,6 +1132,8 @@ Entries:
   C: Blogging Platforms
   Tags:
   - Blog
+  stars: 7687
+  update: "2019-06-16"
 - ID: 76
   Name: dyu/bookmarks
   Description: Single-threaded/process bookmark app powered by leveldb and uWebSockets.
@@ -1010,6 +1148,8 @@ Entries:
   Tags:
   - Bookmarks
   - Links
+  stars: 59
+  update: "2019-01-20"
 - ID: 77
   Name: Espial
   Description: An open-source, web-based bookmarking server.
@@ -1022,6 +1162,8 @@ Entries:
   Tags:
   - Bookmarks
   - Links
+  stars: 75
+  update: "2019-04-08"
 - ID: 78
   Name: Firefox Auth Server
   Description: This project implements the core server-side API for Firefox Accounts.
@@ -1035,6 +1177,8 @@ Entries:
   Tags:
   - Bookmarks
   - Links
+  stars: 393
+  update: "2019-04-03"
 - ID: 79
   Name: Firefox Content Server
   Description: Static server that hosts Firefox Account sign up, sign in, email verification,
@@ -1049,6 +1193,8 @@ Entries:
   Tags:
   - Bookmarks
   - Links
+  stars: 174
+  update: "2019-04-03"
 - ID: 80
   Name: Firefox Sync Server
   Description: Sync Firefox bookmarks, passwords, history, tabs, preferences.
@@ -1062,6 +1208,8 @@ Entries:
   Tags:
   - Bookmarks
   - Links
+  stars: 792
+  update: "2019-06-02"
 - ID: 81
   Name: Geekmarks
   Description: Personal bookmarking service focused on speed and organization using
@@ -1076,6 +1224,8 @@ Entries:
   Tags:
   - Bookmarks
   - Links
+  stars: 405
+  update: "2018-02-24"
 - ID: 82
   Name: golinks
   Description: Web application that allows you to create smart bookmarks, commands
@@ -1091,6 +1241,8 @@ Entries:
   Tags:
   - Bookmarks
   - Links
+  stars: 82
+  update: "2019-04-19"
 - ID: 83
   Name: Lobsters
   Description: Run your own link aggregation site.
@@ -1104,6 +1256,8 @@ Entries:
   Tags:
   - Bookmarks
   - Links
+  stars: 2238
+  update: "2019-06-14"
 - ID: 84
   Name: No Fuss Bookmarks
   Description: Very simple software and service to store bookmarks especially designed
@@ -1118,6 +1272,8 @@ Entries:
   Tags:
   - Bookmarks
   - Links
+  stars: 84
+  update: "2018-10-12"
 - ID: 85
   Name: Pinry
   Description: The tiling image board system for people who want to save, tag, and
@@ -1132,6 +1288,8 @@ Entries:
   Tags:
   - Bookmarks
   - Links
+  stars: 1378
+  update: "2019-06-01"
 - ID: 86
   Name: Shaarli
   Description: Personal, minimalist, super-fast, no-database bookmarking and link
@@ -1146,6 +1304,8 @@ Entries:
   Tags:
   - Bookmarks
   - Links
+  stars: 1480
+  update: "2019-06-08"
 - ID: 87
   Name: Shiori
   Description: Simple bookmark manager built with Go.
@@ -1158,6 +1318,8 @@ Entries:
   Tags:
   - Bookmarks
   - Links
+  stars: 2042
+  update: "2019-01-06"
 - ID: 88
   Name: unmark
   Description: Open source to do app for links.
@@ -1170,6 +1332,8 @@ Entries:
   Tags:
   - Bookmarks
   - Links
+  stars: 1171
+  update: "2019-04-02"
 - ID: 89
   Name: xBrowserSync
   Description: Open source tool for syncing browser data between browsers and devices.
@@ -1211,6 +1375,8 @@ Entries:
   - Contacts
   - CalDAV
   - CardDav
+  stars: 1525
+  update: "2019-05-25"
 - ID: 92
   Name: CalendarServer
   Description: Apple, Inc.'s standards-compliant server implementing the CalDAV and
@@ -1227,6 +1393,8 @@ Entries:
   - Contacts
   - CalDAV
   - CardDav
+  stars: 307
+  update: "2018-09-17"
 - ID: 93
   Name: calypso
   Description: Python-based CalDAV and CardDAV server, forked from Radicale.
@@ -1258,6 +1426,8 @@ Entries:
   - Contacts
   - CalDAV
   - CardDav
+  stars: 65
+  update: "2019-06-05"
 - ID: 95
   Name: DecSync CC
   Description: Serverless contacts, calendar synchronization using your own file syncing
@@ -1274,6 +1444,8 @@ Entries:
   - Contacts
   - CalDAV
   - CardDav
+  stars: 33
+  update: "2018-12-29"
 - ID: 96
   Name: EteSync Server
   Description: End-to-end encrypted and journaled personal information server supporting
@@ -1291,6 +1463,8 @@ Entries:
   - Contacts
   - CalDAV
   - CardDav
+  stars: 115
+  update: "2019-06-07"
 - ID: 97
   Name: Radicale
   Description: Simple calendar and contact server with extremely low administrative
@@ -1307,6 +1481,8 @@ Entries:
   - Contacts
   - CalDAV
   - CardDav
+  stars: 1581
+  update: "2019-06-15"
 - ID: 98
   Name: SabreDAV
   Description: Open source CardDAV, CalDAV, and WebDAV framework and server.
@@ -1322,6 +1498,8 @@ Entries:
   - Contacts
   - CalDAV
   - CardDav
+  stars: 935
+  update: "2019-05-14"
 - ID: 99
   Name: Xandikos
   Description: Open source CardDAV, CalDAV and WebDAV server with minimal administrative
@@ -1338,6 +1516,8 @@ Entries:
   - Contacts
   - CalDAV
   - CardDav
+  stars: 99
+  update: "2019-06-12"
 - ID: 100
   Name: AgenDAV
   Description: Multilanguage CalDAV web client with a rich AJAX interface and shared
@@ -1352,6 +1532,8 @@ Entries:
   Tags:
   - Calendar
   - Contacts
+  stars: 365
+  update: "2018-01-23"
 - ID: 101
   Name: DAVDroid
   Description: Open-source CalDAV/CardDAV suite and sync app for Android.
@@ -1393,6 +1575,8 @@ Entries:
   Tags:
   - Calendar
   - Contacts
+  stars: 38
+  update: "2019-05-28"
 - ID: 104
   Name: Centrifugo
   Description: Language-agnostic real-time messaging (Websocket or SockJS) server.
@@ -1405,6 +1589,8 @@ Entries:
   C: Communication systems
   Tags:
   - Communications
+  stars: 3590
+  update: "2019-06-12"
 - ID: 105
   Name: Cherry
   Description: Tiny webchat server.
@@ -1416,6 +1602,8 @@ Entries:
   C: Communication systems
   Tags:
   - Communications
+  stars: 190
+  update: "2016-12-14"
 - ID: 106
   Name: Freenet
   Description: Anonymously share files, browse and publish "freesites" (web sites
@@ -1429,6 +1617,8 @@ Entries:
   C: Communication systems
   Tags:
   - Communications
+  stars: 517
+  update: "2019-06-02"
 - ID: 107
   Name: Friends
   Description: P2P chat powered by the web.
@@ -1441,6 +1631,8 @@ Entries:
   C: Communication systems
   Tags:
   - Communications
+  stars: 3047
+  update: "2018-08-29"
 - ID: 108
   Name: GNUnet
   Description: Free software framework for decentralized, peer-to-peer networking.
@@ -1468,6 +1660,8 @@ Entries:
   C: Communication systems
   Tags:
   - Communications
+  stars: 4017
+  update: "2019-06-11"
 - ID: 110
   Name: Hawkpost
   Description: HawkPost is a web app that lets you create unique links that you can
@@ -1483,6 +1677,8 @@ Entries:
   C: Communication systems
   Tags:
   - Communications
+  stars: 781
+  update: "2019-04-08"
 - ID: 111
   Name: Hubl.in
   Description: WebRTC powered video conference, chat and collaborative editor.
@@ -1495,6 +1691,8 @@ Entries:
   C: Communication systems
   Tags:
   - Communications
+  stars: 1545
+  update: "2018-05-25"
 - ID: 112
   Name: Jitsi Meet
   Description: Jitsi Meet is an OpenSource (MIT) WebRTC Javascript application that
@@ -1508,6 +1706,8 @@ Entries:
   C: Communication systems
   Tags:
   - Communications
+  stars: 3859
+  update: "2019-06-14"
 - ID: 113
   Name: Jitsi Video Bridge
   Description: WebRTC compatible Selective Forwarding Unit (SFU) that allows for multiuser
@@ -1521,6 +1721,8 @@ Entries:
   C: Communication systems
   Tags:
   - Communications
+  stars: 923
+  update: "2019-06-11"
 - ID: 114
   Name: Kandan
   Description: Kandan is an Open Source Alternative to HipChat.
@@ -1533,6 +1735,8 @@ Entries:
   C: Communication systems
   Tags:
   - Communications
+  stars: 2779
+  update: "2015-05-08"
 - ID: 115
   Name: KChat
   Description: PHP Based Live Chat Aplication.
@@ -1544,6 +1748,8 @@ Entries:
   C: Communication systems
   Tags:
   - Communications
+  stars: 26
+  update: "2019-01-05"
 - ID: 116
   Name: Lets-Chat
   Description: Self hosted chat suite written in Node.
@@ -1556,6 +1762,8 @@ Entries:
   C: Communication systems
   Tags:
   - Communications
+  stars: 9166
+  update: "2017-08-04"
 - ID: 117
   Name: Live Helper Chat
   Description: Live Support chat for your website.
@@ -1568,6 +1776,8 @@ Entries:
   C: Communication systems
   Tags:
   - Communications
+  stars: 1162
+  update: "2019-06-11"
 - ID: 118
   Name: Mattermost
   Description: Open-source, on-prem Slack-alternative. It can be integrated with [Gitlab](https://about.gitlab.com/).
@@ -1581,6 +1791,8 @@ Entries:
   C: Communication systems
   Tags:
   - Communications
+  stars: 14904
+  update: "2019-06-16"
 - ID: 119
   Name: MiAOU
   Description: Multi-room persistent chat server.
@@ -1593,6 +1805,8 @@ Entries:
   C: Communication systems
   Tags:
   - Communications
+  stars: 426
+  update: "2019-04-28"
 - ID: 120
   Name: Mibew
   Description: Mibew Messenger is an open-source live support application written
@@ -1608,6 +1822,8 @@ Entries:
   C: Communication systems
   Tags:
   - Communications
+  stars: 369
+  update: "2019-06-02"
 - ID: 121
   Name: Mumble
   Description: Low-latency, high quality voice/text chat software.
@@ -1622,6 +1838,8 @@ Entries:
   C: Communication systems
   Tags:
   - Communications
+  stars: 2559
+  update: "2019-06-10"
 - ID: 122
   Name: Node-Chat
   Description: Not-so-basic open-source chat with admin features.
@@ -1633,6 +1851,8 @@ Entries:
   C: Communication systems
   Tags:
   - Communications
+  stars: 501
+  update: "2019-02-26"
 - ID: 123
   Name: Rallly
   Description: Rallly is a free collaborative scheduling service.
@@ -1645,6 +1865,8 @@ Entries:
   C: Communication systems
   Tags:
   - Communications
+  stars: 189
+  update: "2018-12-03"
 - ID: 124
   Name: RetroShare
   Description: Secured and decentralized communication system. Offers decentralized
@@ -1658,6 +1880,8 @@ Entries:
   C: Communication systems
   Tags:
   - Communications
+  stars: 882
+  update: "2019-06-10"
 - ID: 125
   Name: Jami
   Description: Free and universal communication platform which preserves the user's
@@ -1683,6 +1907,8 @@ Entries:
   C: Communication systems
   Tags:
   - Communications
+  stars: 23002
+  update: "2019-06-15"
 - ID: 127
   Name: Spectrum 2
   Description: Spectrum 2 is an open source instant messaging transport.  It allows
@@ -1696,6 +1922,8 @@ Entries:
   C: Communication systems
   Tags:
   - Communications
+  stars: 295
+  update: "2019-06-15"
 - ID: 128
   Name: Spreed
   Description: WebRTC audio/video calls, conferencing server, and web client.
@@ -1708,6 +1936,8 @@ Entries:
   C: Communication systems
   Tags:
   - Communications
+  stars: 828
+  update: "2017-04-13"
 - ID: 129
   Name: Synapse
   Description: Server for [Matrix](https://matrix.org/), an open standard for decentralized
@@ -1721,6 +1951,8 @@ Entries:
   C: Communication systems
   Tags:
   - Communications
+  stars: 4266
+  update: "2019-06-13"
 - ID: 130
   Name: Matrix Console Web
   Description: Web client meant to be a showcase of Matrix capabilities, and reference
@@ -1734,6 +1966,8 @@ Entries:
   C: Communication systems
   Tags:
   - Communications
+  stars: 25
+  update: "2016-02-10"
 - ID: 131
   Name: RIOT
   Description: Glossy Matrix web client with an emphasis on performance and usability.
@@ -1746,6 +1980,8 @@ Entries:
   C: Communication systems
   Tags:
   - Communications
+  stars: 3058
+  update: "2019-06-11"
 - ID: 132
   Name: Syndie
   Description: Syndie is a libre system for operating distributed forums.
@@ -1770,6 +2006,8 @@ Entries:
   Tags:
   - Communications
   ProprietaryDependency: true
+  stars: 1813
+  update: "2019-03-14"
 - ID: 134
   Name: Tox
   Description: Distributed, secure messenger with audio and video chat capabilities.
@@ -1782,6 +2020,8 @@ Entries:
   C: Communication systems
   Tags:
   - Communications
+  stars: 8571
+  update: "2018-10-03"
 - ID: 135
   Name: Tuber
   Description: Peer-to-peer video chat that works.
@@ -1794,6 +2034,8 @@ Entries:
   C: Communication systems
   Tags:
   - Communications
+  stars: 244
+  update: "2018-08-27"
 - ID: 136
   Name: ZeroNet
   Description: Open, free, and uncensorable websites, using Bitcoin cryptography and
@@ -1808,6 +2050,8 @@ Entries:
   Tags:
   - Communications
   ProprietaryDependency: true
+  stars: 13931
+  update: "2019-06-06"
 - ID: 137
   Name: Zulip
   Description: Zulip is a powerful, open source group chat application.
@@ -1821,6 +2065,8 @@ Entries:
   C: Communication systems
   Tags:
   - Communications
+  stars: 9949
+  update: "2019-06-15"
 - ID: 138
   Name: docker-mailserver
   Description: Fullstack but simple mail server (smtp, imap, antispam, antivirus,
@@ -1836,6 +2082,8 @@ Entries:
   - Communications
   - Email
   - Complete Email
+  stars: 4127
+  update: "2019-05-14"
 - ID: 139
   Name: Inboxen
   Description: Inboxen is a service that provides you with an infinite number of unique
@@ -1851,6 +2099,8 @@ Entries:
   - Communications
   - Email
   - Complete Email
+  stars: 135
+  update: "2019-06-09"
 - ID: 140
   Name: homebox
   Description: A suite of Ansible scripts to deploy a fully functional mail server
@@ -1866,6 +2116,8 @@ Entries:
   - Communications
   - Email
   - Complete Email
+  stars: 114
+  update: "2019-06-09"
 - ID: 141
   Name: iRedMail
   Description: Full-featured mail server solution based on Postfix and Dovecot.
@@ -1895,6 +2147,8 @@ Entries:
   - Communications
   - Email
   - Complete Email
+  stars: 1011
+  update: "2017-08-28"
 - ID: 143
   Name: Mailu
   Description: Mailu is a simple yet full-featured mail server as a set of Docker
@@ -1912,6 +2166,8 @@ Entries:
   - Communications
   - Email
   - Complete Email
+  stars: 1213
+  update: "2019-06-06"
 - ID: 144
   Name: Mail-in-a-Box
   Description: Turns any Ubuntu server into a fully functional mail server with one
@@ -1927,6 +2183,8 @@ Entries:
   - Communications
   - Email
   - Complete Email
+  stars: 8184
+  update: "2019-06-16"
 - ID: 145
   Name: Modoboa
   Description: Modoboa is a mail hosting and management platform including a modern
@@ -1942,6 +2200,8 @@ Entries:
   - Communications
   - Email
   - Complete Email
+  stars: 1317
+  update: "2019-06-13"
 - ID: 146
   Name: Qmailtoaster
   Description: Stable, full-featured, easy-to-install mail server based on qmail.
@@ -1969,6 +2229,8 @@ Entries:
   - Communications
   - Email
   - Complete Email
+  stars: 46
+  update: "2019-06-11"
 - ID: 148
   Name: Courier MTA
   Description: Fast, scalable, enterprise mail/groupware server providing ESMTP, IMAP,
@@ -2015,6 +2277,8 @@ Entries:
   - Email
   - MTA
   - SMTP
+  stars: 3302
+  update: "2019-05-23"
 - ID: 151
   Name: MailCatcher
   Description: Ruby gem that deploys a simply SMTP MTA gateway that accepts all mail
@@ -2031,6 +2295,8 @@ Entries:
   - Email
   - MTA
   - SMTP
+  stars: 4686
+  update: "2019-03-13"
 - ID: 152
   Name: Maildrop
   Description: Disposable email SMTP server, also useful for development.
@@ -2045,6 +2311,8 @@ Entries:
   - Email
   - MTA
   - SMTP
+  stars: 2
+  update: "2019-05-18"
 - ID: 153
   Name: MailHog
   Description: Small Golang executable which runs an SMTP MTA gateway that accepts
@@ -2060,6 +2328,8 @@ Entries:
   - Email
   - MTA
   - SMTP
+  stars: 4946
+  update: "2019-05-27"
 - ID: 154
   Name: OpenSMTPD
   Description: Secure SMTP server implementation from the OpenBSD project.
@@ -2133,6 +2403,8 @@ Entries:
   - Email
   - MTA
   - SMTP
+  stars: 115
+  update: "2019-06-09"
 - ID: 159
   Name: Cyrus IMAP/POP3
   Description: Intended to be run on sealed servers, where normal users are not permitted
@@ -2150,6 +2422,8 @@ Entries:
   - MDA
   - IMAP
   - POP3
+  stars: 256
+  update: "2019-06-14"
 - ID: 160
   Name: Dovecot
   Description: IMAP and POP3 server written primarily with security in mind.
@@ -2167,6 +2441,8 @@ Entries:
   - MDA
   - IMAP
   - POP3
+  stars: 360
+  update: "2019-06-13"
 - ID: 161
   Name: Piler
   Description: feature rich open source email archiving solution.
@@ -2200,6 +2476,8 @@ Entries:
   - Mailng List
   - Newsletters
   - Mass mail
+  stars: 96
+  update: "2019-06-11"
 - ID: 163
   Name: Mail For Good
   Description: Open source email campaign management tool for nonprofits.
@@ -2216,6 +2494,8 @@ Entries:
   - Newsletters
   - Mass mail
   ProprietaryDependency: true
+  stars: 3144
+  update: "2018-08-07"
 - ID: 164
   Name: Mailman
   Description: The Gnu mailing list server.
@@ -2248,6 +2528,8 @@ Entries:
   - Mailng List
   - Newsletters
   - Mass mail
+  stars: 3973
+  update: "2019-06-15"
 - ID: 166
   Name: MailyHerald
   Description: Self-hosted Mailchimp alternative that you can easily integrate with
@@ -2266,6 +2548,8 @@ Entries:
   - Mailng List
   - Newsletters
   - Mass mail
+  stars: 487
+  update: "2018-04-06"
 - ID: 167
   Name: Mautic
   Description: Mautic is marketing automation software (email, social and more).
@@ -2282,6 +2566,8 @@ Entries:
   - Mailng List
   - Newsletters
   - Mass mail
+  stars: 3255
+  update: "2019-06-03"
 - ID: 168
   Name: phpList
   Description: Newsletter and email marketing with advanced management of subscribers,
@@ -2315,6 +2601,8 @@ Entries:
   - Mailng List
   - Newsletters
   - Mass mail
+  stars: 8985
+  update: "2019-06-11"
 - ID: 170
   Name: Schleuder
   Description: GPG-enabled mailing list manager with resending-capabilities.
@@ -2362,6 +2650,8 @@ Entries:
   - Communications
   - Email
   - Webmail
+  stars: 116
+  update: "2019-06-14"
 - ID: 173
   Name: Cypht
   Description: Feed reader for your email accounts.
@@ -2376,6 +2666,8 @@ Entries:
   - Communications
   - Email
   - Webmail
+  stars: 535
+  update: "2019-06-05"
 - ID: 174
   Name: Disposable Mailbox
   Description: Simple disposable mailbox web-app based on a catch-all IMAP mailbox.
@@ -2390,6 +2682,8 @@ Entries:
   - Communications
   - Email
   - Webmail
+  stars: 226
+  update: "2019-06-14"
 - ID: 175
   Name: IMP
   Description: HORDE application that provides webmail access to IMAP and POP3 accounts.
@@ -2419,6 +2713,8 @@ Entries:
   - Communications
   - Email
   - Webmail
+  stars: 85
+  update: "2019-06-11"
 - ID: 177
   Name: Mailpile
   Description: Webmail client with search, filtering, encryption features and more.
@@ -2433,6 +2729,8 @@ Entries:
   - Communications
   - Email
   - Webmail
+  stars: 7827
+  update: "2019-05-30"
 - ID: 178
   Name: RainLoop
   Description: Simple, modern and fast webmail with IMAP/SMTP Support and multi accounting.
@@ -2448,6 +2746,8 @@ Entries:
   - Communications
   - Email
   - Webmail
+  stars: 2931
+  update: "2019-04-17"
 - ID: 179
   Name: Roundcube
   Description: Browser-based IMAP client with an application-like user interface.
@@ -2462,6 +2762,8 @@ Entries:
   - Communications
   - Email
   - Webmail
+  stars: 2955
+  update: "2019-06-16"
 - ID: 180
   Name: SquirrelMail
   Description: Another browser-based IMAP client.
@@ -2490,6 +2792,8 @@ Entries:
   - Communications
   - Email
   - Webmail
+  stars: 397
+  update: "2019-01-09"
 - ID: 182
   Name: Convos
   Description: Always online web IRC client.
@@ -2517,6 +2821,8 @@ Entries:
   Tags:
   - Communications
   - IRC
+  stars: 527
+  update: "2019-06-09"
 - ID: 184
   Name: Kiwi IRC
   Description: A responsive web IRC client with theming support.
@@ -2531,6 +2837,8 @@ Entries:
   Tags:
   - Communications
   - IRC
+  stars: 228
+  update: "2019-06-12"
 - ID: 185
   Name: The Lounge
   Description: A self-hosted web IRC client.
@@ -2545,6 +2853,8 @@ Entries:
   Tags:
   - Communications
   - IRC
+  stars: 3089
+  update: "2019-06-16"
 - ID: 186
   Name: Quassel IRC
   Description: distributed IRC client, meaning that one (or multiple) client(s) can
@@ -2559,6 +2869,8 @@ Entries:
   Tags:
   - Communications
   - IRC
+  stars: 493
+  update: "2019-05-31"
 - ID: 187
   Name: Robust IRC
   Description: RobustIRC is IRC without netsplits. Distributed IRC server, based on
@@ -2573,6 +2885,8 @@ Entries:
   Tags:
   - Communications
   - IRC
+  stars: 120
+  update: "2019-06-04"
 - ID: 188
   Name: Weechat
   Description: Fast, light and extensible chat client.
@@ -2598,6 +2912,8 @@ Entries:
   Tags:
   - Communications
   - IRC
+  stars: 1608
+  update: "2019-06-15"
 - ID: 190
   Name: Asterisk
   Description: Easy to use but advanced IP PBX system, VoIP gateway and conference
@@ -2626,6 +2942,8 @@ Entries:
   Tags:
   - Communications
   - SIP
+  stars: 73
+  update: "2019-06-13"
 - ID: 192
   Name: Freepbx
   Description: Web-based open source GUI that controls and manages Asterisk.
@@ -2666,6 +2984,8 @@ Entries:
   Tags:
   - Communications
   - SIP
+  stars: 321
+  update: "2019-06-16"
 - ID: 195
   Name: Homer
   Description: Troubleshooting and monitoring VoIP calls.
@@ -2680,6 +3000,8 @@ Entries:
   Tags:
   - Communications
   - SIP
+  stars: 485
+  update: "2019-05-30"
 - ID: 196
   Name: Kamailio
   Description: Modular SIP server (registrar/proxy/router/etc).
@@ -2693,6 +3015,8 @@ Entries:
   Tags:
   - Communications
   - SIP
+  stars: 940
+  update: "2019-06-14"
 - ID: 197
   Name: Kazoo
   Description: KAZOO is an open-source, highly scalable software platform designed
@@ -2707,6 +3031,8 @@ Entries:
   Tags:
   - Communications
   - SIP
+  stars: 687
+  update: "2019-06-14"
 - ID: 198
   Name: Ostel
   Description: Secure SIP telephony setup with ZRTP encryption.
@@ -2733,6 +3059,8 @@ Entries:
   Tags:
   - Communications
   - SIP
+  stars: 44
+  update: "2019-02-18"
 - ID: 200
   Name: Wazo
   Description: Full-featured IPBX solution built atop Asterisk with integrated Web
@@ -2761,6 +3089,8 @@ Entries:
   - Communications
   - Social Network
   - Forum
+  stars: 32
+  update: "2019-06-10"
 - ID: 202
   Name: Anahita
   Description: Open Source Social Networking Framework and Platform.
@@ -2804,6 +3134,8 @@ Entries:
   - Communications
   - Social Network
   - Forum
+  stars: 1732
+  update: "2019-03-11"
 - ID: 205
   Name: Buddycloud
   Description: Tools, libraries, services and a community to build user-to-user, group
@@ -2835,6 +3167,8 @@ Entries:
   - Communications
   - Social Network
   - Forum
+  stars: 148
+  update: "2019-05-25"
 - ID: 207
   Name: cartulary
   Description: RSS reader, readability tool, article archiver, microblogger, social
@@ -2849,6 +3183,8 @@ Entries:
   - Communications
   - Social Network
   - Forum
+  stars: 128
+  update: "2019-04-07"
 - ID: 208
   Name: Commento
   Description: Commento is a discussion platform that you can embed on your blog,
@@ -2878,6 +3214,8 @@ Entries:
   - Communications
   - Social Network
   - Forum
+  stars: 12253
+  update: "2019-05-25"
 - ID: 210
   Name: Discourse
   Description: Advanced forum / community solution based on Ruby and JS.
@@ -2893,6 +3231,8 @@ Entries:
   - Communications
   - Social Network
   - Forum
+  stars: 28439
+  update: "2019-06-16"
 - ID: 211
   Name: dyu/comments
   Description: Real-time, markdown-enabled comment engine powered by leveldb.
@@ -2907,6 +3247,8 @@ Entries:
   - Communications
   - Social Network
   - Forum
+  stars: 47
+  update: "2019-01-20"
 - ID: 212
   Name: Elgg
   Description: Powerful open source social networking engine.
@@ -2921,6 +3263,8 @@ Entries:
   - Communications
   - Social Network
   - Forum
+  stars: 1297
+  update: "2019-06-14"
 - ID: 213
   Name: Flarum
   Description: Delightfully simple forums. Flarum is the next-generation forum software
@@ -2936,6 +3280,8 @@ Entries:
   - Communications
   - Social Network
   - Forum
+  stars: 8952
+  update: "2018-12-06"
 - ID: 214
   Name: flaskbb
   Description: FlaskBB is forum software written in Python using the microframework
@@ -2952,6 +3298,8 @@ Entries:
   - Communications
   - Social Network
   - Forum
+  stars: 1605
+  update: "2019-05-21"
 - ID: 215
   Name: FluxBB
   Description: Fast, light, user-friendly forum software for your website.
@@ -2966,6 +3314,8 @@ Entries:
   - Communications
   - Social Network
   - Forum
+  stars: 400
+  update: "2019-03-24"
 - ID: 216
   Name: Friendica
   Description: Social Communication Server.
@@ -2980,6 +3330,8 @@ Entries:
   - Communications
   - Social Network
   - Forum
+  stars: 747
+  update: "2019-05-28"
 - ID: 217
   Name: GNU social
   Description: Social communication software for both public and private communications.
@@ -3023,6 +3375,8 @@ Entries:
   - Communications
   - Social Network
   - Forum
+  stars: 4724
+  update: "2019-06-10"
 - ID: 220
   Name: Isso
   Description: Lightweight commenting server written in Python and Javascript. It
@@ -3038,6 +3392,8 @@ Entries:
   - Communications
   - Social Network
   - Forum
+  stars: 3662
+  update: "2019-04-16"
 - ID: 221
   Name: Loomio
   Description: Loomio is a collaborative decision-making tool that makes it easy for
@@ -3053,6 +3409,8 @@ Entries:
   - Communications
   - Social Network
   - Forum
+  stars: 1820
+  update: "2019-06-15"
 - ID: 222
   Name: Mastodon
   Description: Federated microblogging server, an alternative to GNU social.
@@ -3067,6 +3425,8 @@ Entries:
   - Communications
   - Social Network
   - Forum
+  stars: 17905
+  update: "2019-06-16"
 - ID: 223
   Name: Movim
   Description: Modern, federated social network based on XMPP, with a fully featured
@@ -3082,6 +3442,8 @@ Entries:
   - Communications
   - Social Network
   - Forum
+  stars: 851
+  update: "2019-06-13"
 - ID: 224
   Name: MyBB
   Description: Free, extensible forum software package.
@@ -3096,6 +3458,8 @@ Entries:
   - Communications
   - Social Network
   - Forum
+  stars: 596
+  update: "2019-06-15"
 - ID: 225
   Name: Newebe
   Description: Distributed Social Network.
@@ -3110,6 +3474,8 @@ Entries:
   - Communications
   - Social Network
   - Forum
+  stars: 110
+  update: "2016-09-23"
 - ID: 226
   Name: NodeBB
   Description: Node.js based forum software built for the modern web.
@@ -3124,6 +3490,8 @@ Entries:
   - Communications
   - Social Network
   - Forum
+  stars: 10111
+  update: "2019-06-15"
 - ID: 227
   Name: Orange Forum
   Description: Orange Forum is an easy to deploy forum that has minimal dependencies
@@ -3140,6 +3508,8 @@ Entries:
   - Communications
   - Social Network
   - Forum
+  stars: 362
+  update: "2019-01-03"
 - ID: 228
   Name: OSSN
   Description: Open Source Social Network (OSSN) is a social networking software written
@@ -3157,6 +3527,8 @@ Entries:
   - Communications
   - Social Network
   - Forum
+  stars: 459
+  update: "2019-06-11"
 - ID: 229
   Name: Oxwall
   Description: Oxwall is used for a wide range of projects starting from family sites
@@ -3187,6 +3559,8 @@ Entries:
   - Communications
   - Social Network
   - Forum
+  stars: 1233
+  update: "2019-06-07"
 - ID: 231
   Name: PixelFed
   Description: Pixelfed is an open-source, federated platform alternate to Instagram.
@@ -3230,6 +3604,8 @@ Entries:
   - Communications
   - Social Network
   - Forum
+  stars: 116
+  update: "2018-03-03"
 - ID: 234
   Name: Pump.io
   Description: Stream server that does most of what people really want from a social
@@ -3245,6 +3621,8 @@ Entries:
   - Communications
   - Social Network
   - Forum
+  stars: 1861
+  update: "2019-04-27"
 - ID: 235
   Name: remark42
   Description: A lightweight and simple comment engine, which doesn't spy on users.
@@ -3261,6 +3639,8 @@ Entries:
   - Communications
   - Social Network
   - Forum
+  stars: 1061
+  update: "2019-06-11"
 - ID: 236
   Name: Scoold
   Description: Stack Overflow in a JAR. An enterprise-ready Q&A platform with full-text
@@ -3277,6 +3657,8 @@ Entries:
   - Communications
   - Social Network
   - Forum
+  stars: 233
+  update: "2019-06-16"
 - ID: 237
   Name: Simple Machines Forum
   Description: Free, professional grade software package that allows you to set up
@@ -3292,6 +3674,8 @@ Entries:
   - Communications
   - Social Network
   - Forum
+  stars: 347
+  update: "2019-06-15"
 - ID: 238
   Name: Socialhome
   Description: Federated and decentralized profile builder and social network engine.
@@ -3307,6 +3691,8 @@ Entries:
   - Communications
   - Social Network
   - Forum
+  stars: 235
+  update: "2019-06-14"
 - ID: 239
   Name: Symphony
   Description: Modern community (forum/SNS/blog) platform written in Java.
@@ -3321,6 +3707,8 @@ Entries:
   - Communications
   - Social Network
   - Forum
+  stars: 11723
+  update: "2019-06-13"
 - ID: 240
   Name: Talkyard
   Description: Create a community, where your users can suggest ideas and get questions
@@ -3338,6 +3726,8 @@ Entries:
   - Communications
   - Social Network
   - Forum
+  stars: 264
+  update: "2019-06-09"
 - ID: 241
   Name: Telescope
   Description: Open-source social news app built with Meteor.
@@ -3353,6 +3743,8 @@ Entries:
   - Communications
   - Social Network
   - Forum
+  stars: 95
+  update: "2018-03-01"
 - ID: 242
   Name: Tokumei
   Description: Anonymous microblogging platform.
@@ -3383,6 +3775,8 @@ Entries:
   - Communications
   - Social Network
   - Forum
+  stars: 1084
+  update: "2019-06-06"
 - ID: 244
   Name: twister
   Description: Fully decentralized P2P microblogging platform leveraging the free
@@ -3398,6 +3792,8 @@ Entries:
   - Communications
   - Social Network
   - Forum
+  stars: 1334
+  update: "2018-10-19"
 - ID: 245
   Name: Vanilla Forums
   Description: Simple and flexible forum software.
@@ -3412,6 +3808,8 @@ Entries:
   - Communications
   - Social Network
   - Forum
+  stars: 1974
+  update: "2019-06-14"
 - ID: 246
   Name: ejabberd
   Description: XMPP instant messaging server.
@@ -3426,6 +3824,8 @@ Entries:
   - Communications
   - XMPP
   - XMPP Server
+  stars: 4054
+  update: "2019-06-15"
 - ID: 247
   Name: Kontalk
   Description: Kontalk is an Open Source Messenger, similar to WhatsApp (app for android
@@ -3456,6 +3856,8 @@ Entries:
   - Communications
   - XMPP
   - XMPP Server
+  stars: 115
+  update: "2019-03-21"
 - ID: 249
   Name: MongooseIM
   Description: Mobile messaging platform with a focus on performance and scalability.
@@ -3470,6 +3872,8 @@ Entries:
   - Communications
   - XMPP
   - XMPP Server
+  stars: 1148
+  update: "2019-06-13"
 - ID: 250
   Name: Openfire
   Description: Real time collaboration (RTC) server.
@@ -3484,6 +3888,8 @@ Entries:
   - Communications
   - XMPP
   - XMPP Server
+  stars: 1897
+  update: "2019-06-15"
 - ID: 251
   Name: Prosody IM
   Description: Feature-rich and easy to configure XMPP server.
@@ -3525,6 +3931,8 @@ Entries:
   - Communications
   - XMPP
   - XMPP Webclient
+  stars: 1302
+  update: "2017-03-03"
 - ID: 254
   Name: Converse.js
   Description: Free and open-source XMPP chat client in your browser.
@@ -3539,6 +3947,8 @@ Entries:
   - Communications
   - XMPP
   - XMPP Webclient
+  stars: 2319
+  update: "2019-06-16"
 - ID: 255
   Name: JSXC
   Description: Real-time XMPP web chat application with video calls, file transfer
@@ -3555,6 +3965,8 @@ Entries:
   - Communications
   - XMPP
   - XMPP Webclient
+  stars: 455
+  update: "2019-06-05"
 - ID: 256
   Name: Kaiwa
   Description: Web based chat client in the style of common paid alternatives.
@@ -3569,6 +3981,8 @@ Entries:
   - Communications
   - XMPP
   - XMPP Webclient
+  stars: 1358
+  update: "2017-03-28"
 - ID: 257
   Name: Salut à Toi
   Description: Multipurpose, multi frontend, libre and decentralized communication
@@ -3613,6 +4027,8 @@ Entries:
   C: Conference Management
   Tags:
   - Conference Mgmnt
+  stars: 2439
+  update: "2019-06-14"
 - ID: 260
   Name: Conference Organizing Distribution (COD)
   Description: Create conference and event websites built on top of Drupal.
@@ -3638,6 +4054,8 @@ Entries:
   C: Conference Management
   Tags:
   - Conference Mgmnt
+  stars: 293
+  update: "2019-06-04"
 - ID: 262
   Name: Open Conference Systems (OCS)
   Description: is a free Web publishing tool that will create a complete Web presence
@@ -3652,6 +4070,8 @@ Entries:
   C: Conference Management
   Tags:
   - Conference Mgmnt
+  stars: 70
+  update: "2018-08-29"
 - ID: 263
   Name: OpenCFP
   Description: OpenCFP is a PHP-based conference talk submission system.
@@ -3663,6 +4083,8 @@ Entries:
   C: Conference Management
   Tags:
   - Conference Mgmnt
+  stars: 482
+  update: "2019-04-11"
 - ID: 264
   Name: OpenConferenceWare
   Description: An open source web application for supporting conference-like events.
@@ -3677,6 +4099,8 @@ Entries:
   C: Conference Management
   Tags:
   - Conference Mgmnt
+  stars: 268
+  update: "2017-04-16"
 - ID: 265
   Name: osem
   Description: Event management tailored to free Software conferences.
@@ -3690,6 +4114,8 @@ Entries:
   C: Conference Management
   Tags:
   - Conference Mgmnt
+  stars: 541
+  update: "2019-06-12"
 - ID: 266
   Name: pretalx
   Description: Web-based event management, including running a Call for Papers, reviewing
@@ -3703,6 +4129,8 @@ Entries:
   C: Conference Management
   Tags:
   - Conference Mgmnt
+  stars: 171
+  update: "2019-06-15"
 - ID: 267
   Name: APIQ CMS
   Description: Simple and powerful Ruby on Rails CMS for developers.
@@ -3716,6 +4144,8 @@ Entries:
   C: Content Management Systems (CMS)
   Tags:
   - CMS
+  stars: 335
+  update: "2018-05-30"
 - ID: 268
   Name: Apostrophe
   Description: Node.js CMS with a focus on extensible in-context editing tools.
@@ -3729,6 +4159,8 @@ Entries:
   C: Content Management Systems (CMS)
   Tags:
   - CMS
+  stars: 2713
+  update: "2019-06-13"
 - ID: 269
   Name: Backdrop CMS
   Description: The comprehensive CMS for small to medium sized businesses and non-profits.
@@ -3741,6 +4173,8 @@ Entries:
   C: Content Management Systems (CMS)
   Tags:
   - CMS
+  stars: 715
+  update: "2019-06-13"
 - ID: 270
   Name: Baun
   Description: Modern, lightweight, extensible CMS for PHP.
@@ -3753,6 +4187,8 @@ Entries:
   C: Content Management Systems (CMS)
   Tags:
   - CMS
+  stars: 277
+  update: "2016-11-29"
 - ID: 271
   Name: BigTree CMS
   Description: Straightforward, well documented, and capable written with PHP and
@@ -3766,6 +4202,8 @@ Entries:
   C: Content Management Systems (CMS)
   Tags:
   - CMS
+  stars: 177
+  update: "2019-04-18"
 - ID: 272
   Name: Bolt CMS
   Description: Open source Content Management Tool, which strives to be as simple
@@ -3780,6 +4218,8 @@ Entries:
   C: Content Management Systems (CMS)
   Tags:
   - CMS
+  stars: 3900
+  update: "2019-06-12"
 - ID: 273
   Name: CMS Made Simple
   Description: Open source content management system, faster and easier management
@@ -3805,6 +4245,8 @@ Entries:
   C: Content Management Systems (CMS)
   Tags:
   - CMS
+  stars: 3900
+  update: "2019-06-12"
 - ID: 275
   Name: Concrete 5 CMS
   Description: Open source content management system.
@@ -3817,6 +4259,8 @@ Entries:
   C: Content Management Systems (CMS)
   Tags:
   - CMS
+  stars: 590
+  update: "2019-06-13"
 - ID: 276
   Name: CouchCMS
   Description: Simple Open-Source CMS for designers.
@@ -3829,6 +4273,8 @@ Entries:
   C: Content Management Systems (CMS)
   Tags:
   - CMS
+  stars: 233
+  update: "2019-05-14"
 - ID: 277
   Name: Directus
   Description: Directus is a powerful and intuitive headless CMS for managing SQL
@@ -3844,6 +4290,8 @@ Entries:
   C: Content Management Systems (CMS)
   Tags:
   - CMS
+  stars: 4604
+  update: "2019-06-12"
 - ID: 278
   Name: Drupal
   Description: Advanced open source content management platform.
@@ -3871,6 +4319,8 @@ Entries:
   C: Content Management Systems (CMS)
   Tags:
   - CMS
+  stars: 302
+  update: "2019-06-13"
 - ID: 280
   Name: Expressa
   Description: Content Management System for powering database driven websites using
@@ -3883,6 +4333,8 @@ Entries:
   C: Content Management Systems (CMS)
   Tags:
   - CMS
+  stars: 274
+  update: "2019-01-09"
 - ID: 281
   Name: GetSimple CMS
   Description: The Simplest Content Management System. Ever.
@@ -3895,6 +4347,8 @@ Entries:
   C: Content Management Systems (CMS)
   Tags:
   - CMS
+  stars: 299
+  update: "2019-05-24"
 - ID: 282
   Name: ImpressPages CMS
   Description: Easy code meets easy admin.
@@ -3909,6 +4363,8 @@ Entries:
   C: Content Management Systems (CMS)
   Tags:
   - CMS
+  stars: 495
+  update: "2018-04-09"
 - ID: 283
   Name: Joomla!
   Description: Advanced Content Management System (CMS).
@@ -3921,6 +4377,8 @@ Entries:
   C: Content Management Systems (CMS)
   Tags:
   - CMS
+  stars: 3262
+  update: "2019-06-16"
 - ID: 284
   Name: KeystoneJS
   Description: CMS and Web Application Platform.
@@ -3934,6 +4392,8 @@ Entries:
   C: Content Management Systems (CMS)
   Tags:
   - CMS
+  stars: 14498
+  update: "2019-05-27"
 - ID: 285
   Name: MODX
   Description: MODX is an advanced content management and publishing platform. The
@@ -3947,6 +4407,8 @@ Entries:
   C: Content Management Systems (CMS)
   Tags:
   - CMS
+  stars: 1103
+  update: "2019-05-02"
 - ID: 286
   Name: Neos
   Description: Neos or TYPO3 Neos (for version 1) is a modern, open source CMS.
@@ -3973,6 +4435,8 @@ Entries:
   C: Content Management Systems (CMS)
   Tags:
   - CMS
+  stars: 48
+  update: "2019-06-08"
 - ID: 288
   Name: october
   Description: Free, open-source, self-hosted CMS platform.
@@ -3985,6 +4449,8 @@ Entries:
   C: Content Management Systems (CMS)
   Tags:
   - CMS
+  stars: 8678
+  update: "2019-05-14"
 - ID: 289
   Name: Omeka
   Description: Create complex narratives and share rich collections, adhering to Dublin
@@ -4000,6 +4466,8 @@ Entries:
   C: Content Management Systems (CMS)
   Tags:
   - CMS
+  stars: 282
+  update: "2019-05-21"
 - ID: 290
   Name: Pagekit
   Description: New modern CMS to create and share.
@@ -4012,6 +4480,8 @@ Entries:
   C: Content Management Systems (CMS)
   Tags:
   - CMS
+  stars: 5143
+  update: "2019-01-18"
 - ID: 291
   Name: Pico
   Description: Stupidly simple, blazing fast, flat file CMS.
@@ -4024,6 +4494,8 @@ Entries:
   C: Content Management Systems (CMS)
   Tags:
   - CMS
+  stars: 3103
+  update: "2019-02-21"
 - ID: 292
   Name: Pimcore
   Description: Multi-Channel Experience and Engagement Management Platform.
@@ -4036,6 +4508,8 @@ Entries:
   C: Content Management Systems (CMS)
   Tags:
   - CMS
+  stars: 1462
+  update: "2019-06-14"
 - ID: 293
   Name: Plone
   Description: Powerful open-source CMS system.
@@ -4061,6 +4535,8 @@ Entries:
   C: Content Management Systems (CMS)
   Tags:
   - CMS
+  stars: 749
+  update: "2016-10-07"
 - ID: 295
   Name: PropertyWebBuilder
   Description: The ultimate Ruby on Rails engine for creating real estate websites.
@@ -4074,6 +4550,8 @@ Entries:
   C: Content Management Systems (CMS)
   Tags:
   - CMS
+  stars: 322
+  update: "2019-03-22"
 - ID: 296
   Name: Publify
   Description: Simple but full featured web publishing software.
@@ -4085,6 +4563,8 @@ Entries:
   C: Content Management Systems (CMS)
   Tags:
   - CMS
+  stars: 1750
+  update: "2019-06-14"
 - ID: 297
   Name: REDAXO
   Description: Simple, flexible and useful content management system (documentation
@@ -4098,6 +4578,8 @@ Entries:
   C: Content Management Systems (CMS)
   Tags:
   - CMS
+  stars: 229
+  update: "2019-06-16"
 - ID: 298
   Name: Redaxscript
   Description: Ultra lightweight CMS for MySQL, SQLite and PostgreSQL.
@@ -4111,6 +4593,8 @@ Entries:
   C: Content Management Systems (CMS)
   Tags:
   - CMS
+  stars: 230
+  update: "2019-05-29"
 - ID: 299
   Name: Roadiz
   Description: Modern CMS based on a node system which can handle many types of services.
@@ -4123,6 +4607,8 @@ Entries:
   C: Content Management Systems (CMS)
   Tags:
   - CMS
+  stars: 342
+  update: "2019-05-21"
 - ID: 300
   Name: SilverStripe
   Description: Easy to use CMS with powerful MVC framework underlying.
@@ -4148,6 +4634,8 @@ Entries:
   C: Content Management Systems (CMS)
   Tags:
   - CMS
+  stars: 191
+  update: "2017-12-18"
 - ID: 302
   Name: SPIP
   Description: Publication system for the Internet aimed at collaborative work, multilingual
@@ -4174,6 +4662,8 @@ Entries:
   C: Content Management Systems (CMS)
   Tags:
   - CMS
+  stars: 668
+  update: "2019-06-16"
 - ID: 304
   Name: Strapi
   Description: The most advanced open-source Content Management Framework (headless-CMS)
@@ -4187,6 +4677,8 @@ Entries:
   C: Content Management Systems (CMS)
   Tags:
   - CMS
+  stars: 15107
+  update: "2019-06-16"
 - ID: 305
   Name: Subrion
   Description: Subrion is a free open source content management system that allows
@@ -4201,6 +4693,8 @@ Entries:
   C: Content Management Systems (CMS)
   Tags:
   - CMS
+  stars: 227
+  update: "2019-06-13"
 - ID: 306
   Name: Textpattern
   Description: Flexible, elegant and easy-to-use CMS.
@@ -4214,6 +4708,8 @@ Entries:
   C: Content Management Systems (CMS)
   Tags:
   - CMS
+  stars: 429
+  update: "2019-06-10"
 - ID: 307
   Name: TYPO3
   Description: Powerful and advanced CMS with a large community.
@@ -4226,6 +4722,8 @@ Entries:
   C: Content Management Systems (CMS)
   Tags:
   - CMS
+  stars: 621
+  update: "2019-06-14"
 - ID: 308
   Name: Umbraco
   Description: The friendly CMS. Free and open source with an amazing community.
@@ -4238,6 +4736,8 @@ Entries:
   C: Content Management Systems (CMS)
   Tags:
   - CMS
+  stars: 2594
+  update: "2019-06-12"
 - ID: 309
   Name: Wagtail
   Description: Django content management system focused on flexibility and user experience.
@@ -4250,6 +4750,8 @@ Entries:
   C: Content Management Systems (CMS)
   Tags:
   - CMS
+  stars: 7350
+  update: "2019-06-13"
 - ID: 310
   Name: WonderCMS
   Description: WonderCMS is the smallest flat file CMS since 2008.
@@ -4263,6 +4765,8 @@ Entries:
   C: Content Management Systems (CMS)
   Tags:
   - CMS
+  stars: 211
+  update: "2019-03-31"
 - ID: 311
   Name: WordPress
   Description: The worlds most-used blogging and CMS engine.
@@ -4275,6 +4779,8 @@ Entries:
   C: Content Management Systems (CMS)
   Tags:
   - CMS
+  stars: 12562
+  update: "2019-06-16"
 - ID: 312
   Name: OpenEats
   Description: Recipe management site that allows users to create, store, share and
@@ -4289,6 +4795,8 @@ Entries:
   Tags:
   - CMS
   - Recipe Mgmnt
+  stars: 195
+  update: "2019-03-20"
 - ID: 313
   Name: Attendize
   Description: Ticket selling and event management platform.
@@ -4302,6 +4810,8 @@ Entries:
   Tags:
   - CMS
   - E-commerce
+  stars: 2500
+  update: "2019-06-12"
 - ID: 314
   Name: Bagisto
   Description: Leading Laravel open source e-commerce framework with multi-inventory
@@ -4317,6 +4827,8 @@ Entries:
   Tags:
   - CMS
   - E-commerce
+  stars: 1116
+  update: "2019-06-15"
 - ID: 315
   Name: CoreShop
   Description: CoreShop is a e-commerce plugin for Pimcore.
@@ -4330,6 +4842,8 @@ Entries:
   Tags:
   - CMS
   - E-commerce
+  stars: 119
+  update: "2019-06-13"
 - ID: 316
   Name: Drupal Commerce
   Description: Drupal Commerce is a popular e-commerce module for Drupal CMS, with
@@ -4344,6 +4858,8 @@ Entries:
   Tags:
   - CMS
   - E-commerce
+  stars: 344
+  update: "2019-06-12"
 - ID: 317
   Name: Magento
   Description: Leading provider of open omnichannel innovation.
@@ -4358,6 +4874,8 @@ Entries:
   Tags:
   - CMS
   - E-commerce
+  stars: 7512
+  update: "2019-06-15"
 - ID: 318
   Name: Microweber
   Description: Drag and Drop CMS and online shop.
@@ -4372,6 +4890,8 @@ Entries:
   Tags:
   - CMS
   - E-commerce
+  stars: 1245
+  update: "2019-05-21"
 - ID: 319
   Name: OpenBazaar
   Description: Decentralized marketplace using cryptocurrency.
@@ -4385,6 +4905,8 @@ Entries:
   Tags:
   - CMS
   - E-commerce
+  stars: 783
+  update: "2019-06-13"
 - ID: 320
   Name: OpenCart
   Description: Free open source shopping cart solution.
@@ -4398,6 +4920,8 @@ Entries:
   Tags:
   - CMS
   - E-commerce
+  stars: 4896
+  update: "2019-06-15"
 - ID: 321
   Name: Open Classifieds
   Description: Free open-source, self-hosted CMS for classifieds sites.
@@ -4411,6 +4935,8 @@ Entries:
   Tags:
   - CMS
   - E-commerce
+  stars: 235
+  update: "2019-06-14"
 - ID: 322
   Name: Open Source POS
   Description: Open Source Point of Sale is a web based point of sale system.
@@ -4424,6 +4950,8 @@ Entries:
   Tags:
   - CMS
   - E-commerce
+  stars: 1506
+  update: "2019-06-16"
 - ID: 323
   Name: Osclass
   Description: One-stop shop to building your own classifieds marketplace.
@@ -4437,6 +4965,8 @@ Entries:
   Tags:
   - CMS
   - E-commerce
+  stars: 586
+  update: "2018-07-10"
 - ID: 324
   Name: OXID eShop
   Description: OXID eShop is a flexible open source e-commerce software with a wide
@@ -4452,6 +4982,8 @@ Entries:
   Tags:
   - CMS
   - E-commerce
+  stars: 173
+  update: "2019-06-12"
 - ID: 325
   Name: Open Food Network
   Description: Online marketplace for local food. It enables a network of independent
@@ -4467,6 +4999,8 @@ Entries:
   Tags:
   - CMS
   - E-commerce
+  stars: 422
+  update: "2019-06-14"
 - ID: 326
   Name: PrestaShop
   Description: PrestaShop offers a free, open-source and fully scalable e-commerce
@@ -4482,6 +5016,8 @@ Entries:
   Tags:
   - CMS
   - E-commerce
+  stars: 3749
+  update: "2019-06-13"
 - ID: 327
   Name: Pretix
   Description: Django based ticket sales platform for events.
@@ -4508,6 +5044,8 @@ Entries:
   Tags:
   - CMS
   - E-commerce
+  stars: 8906
+  update: "2019-03-21"
 - ID: 329
   Name: Saleor
   Description: Django based open-sourced e-commerce storefront.
@@ -4522,6 +5060,8 @@ Entries:
   Tags:
   - CMS
   - E-commerce
+  stars: 4831
+  update: "2019-06-15"
 - ID: 330
   Name: Sharetribe
   Description: An open source platform to create your own peer-to-peer marketplace,
@@ -4536,6 +5076,8 @@ Entries:
   Tags:
   - CMS
   - E-commerce
+  stars: 1748
+  update: "2019-06-13"
 - ID: 331
   Name: Shuup
   Description: Django powered fully customizable open source e-commerce framework
@@ -4550,6 +5092,8 @@ Entries:
   Tags:
   - CMS
   - E-commerce
+  stars: 945
+  update: "2019-06-13"
 - ID: 332
   Name: Shopware Community Edition
   Description: PHP based ppen source e-commerce software made in Germany.
@@ -4564,6 +5108,8 @@ Entries:
   Tags:
   - CMS
   - E-commerce
+  stars: 1062
+  update: "2019-06-05"
 - ID: 333
   Name: Sylius
   Description: Symfony2 powered open source full-stack platform for eCommerce.
@@ -4578,6 +5124,8 @@ Entries:
   Tags:
   - CMS
   - E-commerce
+  stars: 5246
+  update: "2019-06-13"
 - ID: 334
   Name: Thelia
   Description: Thelia is an open source and flexible e-commerce solution.
@@ -4592,6 +5140,8 @@ Entries:
   Tags:
   - CMS
   - E-commerce
+  stars: 717
+  update: "2019-05-21"
 - ID: 335
   Name: WooCommerce
   Description: WordPress based e-commerce solution.
@@ -4605,6 +5155,8 @@ Entries:
   Tags:
   - CMS
   - E-commerce
+  stars: 5354
+  update: "2019-06-13"
 - ID: 336
   Name: CoreDNS
   Description: Plugin driven DNS Server with support for proxying to Google's DNS-over-HTTPS.
@@ -4617,6 +5169,8 @@ Entries:
   C: DNS
   Tags:
   - DNS
+  stars: 4112
+  update: "2019-06-13"
 - ID: 337
   Name: nsupdate.info
   Description: nsupdate.info is a dynamic DNS service.
@@ -4630,6 +5184,8 @@ Entries:
   C: DNS
   Tags:
   - DNS
+  stars: 561
+  update: "2019-05-09"
 - ID: 338
   Name: SPF Toolbox
   Description: Application to look up DNS records such as SPF, MX, Whois, and more.
@@ -4642,6 +5198,8 @@ Entries:
   C: DNS
   Tags:
   - DNS
+  stars: 82
+  update: "2019-01-24"
 - ID: 339
   Name: CaseBox
   Description: Manage all your organization's information in one system.
@@ -4655,6 +5213,8 @@ Entries:
   C: Document Management
   Tags:
   - Doc Mgmnt
+  stars: 208
+  update: "2017-11-06"
 - ID: 340
   Name: EdPaper
   Description: PDF organizer with users management.
@@ -4666,6 +5226,8 @@ Entries:
   C: Document Management
   Tags:
   - Doc Mgmnt
+  stars: 42
+  update: "2018-09-03"
 - ID: 341
   Name: Mayan EDMS
   Description: Free Open Source Electronic Document Management System. An electronic
@@ -4680,6 +5242,8 @@ Entries:
   C: Document Management
   Tags:
   - Doc Mgmnt
+  stars: 254
+  update: "2019-06-16"
 - ID: 342
   Name: Paperless
   Description: Scan, index, and archive all of your paper documents.
@@ -4691,6 +5255,8 @@ Entries:
   C: Document Management
   Tags:
   - Doc Mgmnt
+  stars: 5641
+  update: "2019-06-12"
 - ID: 343
   Name: Calibre
   Description: E-book library manager that can view, convert, and catalog e-books
@@ -4719,6 +5285,8 @@ Entries:
   Tags:
   - E-book
   - ILS
+  stars: 269
+  update: "2018-11-16"
 - ID: 345
   Name: Calibre Web
   Description: Web app providing a clean interface for browsing, reading and downloading
@@ -4732,6 +5300,8 @@ Entries:
   Tags:
   - E-book
   - ILS
+  stars: 1805
+  update: "2019-06-15"
 - ID: 346
   Name: COPS
   Description: Lightweight e-book server alternative to Calibre content server or
@@ -4747,6 +5317,8 @@ Entries:
   Tags:
   - E-book
   - ILS
+  stars: 872
+  update: "2019-03-31"
 - ID: 347
   Name: Polar Bookshelf
   Description: Polar is a personal knowledge repository for PDF and web content supporting
@@ -4761,6 +5333,8 @@ Entries:
   Tags:
   - E-book
   - ILS
+  stars: 3083
+  update: "2019-06-14"
 - ID: 348
   Name: Evergreen
   Description: Highly-scalable software for libraries that helps library patrons find
@@ -4776,6 +5350,8 @@ Entries:
   Tags:
   - E-book
   - ILS
+  stars: 71
+  update: "2019-06-13"
 - ID: 349
   Name: Koha
   Description: Enterprise-class ILS with modules for acquisitions, circulation, cataloging,
@@ -4792,6 +5368,8 @@ Entries:
   Tags:
   - E-book
   - ILS
+  stars: 269
+  update: "2019-06-15"
 - ID: 350
   Name: CommaFeed
   Description: Google Reader inspired self-hosted RSS reader.
@@ -4805,6 +5383,8 @@ Entries:
   Tags:
   - RSS
   - Feed Reader
+  stars: 1642
+  update: "2019-05-03"
 - ID: 351
   Name: Feedbin
   Description: Simple, fast and nice looking RSS reader.
@@ -4818,6 +5398,8 @@ Entries:
   Tags:
   - RSS
   - Feed Reader
+  stars: 2294
+  update: "2019-06-14"
 - ID: 352
   Name: FeedHQ
   Description: FeedHQ is a web-based feed reader.
@@ -4831,6 +5413,8 @@ Entries:
   Tags:
   - RSS
   - Feed Reader
+  stars: 477
+  update: "2018-11-03"
 - ID: 353
   Name: FreshRSS
   Description: Self-hostable RSS feed aggregator.
@@ -4845,6 +5429,8 @@ Entries:
   Tags:
   - RSS
   - Feed Reader
+  stars: 1532
+  update: "2019-04-08"
 - ID: 354
   Name: JARR
   Description: JARR (Just Another RSS Reader) is a web-based news aggregator and reader
@@ -4860,6 +5446,8 @@ Entries:
   Tags:
   - RSS
   - Feed Reader
+  stars: 41
+  update: "2016-07-24"
 - ID: 355
   Name: Kriss Feed
   Description: Simple and smart (or stupid) feed reader.
@@ -4874,6 +5462,8 @@ Entries:
   Tags:
   - RSS
   - Feed Reader
+  stars: 234
+  update: "2018-12-14"
 - ID: 356
   Name: Leed
   Description: Leed (for Light Feed) is a Free and minimalist RSS aggregator.
@@ -4887,6 +5477,8 @@ Entries:
   Tags:
   - RSS
   - Feed Reader
+  stars: 149
+  update: "2017-09-28"
 - ID: 357
   Name: Leselys
   Description: Your very elegant RSS reader.
@@ -4899,6 +5491,8 @@ Entries:
   Tags:
   - RSS
   - Feed Reader
+  stars: 220
+  update: "2016-07-27"
 - ID: 358
   Name: Lite-Reader
   Description: Read your feeds on your own machine with a simple and lite application.
@@ -4912,6 +5506,8 @@ Entries:
   Tags:
   - RSS
   - Feed Reader
+  stars: 23
+  update: "2016-07-09"
 - ID: 359
   Name: Moonmoon
   Description: 'simple feed agregator (planet like): it only aggregates feeds and
@@ -4926,6 +5522,8 @@ Entries:
   Tags:
   - RSS
   - Feed Reader
+  stars: 123
+  update: "2018-11-10"
 - ID: 360
   Name: Miniflux
   Description: Miniflux 2 is a minimalist and open source news reader, written in
@@ -4940,6 +5538,8 @@ Entries:
   Tags:
   - RSS
   - Feed Reader
+  stars: 1169
+  update: "2019-06-09"
 - ID: 361
   Name: NewsBlur
   Description: NewsBlur is a personal news reader that brings people together to talk
@@ -4954,6 +5554,8 @@ Entries:
   Tags:
   - RSS
   - Feed Reader
+  stars: 5268
+  update: "2019-06-10"
 - ID: 362
   Name: Newspipe
   Description: Newspipe is a web news aggregator and reader.
@@ -4968,6 +5570,8 @@ Entries:
   Tags:
   - RSS
   - Feed Reader
+  stars: 85
+  update: "2019-05-24"
 - ID: 363
   Name: Nunux Reader
   Description: Simple, fast and reactive RSS reader.
@@ -4981,6 +5585,8 @@ Entries:
   Tags:
   - RSS
   - Feed Reader
+  stars: 65
+  update: "2019-04-27"
 - ID: 364
   Name: Reader-Self
   Description: Self-hosted rss reader (php / mysql or sqlite) - Google Reader alternative.
@@ -4994,6 +5600,8 @@ Entries:
   Tags:
   - RSS
   - Feed Reader
+  stars: 162
+  update: "2017-11-12"
 - ID: 365
   Name: RSS2EMail
   Description: Fetches RSS/Atom-feeds and pushes new Content to any email-receiver,
@@ -5008,6 +5616,8 @@ Entries:
   Tags:
   - RSS
   - Feed Reader
+  stars: 192
+  update: "2015-12-19"
 - ID: 366
   Name: RSS Monster
   Description: RSS Monster is an easy to use web-based RSS aggregator and reader compatible
@@ -5021,6 +5631,8 @@ Entries:
   Tags:
   - RSS
   - Feed Reader
+  stars: 264
+  update: "2019-06-09"
 - ID: 367
   Name: Screaming Liquid Tiger
   Description: Simple script to automatically generate valid RSS and Atom feeds from
@@ -5034,6 +5646,8 @@ Entries:
   Tags:
   - RSS
   - Feed Reader
+  stars: 124
+  update: "2019-05-18"
 - ID: 368
   Name: Selfoss
   Description: New multipurpose rss reader, live stream, mashup, aggregation web application.
@@ -5047,6 +5661,8 @@ Entries:
   Tags:
   - RSS
   - Feed Reader
+  stars: 1730
+  update: "2019-05-17"
 - ID: 369
   Name: Sismics Reader
   Description: Free and open source feeds reader, including all major Google Reader
@@ -5062,6 +5678,8 @@ Entries:
   Tags:
   - RSS
   - Feed Reader
+  stars: 302
+  update: "2019-04-26"
 - ID: 370
   Name: Stringer
   Description: Work-in-progress self-hosted, anti-social RSS reader.
@@ -5074,6 +5692,8 @@ Entries:
   Tags:
   - RSS
   - Feed Reader
+  stars: 3051
+  update: "2018-11-05"
 - ID: 371
   Name: Temboz
   Description: Two-column feed reader emphasizing filtering capabilities to manage
@@ -5087,6 +5707,8 @@ Entries:
   Tags:
   - RSS
   - Feed Reader
+  stars: 22
+  update: "2018-10-15"
 - ID: 372
   Name: Tiny Tiny RSS
   Description: Open source web-based news feed (RSS/Atom) reader and aggregator.
@@ -5113,6 +5735,8 @@ Entries:
   Tags:
   - RSS
   - Feed Reader
+  stars: 39
+  update: "2016-09-17"
 - ID: 374
   Name: ttrss-mobile
   Description: Mobile webapp for Tiny Tiny RSS.
@@ -5125,6 +5749,8 @@ Entries:
   Tags:
   - RSS
   - Feed Reader
+  stars: 180
+  update: "2016-01-28"
 - ID: 375
   Name: ttrss-reader
   Description: Light and responsive client for TTRSS.
@@ -5137,6 +5763,8 @@ Entries:
   Tags:
   - RSS
   - Feed Reader
+  stars: 35
+  update: "2017-03-28"
 - ID: 376
   Name: Winds
   Description: Open source and beautiful RSS reader built using React/Redux/Sails/Node
@@ -5153,6 +5781,8 @@ Entries:
   - RSS
   - Feed Reader
   ProprietaryDependency: true
+  stars: 6816
+  update: "2019-05-19"
 - ID: 377
   Name: Git Annex
   Description: File synchronization between computers, servers, external drives.
@@ -5180,6 +5810,8 @@ Entries:
   - File Sharing
   - File Transfer
   - File Sync
+  stars: 129
+  update: "2019-05-11"
 - ID: 379
   Name: Kinto
   Description: Kinto is a minimalist JSON storage service with synchronisation and
@@ -5211,6 +5843,8 @@ Entries:
   - File Sharing
   - File Transfer
   - File Sync
+  stars: 7775
+  update: "2019-06-16"
 - ID: 381
   Name: OpenSSH/SFTP
   Description: Secure File Transfer Program.
@@ -5242,6 +5876,8 @@ Entries:
   - File Sharing
   - File Transfer
   - File Sync
+  stars: 6657
+  update: "2019-06-16"
 - ID: 383
   Name: Pydio
   Description: Turn any web server into a powerful file management system and an alternative
@@ -5257,6 +5893,8 @@ Entries:
   - File Sharing
   - File Transfer
   - File Sync
+  stars: 880
+  update: "2019-03-12"
 - ID: 384
   Name: Samba
   Description: Samba is the standard Windows interoperability suite of programs for
@@ -5288,6 +5926,8 @@ Entries:
   - File Sharing
   - File Transfer
   - File Sync
+  stars: 6913
+  update: "2019-06-14"
 - ID: 386
   Name: SparkleShare
   Description: Self hosted, instant, secure file sync.
@@ -5302,6 +5942,8 @@ Entries:
   - File Sharing
   - File Transfer
   - File Sync
+  stars: 4233
+  update: "2019-05-25"
 - ID: 387
   Name: Syncany
   Description: Secure file sync software for arbitrary storage backends, an open-source
@@ -5331,6 +5973,8 @@ Entries:
   - File Sharing
   - File Transfer
   - File Sync
+  stars: 26402
+  update: "2019-06-14"
 - ID: 389
   Name: Unison
   Description: Unison is a file-synchronization tool for OSX, Unix, and Windows.
@@ -5372,6 +6016,8 @@ Entries:
   Tags:
   - File Sharing
   - P2P
+  stars: 833
+  update: "2019-04-09"
 - ID: 392
   Name: cloud-torrent
   Description: Torrent Web Client with HTTP retrievable or streamable downloaded files.
@@ -5384,6 +6030,8 @@ Entries:
   Tags:
   - File Sharing
   - P2P
+  stars: 3461
+  update: "2018-04-27"
 - ID: 393
   Name: Dat Project
   Description: Powerful decentralized file sharing applications built from a large
@@ -5411,6 +6059,8 @@ Entries:
   Tags:
   - File Sharing
   - P2P
+  stars: 2445
+  update: "2019-06-02"
 - ID: 395
   Name: Firefox Send
   Description: A file sharing experiment which allows you to send encrypted files
@@ -5424,6 +6074,8 @@ Entries:
   Tags:
   - File Sharing
   - P2P
+  stars: 7823
+  update: "2019-06-16"
 - ID: 396
   Name: instant.io
   Description: Streaming file transfer over WebTorrent.
@@ -5437,6 +6089,8 @@ Entries:
   Tags:
   - File Sharing
   - P2P
+  stars: 2215
+  update: "2019-02-12"
 - ID: 397
   Name: Magnetico
   Description: Magnetico is the first autonomous (self-hosted) BitTorrent DHT search
@@ -5450,6 +6104,8 @@ Entries:
   Tags:
   - File Sharing
   - P2P
+  stars: 1997
+  update: "2019-06-05"
 - ID: 398
   Name: Magnetissimo
   Description: Search engine that indexes all popular torrent sites.
@@ -5462,6 +6118,8 @@ Entries:
   Tags:
   - File Sharing
   - P2P
+  stars: 2327
+  update: "2019-05-11"
 - ID: 399
   Name: Opentracker
   Description: Open and free bittorrent tracker. It aims for minimal resource usage
@@ -5489,6 +6147,8 @@ Entries:
   Tags:
   - File Sharing
   - P2P
+  stars: 912
+  update: "2018-12-15"
 - ID: 401
   Name: qBittorrent
   Description: Free cross-platform bittorrent client with a feature rich Web UI for
@@ -5503,6 +6163,8 @@ Entries:
   Tags:
   - File Sharing
   - P2P
+  stars: 6556
+  update: "2019-06-16"
 - ID: 402
   Name: rartracker
   Description: Complete private bittorrent tracker.
@@ -5515,6 +6177,8 @@ Entries:
   Tags:
   - File Sharing
   - P2P
+  stars: 157
+  update: "2017-04-13"
 - ID: 403
   Name: Transmission
   Description: Fast, easy, Free Bittorrent client.
@@ -5528,6 +6192,8 @@ Entries:
   Tags:
   - File Sharing
   - P2P
+  stars: 2960
+  update: "2019-04-22"
 - ID: 404
   Name: Minio
   Description: Minio is an open source object storage server compatible with Amazon
@@ -5542,6 +6208,8 @@ Entries:
   Tags:
   - File Sharing
   - Object Storage
+  stars: 16597
+  update: "2019-06-15"
 - ID: 405
   Name: Zenko CloudServer
   Description: Zenko CloudServer, an open-source Node.js implementation of a server
@@ -5556,6 +6224,8 @@ Entries:
   Tags:
   - File Sharing
   - Object Storage
+  stars: 869
+  update: "2019-06-14"
 - ID: 406
   Name: BoZoN
   Description: Minimalist Drag and drop file sharing app.
@@ -5569,6 +6239,8 @@ Entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
+  stars: 263
+  update: "2018-11-07"
 - ID: 407
   Name: Coquelicot
   Description: Coquelicot is a “one-click” file sharing web application with a focus
@@ -5600,6 +6272,8 @@ Entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
+  stars: 694
+  update: "2019-05-23"
 - ID: 409
   Name: FileShelter
   Description: FileShelter is a self-hosted software that allows you to easily share
@@ -5615,6 +6289,8 @@ Entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
+  stars: 70
+  update: "2019-06-11"
 - ID: 410
   Name: Files Sharing
   Description: Open Source and self-hosted files sharing application based on unique
@@ -5629,6 +6305,8 @@ Entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
+  stars: 9
+  update: "2017-07-26"
 - ID: 411
   Name: img.bi
   Description: img.bi is a secure image hosting. Images are encrypted using AES-256
@@ -5643,6 +6321,8 @@ Entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
+  stars: 194
+  update: "2016-01-15"
 - ID: 412
   Name: ipfs.pics
   Description: ipfs.pics is a distributed image hosting website.
@@ -5656,6 +6336,8 @@ Entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
+  stars: 1002
+  update: "2018-11-09"
 - ID: 413
   Name: Jirafeau
   Description: Jirafeau is a web site permitting to upload a file in a simple way
@@ -5671,6 +6353,8 @@ Entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
+  stars: 122
+  update: "2019-05-06"
 - ID: 414
   Name: linx
   Description: File sharing application and pastebin with API, auto-expiry, deletion
@@ -5686,6 +6370,8 @@ Entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
+  stars: 570
+  update: "2019-06-13"
 - ID: 415
   Name: lufi
   Description: Let's Upload that FIle, client-side encrypted.
@@ -5714,6 +6400,8 @@ Entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
+  stars: 154
+  update: "2019-04-19"
 - ID: 417
   Name: OnionShare
   Description: Securely and anonymously share a file of any size.
@@ -5727,6 +6415,8 @@ Entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
+  stars: 3138
+  update: "2019-05-31"
 - ID: 418
   Name: PictShare
   Description: PictShare is a multi lingual, open source image hosting service with
@@ -5742,6 +6432,8 @@ Entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
+  stars: 413
+  update: "2019-03-08"
 - ID: 419
   Name: Plik
   Description: Plik is a scalable and friendly temporary file upload system.
@@ -5756,6 +6448,8 @@ Entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
+  stars: 334
+  update: "2019-04-03"
 - ID: 420
   Name: Pomf
   Description: Simple file uploading and sharing, source for the now shut down site
@@ -5770,6 +6464,8 @@ Entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
+  stars: 355
+  update: "2019-05-22"
 - ID: 421
   Name: ProjectSend
   Description: Upload files and assign them to specific clients you create. Give access
@@ -5785,6 +6481,8 @@ Entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
+  stars: 421
+  update: "2018-12-26"
 - ID: 422
   Name: PsiTransfer
   Description: Simple open source self-hosted file sharing solution with robust up-/download-resume
@@ -5799,6 +6497,8 @@ Entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
+  stars: 452
+  update: "2019-06-12"
 - ID: 423
   Name: Sharry
   Description: Share files easily over the internet between authenticated and anonymous
@@ -5815,6 +6515,8 @@ Entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
+  stars: 33
+  update: "2019-04-28"
 - ID: 424
   Name: Uguu
   Description: Stores files and deletes after X amount of time.
@@ -5829,6 +6531,8 @@ Entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
+  stars: 255
+  update: "2018-04-28"
 - ID: 425
   Name: Up1
   Description: Client-side Encrypted Image Host.
@@ -5842,6 +6546,8 @@ Entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
+  stars: 592
+  update: "2017-08-05"
 - ID: 426
   Name: uPste
   Description: Private file hosting application with an emphasis on serving technology
@@ -5857,6 +6563,8 @@ Entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
+  stars: 45
+  update: "2018-11-20"
 - ID: 427
   Name: XBackBone
   Description: A simple, fast, lightweight and powerful ShareX (a free and open-source
@@ -5871,6 +6579,8 @@ Entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
+  stars: 21
+  update: "2019-05-30"
 - ID: 428
   Name: YouTransfer
   Description: YouTransfer is a simple but elegant self-hosted file transfer and sharing
@@ -5887,6 +6597,8 @@ Entries:
   - File Sharing
   - Single-Click Upload
   - Drag-n-Drop Upload
+  stars: 1306
+  update: "2019-06-13"
 - ID: 429
   Name: Beauties
   Description: Minimalist file sharing written in Go, to be used primarily from Unix
@@ -5902,6 +6614,8 @@ Entries:
   - Single-Click Upload
   - Drag-n-Drop Upload
   - CMD line upload
+  stars: 9
+  update: "2019-06-14"
 - ID: 430
   Name: transfer.sh
   Description: Easy file sharing from the command line.
@@ -5917,6 +6631,8 @@ Entries:
   - Single-Click Upload
   - Drag-n-Drop Upload
   - CMD line upload
+  stars: 8414
+  update: "2019-06-13"
 - ID: 431
   Name: Apaxy
   Description: Theme built to enhance the experience of browsing web directories,
@@ -5932,6 +6648,8 @@ Entries:
   Tags:
   - File Sharing
   - Web File MGR
+  stars: 1452
+  update: "2019-06-04"
 - ID: 432
   Name: DirectoryLister
   Description: Simple PHP based directory lister that lists a directory and all it's
@@ -5946,6 +6664,8 @@ Entries:
   Tags:
   - File Sharing
   - Web File MGR
+  stars: 703
+  update: "2018-05-17"
 - ID: 433
   Name: Encode Explorer
   Description: Encode Explorer is a single page file browser, it is simple and functional.
@@ -5960,6 +6680,8 @@ Entries:
   Tags:
   - File Sharing
   - Web File MGR
+  stars: 167
+  update: "2018-03-05"
 - ID: 434
   Name: explorer
   Description: Highly-configurable directory listing made with nodejs.
@@ -5973,6 +6695,8 @@ Entries:
   Tags:
   - File Sharing
   - Web File MGR
+  stars: 163
+  update: "2018-02-14"
 - ID: 435
   Name: filebrowser
   Description: Web File Manager which can be used as a middleware or standalone app.
@@ -5987,6 +6711,8 @@ Entries:
   Tags:
   - File Sharing
   - Web File MGR
+  stars: 5138
+  update: "2019-06-13"
 - ID: 436
   Name: Filestash
   Description: 'A web file manager that lets you manage your data anywhere it is located:
@@ -6002,6 +6728,8 @@ Entries:
   Tags:
   - File Sharing
   - Web File MGR
+  stars: 1412
+  update: "2019-05-30"
 - ID: 437
   Name: goBrowser
   Description: Simple http file browser.
@@ -6014,6 +6742,8 @@ Entries:
   Tags:
   - File Sharing
   - Web File MGR
+  stars: 70
+  update: "2018-01-24"
 - ID: 438
   Name: h5ai
   Description: Modern file indexer for HTTP web servers with focus on your files.
@@ -6030,6 +6760,8 @@ Entries:
   Tags:
   - File Sharing
   - Web File MGR
+  stars: 3335
+  update: "2019-05-05"
 - ID: 439
   Name: IFM
   Description: Single script file manager.
@@ -6042,6 +6774,8 @@ Entries:
   Tags:
   - File Sharing
   - Web File MGR
+  stars: 153
+  update: "2019-05-22"
 - ID: 440
   Name: ResourceSpace
   Description: ResourceSpace open source digital asset management software is the
@@ -6071,6 +6805,8 @@ Entries:
   Tags:
   - File Sharing
   - Web File MGR
+  stars: 118
+  update: "2019-05-25"
 - ID: 442
   Name: Sprut.io
   Description: 2 panel file manager with drag and drop features, code editor, text
@@ -6086,6 +6822,8 @@ Entries:
   Tags:
   - File Sharing
   - Web File MGR
+  stars: 381
+  update: "2017-10-17"
 - ID: 443
   Name: Surfer
   Description: Simple static file server with webui to manage files.
@@ -6098,6 +6836,8 @@ Entries:
   Tags:
   - File Sharing
   - Web File MGR
+  stars: 22
+  update: "2017-08-09"
 - ID: 444
   Name: TagSpaces
   Description: TagSpaces is an offline, cross-platform file manager and organiser
@@ -6114,6 +6854,8 @@ Entries:
   Tags:
   - File Sharing
   - Web File MGR
+  stars: 1718
+  update: "2019-06-05"
 - ID: 445
   Name: A Dark Room
   Description: Minimalist text adventure game for your browser.
@@ -6126,6 +6868,8 @@ Entries:
   C: Games
   Tags:
   - Game
+  stars: 4431
+  update: "2019-01-28"
 - ID: 446
   Name: Agar.IO Clone
   Description: Agar.io clone written with Socket.IO and HTML5 canvas.
@@ -6137,6 +6881,8 @@ Entries:
   C: Games
   Tags:
   - Game
+  stars: 2419
+  update: "2019-01-22"
 - ID: 447
   Name: battlecraft
   Description: Fully distributed multiplayer browser game.
@@ -6149,6 +6895,8 @@ Entries:
   C: Games
   Tags:
   - Game
+  stars: 13
+  update: "2019-02-19"
 - ID: 448
   Name: Clumsy Bird
   Description: MelonJS port of the famous Flappy Bird Game.
@@ -6161,6 +6909,8 @@ Entries:
   C: Games
   Tags:
   - Game
+  stars: 1208
+  update: "2017-06-16"
 - ID: 449
   Name: elevatorsaga
   Description: The elevator programming game.
@@ -6173,6 +6923,8 @@ Entries:
   C: Games
   Tags:
   - Game
+  stars: 1575
+  update: "2015-07-21"
 - ID: 450
   Name: Hextris
   Description: Fast paced HTML5 puzzle game inspired by Tetris.
@@ -6185,6 +6937,8 @@ Entries:
   C: Games
   Tags:
   - Game
+  stars: 1474
+  update: "2019-05-10"
 - ID: 451
   Name: Lila
   Description: The forever free, adless and open source chess server powering lichess.org,
@@ -6198,6 +6952,8 @@ Entries:
   C: Games
   Tags:
   - Game
+  stars: 5520
+  update: "2019-06-15"
 - ID: 452
   Name: Posio
   Description: Geography multiplayer game.
@@ -6210,6 +6966,8 @@ Entries:
   C: Games
   Tags:
   - Game
+  stars: 396
+  update: "2019-06-04"
 - ID: 453
   Name: SourceBans++
   Description: Admin, ban, and communication management system for games running on
@@ -6223,6 +6981,8 @@ Entries:
   C: Games
   Tags:
   - Game
+  stars: 155
+  update: "2019-05-19"
 - ID: 454
   Name: Spyfall
   Description: Fan made web version of the Spyfall party game.
@@ -6236,6 +6996,8 @@ Entries:
   C: Games
   Tags:
   - Game
+  stars: 322
+  update: "2019-03-19"
 - ID: 455
   Name: Teeworlds
   Description: Open source 2D retro multiplayer shooter.
@@ -6249,6 +7011,8 @@ Entries:
   C: Games
   Tags:
   - Game
+  stars: 1238
+  update: "2019-06-16"
 - ID: 456
   Name: TournamentMango
   Description: TournamentMango is an open source tournament bracket and user management
@@ -6263,6 +7027,8 @@ Entries:
   C: Games
   Tags:
   - Game
+  stars: 116
+  update: "2016-11-13"
 - ID: 457
   Name: GateOne
   Description: Gate One is an HTML5 web-based terminal emulator and SSH client.
@@ -6275,6 +7041,8 @@ Entries:
   C: Gateways
   Tags:
   - Gateway
+  stars: 5462
+  update: "2017-11-25"
 - ID: 458
   Name: Guacamole
   Description: Guacamole is a clientless remote desktop gateway. It supports standard
@@ -6302,6 +7070,8 @@ Entries:
   C: Gateways
   Tags:
   - Gateway
+  stars: 79
+  update: "2017-07-27"
 - ID: 460
   Name: OS.js
   Description: Desktop implementation for your browser with a fully-fledged window
@@ -6316,6 +7086,8 @@ Entries:
   C: Gateways
   Tags:
   - Gateway
+  stars: 4840
+  update: "2019-06-10"
 - ID: 461
   Name: Citadel
   Description: Groupware including email, calendar/scheduling, address books, forums,
@@ -6356,6 +7128,8 @@ Entries:
   C: Groupware
   Tags:
   - Groupware
+  stars: 88
+  update: "2019-06-15"
 - ID: 464
   Name: EspoCRM
   Description: CRM with a frontend designed as a single page application, and a REST
@@ -6370,6 +7144,8 @@ Entries:
   C: Groupware
   Tags:
   - Groupware
+  stars: 454
+  update: "2019-06-10"
 - ID: 465
   Name: Horde
   Description: The Horde Project is about creating high quality Open Source applications
@@ -6384,6 +7160,8 @@ Entries:
   C: Groupware
   Tags:
   - Groupware
+  stars: 244
+  update: "2017-10-03"
 - ID: 466
   Name: HRCloud2
   Description: Full-featured home hosted Cloud Drive, Personal Assistant, App Launcher,
@@ -6397,6 +7175,8 @@ Entries:
   C: Groupware
   Tags:
   - Groupware
+  stars: 86
+  update: "2019-06-12"
 - ID: 467
   Name: Kolab
   Description: Kolab community is a unified communication and collaboration system.
@@ -6458,6 +7238,8 @@ Entries:
   C: Groupware
   Tags:
   - Groupware
+  stars: 781
+  update: "2019-06-14"
 - ID: 471
   Name: SuiteCRM
   Description: The award-winning, enterprise-class open source CRM.
@@ -6470,6 +7252,8 @@ Entries:
   C: Groupware
   Tags:
   - Groupware
+  stars: 1495
+  update: "2019-06-03"
 - ID: 472
   Name: Tine 2.0
   Description: Contacts, Calendar, Tasks, WebDAV, ActiveSync, VOIP, Mail-Client, CRM,
@@ -6515,6 +7299,8 @@ Entries:
   Tags:
   - HRM
   - Human Resources MGMNT
+  stars: 77
+  update: "2019-03-02"
 - ID: 475
   Name: IceHrm
   Description: IceHrm employee management system allows companies to centralize confidential
@@ -6530,6 +7316,8 @@ Entries:
   Tags:
   - HRM
   - Human Resources MGMNT
+  stars: 255
+  update: "2019-02-19"
 - ID: 476
   Name: OrangeHRM
   Description: OrangeHRM is a comprehensive HRM system that captures all the essential
@@ -6558,6 +7346,8 @@ Entries:
   Tags:
   - HRM
   - Human Resources MGMNT
+  stars: 296
+  update: "2017-04-17"
 - ID: 478
   Name: TimeOff.Management
   Description: Simple yet powerful absence management software for small and medium
@@ -6573,6 +7363,8 @@ Entries:
   Tags:
   - HRM
   - Human Resources MGMNT
+  stars: 480
+  update: "2019-03-11"
 - ID: 479
   Name: DeviceHive
   Description: Open Source IoT Plaform with a wide range of integration options.
@@ -6587,6 +7379,8 @@ Entries:
   Tags:
   - Internet Of Things
   - IoT
+  stars: 163
+  update: "2018-05-25"
 - ID: 480
   Name: Domoticz
   Description: 'Home Automation System that lets you monitor and configure various
@@ -6605,6 +7399,8 @@ Entries:
   Tags:
   - Internet Of Things
   - IoT
+  stars: 2114
+  update: "2019-06-16"
 - ID: 481
   Name: Thingsboard
   Description: Open-source IoT Platform - Device management, data collection, processing
@@ -6620,6 +7416,8 @@ Entries:
   Tags:
   - Internet Of Things
   - IoT
+  stars: 3208
+  update: "2019-06-05"
 - ID: 482
   Name: Thingspeak
   Description: Open source “Internet of Things” application and API to store and retrieve
@@ -6635,6 +7433,8 @@ Entries:
   Tags:
   - Internet Of Things
   - IoT
+  stars: 901
+  update: "2015-07-09"
 - ID: 483
   Name: Canvas LMS
   Description: Canvas is the trusted, open-source learning management system (LMS)
@@ -6651,6 +7451,8 @@ Entries:
   - Learning
   - Courses
   - LMS
+  stars: 2815
+  update: "2019-06-10"
 - ID: 484
   Name: Chamilo LMS
   Description: Chamilo LMS allows you to create a virtual campus for the provision
@@ -6666,6 +7468,8 @@ Entries:
   - Learning
   - Courses
   - LMS
+  stars: 373
+  update: "2019-06-14"
 - ID: 485
   Name: edX
   Description: The Open edX platform is open-source code that powers edX.org.
@@ -6696,6 +7500,8 @@ Entries:
   - Learning
   - Courses
   - LMS
+  stars: 161
+  update: "2019-06-14"
 - ID: 487
   Name: Mahara
   Description: Open Source fully featured web application to build students electronic
@@ -6711,6 +7517,8 @@ Entries:
   - Learning
   - Courses
   - LMS
+  stars: 60
+  update: "2019-06-14"
 - ID: 488
   Name: Moodle
   Description: Moodle is a learning and courses platform with one of the largest open
@@ -6743,6 +7551,8 @@ Entries:
   - Learning
   - Courses
   - LMS
+  stars: 53
+  update: "2019-04-24"
 - ID: 490
   Name: RELATE
   Description: 'RELATE is a web-based courseware package, includes features such as:
@@ -6758,6 +7568,8 @@ Entries:
   - Learning
   - Courses
   - LMS
+  stars: 176
+  update: "2019-04-23"
 - ID: 491
   Name: RosarioSIS
   Description: RosarioSIS, free Student Information System for school management.
@@ -6789,6 +7601,8 @@ Entries:
   - Learning
   - Courses
   - LMS
+  stars: 505
+  update: "2019-06-13"
 - ID: 493
   Name: SchoolTool
   Description: SchoolTool is free administrative software for schools. It includes
@@ -6818,6 +7632,8 @@ Entries:
   Tags:
   - Maps
   - GPS
+  stars: 2088
+  update: "2019-06-16"
 - ID: 495
   Name: MapBBCodeShare
   Description: Tool for sharing custom OSM maps. Support for annotated markers, polygons,
@@ -6833,6 +7649,8 @@ Entries:
   Tags:
   - Maps
   - GPS
+  stars: 35
+  update: "2018-06-26"
 - ID: 496
   Name: OpenGTS
   Description: Entry-level fleet tracking system. Supports variety of tracking devices
@@ -6862,6 +7680,8 @@ Entries:
   Tags:
   - Maps
   - GPS
+  stars: 969
+  update: "2019-06-15"
 - ID: 498
   Name: Orion
   Description: Powerful OwnTracks API-compliant location data visualization frontend
@@ -6877,6 +7697,8 @@ Entries:
   Tags:
   - Maps
   - GPS
+  stars: 71
+  update: "2019-06-02"
 - ID: 499
   Name: OwnTracks Recorder
   Description: Store and access data published by [OwnTracks](http://owntracks.org/)
@@ -6891,6 +7713,8 @@ Entries:
   - Maps
   - GPS
   ProprietaryDependency: true
+  stars: 350
+  update: "2019-06-09"
 - ID: 500
   Name: TileServer GL
   Description: Vector and raster maps with GL styles. Server side rendering by Mapbox
@@ -6906,6 +7730,8 @@ Entries:
   Tags:
   - Maps
   - GPS
+  stars: 764
+  update: "2019-04-29"
 - ID: 501
   Name: TileServer PHP
   Description: Serve map tiles from any PHP hosting.
@@ -6918,6 +7744,8 @@ Entries:
   Tags:
   - Maps
   - GPS
+  stars: 353
+  update: "2019-04-04"
 - ID: 502
   Name: Traccar
   Description: Java application to track GPS positions. Supports loads of tracking
@@ -6948,6 +7776,8 @@ Entries:
   Tags:
   - Maps
   - GPS
+  stars: 409
+  update: "2019-05-11"
 - ID: 504
   Name: Darwin Streaming Server
   Description: High performance server for streaming QuickTime and MPEG-4 media over
@@ -6963,6 +7793,8 @@ Entries:
   - Media
   - Streaming
   - Multimedia
+  stars: 246
+  update: "2016-08-30"
 - ID: 505
   Name: homehost
   Description: Self-hosted React + Redux app that streams your media collection (music,
@@ -6978,6 +7810,8 @@ Entries:
   - Streaming
   - Multimedia
   ProprietaryDependency: true
+  stars: 386
+  update: "2019-04-24"
 - ID: 506
   Name: Icecast 2
   Description: streaming audio/video server which can be used to create an Internet
@@ -7010,6 +7844,8 @@ Entries:
   - Media
   - Streaming
   - Multimedia
+  stars: 2735
+  update: "2019-06-14"
 - ID: 508
   Name: MistServer
   Description: Streaming media server that works well in any streaming environment.
@@ -7024,6 +7860,8 @@ Entries:
   - Media
   - Streaming
   - Multimedia
+  stars: 151
+  update: "2019-05-23"
 - ID: 509
   Name: ReadyMedia
   Description: Simple media server software, with the aim of being fully compliant
@@ -7088,6 +7926,8 @@ Entries:
   - Media
   - Streaming
   - Audio
+  stars: 2147
+  update: "2019-06-13"
 - ID: 513
   Name: Airsonic
   Description: Open-source web-based media streamer and jukebox. A fork of Subsonic's
@@ -7105,6 +7945,8 @@ Entries:
   - Media
   - Streaming
   - Audio
+  stars: 810
+  update: "2019-06-15"
 - ID: 514
   Name: AzuraCast
   Description: A modern and accessible self-hosted web radio management suite.
@@ -7119,6 +7961,8 @@ Entries:
   - Media
   - Streaming
   - Audio
+  stars: 491
+  update: "2019-06-14"
 - ID: 515
   Name: Beets
   Description: Music library manager and MusicBrainz tagger (command-line and Web
@@ -7134,6 +7978,8 @@ Entries:
   - Media
   - Streaming
   - Audio
+  stars: 8721
+  update: "2019-06-11"
 - ID: 516
   Name: CherryMusic
   Description: Minimalistic Web-Mediaplayer.
@@ -7148,6 +7994,8 @@ Entries:
   - Media
   - Streaming
   - Audio
+  stars: 982
+  update: "2018-02-07"
 - ID: 517
   Name: cloudtunes
   Description: Web-based music player for the cloud.
@@ -7162,6 +8010,8 @@ Entries:
   - Streaming
   - Audio
   ProprietaryDependency: true
+  stars: 2359
+  update: "2017-03-11"
 - ID: 518
   Name: Compactd
   Description: Remote music player that supports adding content.
@@ -7175,6 +8025,8 @@ Entries:
   - Media
   - Streaming
   - Audio
+  stars: 56
+  update: "2018-05-25"
 - ID: 519
   Name: FriendsRadio
   Description: Share music with your friends from Youtube and Soundcloud.
@@ -7190,6 +8042,8 @@ Entries:
   - Streaming
   - Audio
   ProprietaryDependency: true
+  stars: 12
+  update: "2017-10-09"
 - ID: 520
   Name: Funkwhale
   Description: A modern, web-based, convivial, multi-user and free music server.
@@ -7234,6 +8088,8 @@ Entries:
   - Media
   - Streaming
   - Audio
+  stars: 1726
+  update: "2018-07-07"
 - ID: 523
   Name: koel
   Description: Personal music streaming server that works.
@@ -7248,6 +8104,8 @@ Entries:
   - Media
   - Streaming
   - Audio
+  stars: 10258
+  update: "2019-06-01"
 - ID: 524
   Name: LibreTime
   Description: Simple, open source platform that lets you broadcast streaming radio
@@ -7263,6 +8121,8 @@ Entries:
   - Media
   - Streaming
   - Audio
+  stars: 209
+  update: "2019-05-11"
 - ID: 525
   Name: LMS
   Description: Access your self-hosted music using a web interface.
@@ -7277,6 +8137,8 @@ Entries:
   - Media
   - Streaming
   - Audio
+  stars: 27
+  update: "2019-06-10"
 - ID: 526
   Name: Mopidy
   Description: Extensible music server. Offers a superset of the mpd API, as well
@@ -7292,6 +8154,8 @@ Entries:
   - Media
   - Streaming
   - Audio
+  stars: 5841
+  update: "2019-06-11"
 - ID: 527
   Name: Moped
   Description: Responsive HTML5 + Javascript client for the Mopidy music server.
@@ -7305,6 +8169,8 @@ Entries:
   - Media
   - Streaming
   - Audio
+  stars: 413
+  update: "2017-05-21"
 - ID: 528
   Name: Mopidy MusicBox
   Description: Web Client for Mopidy Music Server.
@@ -7318,6 +8184,8 @@ Entries:
   - Media
   - Streaming
   - Audio
+  stars: 334
+  update: "2018-05-21"
 - ID: 529
   Name: Mopidy-Party
   Description: Mopidy web extension designed for party! Let your guests manage the
@@ -7332,6 +8200,8 @@ Entries:
   - Media
   - Streaming
   - Audio
+  stars: 65
+  update: "2019-03-14"
 - ID: 530
   Name: mpd
   Description: Daemon to remotely play music, stream music, handle and organize playlists.
@@ -7347,6 +8217,8 @@ Entries:
   - Media
   - Streaming
   - Audio
+  stars: 882
+  update: "2019-06-16"
 - ID: 531
   Name: ympd
   Description: Standalone MPD Web GUI written in C, utilizing Websockets and Bootstrap/JS.
@@ -7361,6 +8233,8 @@ Entries:
   - Media
   - Streaming
   - Audio
+  stars: 419
+  update: "2018-03-29"
 - ID: 532
   Name: mStream
   Description: Music streaming server with GUI management tools. Runs on Mac, Windows,
@@ -7377,6 +8251,8 @@ Entries:
   - Media
   - Streaming
   - Audio
+  stars: 1344
+  update: "2019-05-24"
 - ID: 533
   Name: Music Browser
   Description: Browser and streamer for your music collection. It is runs on most
@@ -7391,6 +8267,8 @@ Entries:
   - Media
   - Streaming
   - Audio
+  stars: 19
+  update: "2014-01-20"
 - ID: 534
   Name: musikcube
   Description: Streaming audio server with Linux/macOS/Windows/Android clients.
@@ -7405,6 +8283,8 @@ Entries:
   - Media
   - Streaming
   - Audio
+  stars: 1551
+  update: "2019-05-03"
 - ID: 535
   Name: Polaris
   Description: Music browsing and streaming application optimized for large music
@@ -7419,6 +8299,8 @@ Entries:
   - Media
   - Streaming
   - Audio
+  stars: 107
+  update: "2019-05-29"
 - ID: 536
   Name: Sonerezh
   Description: Self-hosted, web-based application for stream your music, everywhere.
@@ -7434,6 +8316,8 @@ Entries:
   - Media
   - Streaming
   - Audio
+  stars: 712
+  update: "2019-02-06"
 - ID: 537
   Name: Volumio
   Description: A free and open source linux distribution, designed and fine-tuned
@@ -7449,6 +8333,8 @@ Entries:
   - Media
   - Streaming
   - Audio
+  stars: 922
+  update: "2019-06-11"
 - ID: 538
   Name: crtmpserver
   Description: High performance RTMP/RTSP streaming server.
@@ -7477,6 +8363,8 @@ Entries:
   - Media
   - Streaming
   - Video
+  stars: 798
+  update: "2019-06-09"
 - ID: 540
   Name: Hellowlol HTPC Manager fork
   Description: Fully responsive interface to manage all your favorite media on your
@@ -7492,6 +8380,8 @@ Entries:
   - Media
   - Streaming
   - Video
+  stars: 511
+  update: "2017-08-21"
 - ID: 541
   Name: Myflix
   Description: Self-hosted, super lightweight Netflix alternative.
@@ -7505,6 +8395,8 @@ Entries:
   - Media
   - Streaming
   - Video
+  stars: 167
+  update: "2019-05-16"
 - ID: 542
   Name: Odd Networks
   Description: Open source video management system (VMS) and API for collections and
@@ -7521,6 +8413,8 @@ Entries:
   - Media
   - Streaming
   - Video
+  stars: 278
+  update: "2019-04-22"
 - ID: 543
   Name: Open Streaming Platform
   Description: Self-Hosted alternative to Twitch and Youtube Live for live and on-demand
@@ -7536,6 +8430,8 @@ Entries:
   - Media
   - Streaming
   - Video
+  stars: 59
+  update: "2019-06-16"
 - ID: 544
   Name: PeerTube
   Description: Decentralized video streaming platform using P2P (BitTorrent) directly
@@ -7551,6 +8447,8 @@ Entries:
   - Media
   - Streaming
   - Video
+  stars: 5648
+  update: "2019-06-14"
 - ID: 545
   Name: Restreamer
   Description: Restreamer allows you to do h.264 real-time video streaming on your
@@ -7567,6 +8465,8 @@ Entries:
   - Media
   - Streaming
   - Video
+  stars: 881
+  update: "2019-06-06"
 - ID: 546
   Name: ShinobiCE
   Description: Open Source CCTV software written in Node with both IP and local camera
@@ -7583,6 +8483,8 @@ Entries:
   - Media
   - Streaming
   - Video
+  stars: 42
+  update: "2019-06-01"
 - ID: 547
   Name: Streama
   Description: Self hosted streaming media server.
@@ -7597,6 +8499,8 @@ Entries:
   - Media
   - Streaming
   - Video
+  stars: 7641
+  update: "2019-05-30"
 - ID: 548
   Name: VideoLAN Client (VLC)
   Description: Cross-platform multimedia player client and server supporting most
@@ -7612,6 +8516,8 @@ Entries:
   - Media
   - Streaming
   - Video
+  stars: 5028
+  update: "2019-06-16"
 - ID: 549
   Name: Zoneminder
   Description: Closed-circuit television (CCTV) software application which supports
@@ -7627,6 +8533,8 @@ Entries:
   - Media
   - Streaming
   - Video
+  stars: 2191
+  update: "2019-06-16"
 - ID: 550
   Name: "411"
   Description: Alert Management Web Application.
@@ -7640,6 +8548,8 @@ Entries:
   Tags:
   - Misc
   - Other
+  stars: 859
+  update: "2019-06-07"
 - ID: 551
   Name: AlertHub
   Description: AlertHub is a simple tool to get alerted from GitHub releases.
@@ -7653,6 +8563,8 @@ Entries:
   - Misc
   - Other
   ProprietaryDependency: true
+  stars: 60
+  update: "2019-04-06"
 - ID: 552
   Name: Anchr
   Description: Anchr is a toolbox for tiny tasks on the internet, including bookmark
@@ -7667,6 +8579,8 @@ Entries:
   Tags:
   - Misc
   - Other
+  stars: 32
+  update: "2019-06-11"
 - ID: 553
   Name: Anuko
   Description: Anuko provides simple time and project tracking on a selfhosted basis.
@@ -7681,6 +8595,8 @@ Entries:
   Tags:
   - Misc
   - Other
+  stars: 98
+  update: "2019-05-29"
 - ID: 554
   Name: asciiflow
   Description: Flow Diagram Drawing Tool.
@@ -7695,6 +8611,8 @@ Entries:
   Tags:
   - Misc
   - Other
+  stars: 878
+  update: "2019-02-11"
 - ID: 555
   Name: blynk
   Description: Platform with iOS and Android apps to control Arduino, ESP8266, Raspberry
@@ -7709,6 +8627,8 @@ Entries:
   Tags:
   - Misc
   - Other
+  stars: 1435
+  update: "2019-06-14"
 - ID: 556
   Name: CUPS
   Description: The Common Unix Print System uses Internet Printing Protocol (IPP)
@@ -7723,6 +8643,8 @@ Entries:
   Tags:
   - Misc
   - Other
+  stars: 752
+  update: "2019-06-13"
 - ID: 557
   Name: DomainMOD
   Description: Application to manage your domains and other internet assets in a central
@@ -7740,6 +8662,8 @@ Entries:
   Tags:
   - Misc
   - Other
+  stars: 177
+  update: "2019-02-09"
 - ID: 558
   Name: EasyBook Project
   Description: Book publishing as easy as it should be.
@@ -7753,6 +8677,8 @@ Entries:
   Tags:
   - Misc
   - Other
+  stars: 735
+  update: "2016-06-13"
 - ID: 559
   Name: Flox
   Description: Self hosted movie, TV series and anime watch list with a 3-point rating
@@ -7768,6 +8694,8 @@ Entries:
   - Misc
   - Other
   ProprietaryDependency: true
+  stars: 537
+  update: "2018-02-20"
 - ID: 560
   Name: formspree
   Description: Just send your form to our URL and we'll forward it to your email.
@@ -7784,6 +8712,8 @@ Entries:
   - Misc
   - Other
   ProprietaryDependency: true
+  stars: 2497
+  update: "2018-12-04"
 - ID: 561
   Name: GeneWeb
   Description: GeneWeb is an open source genealogy software written in OCaml. It comes
@@ -7799,6 +8729,8 @@ Entries:
   Tags:
   - Misc
   - Other
+  stars: 104
+  update: "2019-06-16"
 - ID: 562
   Name: How Secure Is My Password
   Description: Rather than just saying a password is "weak" or "strong", How Secure
@@ -7814,6 +8746,8 @@ Entries:
   Tags:
   - Misc
   - Other
+  stars: 348
+  update: "2018-06-26"
 - ID: 563
   Name: google-webfonts-helper
   Description: Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff
@@ -7829,6 +8763,8 @@ Entries:
   - Misc
   - Other
   ProprietaryDependency: true
+  stars: 5104
+  update: "2017-11-20"
 - ID: 564
   Name: ytdl-webserver
   Description: Docker-ready webserver for downloading youtube videos.
@@ -7841,6 +8777,8 @@ Entries:
   Tags:
   - Misc
   - Other
+  stars: 1134
+  update: "2019-05-05"
 - ID: 565
   Name: Kimai
   Description: Simple time and project tracking.
@@ -7855,6 +8793,8 @@ Entries:
   Tags:
   - Misc
   - Other
+  stars: 563
+  update: "2018-11-04"
 - ID: 566
   Name: King Phisher
   Description: King Phisher is a tool for testing and promoting user awareness by
@@ -7868,6 +8808,8 @@ Entries:
   Tags:
   - Misc
   - Other
+  stars: 893
+  update: "2019-05-01"
 - ID: 567
   Name: Maily Form
   Description: Self-hosted service you can use to place forms on static sites. It
@@ -7882,6 +8824,8 @@ Entries:
   Tags:
   - Misc
   - Other
+  stars: 21
+  update: "2019-05-31"
 - ID: 568
   Name: Mindmaps
   Description: Open source, offline capable, mind mapping application.
@@ -7895,6 +8839,8 @@ Entries:
   Tags:
   - Misc
   - Other
+  stars: 1639
+  update: "2018-06-17"
 - ID: 569
   Name: Monica
   Description: Personal relationship manager, and a new kind of CRM to organize interactions
@@ -7909,6 +8855,8 @@ Entries:
   Tags:
   - Misc
   - Other
+  stars: 7262
+  update: "2019-06-16"
 - ID: 570
   Name: Musical Artifacts
   Description: Helping to catalog, preserve and free the artifacts you need to produce
@@ -7923,6 +8871,8 @@ Entries:
   Tags:
   - Misc
   - Other
+  stars: 40
+  update: "2019-06-06"
 - ID: 571
   Name: My Mind
   Description: Web application for creating and managing mind maps.
@@ -7936,6 +8886,8 @@ Entries:
   Tags:
   - Misc
   - Other
+  stars: 2145
+  update: "2018-10-31"
 - ID: 572
   Name: nnmm
   Description: Super tiny pastebin/url minifier "microservice".
@@ -7949,6 +8901,8 @@ Entries:
   Tags:
   - Misc
   - Other
+  stars: 39
+  update: "2018-01-19"
 - ID: 573
   Name: Notica
   Description: Lets you send browser notifications from your terminal to your desktop
@@ -7963,6 +8917,8 @@ Entries:
   Tags:
   - Misc
   - Other
+  stars: 119
+  update: "2019-04-17"
 - ID: 574
   Name: Ombi
   Description: A content request system for Plex/Emby, connects to SickRage, CouchPotato,
@@ -7978,6 +8934,8 @@ Entries:
   Tags:
   - Misc
   - Other
+  stars: 1560
+  update: "2019-05-31"
 - ID: 575
   Name: revealjs
   Description: Framework for easily creating beautiful presentations using HTML.
@@ -7992,6 +8950,8 @@ Entries:
   Tags:
   - Misc
   - Other
+  stars: 46893
+  update: "2019-04-08"
 - ID: 576
   Name: SANE Network Scanning
   Description: Allow remote clients to access image acquisition devices (scanners)
@@ -8020,6 +8980,8 @@ Entries:
   - Misc
   - Other
   ProprietaryDependency: true
+  stars: 23
+  update: "2019-06-10"
 - ID: 578
   Name: Ulterius
   Description: Ulterius is an open-source remote desktop software with lots of awesome
@@ -8035,6 +8997,8 @@ Entries:
   Tags:
   - Misc
   - Other
+  stars: 591
+  update: "2017-10-23"
 - ID: 579
   Name: ViMbAdmin
   Description: Provides a web based virtual mailbox administration system to allow
@@ -8050,6 +9014,8 @@ Entries:
   Tags:
   - Misc
   - Other
+  stars: 413
+  update: "2018-03-07"
 - ID: 580
   Name: visualCaptcha
   Description: Configurable captcha solution, focusing on accessibility and simplicity
@@ -8068,6 +9034,8 @@ Entries:
   Tags:
   - Misc
   - Other
+  stars: 394
+  update: "2018-01-24"
 - ID: 581
   Name: Web fonts repository
   Description: A simple webfont hosting. Google Fonts alternative for your own fonts.
@@ -8080,6 +9048,8 @@ Entries:
   Tags:
   - Misc
   - Other
+  stars: 22
+  update: "2019-05-25"
 - ID: 582
   Name: webtrees
   Description: Webtrees is the web's leading on-line collaborative genealogy application.
@@ -8094,6 +9064,8 @@ Entries:
   Tags:
   - Misc
   - Other
+  stars: 337
+  update: "2019-06-09"
 - ID: 583
   Name: Akaunting
   Description: Akaunting is a free, online and open source accounting software designed
@@ -8108,6 +9080,8 @@ Entries:
   Tags:
   - Money
   - Budget
+  stars: 1840
+  update: "2019-04-10"
 - ID: 584
   Name: BTCPay Server
   Description: A self-hosted Bitcoin and other cryptocurrencies payment processor.
@@ -8134,6 +9108,8 @@ Entries:
   Tags:
   - Money
   - Budget
+  stars: 299
+  update: "2016-05-09"
 - ID: 586
   Name: Boodle
   Description: Simple accounting single-page application in Clojure and ClojureScript.
@@ -8146,6 +9122,8 @@ Entries:
   Tags:
   - Money
   - Budget
+  stars: 114
+  update: "2019-06-16"
 - ID: 587
   Name: Budget App
   Description: Budget App is an open source personal budgeting application.
@@ -8158,6 +9136,8 @@ Entries:
   Tags:
   - Money
   - Budget
+  stars: 209
+  update: "2019-04-16"
 - ID: 588
   Name: Dot Ledger
   Description: Web-based personal finance management tool.
@@ -8172,6 +9152,8 @@ Entries:
   Tags:
   - Money
   - Budget
+  stars: 175
+  update: "2018-05-09"
 - ID: 589
   Name: Economizzer
   Description: An easy and secure system for you to manage your personal money and
@@ -8187,6 +9169,8 @@ Entries:
   Tags:
   - Money
   - Budget
+  stars: 301
+  update: "2018-09-24"
 - ID: 590
   Name: ExMoney
   Description: Self-hosted personal finance app.
@@ -8199,6 +9183,8 @@ Entries:
   Tags:
   - Money
   - Budget
+  stars: 115
+  update: "2019-02-17"
 - ID: 591
   Name: Firefly III
   Description: Firefly III is a modern financial manager. It helps you to keep track
@@ -8216,6 +9202,8 @@ Entries:
   Tags:
   - Money
   - Budget
+  stars: 2475
+  update: "2019-03-17"
 - ID: 592
   Name: Fava
   Description: Fava is the web frontend of Beancount, a text based double-entry accounting
@@ -8231,6 +9219,8 @@ Entries:
   Tags:
   - Money
   - Budget
+  stars: 469
+  update: "2019-06-09"
 - ID: 593
   Name: Galette
   Description: Galette is a membership management web application towards non profit
@@ -8258,6 +9248,8 @@ Entries:
   Tags:
   - Money
   - Budget
+  stars: 25
+  update: "2019-05-12"
 - ID: 595
   Name: Hospital Run
   Description: Hospital Run is offline enabled hospital management software.
@@ -8272,6 +9264,8 @@ Entries:
   Tags:
   - Money
   - Budget
+  stars: 514
+  update: "2018-10-28"
 - ID: 596
   Name: Inventaire
   Description: Collaborative resources mapper project, while yet only focused on exploring
@@ -8286,6 +9280,8 @@ Entries:
   Tags:
   - Money
   - Budget
+  stars: 202
+  update: "2019-06-16"
 - ID: 597
   Name: Invoice Ninja
   Description: Powerful tool to invoice clients online.
@@ -8300,6 +9296,8 @@ Entries:
   Tags:
   - Money
   - Budget
+  stars: 4361
+  update: "2019-05-27"
 - ID: 598
   Name: InvoicePlane
   Description: Manage quotes, invoices, payments and customers for your small business.
@@ -8314,6 +9312,8 @@ Entries:
   Tags:
   - Money
   - Budget
+  stars: 1444
+  update: "2019-02-08"
 - ID: 599
   Name: IHateMoney
   Description: Manage your shared expenses, easily.
@@ -8328,6 +9328,8 @@ Entries:
   Tags:
   - Money
   - Budget
+  stars: 236
+  update: "2019-06-11"
 - ID: 600
   Name: Kresus
   Description: Open source personal finance manager.
@@ -8342,6 +9344,8 @@ Entries:
   Tags:
   - Money
   - Budget
+  stars: 124
+  update: "2019-06-07"
 - ID: 601
   Name: PartKeepr
   Description: PartKeepr is an electronic part inventory management software. It helps
@@ -8357,6 +9361,8 @@ Entries:
   Tags:
   - Money
   - Budget
+  stars: 550
+  update: "2018-07-20"
 - ID: 602
   Name: SilverStrike
   Description: Personal finance management made easy.
@@ -8372,6 +9378,8 @@ Entries:
   Tags:
   - Money
   - Budget
+  stars: 110
+  update: "2019-06-04"
 - ID: 603
   Name: StockazNG
   Description: Asset Management System.
@@ -8398,6 +9406,8 @@ Entries:
   Tags:
   - Note-taking
   - Editor
+  stars: 10
+  update: "2019-04-30"
 - ID: 605
   Name: BulletNotes
   Description: Workflowy / Dynalist clone with Kanban (Trello) and Calendar functionality.
@@ -8412,6 +9422,8 @@ Entries:
   Tags:
   - Note-taking
   - Editor
+  stars: 39
+  update: "2019-06-07"
 - ID: 606
   Name: Boostnote
   Description: The note-taking app for programmers that focuses on markdown, snippets,
@@ -8426,6 +9438,8 @@ Entries:
   Tags:
   - Note-taking
   - Editor
+  stars: 13973
+  update: "2019-06-06"
 - ID: 607
   Name: CodiMD
   Description: Realtime collaborative markdown notes on all platforms, formerly HackMD
@@ -8440,6 +9454,8 @@ Entries:
   Tags:
   - Note-taking
   - Editor
+  stars: 4853
+  update: "2019-05-24"
 - ID: 608
   Name: dillinger
   Description: The last Markdown editor, ever.
@@ -8453,6 +9469,8 @@ Entries:
   Tags:
   - Note-taking
   - Editor
+  stars: 6401
+  update: "2019-04-17"
 - ID: 609
   Name: draw.io
   Description: Diagram software for making flowcharts, process diagrams, org charts,
@@ -8467,6 +9485,8 @@ Entries:
   Tags:
   - Note-taking
   - Editor
+  stars: 9704
+  update: "2019-06-13"
 - ID: 610
   Name: Joplin
   Description: Joplin is a note taking application with Markdown editor and encryption
@@ -8482,6 +9502,8 @@ Entries:
   Tags:
   - Note-taking
   - Editor
+  stars: 7796
+  update: "2019-06-15"
 - ID: 611
   Name: Leanote
   Description: Leanote, Not Just A Notepad! Open source cloud notepad.
@@ -8496,6 +9518,8 @@ Entries:
   Tags:
   - Note-taking
   - Editor
+  stars: 8455
+  update: "2019-04-09"
 - ID: 612
   Name: Markdown Edit
   Description: Online markdown editor/viewer.
@@ -8509,6 +9533,8 @@ Entries:
   Tags:
   - Note-taking
   - Editor
+  stars: 175
+  update: "2015-01-07"
 - ID: 613
   Name: Meemo
   Description: Personal notes stream with Markdown support.
@@ -8522,6 +9548,8 @@ Entries:
   Tags:
   - Note-taking
   - Editor
+  stars: 174
+  update: "2019-04-10"
 - ID: 614
   Name: minimalist-web-notepad
   Description: Minimalist notepad.cc clone.
@@ -8534,6 +9562,8 @@ Entries:
   Tags:
   - Note-taking
   - Editor
+  stars: 155
+  update: "2019-04-15"
 - ID: 615
   Name: MiniNote
   Description: Simple Markdown note-taking app with persistence.
@@ -8546,6 +9576,8 @@ Entries:
   Tags:
   - Note-taking
   - Editor
+  stars: 130
+  update: "2019-02-10"
 - ID: 616
   Name: OpenNote
   Description: OpenNote was built to be an open web-based alternative to Microsoft
@@ -8560,6 +9592,8 @@ Entries:
   Tags:
   - Note-taking
   - Editor
+  stars: 1364
+  update: "2019-04-25"
 - ID: 617
   Name: Paperwork
   Description: OpenSource note-taking and archiving alternative to Evernote, Microsoft
@@ -8574,6 +9608,8 @@ Entries:
   Tags:
   - Note-taking
   - Editor
+  stars: 3
+  update: "2019-01-20"
 - ID: 618
   Name: savepad
   Description: Minimalist notepad based on notepad.cc.
@@ -8586,6 +9622,8 @@ Entries:
   Tags:
   - Note-taking
   - Editor
+  stars: 12
+  update: "2017-11-01"
 - ID: 619
   Name: ShareLaTex
   Description: Web-based collaborative LaTeX editor.
@@ -8599,6 +9637,8 @@ Entries:
   Tags:
   - Note-taking
   - Editor
+  stars: 5423
+  update: "2019-05-31"
 - ID: 620
   Name: Standard Notes
   Description: Simple and private notes app. Protect your privacy while getting more
@@ -8627,6 +9667,8 @@ Entries:
   Tags:
   - Note-taking
   - Editor
+  stars: 4044
+  update: "2019-01-25"
 - ID: 622
   Name: Trilium Notes
   Description: Trilium Notes is a hierarchical note taking application with focus
@@ -8640,6 +9682,8 @@ Entries:
   Tags:
   - Note-taking
   - Editor
+  stars: 5232
+  update: "2019-06-16"
 - ID: 623
   Name: Turtl
   Description: Totally private personal database and note taking app.
@@ -8680,6 +9724,8 @@ Entries:
   C: Office Suites
   Tags:
   - Office Suites
+  stars: 1231
+  update: "2019-06-14"
 - ID: 626
   Name: EtherCalc
   Description: Web spreadsheet.
@@ -8693,6 +9739,8 @@ Entries:
   C: Office Suites
   Tags:
   - Office Suites
+  stars: 2150
+  update: "2019-05-30"
 - ID: 627
   Name: EtherDraw
   Description: Intuitive collaborative drawing web based tool.
@@ -8704,6 +9752,8 @@ Entries:
   C: Office Suites
   Tags:
   - Office Suites
+  stars: 440
+  update: "2017-11-26"
 - ID: 628
   Name: Etherpad
   Description: Etherpad is a highly customizable Open Source online editor providing
@@ -8718,6 +9768,8 @@ Entries:
   C: Office Suites
   Tags:
   - Office Suites
+  stars: 7823
+  update: "2019-06-13"
 - ID: 629
   Name: Infinoted
   Description: Server for [Gobby](https://github.com/gobby/gobby/wiki), a multi-platform
@@ -8731,6 +9783,8 @@ Entries:
   C: Office Suites
   Tags:
   - Office Suites
+  stars: 439
+  update: "2018-08-26"
 - ID: 630
   Name: ONLYOFFICE
   Description: Office suite that enables you to manage documents, projects, team and
@@ -8744,6 +9798,8 @@ Entries:
   C: Office Suites
   Tags:
   - Office Suites
+  stars: 1145
+  update: "2019-06-06"
 - ID: 631
   Name: PHPOffice
   Description: PHPOffice contains libraries which permits to write and read files
@@ -8768,6 +9824,8 @@ Entries:
   C: Office Suites
   Tags:
   - Office Suites
+  stars: 648
+  update: "2019-02-08"
 - ID: 633
   Name: Bitwarden
   Description: Password manager with webapp, browser extension, and mobile app.
@@ -8780,6 +9838,8 @@ Entries:
   C: Password Managers
   Tags:
   - Password Manager
+  stars: 3292
+  update: "2019-06-13"
 - ID: 634
   Name: keeweb
   Description: This webapp is a browser and desktop password manager compatible with
@@ -8793,6 +9853,8 @@ Entries:
   C: Password Managers
   Tags:
   - Password Manager
+  stars: 7652
+  update: "2019-04-22"
 - ID: 635
   Name: Passbolt
   Description: Password manager dedicated for managing passwords in a collaborative
@@ -8806,6 +9868,8 @@ Entries:
   C: Password Managers
   Tags:
   - Password Manager
+  stars: 1137
+  update: "2019-05-16"
 - ID: 636
   Name: PassIt
   Description: Simple password manage with sharing features by group and user, but
@@ -8846,6 +9910,8 @@ Entries:
   C: Password Managers
   Tags:
   - Password Manager
+  stars: 536
+  update: "2019-05-25"
 - ID: 639
   Name: Teampass
   Description: Password manager dedicated for managing passwords in a collaborative
@@ -8861,6 +9927,8 @@ Entries:
   C: Password Managers
   Tags:
   - Password Manager
+  stars: 1164
+  update: "2019-05-30"
 - ID: 640
   Name: 0bin
   Description: Client side encrypted pastebin.
@@ -8872,6 +9940,8 @@ Entries:
   C: Pastebins
   Tags:
   - Pastebin
+  stars: 816
+  update: "2019-05-23"
 - ID: 641
   Name: bepasty
   Description: A pastebin for all kinds of files.
@@ -8884,6 +9954,8 @@ Entries:
   C: Pastebins
   Tags:
   - Pastebin
+  stars: 61
+  update: "2019-04-18"
 - ID: 642
   Name: bin
   Description: a paste bin.
@@ -8897,6 +9969,8 @@ Entries:
   C: Pastebins
   Tags:
   - Pastebin
+  stars: 26
+  update: "2019-05-23"
 - ID: 643
   Name: CoderVault
   Description: Open source, self-hosted, snippet manager.
@@ -8909,6 +9983,8 @@ Entries:
   C: Pastebins
   Tags:
   - Pastebin
+  stars: 313
+  update: "2016-12-06"
 - ID: 644
   Name: cryptonote
   Description: Simple open source web application that lets users encrypt and share
@@ -8922,6 +9998,8 @@ Entries:
   C: Pastebins
   Tags:
   - Pastebin
+  stars: 132
+  update: "2019-04-27"
 - ID: 645
   Name: EdPaste
   Description: Self-hosted pastebin written in Laravel (PHP Framework).
@@ -8934,6 +10012,8 @@ Entries:
   C: Pastebins
   Tags:
   - Pastebin
+  stars: 23
+  update: "2019-01-12"
 - ID: 646
   Name: fiche
   Description: Command line pastebin, all you need is netcat.
@@ -8946,6 +10026,8 @@ Entries:
   C: Pastebins
   Tags:
   - Pastebin
+  stars: 628
+  update: "2018-12-20"
 - ID: 647
   Name: Fugacious
   Description: Open source short-term secure messaging (OSSSM).
@@ -8958,6 +10040,8 @@ Entries:
   C: Pastebins
   Tags:
   - Pastebin
+  stars: 86
+  update: "2019-03-18"
 - ID: 648
   Name: GIST
   Description: GIST is an open-source application to share code.
@@ -8983,6 +10067,8 @@ Entries:
   C: Pastebins
   Tags:
   - Pastebin
+  stars: 1721
+  update: "2019-04-05"
 - ID: 650
   Name: Modern Paste
   Description: Modern pastebin with a contemporary, minimalistic user interface backed
@@ -8996,6 +10082,8 @@ Entries:
   C: Pastebins
   Tags:
   - Pastebin
+  stars: 230
+  update: "2018-07-28"
 - ID: 651
   Name: mojopaste
   Description: Perl based pastebin.
@@ -9009,6 +10097,8 @@ Entries:
   C: Pastebins
   Tags:
   - Pastebin
+  stars: 26
+  update: "2018-10-01"
 - ID: 652
   Name: NoteHub
   Description: Free and Hassle-free Pastebin for Markdown Pages. Simple, clean, password
@@ -9021,6 +10111,8 @@ Entries:
   C: Pastebins
   Tags:
   - Pastebin
+  stars: 255
+  update: "2018-02-16"
 - ID: 653
   Name: Paste
   Description: Paste is forked from the original source pastebin.com used before it
@@ -9034,6 +10126,8 @@ Entries:
   C: Pastebins
   Tags:
   - Pastebin
+  stars: 115
+  update: "2018-12-02"
 - ID: 654
   Name: pastebin
   Description: Simple pastebin service with convenient api and CLI.
@@ -9046,6 +10140,8 @@ Entries:
   C: Pastebins
   Tags:
   - Pastebin
+  stars: 22
+  update: "2019-04-13"
 - ID: 655
   Name: Pastebin
   Description: Modern self-hosted pastebin service with a restful API.
@@ -9057,6 +10153,8 @@ Entries:
   C: Pastebins
   Tags:
   - Pastebin
+  stars: 88
+  update: "2017-04-18"
 - ID: 656
   Name: pb
   Description: Lightweight pastebin (and url shortener) built using flask.
@@ -9069,6 +10167,8 @@ Entries:
   C: Pastebins
   Tags:
   - Pastebin
+  stars: 393
+  update: "2019-05-02"
 - ID: 657
   Name: pbnh
   Description: Pastebin inspired from project pb and hastebin, with an API and a SQL-based
@@ -9081,6 +10181,8 @@ Entries:
   C: Pastebins
   Tags:
   - Pastebin
+  stars: 9
+  update: "2018-10-27"
 - ID: 658
   Name: PrivateBin
   Description: PrivateBin is a minimalist, opensource online pastebin/discussion board
@@ -9095,6 +10197,8 @@ Entries:
   C: Pastebins
   Tags:
   - Pastebin
+  stars: 1524
+  update: "2019-06-16"
 - ID: 659
   Name: SharpPaste
   Description: Cross-platform C# pastebin with client-side AES-256 encryption that
@@ -9108,6 +10212,8 @@ Entries:
   C: Pastebins
   Tags:
   - Pastebin
+  stars: 23
+  update: "2019-05-04"
 - ID: 660
   Name: Snibox
   Description: Code snippets manager with attractive tag-oriented interface.
@@ -9121,6 +10227,8 @@ Entries:
   C: Pastebins
   Tags:
   - Pastebin
+  stars: 978
+  update: "2019-06-12"
 - ID: 661
   Name: snipt
   Description: Long-term memory for coders. Share and store code snippets.
@@ -9133,6 +10241,8 @@ Entries:
   C: Pastebins
   Tags:
   - Pastebin
+  stars: 4
+  update: "2019-05-27"
 - ID: 662
   Name: Stikked
   Description: Advanced and beautiful pastebin.
@@ -9145,6 +10255,8 @@ Entries:
   C: Pastebins
   Tags:
   - Pastebin
+  stars: 740
+  update: "2018-11-22"
 - ID: 663
   Name: Sup3rS3cretMes5age
   Description: Very simple (to deploy and to use) secret message service using Hashicorp
@@ -9157,6 +10269,8 @@ Entries:
   C: Pastebins
   Tags:
   - Pastebin
+  stars: 226
+  update: "2018-03-28"
 - ID: 664
   Name: tastebin
   Description: Updated version of hastebin plus additional features.
@@ -9168,6 +10282,8 @@ Entries:
   C: Pastebins
   Tags:
   - Pastebin
+  stars: 23
+  update: "2016-01-30"
 - ID: 665
   Name: Baby Buddy
   Description: Helps caregivers track baby sleep, feedings, diaper changes, and tummy
@@ -9181,6 +10297,8 @@ Entries:
   C: Personal Dashboards
   Tags:
   - Dashboard
+  stars: 763
+  update: "2019-06-12"
 - ID: 666
   Name: Dj Diabetes
   Description: My Glucose Manager - follow your daily health.
@@ -9192,6 +10310,8 @@ Entries:
   C: Personal Dashboards
   Tags:
   - Dashboard
+  stars: 71
+  update: "2019-02-05"
 - ID: 667
   Name: Habitica
   Description: Habit tracker app which treats your goals like a Role Playing Game.
@@ -9207,6 +10327,8 @@ Entries:
   C: Personal Dashboards
   Tags:
   - Dashboard
+  stars: 6843
+  update: "2019-06-13"
 - ID: 668
   Name: Heimdall
   Description: Heimdall is an elegant solution to organise all your web applications.
@@ -9219,6 +10341,8 @@ Entries:
   C: Personal Dashboards
   Tags:
   - Dashboard
+  stars: 1016
+  update: "2019-06-13"
 - ID: 669
   Name: Homepage
   Description: Simple, standalone, self-hosted PHP page that is your window to your
@@ -9231,6 +10355,8 @@ Entries:
   C: Personal Dashboards
   Tags:
   - Dashboard
+  stars: 146
+  update: "2019-05-23"
 - ID: 670
   Name: iDashboard-PHP
   Description: HTPC Dashboard to load website services.
@@ -9242,6 +10368,8 @@ Entries:
   C: Personal Dashboards
   Tags:
   - Dashboard
+  stars: 109
+  update: "2017-04-17"
 - ID: 671
   Name: Organizr
   Description: Organizr aims to be your one stop shop for your Servers Frontend.
@@ -9253,6 +10381,8 @@ Entries:
   C: Personal Dashboards
   Tags:
   - Dashboard
+  stars: 2029
+  update: "2019-06-07"
 - ID: 672
   Name: simple-dash
   Description: A simple, fully responsive Dashboard to forward to the services of
@@ -9266,6 +10396,8 @@ Entries:
   C: Personal Dashboards
   Tags:
   - Dashboard
+  stars: 87
+  update: "2019-01-11"
 - ID: 673
   Name: Tipboard
   Description: In-house, tasty, local dashboarding system.
@@ -9278,6 +10410,8 @@ Entries:
   C: Personal Dashboards
   Tags:
   - Dashboard
+  stars: 870
+  update: "2019-05-20"
 - ID: 674
   Name: wger
   Description: Web-based personal workout, fitness and weight logger/tracker. It can
@@ -9293,6 +10427,8 @@ Entries:
   C: Personal Dashboards
   Tags:
   - Dashboard
+  stars: 967
+  update: "2018-03-16"
 - ID: 675
   Name: Chevereto Free
   Description: Powerful and fast image hosting script that allows you to create your
@@ -9306,6 +10442,8 @@ Entries:
   C: Photo and Video Galleries
   Tags:
   - Photo and Video Gallery
+  stars: 1029
+  update: "2019-04-29"
 - ID: 676
   Name: Coppermine
   Description: Multilingual photo gallery that integrates with various bulletin boards.
@@ -9320,6 +10458,8 @@ Entries:
   C: Photo and Video Galleries
   Tags:
   - Photo and Video Gallery
+  stars: 24
+  update: "2019-06-05"
 - ID: 677
   Name: CumulusClips
   Description: Your own video sharing website with CumulusClips video sharing script.
@@ -9347,6 +10487,8 @@ Entries:
   C: Photo and Video Galleries
   Tags:
   - Photo and Video Gallery
+  stars: 1091
+  update: "2016-01-21"
 - ID: 679
   Name: Lychee
   Description: Open source grid and album based photo-management-system.
@@ -9359,6 +10501,8 @@ Entries:
   C: Photo and Video Galleries
   Tags:
   - Photo and Video Gallery
+  stars: 4944
+  update: "2019-01-22"
 - ID: 680
   Name: MediaDrop
   Description: Video, audio and podcast publication platform.
@@ -9371,6 +10515,8 @@ Entries:
   C: Photo and Video Galleries
   Tags:
   - Photo and Video Gallery
+  stars: 781
+  update: "2018-04-11"
 - ID: 681
   Name: Mediagoblin
   Description: Free software media publishing platform that anyone can run. You can
@@ -9397,6 +10543,8 @@ Entries:
   C: Photo and Video Galleries
   Tags:
   - Photo and Video Gallery
+  stars: 129
+  update: "2016-06-24"
 - ID: 683
   Name: OwnPhotos
   Description: Self hosted wannabe Google Photos clone, with a slight focus on cool
@@ -9409,6 +10557,8 @@ Entries:
   C: Photo and Video Galleries
   Tags:
   - Photo and Video Gallery
+  stars: 971
+  update: "2019-03-29"
 - ID: 684
   Name: Photato
   Description: Self-hosted photo gallery, accessible through a responsive WebUI. Directly
@@ -9421,6 +10571,8 @@ Entries:
   C: Photo and Video Galleries
   Tags:
   - Photo and Video Gallery
+  stars: 95
+  update: "2018-09-29"
 - ID: 685
   Name: Photofloat
   Description: Web 2.0 Photo Gallery Done Right via Static JSON and Dynamic Javascript.
@@ -9444,6 +10596,8 @@ Entries:
   C: Photo and Video Galleries
   Tags:
   - Photo and Video Gallery
+  stars: 25
+  update: "2013-06-17"
 - ID: 687
   Name: PhotoPrism
   Description: Personal photo management powered by Go and Google TensorFlow.  Browse,
@@ -9458,6 +10612,8 @@ Entries:
   C: Photo and Video Galleries
   Tags:
   - Photo and Video Gallery
+  stars: 3615
+  update: "2019-06-16"
 - ID: 688
   Name: Photoshow
   Description: Responsive Web Gallery.
@@ -9470,6 +10626,8 @@ Entries:
   C: Photo and Video Galleries
   Tags:
   - Photo and Video Gallery
+  stars: 476
+  update: "2018-08-13"
 - ID: 689
   Name: Piwigo
   Description: Photo gallery software for the web, built by an active community of
@@ -9484,6 +10642,8 @@ Entries:
   C: Photo and Video Galleries
   Tags:
   - Photo and Video Gallery
+  stars: 633
+  update: "2019-06-11"
 - ID: 690
   Name: Plumi
   Description: Create your own sophisticated video-sharing site.
@@ -9496,6 +10656,8 @@ Entries:
   C: Photo and Video Galleries
   Tags:
   - Photo and Video Gallery
+  stars: 88
+  update: "2019-05-02"
 - ID: 691
   Name: Quru Image Server
   Description: High performance dynamically resizing image server offering directory
@@ -9510,6 +10672,8 @@ Entries:
   C: Photo and Video Galleries
   Tags:
   - Photo and Video Gallery
+  stars: 13
+  update: "2019-05-17"
 - ID: 692
   Name: sigal
   Description: Yet another simple static gallery generator.
@@ -9521,6 +10685,8 @@ Entries:
   C: Photo and Video Galleries
   Tags:
   - Photo and Video Gallery
+  stars: 546
+  update: "2019-06-15"
 - ID: 693
   Name: UberGallery
   Description: UberGallery is an easy to use, simple to manage, web photo gallery.
@@ -9536,6 +10702,8 @@ Entries:
   C: Photo and Video Galleries
   Tags:
   - Photo and Video Gallery
+  stars: 162
+  update: "2015-09-09"
 - ID: 694
   Name: Videobin
   Description: Simple video upload and sharing service with transcoding.
@@ -9561,6 +10729,8 @@ Entries:
   C: Photo and Video Galleries
   Tags:
   - Photo and Video Gallery
+  stars: 199
+  update: "2019-06-15"
 - ID: 696
   Name: Calagator
   Description: Event aggregator.
@@ -9586,6 +10756,8 @@ Entries:
   Tags:
   - Polls
   - Events
+  stars: 16
+  update: "2019-03-26"
 - ID: 698
   Name: dudle
   Description: Online scheduling application.
@@ -9613,6 +10785,8 @@ Entries:
   Tags:
   - Polls
   - Events
+  stars: 760
+  update: "2019-05-29"
 - ID: 700
   Name: Framadate
   Description: 'Online service for planning an appointment or make a decision quickly
@@ -9643,6 +10817,8 @@ Entries:
   Tags:
   - Polls
   - Events
+  stars: 20
+  update: "2019-04-04"
 - ID: 702
   Name: LimeSurvey
   Description: Feature-rich Open Source web based polling software. Supports extensive
@@ -9684,6 +10860,8 @@ Entries:
   Tags:
   - Polls
   - Events
+  stars: 300
+  update: "2019-05-08"
 - ID: 705
   Name: Alf.io
   Description: The open source ticket reservation system.
@@ -9698,6 +10876,8 @@ Entries:
   Tags:
   - Polls
   - Events
+  stars: 357
+  update: "2019-06-16"
 - ID: 706
   Name: Booked
   Description: A web-based calendar and resource scheduling system that allows administered
@@ -9728,6 +10908,8 @@ Entries:
   Tags:
   - Polls
   - Events
+  stars: 959
+  update: "2018-12-06"
 - ID: 708
   Name: http2-serverpush-proxy
   Description: Reverse proxy that helps to automatically utilize HTTP/2.0's server
@@ -9740,6 +10922,8 @@ Entries:
   C: Proxy
   Tags:
   - Proxy
+  stars: 20
+  update: "2016-11-17"
 - ID: 709
   Name: imgproxy
   Description: Fast and secure standalone server for resizing and converting remote
@@ -9755,6 +10939,8 @@ Entries:
   C: Proxy
   Tags:
   - Proxy
+  stars: 2171
+  update: "2019-06-14"
 - ID: 710
   Name: iodine
   Description: IPv4 over DNS tunnel solution, enabling you to start up a socks5 proxy
@@ -9768,6 +10954,8 @@ Entries:
   C: Proxy
   Tags:
   - Proxy
+  stars: 2945
+  update: "2018-03-24"
 - ID: 711
   Name: microproxy
   Description: lightweight non-caching HTTP/HTTPS proxy server.
@@ -9779,6 +10967,8 @@ Entries:
   C: Proxy
   Tags:
   - Proxy
+  stars: 79
+  update: "2019-03-18"
 - ID: 712
   Name: miniProxy
   Description: Simple web proxy written in PHP that can allow you to bypass Internet
@@ -9792,6 +10982,8 @@ Entries:
   C: Proxy
   Tags:
   - Proxy
+  stars: 582
+  update: "2019-04-02"
 - ID: 713
   Name: Oranjeproxy
   Description: Anonymizing web proxy.
@@ -9804,6 +10996,8 @@ Entries:
   C: Proxy
   Tags:
   - Proxy
+  stars: 26
+  update: "2016-01-25"
 - ID: 714
   Name: PHP-Proxy
   Description: Web proxy script built specifically to be fast, easy to modify and
@@ -9818,6 +11012,8 @@ Entries:
   C: Proxy
   Tags:
   - Proxy
+  stars: 352
+  update: "2019-05-19"
 - ID: 715
   Name: Pomerium
   Description: An identity-aware reverse proxy, successor to now obsolete `oauth_proxy`.
@@ -9832,6 +11028,8 @@ Entries:
   C: Proxy
   Tags:
   - Proxy
+  stars: 449
+  update: "2019-06-16"
 - ID: 716
   Name: Pound
   Description: Light-weight reverse proxy and load balancer for HTTP/HTTPS.
@@ -9868,6 +11066,8 @@ Entries:
   C: Proxy
   Tags:
   - Proxy
+  stars: 3849
+  update: "2019-04-30"
 - ID: 719
   Name: Squid
   Description: Caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It
@@ -9895,6 +11095,8 @@ Entries:
   C: Proxy
   Tags:
   - Proxy
+  stars: 278
+  update: "2016-10-26"
 - ID: 721
   Name: Tinyproxy
   Description: Light-weight HTTP/HTTPS proxy daemon.
@@ -9907,6 +11109,8 @@ Entries:
   C: Proxy
   Tags:
   - Proxy
+  stars: 1605
+  update: "2019-06-14"
 - ID: 722
   Name: Traefik
   Description: Træfɪk is a modern HTTP reverse proxy and load balancer made to deploy
@@ -9921,6 +11125,8 @@ Entries:
   C: Proxy
   Tags:
   - Proxy
+  stars: 22896
+  update: "2019-04-17"
 - ID: 723
   Name: Nunux Keeper
   Description: Your personal content curation service.
@@ -9933,6 +11139,8 @@ Entries:
   C: Read it Later Lists
   Tags:
   - Read it Later Lists
+  stars: 61
+  update: "2018-10-01"
 - ID: 724
   Name: Wallabag
   Description: Wallabag, formerly Poche, is a web application allowing you to save
@@ -9947,6 +11155,8 @@ Entries:
   C: Read it Later Lists
   Tags:
   - Read it Later Lists
+  stars: 4198
+  update: "2019-06-14"
 - ID: 725
   Name: farmOS
   Description: Web-based farm record keeping application.
@@ -9959,6 +11169,8 @@ Entries:
   C: Resource Planning
   Tags:
   - Resource Planning
+  stars: 217
+  update: "2019-05-30"
 - ID: 726
   Name: Grocy
   Description: grocy is a web-based selfhosted groceries management solution for your
@@ -9973,6 +11185,8 @@ Entries:
   C: Resource Planning
   Tags:
   - Resource Planning
+  stars: 338
+  update: "2019-06-09"
 - ID: 727
   Name: Tania
   Description: Tania is a free and open source farming management system for everyone.
@@ -9986,6 +11200,8 @@ Entries:
   C: Resource Planning
   Tags:
   - Resource Planning
+  stars: 169
+  update: "2019-06-01"
 - ID: 728
   Name: ERPNext
   Description: Free open source ERP system.
@@ -10000,6 +11216,8 @@ Entries:
   Tags:
   - Resource Planning
   - Enterprise rsrc planning
+  stars: 4856
+  update: "2019-06-16"
 - ID: 729
   Name: LedgerSMB
   Description: Integrated accounting and ERP system for small and midsize businesses,
@@ -10016,6 +11234,8 @@ Entries:
   Tags:
   - Resource Planning
   - Enterprise rsrc planning
+  stars: 128
+  update: "2019-06-14"
 - ID: 730
   Name: Odoo
   Description: Free open source ERP system.
@@ -10030,6 +11250,8 @@ Entries:
   Tags:
   - Resource Planning
   - Enterprise rsrc planning
+  stars: 13990
+  update: "2019-06-15"
 - ID: 731
   Name: Tryton
   Description: Free open source business solution.
@@ -10058,6 +11280,8 @@ Entries:
   C: Search Engines
   Tags:
   - Search Engine
+  stars: 1060
+  update: "2019-06-06"
 - ID: 733
   Name: Gigablast
   Description: open source search engine.
@@ -10070,6 +11294,8 @@ Entries:
   C: Search Engines
   Tags:
   - Search Engine
+  stars: 1020
+  update: "2017-06-02"
 - ID: 734
   Name: Searx
   Description: Privacy-respecting, hackable metasearch engine.
@@ -10083,6 +11309,8 @@ Entries:
   C: Search Engines
   Tags:
   - Search Engine
+  stars: 4818
+  update: "2019-06-03"
 - ID: 735
   Name: Yacy
   Description: Peer based, decentralized search engine server.
@@ -10096,6 +11324,8 @@ Entries:
   C: Search Engines
   Tags:
   - Search Engine
+  stars: 1459
+  update: "2019-06-15"
 - ID: 736
   Name: Bonobo Git Server
   Description: Set up your own self hosted git server on IIS for Windows. Manage users
@@ -10111,6 +11341,8 @@ Entries:
   Tags:
   - Software Dev
   - Project Mgmnt
+  stars: 1447
+  update: "2019-04-19"
 - ID: 737
   Name: Fossil
   Description: Distributed version control system featuring wiki and bug tracker.
@@ -10137,6 +11369,8 @@ Entries:
   Tags:
   - Software Dev
   - Project Mgmnt
+  stars: 470
+  update: "2019-06-16"
 - ID: 739
   Name: Gitblit
   Description: Pure Java stack for managing, viewing, and serving Git repositories.
@@ -10150,6 +11384,8 @@ Entries:
   Tags:
   - Software Dev
   - Project Mgmnt
+  stars: 1622
+  update: "2019-06-16"
 - ID: 740
   Name: gitbucket
   Description: The easily installable GitHub clone powered by Scala.
@@ -10164,6 +11400,8 @@ Entries:
   Tags:
   - Software Dev
   - Project Mgmnt
+  stars: 7715
+  update: "2019-06-16"
 - ID: 741
   Name: Gitea
   Description: Community managed fork of Gogs, lightweight code hosting solution.
@@ -10178,6 +11416,8 @@ Entries:
   Tags:
   - Software Dev
   - Project Mgmnt
+  stars: 14376
+  update: "2019-06-16"
 - ID: 742
   Name: GitLab
   Description: Self Hosted Git repository management, code reviews, issue tracking,
@@ -10193,6 +11433,8 @@ Entries:
   Tags:
   - Software Dev
   - Project Mgmnt
+  stars: 5987
+  update: "2019-06-16"
 - ID: 743
   Name: Gitlist
   Description: Web-based git repository browser - GitList allows you to browse repositories
@@ -10208,6 +11450,8 @@ Entries:
   Tags:
   - Software Dev
   - Project Mgmnt
+  stars: 2691
+  update: "2019-06-01"
 - ID: 744
   Name: Gitolite
   Description: Gitolite allows you to setup git hosting on a central server, with
@@ -10222,6 +11466,8 @@ Entries:
   Tags:
   - Software Dev
   - Project Mgmnt
+  stars: 7440
+  update: "2019-06-13"
 - ID: 745
   Name: GitPrep
   Description: Portable Github clone.
@@ -10236,6 +11482,8 @@ Entries:
   Tags:
   - Software Dev
   - Project Mgmnt
+  stars: 807
+  update: "2019-05-08"
 - ID: 746
   Name: Git WebUI
   Description: Standalone web based user interface for git repositories.
@@ -10248,6 +11496,8 @@ Entries:
   Tags:
   - Software Dev
   - Project Mgmnt
+  stars: 669
+  update: "2017-11-10"
 - ID: 747
   Name: Gogs
   Description: Painless self-hosted Git Service written in Go.
@@ -10262,6 +11512,8 @@ Entries:
   Tags:
   - Software Dev
   - Project Mgmnt
+  stars: 30562
+  update: "2019-03-25"
 - ID: 748
   Name: Kallithea
   Description: Source code management system that supports two leading version control
@@ -10288,6 +11540,8 @@ Entries:
   Tags:
   - Software Dev
   - Project Mgmnt
+  stars: 525
+  update: "2019-06-13"
 - ID: 750
   Name: Lavagna
   Description: Lavagna is an open-source issue/project management tool designed for
@@ -10302,6 +11556,8 @@ Entries:
   Tags:
   - Software Dev
   - Project Mgmnt
+  stars: 428
+  update: "2019-05-23"
 - ID: 751
   Name: Octobox
   Description: Take back control of your GitHub Notifications.
@@ -10316,6 +11572,8 @@ Entries:
   - Software Dev
   - Project Mgmnt
   ProprietaryDependency: true
+  stars: 3714
+  update: "2019-06-15"
 - ID: 752
   Name: OpenProject
   Description: OpenProject is a web-based project management system.
@@ -10329,6 +11587,8 @@ Entries:
   Tags:
   - Software Dev
   - Project Mgmnt
+  stars: 2998
+  update: "2019-06-16"
 - ID: 753
   Name: Phabricator
   Description: Collection of web applications that help build better software.
@@ -10343,6 +11603,8 @@ Entries:
   Tags:
   - Software Dev
   - Project Mgmnt
+  stars: 10756
+  update: "2019-06-15"
 - ID: 754
   Name: Phproject
   Description: High performance full-featured project management system.
@@ -10357,6 +11619,8 @@ Entries:
   Tags:
   - Software Dev
   - Project Mgmnt
+  stars: 272
+  update: "2019-06-02"
 - ID: 755
   Name: ProjeQtOr
   Description: A complete, mature, multi-user project management system with extensive
@@ -10470,6 +11734,8 @@ Entries:
   Tags:
   - Software Dev
   - IDE
+  stars: 224
+  update: "2019-06-12"
 - ID: 763
   Name: Code-Server
   Description: Visual Studio Code in the browser, hosted on a remote server.
@@ -10484,6 +11750,8 @@ Entries:
   Tags:
   - Software Dev
   - IDE
+  stars: 20405
+  update: "2019-06-11"
 - ID: 764
   Name: Eclipse Che
   Description: Open source workspace server and cloud IDE.
@@ -10498,6 +11766,8 @@ Entries:
   Tags:
   - Software Dev
   - IDE
+  stars: 5553
+  update: "2019-06-14"
 - ID: 765
   Name: ICEcoder
   Description: ICEcoder is a web IDE / browser based code editor, which allows you
@@ -10513,6 +11783,8 @@ Entries:
   Tags:
   - Software Dev
   - IDE
+  stars: 1068
+  update: "2019-06-15"
 - ID: 766
   Name: JS Bin
   Description: Open source collaborative web development debugging tool.
@@ -10526,6 +11798,8 @@ Entries:
   Tags:
   - Software Dev
   - IDE
+  stars: 3888
+  update: "2018-10-29"
 - ID: 767
   Name: Judge0 API
   Description: Open source API to compile and run source code.
@@ -10539,6 +11813,8 @@ Entries:
   Tags:
   - Software Dev
   - IDE
+  stars: 140
+  update: "2019-03-26"
 - ID: 768
   Name: Koding
   Description: The simplest way to manage your entire Dev Infrastructure.
@@ -10552,6 +11828,8 @@ Entries:
   Tags:
   - Software Dev
   - IDE
+  stars: 1239
+  update: "2019-02-07"
 - ID: 769
   Name: Microglark
   Description: Hacky minimalistic remote pair programming editor.
@@ -10565,6 +11843,8 @@ Entries:
   Tags:
   - Software Dev
   - IDE
+  stars: 80
+  update: "2016-07-18"
 - ID: 770
   Name: Regexr
   Description: RegExr is a HTML/JS based tool for creating, testing, and learning
@@ -10579,6 +11859,8 @@ Entries:
   Tags:
   - Software Dev
   - IDE
+  stars: 5717
+  update: "2019-04-09"
 - ID: 771
   Name: RequestBin
   Description: Inspect HTTP requests. Debug webhooks.
@@ -10592,6 +11874,8 @@ Entries:
   Tags:
   - Software Dev
   - IDE
+  stars: 1735
+  update: "2018-04-09"
 - ID: 772
   Name: RStudio Server
   Description: Web browser based IDE for R.
@@ -10606,6 +11890,8 @@ Entries:
   Tags:
   - Software Dev
   - IDE
+  stars: 2793
+  update: "2019-06-14"
 - ID: 773
   Name: Selenoid
   Description: Lightweight Selenium hub implementation launching browsers within Docker
@@ -10620,6 +11906,8 @@ Entries:
   Tags:
   - Software Dev
   - IDE
+  stars: 1149
+  update: "2019-06-16"
 - ID: 774
   Name: sourcegraph
   Description: Sourcegraph is a fast, open-source, fully-featured code search and
@@ -10634,6 +11922,8 @@ Entries:
   Tags:
   - Software Dev
   - IDE
+  stars: 2318
+  update: "2019-06-16"
 - ID: 775
   Name: Wide
   Description: Web-based IDE for Teams using Go programming language/Golang.
@@ -10647,6 +11937,8 @@ Entries:
   Tags:
   - Software Dev
   - IDE
+  stars: 2920
+  update: "2019-06-07"
 - ID: 776
   Name: Zalenium
   Description: Allows anyone to have a disposable and flexible Docker-based Selenium
@@ -10662,6 +11954,8 @@ Entries:
   Tags:
   - Software Dev
   - IDE
+  stars: 1724
+  update: "2019-06-11"
 - ID: 777
   Name: fx
   Description: fx is a tool to help you do Function as a Service with painless on
@@ -10676,6 +11970,8 @@ Entries:
   - Software Dev
   - FAAS
   - Severless
+  stars: 1222
+  update: "2019-03-27"
 - ID: 778
   Name: IronFunctions
   Description: The serverless microservices platform by [iron.io](https://www.iron.io/).
@@ -10689,6 +11985,8 @@ Entries:
   - Software Dev
   - FAAS
   - Severless
+  stars: 2602
+  update: "2018-08-20"
 - ID: 779
   Name: LocalStack
   Description: LocalStack is a fully functional local AWS cloud stack. This includes
@@ -10704,6 +12002,8 @@ Entries:
   - Software Dev
   - FAAS
   - Severless
+  stars: 17325
+  update: "2019-06-16"
 - ID: 780
   Name: OpenFaaS
   Description: Serverless Functions Made Simple for Docker & Kubernetes.
@@ -10718,6 +12018,8 @@ Entries:
   - Software Dev
   - FAAS
   - Severless
+  stars: 14509
+  update: "2019-06-16"
 - ID: 781
   Name: DreamFactory
   Description: Turns any SQL/NoSQL/Structured data into Restful API.
@@ -10731,6 +12033,8 @@ Entries:
   Tags:
   - Software Dev
   - API Mgmnt
+  stars: 943
+  update: "2019-06-05"
 - ID: 782
   Name: Endpoint
   Description: Super simple mock HTTP API endpoints that return static JSON data,
@@ -10744,6 +12048,8 @@ Entries:
   Tags:
   - Software Dev
   - API Mgmnt
+  stars: 98
+  update: "2018-03-05"
 - ID: 783
   Name: Fusio
   Description: Open-source API management platform which helps to build and manage
@@ -10759,6 +12065,8 @@ Entries:
   Tags:
   - Software Dev
   - API Mgmnt
+  stars: 720
+  update: "2019-06-01"
 - ID: 784
   Name: Hapttic
   Description: Simple HTTP server that forwards all requests to a shell script to
@@ -10772,6 +12080,8 @@ Entries:
   Tags:
   - Software Dev
   - API Mgmnt
+  stars: 75
+  update: "2019-02-27"
 - ID: 785
   Name: Para
   Description: Flexible and modular backend framework/server for object persistence,
@@ -10786,6 +12096,8 @@ Entries:
   Tags:
   - Software Dev
   - API Mgmnt
+  stars: 276
+  update: "2019-06-16"
 - ID: 786
   Name: Tyk
   Description: Fast and scalable open source API Gateway. Out of the box, Tyk offers
@@ -10801,6 +12113,8 @@ Entries:
   Tags:
   - Software Dev
   - API Mgmnt
+  stars: 4537
+  update: "2019-06-16"
 - ID: 787
   Name: Docstore
   Description: Static document hosting without any server-side processing, does not
@@ -10816,6 +12130,8 @@ Entries:
   Tags:
   - Software Dev
   - Documentation Gen
+  stars: 111
+  update: "2017-04-04"
 - ID: 788
   Name: Flatdoc
   Description: Small Javascript file that fetches Markdown files and renders them
@@ -10842,6 +12158,8 @@ Entries:
   Tags:
   - Software Dev
   - Documentation Gen
+  stars: 84
+  update: "2015-01-24"
 - ID: 790
   Name: Read the Docs
   Description: Host documentation, making it fully searchable and easy to find; import
@@ -10858,6 +12176,8 @@ Entries:
   Tags:
   - Software Dev
   - Documentation Gen
+  stars: 5204
+  update: "2019-06-14"
 - ID: 791
   Name: Accent
   Description: Open-source, self-hosted, developer-oriented translation tool.
@@ -10871,6 +12191,8 @@ Entries:
   Tags:
   - Software Dev
   - Localiztion
+  stars: 437
+  update: "2019-06-16"
 - ID: 792
   Name: Pootle
   Description: Online translation and localization tool.
@@ -10884,6 +12206,8 @@ Entries:
   Tags:
   - Software Dev
   - Localiztion
+  stars: 1175
+  update: "2019-04-12"
 - ID: 793
   Name: Weblate
   Description: Web-based translation tool with tight version control integration.
@@ -10898,6 +12222,8 @@ Entries:
   Tags:
   - Software Dev
   - Localiztion
+  stars: 1447
+  update: "2019-06-13"
 - ID: 794
   Name: Zanata
   Description: Web-based translation platform for translators, content creators and
@@ -10912,6 +12238,8 @@ Entries:
   Tags:
   - Software Dev
   - Localiztion
+  stars: 207
+  update: "2018-09-04"
 - ID: 795
   Name: Crepido
   Description: Create (kanban) boards to track users and projects from flat markdown
@@ -10925,6 +12253,8 @@ Entries:
   Tags:
   - To-Do
   - Task Mgmnt
+  stars: 143
+  update: "2015-12-27"
 - ID: 796
   Name: Kanboard
   Description: Simple and open source visual task board.
@@ -10938,6 +12268,8 @@ Entries:
   Tags:
   - To-Do
   - Task Mgmnt
+  stars: 4286
+  update: "2019-06-16"
 - ID: 797
   Name: myTinyTodo
   Description: Simple way to manage your todo list in AJAX style. Uses PHP, jQuery,
@@ -10965,6 +12297,8 @@ Entries:
   Tags:
   - To-Do
   - Task Mgmnt
+  stars: 9
+  update: "2016-05-10"
 - ID: 799
   Name: Restyaboard
   Description: Open source Trello-like kanban board.
@@ -10979,6 +12313,8 @@ Entries:
   Tags:
   - To-Do
   - Task Mgmnt
+  stars: 1247
+  update: "2019-06-14"
 - ID: 800
   Name: scrumblr
   Description: Collaborative Online Scrum Tool Using Websockets, Node.js, jQuery,
@@ -10994,6 +12330,8 @@ Entries:
   Tags:
   - To-Do
   - Task Mgmnt
+  stars: 26
+  update: "2018-05-30"
 - ID: 801
   Name: TaskBoard
   Description: Kanban-inspired app for keeping track of things that need to get done.
@@ -11008,6 +12346,8 @@ Entries:
   Tags:
   - To-Do
   - Task Mgmnt
+  stars: 998
+  update: "2019-05-28"
 - ID: 802
   Name: Taskfreak
   Description: Simple but efficient web based task manager written in PHP.
@@ -11033,6 +12373,8 @@ Entries:
   Tags:
   - To-Do
   - Task Mgmnt
+  stars: 76
+  update: "2019-05-28"
 - ID: 804
   Name: Tasks
   Description: Kanban based to-do list manager written in Go.
@@ -11045,6 +12387,8 @@ Entries:
   Tags:
   - To-Do
   - Task Mgmnt
+  stars: 422
+  update: "2019-04-17"
 - ID: 805
   Name: tasks.php
   Description: Simple task/todo list manager.
@@ -11057,6 +12401,8 @@ Entries:
   Tags:
   - To-Do
   - Task Mgmnt
+  stars: 41
+  update: "2013-06-06"
 - ID: 806
   Name: Taskwarrior
   Description: Taskwarrior is Free and Open Source Software that manages your TODO
@@ -11084,6 +12430,8 @@ Entries:
   Tags:
   - To-Do
   - Task Mgmnt
+  stars: 46
+  update: "2016-08-19"
 - ID: 808
   Name: todo
   Description: Simple todo list manager.
@@ -11097,6 +12445,8 @@ Entries:
   Tags:
   - To-Do
   - Task Mgmnt
+  stars: 19
+  update: "2019-06-05"
 - ID: 809
   Name: todoMini
   Description: Mobile friendly zero-feature TODO list web app. Unix philosophy.
@@ -11112,6 +12462,8 @@ Entries:
   Tags:
   - To-Do
   - Task Mgmnt
+  stars: 37
+  update: "2019-06-01"
 - ID: 810
   Name: Tracks
   Description: Web-based application to help you implement David Allen’s [Getting
@@ -11126,6 +12478,8 @@ Entries:
   Tags:
   - To-Do
   - Task Mgmnt
+  stars: 909
+  update: "2019-06-14"
 - ID: 811
   Name: Volition
   Description: Opinionated open-source task management.
@@ -11140,6 +12494,8 @@ Entries:
   Tags:
   - To-Do
   - Task Mgmnt
+  stars: 8
+  update: "2018-01-22"
 - ID: 812
   Name: Wekan
   Description: Open-source Trello-like kanban.
@@ -11154,6 +12510,8 @@ Entries:
   Tags:
   - To-Do
   - Task Mgmnt
+  stars: 14502
+  update: "2019-06-14"
 - ID: 813
   Name: Brimir
   Description: Simple and clean open-source ticket manager written in Ruby on Rails.
@@ -11166,6 +12524,8 @@ Entries:
   C: Ticketing
   Tags:
   - Ticketing
+  stars: 1443
+  update: "2018-12-22"
 - ID: 814
   Name: Bugzilla
   Description: General-purpose bugtracker and testing tool originally developed and
@@ -11190,6 +12550,8 @@ Entries:
   C: Ticketing
   Tags:
   - Ticketing
+  stars: 22
+  update: "2016-09-19"
 - ID: 816
   Name: Cerb
   Description: Group-based e-mail management project.
@@ -11202,6 +12564,8 @@ Entries:
   C: Ticketing
   Tags:
   - Ticketing
+  stars: 46
+  update: "2018-04-25"
 - ID: 817
   Name: Deskulu
   Description: Opensource helpdesk and ticketing system based on Drupal 7.
@@ -11214,6 +12578,8 @@ Entries:
   C: Ticketing
   Tags:
   - Ticketing
+  stars: 480
+  update: "2016-06-15"
 - ID: 818
   Name: DiamanteDesk
   Description: DiamanteDesk is FREE Open Source easy-to-use help-desk solution.
@@ -11227,6 +12593,8 @@ Entries:
   C: Ticketing
   Tags:
   - Ticketing
+  stars: 107
+  update: "2018-01-03"
 - ID: 819
   Name: Flyspray
   Description: Uncomplicated, web-based bug tracking system.
@@ -11239,6 +12607,8 @@ Entries:
   C: Ticketing
   Tags:
   - Ticketing
+  stars: 307
+  update: "2019-06-16"
 - ID: 820
   Name: FreeScout
   Description: 'Open source clone of Help Scout: email-based customer support application,
@@ -11251,6 +12621,8 @@ Entries:
   C: Ticketing
   Tags:
   - Ticketing
+  stars: 411
+  update: "2019-06-16"
 - ID: 821
   Name: Helpy
   Description: Helpy is a modern, open source helpdesk customer support application.
@@ -11266,6 +12638,8 @@ Entries:
   C: Ticketing
   Tags:
   - Ticketing
+  stars: 1606
+  update: "2019-06-13"
 - ID: 822
   Name: HuBoard
   Description: Instant project management for your GitHub issues (Connects directly
@@ -11279,6 +12653,8 @@ Entries:
   Tags:
   - Ticketing
   ProprietaryDependency: true
+  stars: 1688
+  update: "2016-07-28"
 - ID: 823
   Name: MantisBT
   Description: Self hosted bug tracker, fits best for software development.
@@ -11292,6 +12668,8 @@ Entries:
   C: Ticketing
   Tags:
   - Ticketing
+  stars: 1098
+  update: "2019-06-14"
 - ID: 824
   Name: OpenSupports
   Description: Multi language ticket system with FAQ, role management, metrics and
@@ -11306,6 +12684,8 @@ Entries:
   C: Ticketing
   Tags:
   - Ticketing
+  stars: 311
+  update: "2019-03-10"
 - ID: 825
   Name: osTicket
   Description: Manage, organize and archive all your support requests and responses
@@ -11319,6 +12699,8 @@ Entries:
   C: Ticketing
   Tags:
   - Ticketing
+  stars: 1614
+  update: "2019-05-10"
 - ID: 826
   Name: OTRS
   Description: Trouble ticket system for assigning tickets to incoming queries and
@@ -11332,6 +12714,8 @@ Entries:
   C: Ticketing
   Tags:
   - Ticketing
+  stars: 579
+  update: "2019-06-11"
 - ID: 827
   Name: Request Tracker
   Description: An enterprise-grade issue tracking system.
@@ -11344,6 +12728,8 @@ Entries:
   C: Ticketing
   Tags:
   - Ticketing
+  stars: 461
+  update: "2019-05-13"
 - ID: 828
   Name: Sentry On-Premise
   Description: A powerful error tracking platform with wide language support and a
@@ -11358,6 +12744,8 @@ Entries:
   C: Ticketing
   Tags:
   - Ticketing
+  stars: 21166
+  update: "2019-06-15"
 - ID: 829
   Name: SIT
   Description: SCM-agnostic, file-based, offline-first, immutable issue tracker.
@@ -11370,6 +12758,8 @@ Entries:
   C: Ticketing
   Tags:
   - Ticketing
+  stars: 501
+  update: "2018-12-20"
 - ID: 830
   Name: TheBugGenie
   Description: friendly project management and issue tracking tool, with extensive
@@ -11383,6 +12773,8 @@ Entries:
   C: Ticketing
   Tags:
   - Ticketing
+  stars: 441
+  update: "2019-06-13"
 - ID: 831
   Name: Zammad
   Description: Easy to use but powerful open-source support and ticketing system.
@@ -11395,6 +12787,8 @@ Entries:
   C: Ticketing
   Tags:
   - Ticketing
+  stars: 1619
+  update: "2019-06-13"
 - ID: 832
   Name: devShort
   Description: A simple and privacy-friendly URL shortener for web developers, admins
@@ -11408,6 +12802,8 @@ Entries:
   C: URL Shorteners
   Tags:
   - URL Shortener
+  stars: 7
+  update: "2019-06-11"
 - ID: 833
   Name: Kutt
   Description: A modern URL shortener with support for custom domains.
@@ -11420,6 +12816,8 @@ Entries:
   C: URL Shorteners
   Tags:
   - URL Shortener
+  stars: 2120
+  update: "2019-06-16"
 - ID: 834
   Name: Link-shortener-bot
   Description: URL shortener using a Telegram Bot.
@@ -11433,6 +12831,8 @@ Entries:
   Tags:
   - URL Shortener
   ProprietaryDependency: true
+  stars: 1
+  update: "2017-09-29"
 - ID: 835
   Name: Linkr
   Description: Beautiful, fast URL shortening.
@@ -11447,6 +12847,8 @@ Entries:
   C: URL Shorteners
   Tags:
   - URL Shortener
+  stars: 97
+  update: "2019-05-28"
 - ID: 836
   Name: liteshort
   Description: User-friendly, actually lightweight, and configurable URL shortener.
@@ -11459,6 +12861,8 @@ Entries:
   C: URL Shorteners
   Tags:
   - URL Shortener
+  stars: 11
+  update: "2019-04-20"
 - ID: 837
   Name: Lstu
   Description: _Let's SHorten That Url_ - Lightweight URL shortener.
@@ -11470,6 +12874,8 @@ Entries:
   C: URL Shorteners
   Tags:
   - URL Shortener
+  stars: 90
+  update: "2018-12-17"
 - ID: 838
   Name: Nimbus
   Description: URL shortener and file sharer with a drag-and-drop OS X menu bar client
@@ -11482,6 +12888,8 @@ Entries:
   C: URL Shorteners
   Tags:
   - URL Shortener
+  stars: 199
+  update: "2017-04-18"
 - ID: 839
   Name: Polr
   Description: Modern, minimalist, modular, and lightweight URL shortener.
@@ -11494,6 +12902,8 @@ Entries:
   C: URL Shorteners
   Tags:
   - URL Shortener
+  stars: 2734
+  update: "2018-05-24"
 - ID: 840
   Name: reduc.io
   Description: URL shortener service written in Scala, using Akka-Http and Redis.
@@ -11505,6 +12915,8 @@ Entries:
   C: URL Shorteners
   Tags:
   - URL Shortener
+  stars: 42
+  update: "2019-05-10"
 - ID: 841
   Name: schort
   Description: No login, no javascript, just short links.
@@ -11517,6 +12929,8 @@ Entries:
   C: URL Shorteners
   Tags:
   - URL Shortener
+  stars: 18
+  update: "2018-06-09"
 - ID: 842
   Name: shorturl
   Description: Simple URL shortener with very tiny URLs.
@@ -11529,6 +12943,8 @@ Entries:
   C: URL Shorteners
   Tags:
   - URL Shortener
+  stars: 42
+  update: "2019-04-13"
 - ID: 843
   Name: shuri
   Description: SHort URI - Lighweight URL shortener.
@@ -11540,6 +12956,8 @@ Entries:
   C: URL Shorteners
   Tags:
   - URL Shortener
+  stars: 12
+  update: "2018-04-27"
 - ID: 844
   Name: url-shortener
   Description: Shitty url shortener, emoji and AI powered.
@@ -11552,6 +12970,8 @@ Entries:
   Tags:
   - URL Shortener
   ProprietaryDependency: true
+  stars: 138
+  update: "2019-04-03"
 - ID: 845
   Name: YOURLS
   Description: YOURLS is a set of PHP scripts that will allow you to run Your Own
@@ -11566,6 +12986,8 @@ Entries:
   C: URL Shorteners
   Tags:
   - URL Shortener
+  stars: 4975
+  update: "2019-05-01"
 - ID: 846
   Name: BookStack
   Description: BookStack is a simple, self-hosted, easy-to-use platform for organizing
@@ -11581,6 +13003,8 @@ Entries:
   C: Wikis
   Tags:
   - Wiki
+  stars: 2855
+  update: "2019-06-16"
 - ID: 847
   Name: Cowyo
   Description: Cowyo is a feature-rich wiki for minimalists.
@@ -11593,6 +13017,8 @@ Entries:
   C: Wikis
   Tags:
   - Wiki
+  stars: 552
+  update: "2018-08-23"
 - ID: 848
   Name: django-wiki
   Description: 'Wiki system with complex functionality for simple integration and
@@ -11606,6 +13032,8 @@ Entries:
   C: Wikis
   Tags:
   - Wiki
+  stars: 1136
+  update: "2019-06-09"
 - ID: 849
   Name: Documize
   Description: Modern Docs + Wiki software with built-in workflow, single binary executable,
@@ -11619,6 +13047,8 @@ Entries:
   C: Wikis
   Tags:
   - Wiki
+  stars: 773
+  update: "2019-06-14"
 - ID: 850
   Name: Dokuwiki
   Description: Easy to use, lightweight, standards-compliant wiki engine with a simple
@@ -11633,6 +13063,8 @@ Entries:
   C: Wikis
   Tags:
   - Wiki
+  stars: 2508
+  update: "2019-06-12"
 - ID: 851
   Name: Gitit
   Description: Wiki program that stores pages and uploaded files in a git repository,
@@ -11646,6 +13078,8 @@ Entries:
   C: Wikis
   Tags:
   - Wiki
+  stars: 1660
+  update: "2018-12-31"
 - ID: 852
   Name: Gollum
   Description: Simple, Git-powered wiki with a sweet API and local frontend.
@@ -11657,6 +13091,8 @@ Entries:
   C: Wikis
   Tags:
   - Wiki
+  stars: 10039
+  update: "2018-12-02"
 - ID: 853
   Name: jingo
   Description: Git based wiki engine written for node.js, with a decent design, a
@@ -11670,6 +13106,8 @@ Entries:
   C: Wikis
   Tags:
   - Wiki
+  stars: 907
+  update: "2018-12-18"
 - ID: 854
   Name: Mediawiki
   Description: MediaWiki is a free and open-source wiki software package written in
@@ -11710,6 +13148,8 @@ Entries:
   C: Wikis
   Tags:
   - Wiki
+  stars: 240
+  update: "2017-02-05"
 - ID: 857
   Name: Outline
   Description: An open, extensible, wiki for your team built using React and Node.js.
@@ -11723,6 +13163,8 @@ Entries:
   Tags:
   - Wiki
   ProprietaryDependency: true
+  stars: 2199
+  update: "2019-06-14"
 - ID: 858
   Name: Pepperminty Wiki
   Description: Complete markdown-powered wiki contained in a single PHP file.
@@ -11735,6 +13177,8 @@ Entries:
   C: Wikis
   Tags:
   - Wiki
+  stars: 39
+  update: "2019-06-01"
 - ID: 859
   Name: PineDocs
   Description: Simple, fast, customizable and lightweight site for browsing files.
@@ -11746,6 +13190,8 @@ Entries:
   C: Wikis
   Tags:
   - Wiki
+  stars: 13
+  update: "2019-04-11"
 - ID: 860
   Name: PmWiki
   Description: Wiki-based system for collaborative creation and maintenance of websites.
@@ -11781,6 +13227,8 @@ Entries:
   C: Wikis
   Tags:
   - Wiki
+  stars: 817
+  update: "2018-07-24"
 - ID: 863
   Name: TiddlyWiki
   Description: Reusable non-linear personal web notebook.
@@ -11793,6 +13241,8 @@ Entries:
   C: Wikis
   Tags:
   - Wiki
+  stars: 4049
+  update: "2019-06-14"
 - ID: 864
   Name: Tiki
   Description: Wiki CMS Groupware with the most built-in features.
@@ -11833,6 +13283,8 @@ Entries:
   C: Wikis
   Tags:
   - Wiki
+  stars: 40
+  update: "2019-04-13"
 - ID: 867
   Name: Wiki.js
   Description: Modern, lightweight and powerful wiki app built on NodeJS, Git and
@@ -11872,6 +13324,8 @@ Entries:
   C: Wikis
   Tags:
   - Wiki
+  stars: 455
+  update: "2019-06-14"
 - ID: 870
   Name: 1Backend
   Description: Self-host web apps, microservices and lambdas on your server. Advanced
@@ -11884,6 +13338,8 @@ Entries:
   C: Self-hosting Solutions
   Tags:
   - Self-hosting Solution
+  stars: 1786
+  update: "2019-03-23"
 - ID: 871
   Name: Ansible-NAS
   Description: Build a full-featured home server with this playbook and an Ubuntu
@@ -11897,6 +13353,8 @@ Entries:
   C: Self-hosting Solutions
   Tags:
   - Self-hosting Solution
+  stars: 339
+  update: "2019-06-05"
 - ID: 872
   Name: DietPi
   Description: Minimal Debian OS optimized for single-board computers, which allows
@@ -11910,6 +13368,8 @@ Entries:
   C: Self-hosting Solutions
   Tags:
   - Self-hosting Solution
+  stars: 1505
+  update: "2019-05-18"
 - ID: 873
   Name: DockSTARTer
   Description: DockSTARTer helps you get started with home server apps running in
@@ -11923,6 +13383,8 @@ Entries:
   C: Self-hosting Solutions
   Tags:
   - Self-hosting Solution
+  stars: 572
+  update: "2019-06-12"
 - ID: 874
   Name: DPlatform
   Description: 'Deploy self-hosted apps easily: simple, bloat-free, independent installation.'
@@ -11935,6 +13397,8 @@ Entries:
   C: Self-hosting Solutions
   Tags:
   - Self-hosting Solution
+  stars: 219
+  update: "2018-04-19"
 - ID: 875
   Name: FreedomBone
   Description: Home server configuration based on Debian.
@@ -11973,6 +13437,8 @@ Entries:
   C: Self-hosting Solutions
   Tags:
   - Self-hosting Solution
+  stars: 1249
+  update: "2019-06-14"
 - ID: 878
   Name: HomelabOS
   Description: Your very own offline-first privacy-centric open-source data-center.
@@ -11984,6 +13450,8 @@ Entries:
   C: Self-hosting Solutions
   Tags:
   - Self-hosting Solution
+  stars: 521
+  update: "2019-06-15"
 - ID: 879
   Name: OpenMediaVault
   Description: OpenMediaVault is the next generation network attached storage (NAS)
@@ -11998,6 +13466,8 @@ Entries:
   C: Self-hosting Solutions
   Tags:
   - Self-hosting Solution
+  stars: 896
+  update: "2019-06-07"
 - ID: 880
   Name: Piratebox
   Description: DIY anonymous offline file-sharing and communications system built
@@ -12025,6 +13495,8 @@ Entries:
   C: Self-hosting Solutions
   Tags:
   - Self-hosting Solution
+  stars: 69
+  update: "2018-05-10"
 - ID: 882
   Name: Sandstorm
   Description: Personal server for running self-hosted apps easily and securely.
@@ -12038,6 +13510,8 @@ Entries:
   C: Self-hosting Solutions
   Tags:
   - Self-hosting Solution
+  stars: 5092
+  update: "2019-05-11"
 - ID: 883
   Name: sovereign
   Description: 'Set of Ansible playbooks to build and maintain your own private cloud:
@@ -12050,6 +13524,8 @@ Entries:
   C: Self-hosting Solutions
   Tags:
   - Self-hosting Solution
+  stars: 7431
+  update: "2019-04-27"
 - ID: 884
   Name: Syncloud
   Description: Your own online file storage, social network or email server.
@@ -12062,6 +13538,8 @@ Entries:
   C: Self-hosting Solutions
   Tags:
   - Self-hosting Solution
+  stars: 141
+  update: "2019-05-22"
 - ID: 885
   Name: UBOS
   Description: Linux distro that runs on indie boxes (personal servers and IoT devices).

@@ -4,8 +4,8 @@ package parse
 type List struct {
 	Entries  []Entry `json:"Entries" yaml:"Entries"`
 	LangList []Langs `json:"Langs" yaml:"-"`
-	CatList  []Cats		`json:"Cats" yaml:"-"`
-	TagList []Tags `json:"Tags" yaml:"-"`
+	CatList  []Cats  `json:"Cats" yaml:"-"`
+	TagList  []Tags  `json:"Tags" yaml:"-"`
 }
 
 // Entry is the structure of each entry
@@ -23,19 +23,20 @@ type Entry struct {
 	Tags    []string `json:"T" yaml:"Tags"`
 	NonFree bool     `json:"NF,omitempty" yaml:"NonFree,omitempty"`
 	Pdep    bool     `json:"P,omitempty" yaml:"ProprietaryDependency,omitempty"`
-	Stars   int      `json:"stars,omitempty" yaml:"-"`
-	Updated string   `json:"update,omitempty" yaml:"-"`
-	Error	bool	 `json:"-" yaml:"-"`
+	Stars   int      `json:"stars,omitempty" yaml:"stars,omitempty"`
+	Updated string   `json:"update,omitempty" yaml:"update,omitempty"`
+	Error   bool     `json:"-" yaml:"-"`
 	Errors  []string `json:"-" yaml:"-"`
 	Warns   []string `json:"-" yaml:"-"`
 }
+
 // GetHighestID function to get last ID from entry struct
 func GetHighestID(entries []Entry) int {
 	max := entries[0]
 	for _, entries := range entries {
 		if entries.ID > max.ID {
-		  max = entries
-		} 
+			max = entries
+		}
 	}
 	return max.ID
 }

@@ -1,7 +1,6 @@
 var entries, langSelect = "";
 var tagSelect = new Array;
 
-
 var requestURL = 'static/list.min.json';
 var request = new XMLHttpRequest();
 request.open('GET', requestURL);
@@ -28,11 +27,11 @@ function clrLang() {
 
 function remove(array, element) {
     const index = array.indexOf(element);
-    array.splice(index, 1);
+   array.splice(index, 1);
 }
 
 function clrTags(t) {
-    remove(tagSelect, t);
+   remove(tagSelect, t);
     populateEntries();
 }
 
@@ -78,25 +77,37 @@ function populateTags(tObj) {
     document.getElementById("tagList").innerHTML = txt;
 }
 
+const namea = `<article class="media"><div class="media-content"><span class="field is-grouped is-grouped-multiline"><span class="control"><strong>`
+const nameb = `</strong></span>`
+const propri = `<span class="control"><a class="icon has-text-warning"><i class="fas fa-lg fa-exclamation-triangle"></i></a></span>`
+const nonf = `<span class="control"><a class="icon has-text-warning"><i class="fas fa-lg fa-ban"></i></a></span>`
+const date = `<span class="control"><span class="tags has-addons"><a class="tag is-light">Updated</a><a class="tag is-info">`
+const stara = `</a></span></span><span class="control"><span class="tags has-addons"><a class="tag is-dark icon"><i class="fas fa fa-star"></i></a><a class="tag is-light">`
+const starb = `</a></span></span>`
+const linka = `<span class="control"><a href="`
+const linkb = `" target="_blank" class=""><span class="icon has-text-link"><i class="fas fa-lg fa-`
+const src = `code-branch"></i></span></a></span>`
+const site = `external-link-alt"></i></span></a></span>`
+const demo = `chevron-circle-right"></i></span></a></span>`
+const client = `mobile-alt"></i></span></a></span>`
+const entriesa = `</span><p>`
+const entriesb = `</p></div></article>`
+
 function populateEntries() {
     var x, txt = "";
-
     for (x in entries) {
         if ((!tagSelect.some(ele => !entries[x].T.includes(ele) || tagSelect === []) && (entries[x].La.includes(langSelect) || langSelect === ""))) {
-            txt += `<article class="media"><div class="media-content"><span class="field is-grouped is-grouped-multiline"><span class="control"><strong>` + entries[x].N + `</strong></span>`;
-            if (entries[x].P !== undefined) {txt += `<span class="control"><a class="icon has-text-warning"><i class="fas fa-lg fa-exclamation-triangle"></i></a></span>`;}
-            if (entries[x].NF !== undefined) {txt += `<span class="control"><a class="icon has-text-warning"><i class="fas fa-lg fa-ban"></i></a></span>`;}
+            txt += namea + entries[x].N + nameb;
+            if (entries[x].P !== undefined) {txt += propri;}
+            if (entries[x].NF !== undefined) {txt += nonf;}
             txt += parseArr(entries[x].T, "tag");
-            if (entries[x].stars !== undefined) {txt += `<span class="control"><span class="tags has-addons"><a class="tag is-light">Updated</a><a class="tag is-info">` + entries[x].update + `</a></span></span>` +
-                `<span class="control"><span class="tags has-addons"><a class="tag is-dark icon"><i class="fas fa fa-star"></i></a><a class="tag is-light">` + entries[x].stars + `</a></span></span>`;}
+            if (entries[x].stars !== undefined) {txt += date + entries[x].update + stara + entries[x].stars + starb;}
             txt += getL(entries[x].Li) + parseArr(entries[x].La, "lang");
-            txt += `<span class="control"><a href="` + entries[x].Sr + `" target="_blank" class=""><span class="icon has-text-link"><i class="fas fa-lg fa-code-branch"></i></span></a></span>`;
-            if (entries[x].Si !== undefined) {txt +=`<span class="control"><a href="` + entries[x].Si + `" target="_blank" class=""><span class="icon has-text-link"><i class="fas fa-lg fa-external-link-alt"></i></span></a></span>`;}
-            if (entries[x].Dem !== undefined) {txt +=`<span class="control"><a href="` + entries[x].Dem + `" target="_blank" class=""><span class="icon has-text-link"><i class="fas fa-lg fa-chevron-circle-right"></i></span></a></span>`;}
-            if (entries[x].CL !== undefined) {txt +=`<span class="control"><a href="` + entries[x].CL + `" target="_blank" class=""><span class="icon has-text-link"><i class="fas fa-lg fa-mobile-alt"></i></span></a></span>`;}
-            txt += `</span>`;
-            txt += `<p>` + entries[x].D + `</p>`;
-            txt += `</div></article>`
+            txt += linka + entries[x].Sr + linkb + src;
+            if (entries[x].Si !== undefined) {txt +=linka + entries[x].Si + linkb + site;}
+            if (entries[x].Dem !== undefined) {txt +=linka + entries[x].Dem + linkb + demo;}
+            if (entries[x].CL !== undefined) {txt +=linka + entries[x].CL + linkb + client;}
+            txt += entriesa + entries[x].D + entriesb
         }
     }
     document.getElementById("demo").innerHTML = txt;
@@ -115,20 +126,16 @@ function getDates(u, s) {
 function populateAllEntries() {
     var x, txt = "";
     for (x in entries) {
-        txt += `<article class="media"><div class="media-content"><span class="field is-grouped is-grouped-multiline"><span class="control"><strong>` + entries[x].N + `</strong></span>`;
-        if (entries[x].P !== undefined) {txt += `<span class="control"><a class="icon has-text-warning"><i class="fas fa-lg fa-exclamation-triangle"></i></a></span>`;}
-        if (entries[x].NF !== undefined) {txt += `<span class="control"><a class="icon has-text-warning"><i class="fas fa-lg fa-ban"></i></a></span>`;}
+        txt += namea + entries[x].N + nameb;
+        if (entries[x].P !== undefined) {txt += propri;}
+        if (entries[x].NF !== undefined) {txt += nonf;}
         txt += parseArr(entries[x].T, "tag", entries[x].N);
-        if (entries[x].stars !== undefined) {txt += `<span class="control"><span class="tags has-addons"><a class="tag is-light">Updated</a><a class="tag is-info">` + entries[x].update + `</a></span></span>` +
-            `<span class="control"><span class="tags has-addons"><a class="tag is-dark icon"><i class="fas fa fa-star"></i></a><a class="tag is-light">` + entries[x].stars + `</a></span></span>`;}
-        txt += getL(entries[x].Li, entries[x].N) + parseArr(entries[x].La, "lang", entries[x].N);
-        txt += `<span class="control"><a href="` + entries[x].Sr + `" target="_blank" class=""><span class="icon has-text-link"><i class="fas fa-lg fa-code-branch"></i></span></a></span>`;
-        if (entries[x].Si !== undefined) {txt +=`<span class="control"><a href="` + entries[x].Si + `" target="_blank" class=""><span class="icon has-text-link"><i class="fas fa-lg fa-external-link-alt"></i></span></a></span>`;}
-        if (entries[x].Dem !== undefined) {txt +=`<span class="control"><a href="` + entries[x].Dem + `" target="_blank" class=""><span class="icon has-text-link"><i class="fas fa-lg fa-chevron-circle-right"></i></span></a></span>`;}
-        if (entries[x].CL !== undefined) {txt +=`<span class="control"><a href="` + entries[x].CL + `" target="_blank" class=""><span class="icon has-text-link"><i class="fas fa-lg fa-mobile-alt"></i></span></a></span>`;}
-        txt += `</span>`;
-        txt += `<p>` + entries[x].D + `</p>`;
-        txt += `</div></article>`
+        if (entries[x].stars !== undefined) {txt += date + entries[x].update + stara + entries[x].stars + starb;}
+        txt += getL(entries[x].Li, entries[x].N) + parseArr(entries[x].La, "lang", entries[x].N) + linka + entries[x].Sr + linkb + src;
+        if (entries[x].Si !== undefined) {txt +=linka + entries[x].Si + linkb + site;}
+        if (entries[x].Dem !== undefined) {txt +=linka + entries[x].Dem + linkb + demo;}
+        if (entries[x].CL !== undefined) {txt +=linka + entries[x].CL + linkb + client;}
+        txt += entriesa + entries[x].D + entriesb
     }
     document.getElementById("demo").innerHTML = txt;
 }
