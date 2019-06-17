@@ -13,11 +13,12 @@ request.onload = function() {
             document.getElementById("panel-t").checked = false;
         }
     entries = request.response.Entries;
+    cats = request.response.Cats
     var tags = request.response.Tags;
     var langs = request.response.Langs;
     populateTags(tags);
     populateLangs(langs);
-    populateAllEntries();
+    populateEntries();
 
 };
 function clrLang() {
@@ -36,7 +37,7 @@ function clrTags(t) {
 }
 
 function displayFilters() {
-    var del = "<span class='tag is-danger level-item' onclick='goHome()'>Clear All</span>";
+    var del = "<span class='tag is-danger' onclick='goHome()'>Clear All</span>";
     var lang = "<span class='tag is-success'>" + langSelect + "<button onclick='clrLang()' class='delete is-small'></button></span>";
     var tags = "";
     for (i in tagSelect) {
@@ -45,19 +46,19 @@ function displayFilters() {
     switch (true) {
         case (langSelect !== "" && tagSelect[0] !== undefined):
             document.getElementById("filters").innerHTML = del + lang + tags;
-            document.getElementById("filters").classList.add("notification", "tags");
+            document.getElementById("filters").classList.add("notification");
             break;
         case langSelect !== "":
             document.getElementById("filters").innerHTML = del + lang;
-            document.getElementById("filters").classList.add("notification", "tags");
+            document.getElementById("filters").classList.add("notification");
             break;
         case tagSelect[0] !== undefined:
             document.getElementById("filters").innerHTML = del + tags;
-            document.getElementById("filters").classList.add("notification", "tags");
+            document.getElementById("filters").classList.add("notification");
             break;
         default:
             document.getElementById("filters").innerHTML = "";
-            document.getElementById("filters").classList.remove("notification", "tags");
+            document.getElementById("filters").classList.remove("notification");
     }
 };
 
@@ -94,20 +95,29 @@ const entriesa = `</span><p>`
 const entriesb = `</p></div></article>`
 
 function populateEntries() {
-    var x, txt = "";
-    for (x in entries) {
-        if ((!tagSelect.some(ele => !entries[x].T.includes(ele) || tagSelect === []) && (entries[x].La.includes(langSelect) || langSelect === ""))) {
-            txt += namea + entries[x].N + nameb;
-            if (entries[x].P !== undefined) {txt += propri;}
-            if (entries[x].NF !== undefined) {txt += nonf;}
-            txt += parseArr(entries[x].T, "tag");
-            if (entries[x].stars !== undefined) {txt += date + entries[x].update + stara + entries[x].stars + starb;}
-            txt += getL(entries[x].Li) + parseArr(entries[x].La, "lang");
-            txt += linka + entries[x].Sr + linkb + src;
-            if (entries[x].Si !== undefined) {txt +=linka + entries[x].Si + linkb + site;}
-            if (entries[x].Dem !== undefined) {txt +=linka + entries[x].Dem + linkb + demo;}
-            if (entries[x].CL !== undefined) {txt +=linka + entries[x].CL + linkb + client;}
-            txt += entriesa + entries[x].D + entriesb
+    var x, y, txt = "";
+    for (y in cats) {
+        var ctxt = "<div class='box'><article class='message'><div class='message-header'><p>" + cats[y].Cat + "</p></div></article>"
+        var etxt = ""
+        for (x in entries) {
+            if (entries[x].C === cats[y].Cat) {
+                if (!tagSelect.some(ele => !entries[x].T.includes(ele) || tagSelect === []) && (entries[x].La.includes(langSelect) || langSelect === "")) {
+                    etxt += namea + entries[x].N + nameb;
+                    if (entries[x].P !== undefined) {etxt += propri;}
+                    if (entries[x].NF !== undefined) {etxt += nonf;}
+                    etxt += parseArr(entries[x].T, "tag");
+                    if (entries[x].stars !== undefined) {etxt += date + entries[x].update + stara + entries[x].stars + starb;}
+                    etxt += getL(entries[x].Li) + parseArr(entries[x].La, "lang");
+                    etxt += linka + entries[x].Sr + linkb + src;
+                    if (entries[x].Si !== undefined) {etxt +=linka + entries[x].Si + linkb + site;}
+                    if (entries[x].Dem !== undefined) {etxt +=linka + entries[x].Dem + linkb + demo;}
+                    if (entries[x].CL !== undefined) {etxt +=linka + entries[x].CL + linkb + client;}
+                    etxt += entriesa + entries[x].D + entriesb
+                }
+            }    
+        }
+        if (etxt !== "") {
+            txt += ctxt + etxt + "</div>"
         }
     }
     document.getElementById("demo").innerHTML = txt;
@@ -123,22 +133,28 @@ function getDates(u, s) {
     }
 }
 
-function populateAllEntries() {
-    var x, txt = "";
-    for (x in entries) {
-        txt += namea + entries[x].N + nameb;
-        if (entries[x].P !== undefined) {txt += propri;}
-        if (entries[x].NF !== undefined) {txt += nonf;}
-        txt += parseArr(entries[x].T, "tag", entries[x].N);
-        if (entries[x].stars !== undefined) {txt += date + entries[x].update + stara + entries[x].stars + starb;}
-        txt += getL(entries[x].Li, entries[x].N) + parseArr(entries[x].La, "lang", entries[x].N) + linka + entries[x].Sr + linkb + src;
-        if (entries[x].Si !== undefined) {txt +=linka + entries[x].Si + linkb + site;}
-        if (entries[x].Dem !== undefined) {txt +=linka + entries[x].Dem + linkb + demo;}
-        if (entries[x].CL !== undefined) {txt +=linka + entries[x].CL + linkb + client;}
-        txt += entriesa + entries[x].D + entriesb
-    }
-    document.getElementById("demo").innerHTML = txt;
-}
+// function populateAllEntries() {
+//     var x,y, txt = "";
+//     for (y in cats) {
+//         txt += "<div class='box'><article class='message'><div class='message-header'><p>" + cats[y].Cat + "</p></div></article>"
+//         for (x in entries) {
+//             if (entries[x].C === cats[y].Cat ) {
+//                 txt += namea + entries[x].N + nameb;
+//                 if (entries[x].P !== undefined) {txt += propri;}
+//                 if (entries[x].NF !== undefined) {txt += nonf;}
+//                 txt += parseArr(entries[x].T, "tag", entries[x].N);
+//                 if (entries[x].stars !== undefined) {txt += date + entries[x].update + stara + entries[x].stars + starb;}
+//                 txt += getL(entries[x].Li, entries[x].N) + parseArr(entries[x].La, "lang", entries[x].N) + linka + entries[x].Sr + linkb + src;
+//                 if (entries[x].Si !== undefined) {txt +=linka + entries[x].Si + linkb + site;}
+//                 if (entries[x].Dem !== undefined) {txt +=linka + entries[x].Dem + linkb + demo;}
+//                 if (entries[x].CL !== undefined) {txt +=linka + entries[x].CL + linkb + client;}
+//                 txt += entriesa + entries[x].D + entriesb
+//             }
+//         }
+//         txt += "</div>"
+//     }
+//     document.getElementById("demo").innerHTML = txt;
+// }
 
 function goHome() {
     tagSelect = [];
