@@ -2,7 +2,7 @@ package main
 
 import (
 	"bufio"
-	
+
 	"flag"
 	"fmt"
 	"log"
@@ -11,10 +11,9 @@ import (
 	"regexp"
 	"strings"
 
-
-	"github.com/n8225/ash_gen/pkg/parse"
-	"github.com/n8225/ash_gen/pkg/getexternal"
 	"github.com/n8225/ash_gen/pkg/exporter"
+	"github.com/n8225/ash_gen/pkg/getexternal"
+	"github.com/n8225/ash_gen/pkg/parse"
 )
 
 func main() {
@@ -61,6 +60,7 @@ func freeReadMd(path, gh string) []parse.Entry {
 	entries := []parse.Entry{}
 	glregex := regexp.MustCompile("^(http.://)(www.){0,1}(gitlab.com)/(.*)/(.*)$")
 	ghregex := regexp.MustCompile("^(http.://)(www.){0,1}(github.com)/(.*)$")
+	bbregex := regexp.MustCompile("^(http.://)(www.){0,1}(bitbucket.org)/(.*)/(.*)$")
 	for scanner.Scan() {
 		if strings.HasPrefix(scanner.Text(), "<!-- BEGIN SOFTWARE LIST -->") {
 			list = true
@@ -145,9 +145,13 @@ func freeReadMd(path, gh string) []parse.Entry {
 					ghur := strings.TrimSpace(result[0][4])
 					e.Stars, e.Updated, _, _, src = getexternal.GetGHRepo(ghur, gh, src)
 					if src != "" {
-						fmt.Println("Update " + e.Source + " to https://www.github.com/" + src)
+						fmt.Println("Updated " + e.Source + " to https://www.github.com/" + src)
 						e.Source = "https://www.github.com/" + src
 					}
+				} else if bbregex.MatchString(e.Source) {
+					//result := bbregex.FindAllStringSubmatch(e.Source, -1)
+					//bbAPI := "https://bitbucket.org/api/2.0/repositories/" + result[0][4] + "%2F" + result[0][5]
+					e.Stars, e.Updated = getexternal.GetBbRepo(e.Source)
 				}
 				entries = append(entries, *e)
 			}
