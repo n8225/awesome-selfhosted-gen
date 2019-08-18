@@ -10,8 +10,8 @@ import (
 
 	"gopkg.in/yaml.v2"
 
-	"github.com/n8225/ash_gen/pkg/parse"
-	"github.com/n8225/ash_gen/pkg/exporter"
+	"github.com/n8225/awesome-selfhosted-gen/pkg/parse"
+	"github.com/n8225/awesome-selfhosted-gen/pkg/exporter"
 )
 
 func main() {

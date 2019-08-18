@@ -11,9 +11,9 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/n8225/ash_gen/pkg/exporter"
-	"github.com/n8225/ash_gen/pkg/getexternal"
-	"github.com/n8225/ash_gen/pkg/parse"
+	"github.com/n8225/awesome-selfhosted-gen/pkg/exporter"
+	"github.com/n8225/awesome-selfhosted-gen/pkg/getexternal"
+	"github.com/n8225/awesome-selfhosted-gen/pkg/parse"
 )
 
 func main() {
@@ -39,6 +39,7 @@ func main() {
 	l.LangList = parse.MakeLangs(l.Entries)
 	exporter.ToJSON(*l, "list")
 	exporter.ToYaml(*l, "list")
+	exporter.ToYamlFiles(*l)
 }
 
 func freeReadMd(path, gh string) []parse.Entry {

@@ -1,13 +1,13 @@
 package getexternal
 
 import (
-	"net/http"
-	"log"
-	"io/ioutil"
-	"encoding/json"
-	"strings"
 	"bytes"
+	"encoding/json"
 	"fmt"
+	"io/ioutil"
+	"log"
+	"net/http"
+	"strings"
 )
 
 // Gh struct receives Github api data
@@ -37,9 +37,9 @@ type Gh struct {
 		} `json:"repository"`
 	} `json:"data"`
 	Errors []struct {
-		Message string `json:"message"`
-		Type    string `json:"type"`
-		Path []string `json:"path"`
+		Message string   `json:"message"`
+		Type    string   `json:"type"`
+		Path    []string `json:"path"`
 	} `json:"errors"`
 }
 
@@ -48,27 +48,26 @@ type GHnoRepo struct {
 		RepositoryOwner struct {
 			PinnedRepositories struct {
 				Edges []struct {
-					Node struct { 
+					Node struct {
 						Name string `json:"nameWithOwner"`
-					}`json:"node"`
+					} `json:"node"`
 				} `json:"edges"`
 			} `json:"pinnedRepositories"`
 			Repositories struct {
 				Edges []struct {
 					Node struct {
 						Name string `json:"nameWithOwner"`
-					}`json:"node"`
-				}`json:"edges"`
-			}`json:"Repositories"`
+					} `json:"node"`
+				} `json:"edges"`
+			} `json:"Repositories"`
 		} `json:"repositoryOwner"`
 	} `json:"data"`
 	Errors []struct {
-		Message string `json:"message"`
-		Type    string `json:"type"`
-		Path []string `json:"path"`
+		Message string   `json:"message"`
+		Type    string   `json:"type"`
+		Path    []string `json:"path"`
 	} `json:"errors"`
-} 
-
+}
 
 // GetGHRepo uses the github APIv4 (GRAPHQL) to retrieve star count, last commit, license, and language info. If the repository has moved or there is an error it will fall back to APIv3.
 func GetGHRepo(ur, ght, src string) (stars int, commitDate, license, language, srcUpdate string) {
@@ -81,7 +80,7 @@ func GetGHRepo(ur, ght, src string) (stars int, commitDate, license, language, s
 		//return 0, "", "", "", src
 	}
 	r := strings.Split(ur, "/")
-	fmt.Println(r)
+	//fmt.Println(r)
 	if r[1] == "" {
 		//log.Printf("No repository provided. Update %s to include a repo.", ur)
 		//return 0, "", "", "", src
@@ -90,7 +89,7 @@ func GetGHRepo(ur, ght, src string) (stars int, commitDate, license, language, s
 	}
 
 	var jsonStr = []byte(`{"query":"{repository(owner:\"` + r[0] + `\",name:\"` + r[1] + `\"){stargazers{totalCount}licenseInfo{spdxId}primaryLanguage{name}defaultBranchRef{target{... on Commit{history(first: 1){edges{node{committedDate}}}}}}}}"}`)
-	log.Printf("Body: %s\n", jsonStr)
+	//log.Printf("Body: %s\n", jsonStr)
 	req, err := http.NewRequest("POST", "https://api.github.com/graphql", bytes.NewBuffer(jsonStr))
 
 	req.Header.Set("Authorization", "bearer "+ght)
@@ -126,7 +125,6 @@ func GetGHRepo(ur, ght, src string) (stars int, commitDate, license, language, s
 func ghv3api(u, r, ght, src string) (stars int, commitDate, license, language, srcUpdate string) {
 	ghURL := "https://api.github.com/repos/" + u + "/" + r + "?"
 
-
 	req, err := http.NewRequest("GET", ghURL, nil)
 	req.Header.Set("Authorization", "bearer "+ght)
 	client := http.Client{}
@@ -152,11 +150,10 @@ func ghv3api(u, r, ght, src string) (stars int, commitDate, license, language, s
 		Stars    int    `json:"stargazers_count"`
 		Created  string `json:"created_at"`
 		Updated  string `json:"pushed_at"`
-		License struct {
+		License  struct {
 			SpdxID string `json:"spdx_id"`
 		} `json:"license"`
 		Language string `json:"language"`
-
 	}
 	gh := Gh{}
 	err = json.Unmarshal(body, &gh)
@@ -171,8 +168,8 @@ func ghv3api(u, r, ght, src string) (stars int, commitDate, license, language, s
 	return gh.Stars, strings.Split(gh.Updated, "T")[0], gh.License.SpdxID, gh.Language, gh.FullName
 }
 
-func chooseRepo(ur, ght string) (url string) { 
-	fmt.Println(ur)
+func chooseRepo(ur, ght string) (url string) {
+	//fmt.Println(ur)
 	var jsonStr = []byte(`{"query":"{repositoryOwner(login:\"` + ur + `\"){pinnedRepositories(first: 1, orderBy: {direction: DESC, field: STARGAZERS}){edges{node{nameWithOwner}}}repositories(last:1, orderBy: {direction: ASC, field: STARGAZERS}){edges{node{nameWithOwner}}}}}"}`)
 	//log.Printf("Body: %s\n", jsonStr)
 	req, err := http.NewRequest("POST", "https://api.github.com/graphql", bytes.NewBuffer(jsonStr))
@@ -192,7 +189,7 @@ func chooseRepo(ur, ght string) (url string) {
 		log.Fatal(err)
 	}
 	body, err := ioutil.ReadAll(res.Body)
-	log.Printf("Body: %s\n", body)
+	//log.Printf("Body: %s\n", body)
 
 	gh := &GHnoRepo{}
 	err = json.Unmarshal(body, &gh)

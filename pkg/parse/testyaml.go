@@ -2,16 +2,16 @@ package parse
 
 import (
 	"encoding/json"
+	"fmt"
 	"io/ioutil"
 	"log"
 	"net/http"
 	"net/url"
 	"strconv"
 	"strings"
-	"fmt"
 	"unicode"
 
-	"github.com/n8225/ash_gen/pkg/getexternal"
+	"github.com/n8225/awesome-selfhosted-gen/pkg/getexternal"
 )
 
 // RepoCheckStruct is struct for
@@ -57,9 +57,9 @@ func CheckEntry(e Entry, l List, ght string) Entry {
 		e.Errors = append(e.Errors, "Error: Source is null.")
 	} else {
 		dErr, dErrs, dWarn := checkLinks(e.Source, "Source Link ")
-			if dErr == true {
-					e.Errors = append(e.Errors, dErrs)
-			}
+		if dErr == true {
+			e.Errors = append(e.Errors, dErrs)
+		}
 		fWarn, src := "", ""
 		fWarn, src, ghR = checkSource(e.Source, ght)
 		if src != "" {
@@ -100,7 +100,7 @@ func CheckEntry(e Entry, l List, ght string) Entry {
 	if e.Demo != "" {
 		dErr, dErrs, dWarn := checkLinks(e.Demo, "Demo Link ")
 		if dErr == true {
-					e.Errors = append(e.Errors, dErrs)
+			e.Errors = append(e.Errors, dErrs)
 		}
 		e.Warns = append(e.Warns, dWarn)
 	}
@@ -108,8 +108,8 @@ func CheckEntry(e Entry, l List, ght string) Entry {
 		dErr, dErrs, dWarn := checkLinks(e.Site, "Site Link ")
 		if dErr == true {
 			e.Errors = append(e.Errors, dErrs)
-}
-e.Warns = append(e.Warns, dWarn)
+		}
+		e.Warns = append(e.Warns, dWarn)
 	}
 	if e.Clients != nil {
 		for _, c := range e.Clients {
@@ -122,7 +122,7 @@ e.Warns = append(e.Warns, dWarn)
 	}
 	return e
 }
-func checkDup(e Entry, l List) (eErr bool, eErrs , eWarn string) {
+func checkDup(e Entry, l List) (eErr bool, eErrs, eWarn string) {
 	for _, es := range l.Entries {
 		if e.Source == es.Source || e.Site == es.Source || e.Source == es.Site || e.Site == es.Site {
 			eErr = true
@@ -159,7 +159,7 @@ func checkSource(l, ght string) (dWarn, src string, ghR RepoCheckStruct) {
 	}
 	if u.Host == "github.com" {
 		ghR = RepoCheckStruct{}
-		gh := strings.TrimFunc(u.Path, func(r rune) bool {return !unicode.IsLetter(r) && !unicode.IsNumber(r)})
+		gh := strings.TrimFunc(u.Path, func(r rune) bool { return !unicode.IsLetter(r) && !unicode.IsNumber(r) })
 		_, ghR.Updated, ghR.License, ghR.Language, src = getexternal.GetGHRepo(gh, ght, gh)
 		return "", src, ghR
 	} else if u.Host == "gitlab.com" {

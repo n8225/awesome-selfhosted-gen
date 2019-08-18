@@ -5,7 +5,7 @@ import (
 	"os"
 	"fmt"
 
-	"github.com/n8225/ash_gen/pkg/parse"
+	"github.com/n8225/awesome-selfhosted-gen/pkg/parse"
 )
 // ToJSON exports the list into readable and  minified json files in the static dir
 func ToJSON(list parse.List, fileName string) {
