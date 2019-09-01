@@ -91,6 +91,7 @@ var Tagmap = map[string][]string{
 	"Human Resources Management (HRM)":         {"HRM", "Human Resources MGMNT"},
 	"Internet Of Things (IoT)":                 {"Internet Of Things", "IoT"},
 	"Learning and Courses":                     {"Learning", "Courses", "LMS"},
+	"Knowledge Management Tools":               {"Knowledge Mgmnt"},
 	"Maps and Global Positioning System (GPS)": {"Maps", "GPS"},
 	"Media Streaming":                          {"Media", "Streaming"},
 	"Multimedia Streaming":                     {"Multimedia"},

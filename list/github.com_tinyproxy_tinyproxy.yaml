@@ -1,0 +1,16 @@
+ID: 767
+Name: Tinyproxy
+Description: Light-weight HTTP/HTTPS proxy daemon.
+Source Code: https://github.com/tinyproxy/tinyproxy
+Website: https://tinyproxy.github.io/
+License:
+- GPL-2.0
+Languages:
+- C
+C: Proxy
+Tags:
+- Proxy
+MD: '- [Tinyproxy](https://tinyproxy.github.io/) - Light-weight HTTP/HTTPS proxy daemon.
+  ([Source Code](https://github.com/tinyproxy/tinyproxy)) `GPL-2.0` `C`'
+SourceType: Github
+Line: 1198

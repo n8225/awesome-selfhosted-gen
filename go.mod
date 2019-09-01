@@ -1,4 +1,4 @@
-module github.com/n8225/ash_gen
+module github.com/n8225/awesome-selfhosted-gen
 
 go 1.12
 

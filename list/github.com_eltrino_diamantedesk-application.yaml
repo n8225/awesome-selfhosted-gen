@@ -1,0 +1,18 @@
+ID: 865
+Name: DiamanteDesk
+Description: DiamanteDesk is FREE Open Source easy-to-use help-desk solution.
+Source Code: https://github.com/eltrino/diamantedesk-application
+Demo: http://diamantedesk.com/demo/
+Website: http://diamantedesk.com/
+License:
+- OSL-3.0
+Languages:
+- PHP
+C: Ticketing
+Tags:
+- Ticketing
+MD: '- [DiamanteDesk](http://diamantedesk.com/) - DiamanteDesk is FREE Open Source
+  easy-to-use help-desk solution. ([Demo](http://diamantedesk.com/demo/), [Source
+  Code](https://github.com/eltrino/diamantedesk-application)) `OSL-3.0` `PHP`'
+SourceType: Github
+Line: 1373

@@ -1,0 +1,21 @@
+ID: 22
+Name: ArchivesSpace
+Description: Archives information management application for managing and providing
+  Web access to archives, manuscripts and digital objects.
+Source Code: https://github.com/archivesspace/archivesspace
+Demo: https://archivesspace.org/application/demo/
+Website: https://archivesspace.org/
+License:
+- ECL-2.0
+Languages:
+- Ruby
+C: Archiving and Digital Preservation (DP)
+Tags:
+- archiving
+- Digital Preservation
+MD: '- [ArchivesSpace](https://archivesspace.org/) - Archives information management
+  application for managing and providing Web access to archives, manuscripts and digital
+  objects. ([Demo](https://archivesspace.org/application/demo/), [Source Code](https://github.com/archivesspace/archivesspace))
+  `ECL-2.0` `Ruby`'
+SourceType: Github
+Line: 145

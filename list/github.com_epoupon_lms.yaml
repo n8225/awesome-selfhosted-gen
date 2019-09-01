@@ -1,0 +1,18 @@
+ID: 561
+Name: LMS
+Description: Access your self-hosted music using a web interface.
+Source Code: https://github.com/epoupon/lms
+Demo: http://lms.demo.poupon.io/
+License:
+- GPL-3.0
+Languages:
+- C++
+C: Media Streaming
+Tags:
+- Media
+- Streaming
+- Audio
+MD: '- [LMS](https://github.com/epoupon/lms) - Access your self-hosted music using
+  a web interface. ([Demo](http://lms.demo.poupon.io/)) `GPL-3.0` `C++`'
+SourceType: Github
+Line: 924

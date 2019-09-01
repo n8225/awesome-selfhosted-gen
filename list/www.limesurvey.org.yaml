@@ -1,0 +1,18 @@
+ID: 744
+Name: LimeSurvey
+Description: Feature-rich Open Source web based polling software. Supports extensive
+  survey logic.
+Source Code: https://www.limesurvey.org
+Demo: https://demo.limesurvey.org
+License:
+- GPL-2.0
+Languages:
+- PHP
+C: Polls and Events
+Tags:
+- Polls
+- Events
+MD: '- [LimeSurvey](https://www.limesurvey.org) - Feature-rich Open Source web based
+  polling software. Supports extensive survey logic. ([Demo](https://demo.limesurvey.org),
+  [Source code](https://github.com/LimeSurvey/LimeSurvey)) `GPL-2.0` `PHP`'
+Line: 1167

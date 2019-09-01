@@ -1,0 +1,18 @@
+ID: 130
+Name: RetroShare
+Description: Secured and decentralized communication system. Offers decentralized
+  chat, forums, messaging, file transfer.
+Source Code: https://github.com/RetroShare/RetroShare
+Website: http://retroshare.org
+License:
+- GPL-2.0
+Languages:
+- C++
+C: Communication systems
+Tags:
+- Communications
+MD: '- [RetroShare](http://retroshare.org) - Secured and decentralized communication
+  system. Offers decentralized chat, forums, messaging, file transfer. ([Source Code](https://github.com/RetroShare/RetroShare))
+  `GPL-2.0` `С++`'
+SourceType: Github
+Line: 292

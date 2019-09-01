@@ -1,0 +1,18 @@
+ID: 823
+Name: Zalenium
+Description: Allows anyone to have a disposable and flexible Docker-based Selenium
+  Grid infrastructure featuring video recording, live preview and online/offline dashboards.
+Source Code: https://github.com/zalando/zalenium
+License:
+- Apache-2.0
+Languages:
+- Java
+- Shell
+C: Software Development
+Tags:
+- Software Dev
+MD: '- [Zalenium](https://github.com/zalando/zalenium) - Allows anyone to have a disposable
+  and flexible Docker-based Selenium Grid infrastructure featuring video recording,
+  live preview and online/offline dashboards. `Apache-2.0` `Java/Shell`'
+SourceType: Github
+Line: 1295

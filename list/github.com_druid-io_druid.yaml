@@ -1,0 +1,17 @@
+ID: 3
+Name: Druid
+Description: Distributed, column-oriented, real-time analytics data store.
+Source Code: https://github.com/druid-io/druid
+Website: http://druid.io/
+License:
+- Apache-2.0
+Languages:
+- Java
+C: Analytics
+Tags:
+- Analytics
+- Web Analytics
+MD: '- [Druid](http://druid.io/) - Distributed, column-oriented, real-time analytics
+  data store. ([Source Code](https://github.com/druid-io/druid)) `Apache-2.0` `Java`'
+SourceType: Github
+Line: 113

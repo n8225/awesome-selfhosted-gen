@@ -1,0 +1,19 @@
+ID: 378
+Name: NewsBlur
+Description: NewsBlur is a personal news reader that brings people together to talk
+  about the world. A new sound of an old instrument.
+Source Code: https://github.com/samuelclay/NewsBlur
+Website: http://www.newsblur.com/
+License:
+- MIT
+Languages:
+- Python
+C: Feed Readers
+Tags:
+- RSS
+- Feed Reader
+MD: '- [NewsBlur](http://www.newsblur.com/) - NewsBlur is a personal news reader that
+  brings people together to talk about the world. A new sound of an old instrument.
+  ([Source Code](https://github.com/samuelclay/NewsBlur)) `MIT` `Python`'
+SourceType: Github
+Line: 654

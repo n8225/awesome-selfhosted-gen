@@ -1,0 +1,15 @@
+ID: 207
+Name: Ostel
+Description: Secure SIP telephony setup with ZRTP encryption.
+Source Code: https://dev.guardianproject.info/projects/ostel/wiki/Server_Documentation
+License:
+- GPL-3.0
+Languages:
+- Ruby
+C: Communication systems
+Tags:
+- Communications
+- SIP
+MD: '- [Ostel](https://dev.guardianproject.info/projects/ostel/wiki/Server_Documentation)
+  - Secure SIP telephony setup with ZRTP encryption. `GPL-3.0` `Ruby`'
+Line: 410

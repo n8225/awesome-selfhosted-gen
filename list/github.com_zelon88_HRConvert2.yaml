@@ -1,0 +1,20 @@
+ID: 38
+Name: HRConvert2
+Description: Drag-and-drop file conversion server with session based authentication,
+  automatic temporary file maintenance, and logging capability.
+Source Code: https://github.com/zelon88/HRConvert2
+Demo: https://www.honestrepair.net/index.php/convert/
+Website: https://www.honestrepair.net/index.php/hrconvert2/
+License:
+- GPL-3.0
+Languages:
+- PHP
+C: Automation
+Tags:
+- Automation
+MD: '- [HRConvert2](https://www.honestrepair.net/index.php/hrconvert2/) - Drag-and-drop
+  file conversion server with session based authentication, automatic temporary file
+  maintenance, and logging capability. ([Demo](https://www.honestrepair.net/index.php/convert/),
+  [Source Code](https://github.com/zelon88/HRConvert2)) `GPL-3.0` `PHP`'
+SourceType: Github
+Line: 166

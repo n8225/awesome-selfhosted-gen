@@ -1,0 +1,20 @@
+ID: 151
+Name: Modoboa
+Description: Modoboa is a mail hosting and management platform including a modern
+  and simplified Web User Interface.
+Source Code: https://github.com/tonioo/modoboa
+Website: http://modoboa.org/en/
+License:
+- MIT
+Languages:
+- Python
+C: Communication systems
+Tags:
+- Communications
+- Email
+- Complete Email
+MD: '- [Modoboa](http://modoboa.org/en/) - Modoboa is a mail hosting and management
+  platform including a modern and simplified Web User Interface. ([Source Code](https://github.com/tonioo/modoboa))
+  `MIT` `Python`'
+SourceType: Github
+Line: 322

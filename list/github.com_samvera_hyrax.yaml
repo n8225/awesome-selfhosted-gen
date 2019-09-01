@@ -1,0 +1,20 @@
+ID: 366
+Name: Samvera Hyrax
+Description: Front-end for the Samvera framework, which itself is a Ruby on Rails
+  application for browsing and managing Fedora-based digital repositories.
+Source Code: https://github.com/samvera/hyrax
+Website: https://samvera.org/
+License:
+- Apache-2.0
+Languages:
+- Ruby
+C: E-books and Integrated Library Systems (ILS)
+Tags:
+- E-book
+- ILS
+MD: '- [Samvera Hyrax](https://samvera.org/) - Front-end for the Samvera framework,
+  which itself is a Ruby on Rails application for browsing and managing Fedora-based
+  digital repositories. ([Source Code](https://github.com/samvera/hyrax)) `Apache-2.0`
+  `Ruby`'
+SourceType: Github
+Line: 631

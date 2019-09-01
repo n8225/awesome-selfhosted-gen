@@ -1,0 +1,16 @@
+ID: 608
+Name: nnmm
+Description: Super tiny pastebin/url minifier "microservice".
+Source Code: https://github.com/Mechazawa/nnmm
+License:
+- Beerware
+Languages:
+- PHP
+C: Misc/Other
+Tags:
+- Misc
+- Other
+MD: '- [nnmm](https://github.com/Mechazawa/nnmm) - Super tiny pastebin/url minifier
+  "microservice". `Beerware` `PHP`'
+SourceType: Github
+Line: 979

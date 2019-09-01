@@ -1,0 +1,18 @@
+ID: 617
+Name: Trello Burndown
+Description: Easy to use SCRUM burndown chart for Trello boards.
+Source Code: https://github.com/swordbeta/trello-burndown
+License:
+- MIT
+Languages:
+- Go
+- Docker
+C: Misc/Other
+Tags:
+- Misc
+- Other
+ProprietaryDependency: true
+MD: '- [Trello Burndown](https://github.com/swordbeta/trello-burndown) `⚠` - Easy
+  to use SCRUM burndown chart for Trello boards. `MIT` `Go/Docker`'
+SourceType: Github
+Line: 988

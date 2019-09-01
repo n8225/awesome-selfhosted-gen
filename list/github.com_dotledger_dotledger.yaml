@@ -1,0 +1,19 @@
+ID: 628
+Name: Dot Ledger
+Description: Web-based personal finance management tool.
+Source Code: https://github.com/dotledger/dotledger
+Demo: https://demo.dotledger.com/
+Website: https://www.dotledger.com/
+License:
+- Apache-2.0
+Languages:
+- Ruby
+C: Money, Budgeting and Management
+Tags:
+- Money
+- Budget
+MD: '- [Dot Ledger](https://www.dotledger.com/) - Web-based personal finance management
+  tool. ([Demo](https://demo.dotledger.com/), [Source Code](https://github.com/dotledger/dotledger))
+  `Apache-2.0` `Ruby`'
+SourceType: Github
+Line: 1006

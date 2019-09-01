@@ -1,0 +1,18 @@
+ID: 6
+Name: Hastic
+Description: Hackable time series pattern recognition tool with UI for Grafana.
+Source Code: https://github.com/hastic
+Website: https://hastic.io
+License:
+- Apache-2.0
+Languages:
+- Python
+- Nodejs
+C: Analytics
+Tags:
+- Analytics
+- Web Analytics
+MD: '- [Hastic](https://hastic.io) - Hackable time series pattern recognition tool
+  with UI for Grafana. ([Source Code](https://github.com/hastic)) `Apache-2.0` `Python/Nodejs`'
+SourceType: Github
+Line: 116

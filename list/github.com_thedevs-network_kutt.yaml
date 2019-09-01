@@ -1,0 +1,16 @@
+ID: 881
+Name: Kutt
+Description: A modern URL shortener with support for custom domains.
+Source Code: https://github.com/thedevs-network/kutt
+Website: https://kutt.it
+License:
+- MIT
+Languages:
+- Nodejs
+C: URL Shorteners
+Tags:
+- URL Shortener
+MD: '- [Kutt](https://kutt.it) - A modern URL shortener with support for custom domains.
+  ([Source Code](https://github.com/thedevs-network/kutt)) `MIT` `Nodejs`'
+SourceType: Github
+Line: 1394

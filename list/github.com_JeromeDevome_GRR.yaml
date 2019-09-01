@@ -1,0 +1,17 @@
+ID: 634
+Name: GRR
+Description: Assets management and booking for small/medium companies.
+Source Code: https://github.com/JeromeDevome/GRR
+Website: http://grr.devome.com/?lang=en
+License:
+- GPL-2.0
+Languages:
+- PHP
+C: Money, Budgeting and Management
+Tags:
+- Money
+- Budget
+MD: '- [GRR](http://grr.devome.com/?lang=en) - Assets management and booking for small/medium
+  companies. ([Source Code](https://github.com/JeromeDevome/GRR)) `GPL-2.0` `PHP`'
+SourceType: Github
+Line: 1012

@@ -1,0 +1,17 @@
+ID: 179
+Name: Sympa
+Description: Mailing list manager.
+Source Code: https://www.sympa.org/
+License:
+- GPL-2.0
+Languages:
+- Perl
+C: Communication systems
+Tags:
+- Communications
+- Email
+- Mailng List
+- Newsletters
+- Mass mail
+MD: '- [Sympa](https://www.sympa.org/) - Mailing list manager. `GPL-2.0` `Perl`'
+Line: 365

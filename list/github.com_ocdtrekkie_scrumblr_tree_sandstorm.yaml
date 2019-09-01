@@ -1,0 +1,20 @@
+ID: 848
+Name: scrumblr
+Description: Collaborative Online Scrum Tool Using Websockets, Node.js, jQuery, and
+  CSS3.
+Source Code: https://github.com/ocdtrekkie/scrumblr/tree/sandstorm
+Demo: http://scrumblr.ca/demo
+Website: http://scrumblr.ca/
+License:
+- GPL-3.0
+Languages:
+- Nodejs
+C: Task management/To-do lists
+Tags:
+- To-Do
+- Task Mgmnt
+MD: '- [scrumblr](http://scrumblr.ca/) - Collaborative Online Scrum Tool Using Websockets,
+  Node.js, jQuery, and CSS3. ([Demo](http://scrumblr.ca/demo), [Source Code](https://github.com/ocdtrekkie/scrumblr/tree/sandstorm))
+  `GPL-3.0` `Nodejs`'
+SourceType: Github
+Line: 1349

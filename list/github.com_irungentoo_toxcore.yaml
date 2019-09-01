@@ -1,0 +1,17 @@
+ID: 140
+Name: Tox
+Description: Distributed, secure messenger with audio and video chat capabilities.
+Source Code: https://github.com/irungentoo/toxcore
+Website: https://tox.chat/
+License:
+- GPL-3.0
+Languages:
+- C
+C: Communication systems
+Tags:
+- Communications
+MD: '- [Tox](https://tox.chat/) - Distributed, secure messenger with audio and video
+  chat capabilities. ([Source Code](https://github.com/irungentoo/toxcore)) `GPL-3.0`
+  `C`'
+SourceType: Github
+Line: 302

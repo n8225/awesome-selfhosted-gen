@@ -1,0 +1,19 @@
+ID: 636
+Name: Inventaire
+Description: Collaborative resources mapper project, while yet only focused on exploring
+  books mapping with wikidata and ISBNs.
+Source Code: https://github.com/inventaire/inventaire
+Website: https://inventaire.io/welcome
+License:
+- AGPL-3.0
+Languages:
+- Nodejs
+C: Money, Budgeting and Management
+Tags:
+- Money
+- Budget
+MD: '- [Inventaire](https://inventaire.io/welcome) - Collaborative resources mapper
+  project, while yet only focused on exploring books mapping with wikidata and ISBNs.
+  ([Source Code](https://github.com/inventaire/inventaire)) `AGPL-3.0` `Nodejs`'
+SourceType: Github
+Line: 1014

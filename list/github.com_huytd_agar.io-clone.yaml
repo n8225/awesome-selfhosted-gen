@@ -1,0 +1,15 @@
+ID: 466
+Name: Agar.IO Clone
+Description: Agar.io clone written with Socket.IO and HTML5 canvas.
+Source Code: https://github.com/huytd/agar.io-clone
+License:
+- MIT
+Languages:
+- Nodejs
+C: Games
+Tags:
+- Game
+MD: '- [Agar.IO Clone](https://github.com/huytd/agar.io-clone) - Agar.io clone written
+  with Socket.IO and HTML5 canvas. `MIT` `Nodejs`'
+SourceType: Github
+Line: 779

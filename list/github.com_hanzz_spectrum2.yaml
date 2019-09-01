@@ -1,0 +1,18 @@
+ID: 133
+Name: Spectrum 2
+Description: Spectrum 2 is an open source instant messaging transport.  It allows
+  users to chat together even when they are using different IM networks.
+Source Code: https://github.com/hanzz/spectrum2
+Website: http://spectrum.im/
+License:
+- GPL-3.0
+Languages:
+- C++
+C: Communication systems
+Tags:
+- Communications
+MD: '- [Spectrum 2](http://spectrum.im/) - Spectrum 2 is an open source instant messaging
+  transport.  It allows users to chat together even when they are using different
+  IM networks. ([Source Code](https://github.com/hanzz/spectrum2)) `GPL-3.0` `C++`'
+SourceType: Github
+Line: 295

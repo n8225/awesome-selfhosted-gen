@@ -1,0 +1,20 @@
+ID: 242
+Name: PixelFed
+Description: Pixelfed is an open-source, federated platform alternate to Instagram.
+Source Code: http://github.com/pixelfed/pixelfed
+Website: https://pixelfed.social
+License:
+- AGPL-3.0
+Languages:
+- PHP
+- HTML5
+C: Communication systems
+Tags:
+- Communications
+- Social Network
+- Forum
+MD: '- [PixelFed](https://pixelfed.social) - Pixelfed is an open-source, federated
+  platform alternate to Instagram. ([Source Code](http://github.com/pixelfed/pixelfed))
+  `AGPL-3.0` `PHP\HTML\Vue`'
+SourceType: Github
+Line: 450

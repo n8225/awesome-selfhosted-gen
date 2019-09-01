@@ -1,0 +1,19 @@
+ID: 648
+Name: Dnote
+Description: A simple and encrypted notebook for developers. Protect your privacy
+  and stay focused.
+Source Code: https://github.com/dnote/dnote
+Website: https://dnote.io
+License:
+- AGPL-3.0
+Languages:
+- Go
+C: Note-taking and Editors
+Tags:
+- Note-taking
+- Editor
+MD: '- [Dnote](https://dnote.io) - A simple and encrypted notebook for developers.
+  Protect your privacy and stay focused. ([Source Code](https://github.com/dnote/dnote))
+  `AGPL-3.0` `Go`'
+SourceType: Github
+Line: 1039

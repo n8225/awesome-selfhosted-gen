@@ -1,0 +1,16 @@
+ID: 75
+Name: Noddity
+Description: It's a blog, it's a wiki, it's a fast CMS.
+Source Code: https://github.com/TehShrike/noddity
+Website: http://noddity.com/
+License:
+- WTFPL
+Languages:
+- Nodejs
+C: Blogging Platforms
+Tags:
+- Blog
+MD: '- [Noddity](http://noddity.com/) - It''s a blog, it''s a wiki, it''s a fast CMS.
+  ([Source Code](https://github.com/TehShrike/noddity)) `WTFPL` `Nodejs`'
+SourceType: Github
+Line: 210

@@ -1,0 +1,17 @@
+ID: 820
+Name: Wide
+Description: Web-based IDE for Teams using Go programming language/Golang.
+Source Code: https://github.com/b3log/wide
+Demo: http://wide.b3log.org/signup
+License:
+- Apache-2.0
+Languages:
+- Go
+C: Software Development
+Tags:
+- Software Dev
+- IDE
+MD: '- [Wide](https://github.com/b3log/wide) - Web-based IDE for Teams using Go programming
+  language/Golang. ([Demo](http://wide.b3log.org/signup)) `Apache-2.0` `Go`'
+SourceType: Github
+Line: 1285

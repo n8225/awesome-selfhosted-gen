@@ -1,0 +1,18 @@
+ID: 221
+Name: Elgg
+Description: Powerful open source social networking engine.
+Source Code: https://github.com/Elgg/Elgg
+Website: https://elgg.org/
+License:
+- GPL-2.0
+Languages:
+- PHP
+C: Communication systems
+Tags:
+- Communications
+- Social Network
+- Forum
+MD: '- [Elgg](https://elgg.org/) - Powerful open source social networking engine.
+  ([Source Code](https://github.com/Elgg/Elgg)) `GPL-2.0` `PHP`'
+SourceType: Github
+Line: 429

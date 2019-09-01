@@ -1,15 +1,21 @@
 package getexternal
 
 import (
-	"net/http"
-	"log"
-	"io/ioutil"
 	"encoding/json"
+	"io/ioutil"
+	"log"
+	"net/http"
 	"strings"
 )
 
-// GetGLRepo retrieves star count and last activity.  This should probable be update to retrieve last commit and possible use GRAPHQL.
-func GetGLRepo(url string) (int, string) {
+//GetGLRepo retrieves star count and last activity.  //TODO This should probable be updated to retrieve last commit and possible use GRAPHQL.
+func GetGLRepo(ur string) (int, string) {
+	if strings.Contains(ur, "/") != true {
+		return 0, ""
+	}
+	r := strings.Split(ur, "/")
+
+	url := "https://gitlab.com/api/v4/projects/" + r[0] + "%2f" + r[1]
 	res, err := http.Get(url)
 	if err != nil {
 		log.Fatal(err)

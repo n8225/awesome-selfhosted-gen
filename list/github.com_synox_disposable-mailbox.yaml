@@ -1,0 +1,19 @@
+ID: 182
+Name: Disposable Mailbox
+Description: Simple disposable mailbox web-app based on a catch-all IMAP mailbox.
+Source Code: https://github.com/synox/disposable-mailbox
+Demo: https://bhadoomail.com/
+License:
+- GPL-3.0
+Languages:
+- PHP
+C: Communication systems
+Tags:
+- Communications
+- Email
+- Webmail
+MD: '- [Disposable Mailbox](https://github.com/synox/disposable-mailbox) - Simple
+  disposable mailbox web-app based on a catch-all IMAP mailbox. ([Demo](https://bhadoomail.com/))
+  `GPL-3.0` `PHP`'
+SourceType: Github
+Line: 371

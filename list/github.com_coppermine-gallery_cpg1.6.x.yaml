@@ -1,0 +1,20 @@
+ID: 717
+Name: Coppermine
+Description: Multilingual photo gallery that integrates with various bulletin boards.
+  Includes upload approval and password protected albums.
+Source Code: https://github.com/coppermine-gallery/cpg1.6.x
+Demo: http://coppermine-gallery.net/demo/cpg15x/
+Website: http://coppermine-gallery.net/
+License:
+- GPL-3.0
+Languages:
+- PHP
+C: Photo and Video Galleries
+Tags:
+- Photo and Video Gallery
+MD: '- [Coppermine](http://coppermine-gallery.net/) - Multilingual photo gallery that
+  integrates with various bulletin boards. Includes upload approval and password protected
+  albums. ([Demo](http://coppermine-gallery.net/demo/cpg15x/), [Source Code](https://github.com/coppermine-gallery/cpg1.6.x))
+  `GPL-3.0` `PHP`'
+SourceType: Github
+Line: 1135

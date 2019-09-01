@@ -1,0 +1,21 @@
+ID: 398
+Name: ownCloud
+Description: All-in-one solution for saving, synchronizing, viewing, editing and sharing
+  files, calendars, address books and more.
+Source Code: https://github.com/owncloud/core
+Website: https://owncloud.org/
+License:
+- AGPL-3.0
+Languages:
+- PHP
+C: File Sharing and Synchronization
+Tags:
+- File Sharing
+- File Transfer
+- File Sync
+MD: '- [ownCloud](https://owncloud.org/) - All-in-one solution for saving, synchronizing,
+  viewing, editing and sharing files, calendars, address books and more. ([Source
+  Code](https://github.com/owncloud/core), [Clients](https://github.com/owncloud/core/wiki/Apps))
+  `AGPL-3.0` `PHP`'
+SourceType: Github
+Line: 689

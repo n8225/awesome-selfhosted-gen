@@ -1,0 +1,18 @@
+ID: 528
+Name: OpenStreetMap
+Description: Collaborative project to create a free editable map of the world.
+Source Code: https://github.com/openstreetmap/openstreetmap-website
+Website: https://www.openstreetmap.org/
+License:
+- GPL-2.0
+Languages:
+- Ruby
+C: Maps and Global Positioning System (GPS)
+Tags:
+- Maps
+- GPS
+MD: '- [OpenStreetMap](https://www.openstreetmap.org/) - Collaborative project to
+  create a free editable map of the world. ([Source Code](https://github.com/openstreetmap/openstreetmap-website),
+  [Clients](https://wiki.openstreetmap.org/wiki/Software)) `GPL-2.0` `Ruby`'
+SourceType: Github
+Line: 878

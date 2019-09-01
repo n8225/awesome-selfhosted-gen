@@ -1,0 +1,19 @@
+ID: 818
+Name: RStudio Server
+Description: Web browser based IDE for R.
+Source Code: https://github.com/rstudio/rstudio
+Website: https://www.rstudio.com/products/rstudio/#Server
+License:
+- AGPL-3.0
+Languages:
+- Java
+- C++
+C: Software Development
+Tags:
+- Software Dev
+- IDE
+MD: '- [RStudio Server](https://www.rstudio.com/products/rstudio/#Server) - Web browser
+  based IDE for R. ([Source Code](https://github.com/rstudio/rstudio)) `AGPL-3.0`
+  `Java/C++`'
+SourceType: Github
+Line: 1283

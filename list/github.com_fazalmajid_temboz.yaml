@@ -1,0 +1,17 @@
+ID: 388
+Name: Temboz
+Description: Two-column feed reader emphasizing filtering capabilities to manage information
+  overload.
+Source Code: https://github.com/fazalmajid/temboz
+License:
+- MIT
+Languages:
+- Python
+C: Feed Readers
+Tags:
+- RSS
+- Feed Reader
+MD: '- [Temboz](https://github.com/fazalmajid/temboz) - Two-column feed reader emphasizing
+  filtering capabilities to manage information overload. `MIT` `Python`'
+SourceType: Github
+Line: 664

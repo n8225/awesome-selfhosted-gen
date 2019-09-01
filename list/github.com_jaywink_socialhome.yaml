@@ -1,0 +1,20 @@
+ID: 249
+Name: Socialhome
+Description: Federated and decentralized profile builder and social network engine.
+Source Code: https://github.com/jaywink/socialhome
+Demo: https://socialhome.network/
+Website: https://socialhome.network
+License:
+- AGPL-3.0
+Languages:
+- Python
+C: Communication systems
+Tags:
+- Communications
+- Social Network
+- Forum
+MD: '- [Socialhome](https://socialhome.network) - Federated and decentralized profile
+  builder and social network engine. ([Demo](https://socialhome.network/), [Source
+  Code](https://github.com/jaywink/socialhome)) `AGPL-3.0` `Python`'
+SourceType: Github
+Line: 457

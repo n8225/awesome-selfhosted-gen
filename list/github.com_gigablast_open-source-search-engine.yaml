@@ -1,0 +1,16 @@
+ID: 779
+Name: Gigablast
+Description: open source search engine.
+Source Code: https://github.com/gigablast/open-source-search-engine
+Website: http://www.gigablast.com/
+License:
+- Apache-2.0
+Languages:
+- C++
+C: Search Engines
+Tags:
+- Search Engine
+MD: '- [Gigablast](http://www.gigablast.com/) - open source search engine. ([Source
+  Code](https://github.com/gigablast/open-source-search-engine)) `Apache-2.0` `C++`'
+SourceType: Github
+Line: 1228

@@ -1,0 +1,19 @@
+ID: 107
+Name: EteSync Web
+Description: EteSync's official Web-based client (i.e., their Web app).
+Source Code: https://github.com/etesync/etesync-web
+Demo: https://client.etesync.com/
+Website: https://www.etesync.com/faq/#web-client
+License:
+- AGPL-3.0
+Languages:
+- TypeScript
+C: Calendaring and Contacts Management
+Tags:
+- Calendar
+- Contacts
+MD: '- [EteSync Web](https://www.etesync.com/faq/#web-client) - EteSync''s official
+  Web-based client (i.e., their Web app). ([Demo](https://client.etesync.com/), [Source
+  Code](https://github.com/etesync/etesync-web)) `AGPL-3.0` `TypeScript`'
+SourceType: Github
+Line: 262

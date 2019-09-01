@@ -1,0 +1,19 @@
+ID: 488
+Name: EspoCRM
+Description: CRM with a frontend designed as a single page application, and a REST
+  API.
+Source Code: https://github.com/espocrm/espocrm
+Demo: http://demo.espocrm.de/basic/
+Website: https://www.espocrm.com/
+License:
+- GPL-3.0
+Languages:
+- PHP
+C: Groupware
+Tags:
+- Groupware
+MD: '- [EspoCRM](https://www.espocrm.com/) - CRM with a frontend designed as a single
+  page application, and a REST API. ([Demo](http://demo.espocrm.de/basic/), [Source
+  Code](https://github.com/espocrm/espocrm)) `GPL-3.0` `PHP`'
+SourceType: Github
+Line: 811
