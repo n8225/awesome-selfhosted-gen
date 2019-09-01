@@ -1,0 +1,19 @@
+ID: 59
+Name: WTFDYUM
+Description: Why The Fuck Did You Unfollow Me - Find out who stops following you on
+  Twitter.
+Source Code: https://github.com/jchampemont/WTFDYUM
+Website: https://www.wtfdyu.me/
+License:
+- Apache-2.0
+Languages:
+- Java
+C: Automation
+Tags:
+- Automation
+ProprietaryDependency: true
+MD: '- [WTFDYUM](https://www.wtfdyu.me/) `⚠` - Why The Fuck Did You Unfollow Me -
+  Find out who stops following you on Twitter. ([Source Code](https://github.com/jchampemont/WTFDYUM))
+  `Apache-2.0` `Java`'
+SourceType: Github
+Line: 187

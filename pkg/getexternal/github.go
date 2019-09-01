@@ -7,10 +7,12 @@ import (
 	"io/ioutil"
 	"log"
 	"net/http"
+	"net/url"
+	"strconv"
 	"strings"
 )
 
-// Gh struct receives Github api data
+// Gh struct receives Github v4 api data
 type Gh struct {
 	Data struct {
 		Repository struct {
@@ -43,6 +45,7 @@ type Gh struct {
 	} `json:"errors"`
 }
 
+//GHnoRepo struct receives Github api data when we are guessing
 type GHnoRepo struct {
 	Data struct {
 		RepositoryOwner struct {
@@ -69,24 +72,41 @@ type GHnoRepo struct {
 	} `json:"errors"`
 }
 
-// GetGHRepo uses the github APIv4 (GRAPHQL) to retrieve star count, last commit, license, and language info. If the repository has moved or there is an error it will fall back to APIv3.
-func GetGHRepo(ur, ght, src string) (stars int, commitDate, license, language, srcUpdate string) {
-	ur = strings.TrimPrefix(strings.TrimSuffix(ur, "/"), "/")
-	if strings.Contains(ur, "/") != true {
-		//log.Printf("No repository provided. Update %s to include a repo.", ur)
-		fmt.Println("Sending " + ur + " to repo chooser.")
-		ur = chooseRepo(ur, ght)
-		fmt.Println("fixed: " + ur)
-		//return 0, "", "", "", src
+//ghv3 is the struct for the v3 github api
+type ghv3 struct {
+	FullName string `json:"full_name"`
+	Stars    int    `json:"stargazers_count"`
+	Created  string `json:"created_at"`
+	Updated  string `json:"pushed_at"`
+	License  struct {
+		SpdxID string `json:"spdx_id"`
+	} `json:"license"`
+	Language string `json:"language"`
+}
+
+//getOwnRepo parses the owner and repo from a github url
+func getOwnRepo(ghURL, ght string) string {
+	u, err := url.Parse(ghURL)
+	if err != nil {
+		fmt.Println(err)
 	}
-	r := strings.Split(ur, "/")
-	//fmt.Println(r)
-	if r[1] == "" {
-		//log.Printf("No repository provided. Update %s to include a repo.", ur)
-		//return 0, "", "", "", src
-		fmt.Println("Sending " + ur + " to repo chooser.")
-		r = strings.Split(chooseRepo(ur, ght), "/")
+	return u.Path
+
+}
+
+//GetGH uses the github APIv4 (GRAPHQL) to retrieve star count, last commit, license, and language info. If the repository has moved or there is an error it will fall back to APIv3.
+func GetGH(ghURL, ght string, hasErrors []string) (int, string, string, string, []string) {
+
+	ownRepo := strings.TrimPrefix(strings.TrimSuffix(getOwnRepo(ghURL, ght), "/"), "/")
+
+	if strings.Contains(ownRepo, "/") != true {
+		ownRepo, hasErrors = chooseRepo(ownRepo, ght)
+		if hasErrors != nil {
+			return 0, "", "", "", hasErrors
+		}
+		hasErrors = append(hasErrors, "Repo not provided in Source code URL, guessed to be https://www.github.com/"+ownRepo)
 	}
+	r := strings.Split(ownRepo, "/")
 
 	var jsonStr = []byte(`{"query":"{repository(owner:\"` + r[0] + `\",name:\"` + r[1] + `\"){stargazers{totalCount}licenseInfo{spdxId}primaryLanguage{name}defaultBranchRef{target{... on Commit{history(first: 1){edges{node{committedDate}}}}}}}}"}`)
 	//log.Printf("Body: %s\n", jsonStr)
@@ -116,13 +136,13 @@ func GetGHRepo(ur, ght, src string) (stars int, commitDate, license, language, s
 	}
 	//Fallback to github v3 api on error
 	if gh.Data.Repository.Stargazers.TotalCount == 0 {
-		log.Printf("Error: https://github.com/%s/%s => %v Trying github api v3.  ", r[0], r[1], gh.Errors[0].Message)
-		return ghv3api(r[0], r[1], ght, srcUpdate)
+		//log.Printf("Error: https://github.com/%s/%s => %v Trying github api v3.  ", owner, repo, gh.Errors[0].Message)
+		return ghv3api(r[0], r[1], ght)
 	}
-	return gh.Data.Repository.Stargazers.TotalCount, strings.Split(gh.Data.Repository.DefaultBranchRef.Target.History.Edges[0].Node.CommittedDate, "T")[0], gh.Data.Repository.LicenseInfo.SpdxID, gh.Data.Repository.PrimaryLanguage.Name, src
+	return gh.Data.Repository.Stargazers.TotalCount, strings.Split(gh.Data.Repository.DefaultBranchRef.Target.History.Edges[0].Node.CommittedDate, "T")[0], gh.Data.Repository.LicenseInfo.SpdxID, gh.Data.Repository.PrimaryLanguage.Name, hasErrors
 }
 
-func ghv3api(u, r, ght, src string) (stars int, commitDate, license, language, srcUpdate string) {
+func ghv3api(u, r, ght string) (stars int, commitDate, license, language string, hasError []string) {
 	ghURL := "https://api.github.com/repos/" + u + "/" + r + "?"
 
 	req, err := http.NewRequest("GET", ghURL, nil)
@@ -133,8 +153,8 @@ func ghv3api(u, r, ght, src string) (stars int, commitDate, license, language, s
 		log.Fatal(err)
 	}
 	if res.StatusCode != 200 {
-		log.Printf("StatusCode: %v. Source link is invalid: %v/%v\n", res.StatusCode, u, r)
-		return 0, "", "", "", srcUpdate
+		hasError = append(hasError, "StatusCode: "+strconv.Itoa(res.StatusCode)+". Source link is invalid: "+u+"/"+r)
+		return 0, "", "", "", hasError
 	}
 
 	// read body
@@ -145,32 +165,23 @@ func ghv3api(u, r, ght, src string) (stars int, commitDate, license, language, s
 	}
 	//log.Printf("Body: %s\n", body)
 
-	type Gh struct {
-		FullName string `json:"full_name"`
-		Stars    int    `json:"stargazers_count"`
-		Created  string `json:"created_at"`
-		Updated  string `json:"pushed_at"`
-		License  struct {
-			SpdxID string `json:"spdx_id"`
-		} `json:"license"`
-		Language string `json:"language"`
-	}
-	gh := Gh{}
+	gh := ghv3{}
 	err = json.Unmarshal(body, &gh)
 	if err != nil {
 		log.Fatal(err)
 	}
-	log.Printf("Update https://github.com/%s/%s Source code link to: https://github.com/%s\n", u, r, gh.FullName)
+	hasError = append(hasError, "Update https://github.com/"+u+"/"+r+" Source code link to: https://github.com/"+gh.FullName)
 	if "/"+u+"/"+r != gh.FullName {
-		log.Printf("Retrying Github api v4 with %s", gh.FullName)
-		GetGHRepo(gh.FullName, ght, gh.FullName)
+		//log.Printf("Retrying Github api v4 with %s", gh.FullName)
+		GetGH(gh.FullName, ght, hasError)
 	}
-	return gh.Stars, strings.Split(gh.Updated, "T")[0], gh.License.SpdxID, gh.Language, gh.FullName
+	return gh.Stars, strings.Split(gh.Updated, "T")[0], gh.License.SpdxID, gh.Language, hasError
 }
 
-func chooseRepo(ur, ght string) (url string) {
+// chooserepo guesses the missing repo. It doesn't do a very good job.
+func chooseRepo(ur, ght string) (url string, haserr []string) {
 	//fmt.Println(ur)
-	var jsonStr = []byte(`{"query":"{repositoryOwner(login:\"` + ur + `\"){pinnedRepositories(first: 1, orderBy: {direction: DESC, field: STARGAZERS}){edges{node{nameWithOwner}}}repositories(last:1, orderBy: {direction: ASC, field: STARGAZERS}){edges{node{nameWithOwner}}}}}"}`)
+	var jsonStr = []byte(`{"query":"{repositoryOwner(login:\"` + ur + `\"){repositories(first: 100, orderBy: {direction: DESC, field: STARGAZERS}){edges{node{nameWithOwner}}}pinnedRepositories(first: 1, orderBy: {direction: DESC, field: STARGAZERS}){edges{node{nameWithOwner}}}}}"}`)
 	//log.Printf("Body: %s\n", jsonStr)
 	req, err := http.NewRequest("POST", "https://api.github.com/graphql", bytes.NewBuffer(jsonStr))
 
@@ -195,11 +206,40 @@ func chooseRepo(ur, ght string) (url string) {
 	err = json.Unmarshal(body, &gh)
 	if err != nil {
 		log.Fatal(err)
-		return ""
 	}
-	if len(gh.Data.RepositoryOwner.PinnedRepositories.Edges) == 0 {
-		fmt.Println("ln24 true " + ur)
-		return gh.Data.RepositoryOwner.Repositories.Edges[0].Node.Name
+
+	if len(gh.Data.RepositoryOwner.Repositories.Edges) == 1 {
+		return gh.Data.RepositoryOwner.Repositories.Edges[0].Node.Name, nil
 	}
-	return gh.Data.RepositoryOwner.PinnedRepositories.Edges[0].Node.Name
+	for _, r := range gh.Data.RepositoryOwner.PinnedRepositories.Edges {
+		if r.Node.Name == ur {
+			return r.Node.Name, nil
+		} else if strings.Contains(r.Node.Name, "serve") == true {
+			return r.Node.Name, nil
+		} else if strings.Contains(r.Node.Name, "back") == true {
+			return r.Node.Name, nil
+		} else if strings.Contains(r.Node.Name, "api") == true {
+			return r.Node.Name, nil
+		}
+	}
+	for _, r := range gh.Data.RepositoryOwner.Repositories.Edges {
+		if r.Node.Name == ur {
+			return r.Node.Name, nil
+		} else if strings.Contains(r.Node.Name, "serve") == true {
+			return r.Node.Name, nil
+		} else if strings.Contains(r.Node.Name, "back") == true {
+			return r.Node.Name, nil
+		} else if strings.Contains(r.Node.Name, "api") == true {
+			return r.Node.Name, nil
+		} else if strings.Contains(r.Node.Name, ur) == true {
+			return r.Node.Name, nil
+		}
+	}
+	// if len(gh.Data.RepositoryOwner.PinnedRepositories.Edges) >= 2 {
+	// 	return gh.Data.RepositoryOwner.Repositories.Edges[0].Node.Name
+	// }
+
+	haserr = append(haserr, ur+" did not match or does not exist.")
+	return "", haserr
+
 }

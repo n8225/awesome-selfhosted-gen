@@ -1,0 +1,19 @@
+ID: 819
+Name: sourcegraph
+Description: Sourcegraph is a fast, open-source, fully-featured code search and navigation
+  engine written in Go.
+Source Code: https://github.com/sourcegraph/sourcegraph
+Website: https://sourcegraph.com
+License:
+- Apache-2.0
+Languages:
+- Go
+C: Software Development
+Tags:
+- Software Dev
+- IDE
+MD: '- [sourcegraph](https://sourcegraph.com) - Sourcegraph is a fast, open-source,
+  fully-featured code search and navigation engine written in Go. ([Source Code](https://github.com/sourcegraph/sourcegraph))
+  `Apache-2.0` `Go`'
+SourceType: Github
+Line: 1284

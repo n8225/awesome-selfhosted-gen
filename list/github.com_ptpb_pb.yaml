@@ -1,0 +1,15 @@
+ID: 697
+Name: pb
+Description: Lightweight pastebin (and url shortener) built using flask.
+Source Code: https://github.com/ptpb/pb
+License:
+- GPL-3.0
+Languages:
+- Python
+C: Pastebins
+Tags:
+- Pastebin
+MD: '- [pb](https://github.com/ptpb/pb) - Lightweight pastebin (and url shortener)
+  built using flask. `GPL-3.0` `Python`'
+SourceType: Github
+Line: 1103

@@ -1,0 +1,19 @@
+ID: 639
+Name: IHateMoney
+Description: Manage your shared expenses, easily.
+Source Code: https://github.com/spiral-project/ihatemoney
+Demo: https://ihatemoney.org/demo/
+Website: http://ihatemoney.org/
+License:
+- BSD-3-Clause
+Languages:
+- Python
+C: Money, Budgeting and Management
+Tags:
+- Money
+- Budget
+MD: '- [IHateMoney](http://ihatemoney.org/) - Manage your shared expenses, easily.
+  ([Demo](https://ihatemoney.org/demo/), [Source Code](https://github.com/spiral-project/ihatemoney))
+  `BSD-3-Clause` `Python`'
+SourceType: Github
+Line: 1017

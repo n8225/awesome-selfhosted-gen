@@ -1,0 +1,18 @@
+ID: 276
+Name: osem
+Description: Event management tailored to free Software conferences.
+Source Code: https://github.com/openSUSE/osem
+Demo: http://demo.osem.io/
+Website: http://osem.io/
+License:
+- MIT
+Languages:
+- Ruby
+C: Conference Management
+Tags:
+- Conference Mgmnt
+MD: '- [osem](http://osem.io/) - Event management tailored to free Software conferences.
+  ([Demo](http://demo.osem.io/), [Source Code](https://github.com/openSUSE/osem))
+  `MIT` `Ruby`'
+SourceType: Github
+Line: 501

@@ -59,6 +59,7 @@ func LangSplit(lang string) []string {
 	for _, lang := range nLangs {
 		mLangs = append(mLangs, langs[lang]...)
 	}
+	//fmt.Printf("%v\n", mLangs)
 	return mLangs
 }
 

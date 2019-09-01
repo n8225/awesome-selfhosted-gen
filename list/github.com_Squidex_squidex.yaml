@@ -1,0 +1,18 @@
+ID: 314
+Name: Squidex
+Description: Headless CMS, based on MongoDB, CQRS and Event Sourcing.
+Source Code: https://github.com/Squidex/squidex
+Demo: http://cloud.squidex.io
+Website: http://squidex.io
+License:
+- MIT
+Languages:
+- .NET
+C: Content Management Systems (CMS)
+Tags:
+- CMS
+MD: '- [Squidex](http://squidex.io) - Headless CMS, based on MongoDB, CQRS and Event
+  Sourcing. ([Demo](http://cloud.squidex.io), [Source Code](https://github.com/Squidex/squidex))
+  `MIT` `.NET`'
+SourceType: Github
+Line: 546

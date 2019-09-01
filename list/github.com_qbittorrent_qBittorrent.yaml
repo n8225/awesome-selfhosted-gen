@@ -1,0 +1,19 @@
+ID: 417
+Name: qBittorrent
+Description: Free cross-platform bittorrent client with a feature rich Web UI for
+  remote access.
+Source Code: https://github.com/qbittorrent/qBittorrent
+Website: https://www.qbittorrent.org/
+License:
+- GPL-2.0
+Languages:
+- C++
+C: File Sharing and Synchronization
+Tags:
+- File Sharing
+- P2P
+MD: '- [qBittorrent](https://www.qbittorrent.org/) - Free cross-platform bittorrent
+  client with a feature rich Web UI for remote access. ([Source Code](https://github.com/qbittorrent/qBittorrent))
+  `GPL-2.0` `C++`'
+SourceType: Github
+Line: 711

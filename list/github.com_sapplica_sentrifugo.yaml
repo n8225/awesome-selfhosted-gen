@@ -1,0 +1,19 @@
+ID: 501
+Name: Sentrifugo
+Description: Sentrifugo is a HRM system that can be easily configured to meet your
+  organizational needs.
+Source Code: https://github.com/sapplica/sentrifugo
+Website: http://www.sentrifugo.com/
+License:
+- GPL-3.0
+Languages:
+- PHP
+C: Human Resources Management (HRM)
+Tags:
+- HRM
+- Human Resources MGMNT
+MD: '- [Sentrifugo](http://www.sentrifugo.com/) - Sentrifugo is a HRM system that
+  can be easily configured to meet your organizational needs. ([Source Code](https://github.com/sapplica/sentrifugo))
+  `GPL-3.0` `PHP`'
+SourceType: Github
+Line: 829

@@ -1,0 +1,19 @@
+ID: 55
+Name: SickRage
+Description: SickRage is an automatic Video Library Manager for TV Shows. Automatic
+  torrent/nzb searching, downloading, and processing at the qualities you want.
+Source Code: https://github.com/SickRage/SickRage
+Website: http://sickrage.github.io/
+License:
+- GPL-3.0
+Languages:
+- Python
+C: Automation
+Tags:
+- Automation
+MD: '- [SickRage](http://sickrage.github.io/) - SickRage is an automatic Video Library
+  Manager for TV Shows. Automatic torrent/nzb searching, downloading, and processing
+  at the qualities you want. ([Source Code](https://github.com/SickRage/SickRage))
+  `GPL-3.0` `Python`'
+SourceType: Github
+Line: 183

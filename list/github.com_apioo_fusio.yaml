@@ -1,0 +1,20 @@
+ID: 830
+Name: Fusio
+Description: Open-source API management platform which helps to build and manage REST
+  APIs.
+Source Code: https://github.com/apioo/fusio
+Demo: http://fusio-project.org/demo
+Website: http://www.fusio-project.org/
+License:
+- AGPL-3.0
+Languages:
+- PHP
+C: Software Development
+Tags:
+- Software Dev
+- API Mgmnt
+MD: '- [Fusio](http://www.fusio-project.org/) - Open-source API management platform
+  which helps to build and manage REST APIs. ([Demo](http://fusio-project.org/demo),
+  [Source Code](https://github.com/apioo/fusio)) `AGPL-3.0` `PHP`'
+SourceType: Github
+Line: 1310

@@ -1,0 +1,20 @@
+ID: 503
+Name: DeviceHive
+Description: Open Source IoT Platform with a wide range of integration options.
+Source Code: https://github.com/devicehive/devicehive-java-server
+Demo: https://playground.devicehive.com/
+Website: https://www.devicehive.com/
+License:
+- Apache-2.0
+Languages:
+- Java
+C: Internet Of Things (IoT)
+Tags:
+- Internet Of Things
+- IoT
+MD: '- [DeviceHive](https://www.devicehive.com/) - Open Source IoT Platform with a
+  wide range of integration options. ([Demo](https://playground.devicehive.com/),
+  [Source Code](https://github.com/devicehive/devicehive-java-server)) `Apache-2.0`
+  `Java`'
+SourceType: Github
+Line: 836

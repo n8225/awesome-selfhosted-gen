@@ -1,0 +1,16 @@
+ID: 302
+Name: Pagekit
+Description: New modern CMS to create and share.
+Source Code: https://github.com/pagekit/pagekit
+Website: https://pagekit.com/
+License:
+- MIT
+Languages:
+- PHP
+C: Content Management Systems (CMS)
+Tags:
+- CMS
+MD: '- [Pagekit](https://pagekit.com/) - New modern CMS to create and share. ([Source
+  Code](https://github.com/pagekit/pagekit)) `MIT` `PHP`'
+SourceType: Github
+Line: 534

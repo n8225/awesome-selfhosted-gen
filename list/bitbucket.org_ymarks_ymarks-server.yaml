@@ -1,0 +1,16 @@
+ID: 94
+Name: ymarks
+Description: Keep your browser's bookmarks synchronized without limiting yourself
+  to one provider.
+Source Code: https://bitbucket.org/ymarks/ymarks-server
+License:
+- WTFPL
+Languages:
+- C
+C: Bookmarks and Link Sharing
+Tags:
+- Bookmarks
+- Links
+MD: '- [ymarks](https://bitbucket.org/ymarks/ymarks-server) - Keep your browser''s
+  bookmarks synchronized without limiting yourself to one provider. `WTFPL` `C`'
+Line: 235

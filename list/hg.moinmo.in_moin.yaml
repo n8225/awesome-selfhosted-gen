@@ -1,0 +1,17 @@
+ID: 905
+Name: MoinMoin
+Description: Advanced, easy to use and extensible WikiEngine with a large community
+  of users.
+Source Code: http://hg.moinmo.in/moin
+Website: https://moinmo.in/
+License:
+- GPL-2.0
+Languages:
+- Python
+C: Wikis
+Tags:
+- Wiki
+MD: '- [MoinMoin](https://moinmo.in/) - Advanced, easy to use and extensible WikiEngine
+  with a large community of users. ([Source Code](http://hg.moinmo.in/moin)) `GPL-2.0`
+  `Python`'
+Line: 1437

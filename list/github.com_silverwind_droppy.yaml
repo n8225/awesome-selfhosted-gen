@@ -1,0 +1,22 @@
+ID: 424
+Name: droppy
+Description: droppy is a self-hosted cloud server with an interface similar to desktop
+  file managers and has capabilities to edit files on-the-fly as well as view and
+  playback media directly in the browser.
+Source Code: https://github.com/silverwind/droppy
+Demo: http://droppy.silverwind.io/
+License:
+- BSD-2-Clause
+Languages:
+- Nodejs
+C: File Sharing and Synchronization
+Tags:
+- File Sharing
+- Single-Click Upload
+- Drag-n-Drop Upload
+MD: '- [droppy](https://github.com/silverwind/droppy) - droppy is a self-hosted cloud
+  server with an interface similar to desktop file managers and has capabilities to
+  edit files on-the-fly as well as view and playback media directly in the browser.
+  ([Demo](http://droppy.silverwind.io/)) `BSD-2-Clause` `Nodejs`'
+SourceType: Github
+Line: 724

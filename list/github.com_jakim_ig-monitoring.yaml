@@ -1,0 +1,18 @@
+ID: 17
+Name: IG Monitoring
+Description: '`⚠` Instagram Analytics and Stats.'
+Source Code: https://github.com/jakim/ig-monitoring
+Demo: https://demo.igmonitoring.com
+Website: https://igmonitoring.com
+License:
+- MIT
+Languages:
+- PHP
+C: Analytics
+Tags:
+- Analytics
+MD: '- [IG Monitoring](https://igmonitoring.com) - `⚠` Instagram Analytics and Stats.
+  ([Demo](https://demo.igmonitoring.com), [Source Code](https://github.com/jakim/ig-monitoring))
+  `MIT` `PHP`'
+SourceType: Github
+Line: 133

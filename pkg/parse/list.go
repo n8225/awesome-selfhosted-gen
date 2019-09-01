@@ -1,5 +1,14 @@
 package parse
 
+import (
+	"bufio"
+	"regexp"
+
+	"fmt"
+	"os"
+	"strings"
+)
+
 // List is the total struct
 type List struct {
 	Entries  []Entry `json:"Entries" yaml:"Entries"`
@@ -8,35 +17,87 @@ type List struct {
 	TagList  []Tags  `json:"Tags" yaml:"-"`
 }
 
-// Entry is the structure of each entry
-type Entry struct {
-	ID      int      `json:"ID" yaml:"ID"`
-	Name    string   `json:"N" yaml:"Name"`
-	Descrip string   `json:"D" yaml:"Description,flow"`
-	Source  string   `json:"Sr" yaml:"Source Code"`
-	Demo    string   `json:"Dem,omitempty" yaml:"Demo,omitempty"`
-	Clients []string `json:"CL,omitempty" yaml:"Clients,omitempty"`
-	Site    string   `json:"Si,omitempty" yaml:"Website,omitempty"`
-	License []string `json:"Li" yaml:"License"`
-	Lang    []string `json:"La" yaml:"Languages"`
-	Cat     string   `json:"C,omitempty" yaml:"C"`
-	Tags    []string `json:"T" yaml:"Tags"`
-	NonFree bool     `json:"NF,omitempty" yaml:"NonFree,omitempty"`
-	Pdep    bool     `json:"P,omitempty" yaml:"ProprietaryDependency,omitempty"`
-	Stars   int      `json:"stars,omitempty" yaml:"stars,omitempty"`
-	Updated string   `json:"update,omitempty" yaml:"update,omitempty"`
-	Error   bool     `json:"-" yaml:"-"`
-	Errors  []string `json:"-" yaml:"-"`
-	Warns   []string `json:"-" yaml:"-"`
-}
-
 // GetHighestID function to get last ID from entry struct
-func GetHighestID(entries []Entry) int {
-	max := entries[0]
-	for _, entries := range entries {
-		if entries.ID > max.ID {
-			max = entries
+// func GetHighestID(entries []Entry) int {
+// 	max := entries[0]
+// 	for _, entries := range entries {
+// 		if entries.ID > max.ID {
+// 			max = entries
+// 		}
+// 	}
+// 	return max.ID
+// }
+
+//MdParser reads README.md and parses data from it.
+func MdParser(path, gh string) []Entry {
+	fmt.Println("Parsing:", path)
+	inputFile, _ := os.Open(path)
+	defer inputFile.Close()
+	scanner := bufio.NewScanner(inputFile)
+	scanner.Split(bufio.ScanLines)
+	list := false
+	var tag2, tag3, tag4, tagi string
+	var l, i = 0, 0
+	entries := []Entry{}
+
+	for scanner.Scan() {
+		l++
+		if strings.HasPrefix(scanner.Text(), "<!-- BEGIN SOFTWARE LIST -->") {
+			list = true
+		} else if strings.HasPrefix(scanner.Text(), "<!-- END SOFTWARE LIST -->") {
+			list = false
+		}
+		if list == true {
+			if strings.HasPrefix(scanner.Text(), "## ") {
+				tag2, tag3, tag4, tagi = strings.Trim(scanner.Text(), "## "), "", "", ""
+			}
+			if strings.HasPrefix(scanner.Text(), "### ") {
+				tag4, tagi, tag3 = "", "", strings.Trim(scanner.Text(), "### ")
+			}
+			if strings.HasPrefix(scanner.Text(), "#### ") {
+				tagi, tag4 = "", strings.Trim(scanner.Text(), "#### ")
+			}
+			if strings.HasPrefix(scanner.Text(), "_") {
+				tagi = strings.Trim(scanner.Text(), "_")
+			}
+			if strings.HasPrefix(scanner.Text(), "- [") || strings.HasPrefix(scanner.Text(), "  - [") {
+				e := new(Entry)
+				e.Cat = tag2
+
+				if tag2 != "" {
+					e.Tags = append(e.Tags, Tagmap[tag2]...)
+				}
+				if tag3 != "" {
+					e.Tags = append(e.Tags, Tagmap[tag3]...)
+				}
+				if tag4 != "" {
+					e.Tags = append(e.Tags, Tagmap[tag4]...)
+				}
+				if tagi != "" {
+					e.Tags = append(e.Tags, Tagmap[tagi]...)
+				}
+				if regexp.MustCompile(Pattern).MatchString(scanner.Text()) {
+					i++
+					e.Line = l
+					e.ID = i
+					e.MD = scanner.Text()
+					e.Name = GetName(e.MD)
+					e.Descrip = GetDescrip(e.MD)
+					e.License = GetLicense(e.MD)
+					e.Lang = GetLang(e.MD)
+					e.Pdep = GetPdep(e.MD)
+					e.Demo = GetDemo(e.MD)
+					e.Clients = GetClients(e.MD)
+					e.Site = GetSite(e.MD)
+					e.Source, e.SourceType = GetSource(e.MD)
+
+				} else {
+					fmt.Printf("Failed to match pattern, Line: %d : %s", l, scanner.Text())
+				}
+				entries = append(entries, *e)
+			}
 		}
 	}
-	return max.ID
+	fmt.Printf("Found %d entries\n", len(entries))
+	return entries
 }

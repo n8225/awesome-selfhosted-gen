@@ -1,0 +1,18 @@
+ID: 443
+Name: Uguu
+Description: Stores files and deletes after X amount of time.
+Source Code: https://github.com/nokonoko/uguu
+Website: https://uguu.se/
+License:
+- MIT
+Languages:
+- PHP
+C: File Sharing and Synchronization
+Tags:
+- File Sharing
+- Single-Click Upload
+- Drag-n-Drop Upload
+MD: '- [Uguu](https://uguu.se/) - Stores files and deletes after X amount of time.
+  ([Source Code](https://github.com/nokonoko/uguu)) `MIT` `PHP`'
+SourceType: Github
+Line: 743

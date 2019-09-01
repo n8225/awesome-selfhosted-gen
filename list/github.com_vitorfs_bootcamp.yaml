@@ -1,0 +1,18 @@
+ID: 213
+Name: Bootcamp
+Description: Enterprise social network.
+Source Code: https://github.com/vitorfs/bootcamp
+Website: http://trybootcamp.vitorfs.com
+License:
+- MIT
+Languages:
+- Python
+C: Communication systems
+Tags:
+- Communications
+- Social Network
+- Forum
+MD: '- [Bootcamp](http://trybootcamp.vitorfs.com) - Enterprise social network. ([Source
+  Code](https://github.com/vitorfs/bootcamp)) `MIT` `Python`'
+SourceType: Github
+Line: 421

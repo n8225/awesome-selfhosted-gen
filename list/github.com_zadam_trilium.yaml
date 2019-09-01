@@ -1,0 +1,18 @@
+ID: 663
+Name: Trilium Notes
+Description: Trilium Notes is a hierarchical note taking application with focus on
+  building large personal knowledge bases.
+Source Code: https://github.com/zadam/trilium
+License:
+- AGPL-3.0
+Languages:
+- Nodejs
+C: Note-taking and Editors
+Tags:
+- Note-taking
+- Editor
+MD: '- [Trilium Notes](https://github.com/zadam/trilium) - Trilium Notes is a hierarchical
+  note taking application with focus on building large personal knowledge bases. `AGPL-3.0`
+  `Nodejs`'
+SourceType: Github
+Line: 1054

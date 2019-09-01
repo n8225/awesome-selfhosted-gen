@@ -1,0 +1,20 @@
+ID: 186
+Name: RainLoop
+Description: Simple, modern and fast webmail with IMAP/SMTP Support and multi accounting.
+Source Code: https://github.com/RainLoop/rainloop-webmail
+Demo: http://demo.rainloop.net/
+Website: http://www.rainloop.net/
+License:
+- AGPL-3.0
+Languages:
+- PHP
+C: Communication systems
+Tags:
+- Communications
+- Email
+- Webmail
+MD: '- [RainLoop](http://www.rainloop.net/) - Simple, modern and fast webmail with
+  IMAP/SMTP Support and multi accounting. ([Demo](http://demo.rainloop.net/), [Source
+  Code](https://github.com/RainLoop/rainloop-webmail)). `AGPL-3.0` `PHP`'
+SourceType: Github
+Line: 375

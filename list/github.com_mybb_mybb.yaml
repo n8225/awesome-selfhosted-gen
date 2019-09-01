@@ -1,0 +1,18 @@
+ID: 234
+Name: MyBB
+Description: Free, extensible forum software package.
+Source Code: https://github.com/mybb/mybb
+Website: http://www.mybb.com/
+License:
+- LGPL-3.0
+Languages:
+- PHP
+C: Communication systems
+Tags:
+- Communications
+- Social Network
+- Forum
+MD: '- [MyBB](http://www.mybb.com/) - Free, extensible forum software package. ([Source
+  Code](https://github.com/mybb/mybb)) `LGPL-3.0` `PHP`'
+SourceType: Github
+Line: 442

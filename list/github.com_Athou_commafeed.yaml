@@ -1,0 +1,17 @@
+ID: 367
+Name: CommaFeed
+Description: Google Reader inspired self-hosted RSS reader.
+Source Code: https://github.com/Athou/commafeed
+Website: https://www.commafeed.com/
+License:
+- Apache-2.0
+Languages:
+- Java
+C: Feed Readers
+Tags:
+- RSS
+- Feed Reader
+MD: '- [CommaFeed](https://www.commafeed.com/) - Google Reader inspired self-hosted
+  RSS reader. ([Source Code](https://github.com/Athou/commafeed)) `Apache-2.0` `Java`'
+SourceType: Github
+Line: 643

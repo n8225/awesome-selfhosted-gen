@@ -1,0 +1,22 @@
+ID: 578
+Name: Odd Networks
+Description: Open source video management system (VMS) and API for collections and
+  videos with supporting SDKs for Roku, Apple iOS/tvOS, Google Android, and Amazon
+  FireTV.
+Source Code: https://github.com/oddnetworks/oddworks
+Website: http://oddnetworks.com
+License:
+- MIT
+Languages:
+- Nodejs
+C: Media Streaming
+Tags:
+- Media
+- Streaming
+- Video
+MD: '- [Odd Networks](http://oddnetworks.com) - Open source video management system
+  (VMS) and API for collections and videos with supporting SDKs for Roku, Apple iOS/tvOS,
+  Google Android, and Amazon FireTV. ([Source Code](https://github.com/oddnetworks/oddworks))
+  `MIT` `Nodejs`'
+SourceType: Github
+Line: 944

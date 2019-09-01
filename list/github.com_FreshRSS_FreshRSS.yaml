@@ -1,0 +1,19 @@
+ID: 370
+Name: FreshRSS
+Description: Self-hostable RSS feed aggregator.
+Source Code: https://github.com/FreshRSS/FreshRSS
+Demo: http://demo.freshrss.org/i/
+Website: http://freshrss.org/
+License:
+- AGPL-3.0
+Languages:
+- PHP
+C: Feed Readers
+Tags:
+- RSS
+- Feed Reader
+MD: '- [FreshRSS](http://freshrss.org/) - Self-hostable RSS feed aggregator. ([Demo](http://demo.freshrss.org/i/),
+  [Source Code](https://github.com/FreshRSS/FreshRSS), [Mobile app](https://github.com/Alkarex/EasyRSS))
+  `AGPL-3.0` `PHP`'
+SourceType: Github
+Line: 646

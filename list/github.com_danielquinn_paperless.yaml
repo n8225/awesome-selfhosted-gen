@@ -1,0 +1,15 @@
+ID: 353
+Name: Paperless
+Description: Scan, index, and archive all of your paper documents.
+Source Code: https://github.com/danielquinn/paperless
+License:
+- GPL-3.0
+Languages:
+- Python
+C: Document Management
+Tags:
+- Doc Mgmnt
+MD: '- [Paperless](https://github.com/danielquinn/paperless) - Scan, index, and archive
+  all of your paper documents. `GPL-3.0` `Python`'
+SourceType: Github
+Line: 603

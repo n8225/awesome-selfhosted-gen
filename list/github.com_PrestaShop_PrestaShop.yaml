@@ -1,0 +1,19 @@
+ID: 337
+Name: PrestaShop
+Description: PrestaShop offers a free, open-source and fully scalable e-commerce solution.
+Source Code: https://github.com/PrestaShop/PrestaShop
+Demo: http://demo.prestashop.com/
+Website: https://www.prestashop.com/
+License:
+- OSL-3.0
+Languages:
+- PHP
+C: Content Management Systems (CMS)
+Tags:
+- CMS
+- E-commerce
+MD: '- [PrestaShop](https://www.prestashop.com/) - PrestaShop offers a free, open-source
+  and fully scalable e-commerce solution. ([Demo](http://demo.prestashop.com/), [Source
+  Code](https://github.com/PrestaShop/PrestaShop)) `OSL-3.0` `PHP`'
+SourceType: Github
+Line: 575

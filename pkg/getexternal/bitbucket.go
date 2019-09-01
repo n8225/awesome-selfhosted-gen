@@ -9,6 +9,7 @@ import (
 	"strings"
 )
 
+// CleanURL creates url for bitbucket API server
 func CleanURL(bbu, wp, q string) (rel string) {
 	u, err := url.Parse(bbu)
 	if err != nil {
@@ -18,10 +19,10 @@ func CleanURL(bbu, wp, q string) (rel string) {
 	p := strings.Split(u.Path, "/")
 
 	newu := &url.URL{
-		Scheme:	"https",
-		Host:	"bitbucket.org",
-		Path:	"api/2.0/repositories/" + p[1] + "/" + p[2] + "/" + wp,
-		RawQuery:	q,
+		Scheme:   "https",
+		Host:     "bitbucket.org",
+		Path:     "api/2.0/repositories/" + p[1] + "/" + p[2] + "/" + wp,
+		RawQuery: q,
 	}
 
 	return newu.String()
@@ -29,7 +30,7 @@ func CleanURL(bbu, wp, q string) (rel string) {
 
 // GetBbRepo retrieves star count from watchers and last activity(not last commit).
 func GetBbRepo(url string) (int, string) {
-	w, p, u:= "fields=size", "watchers", `fields=updated_on`
+	w, p, u := "fields=size", "watchers", `fields=updated_on`
 
 	type bb struct {
 		Stars   int    `json:"size"`

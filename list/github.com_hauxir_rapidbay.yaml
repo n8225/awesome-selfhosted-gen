@@ -1,0 +1,21 @@
+ID: 581
+Name: Rapidbay
+Description: Self-hosted torrent videostreaming service/torrent client that allows
+  searching and playing videos from torrents in the browser or from a Chromecast/AppleTV/Smart
+  TV.
+Source Code: https://github.com/hauxir/rapidbay/
+License:
+- MIT
+Languages:
+- Python
+- Docker
+C: Media Streaming
+Tags:
+- Media
+- Streaming
+- Video
+MD: '- [Rapidbay](https://github.com/hauxir/rapidbay/) - Self-hosted torrent videostreaming
+  service/torrent client that allows searching and playing videos from torrents in
+  the browser or from a Chromecast/AppleTV/Smart TV. `MIT` `Python/Docker`'
+SourceType: Github
+Line: 947

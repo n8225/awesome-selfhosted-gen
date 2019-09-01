@@ -1,0 +1,18 @@
+ID: 58
+Name: WebUI-aria2
+Description: Interface to interact with the aria2 downloader. Very simple to use,
+  just download and open index.html in any web browser.
+Source Code: https://github.com/ziahamza/webui-aria2
+Demo: http://ziahamza.github.io/webui-aria2/
+License:
+- MIT
+Languages:
+- HTML5
+C: Automation
+Tags:
+- Automation
+MD: '- [WebUI-aria2](https://github.com/ziahamza/webui-aria2) - Interface to interact
+  with the aria2 downloader. Very simple to use, just download and open index.html
+  in any web browser. ([Demo](http://ziahamza.github.io/webui-aria2/)) `MIT` `HTML5`'
+SourceType: Github
+Line: 186

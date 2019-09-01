@@ -1,0 +1,19 @@
+ID: 490
+Name: HRCloud2
+Description: Full-featured home hosted Cloud Drive, Personal Assistant, App Launcher,
+  File Converter, Streamer, Share Tool and more.
+Source Code: https://github.com/zelon88/HRCloud2
+Website: https://www.honestrepair.net/index.php/hrcloud2/
+License:
+- GPL-3.0
+Languages:
+- PHP
+C: Groupware
+Tags:
+- Groupware
+MD: '- [HRCloud2](https://www.honestrepair.net/index.php/hrcloud2/) - Full-featured
+  home hosted Cloud Drive, Personal Assistant, App Launcher, File Converter, Streamer,
+  Share Tool and more. ([Source Code](https://github.com/zelon88/HRCloud2)) `GPL-3.0`
+  `PHP`'
+SourceType: Github
+Line: 813

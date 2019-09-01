@@ -1,0 +1,16 @@
+ID: 925
+Name: FreedomBone
+Description: Home server configuration based on Debian.
+Source Code: https://code.freedombone.net/bashrc/freedombone
+Website: https://freedombone.net/
+License:
+- AGPL-3.0
+Languages:
+- Shell
+C: Self-hosting Solutions
+Tags:
+- Self-hosting Solution
+MD: '- [FreedomBone](https://freedombone.net/) - Home server configuration based on
+  Debian. ([Source Code](https://code.freedombone.net/bashrc/freedombone)) `AGPL-3.0`
+  `Shell`'
+Line: 1462

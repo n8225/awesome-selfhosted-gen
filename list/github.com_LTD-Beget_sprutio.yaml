@@ -1,0 +1,20 @@
+ID: 462
+Name: Sprut.io
+Description: 2 panel file manager with drag and drop features, code editor, text search,
+  hotkeys.
+Source Code: https://github.com/LTD-Beget/sprutio
+Demo: https://demo.sprut.io:9443
+Website: https://sprut.io
+License:
+- GPL-3.0
+Languages:
+- Python
+C: File Sharing and Synchronization
+Tags:
+- File Sharing
+- Web File MGR
+MD: '- [Sprut.io](https://sprut.io) - 2 panel file manager with drag and drop features,
+  code editor, text search, hotkeys. ([Demo](https://demo.sprut.io:9443), [Source
+  Code](https://github.com/LTD-Beget/sprutio)) `GPL-3.0` `Python`'
+SourceType: Github
+Line: 768

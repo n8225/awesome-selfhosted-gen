@@ -1,0 +1,19 @@
+ID: 483
+Name: OS.js
+Description: Desktop implementation for your browser with a fully-fledged window manager,
+  Application APIs, GUI toolkits and filesystem abstraction.
+Source Code: https://github.com/os-js/OS.js
+Demo: https://demo.os-js.org/
+Website: https://os.js.org/
+License:
+- BSD-2-Clause
+Languages:
+- Nodejs
+C: Gateways and terminal sharing
+Tags: []
+MD: '- [OS.js](https://os.js.org/) - Desktop implementation for your browser with
+  a fully-fledged window manager, Application APIs, GUI toolkits and filesystem abstraction.
+  ([Demo](https://demo.os-js.org/), [Source Code](https://github.com/os-js/OS.js))
+  `BSD-2-Clause` `Nodejs`'
+SourceType: Github
+Line: 801
