@@ -2,9 +2,9 @@ package exporter
 
 import (
 	"fmt"
-	"net/url"
+	"log"
 	"os"
-	"strings"
+	"regexp"
 
 	"gopkg.in/yaml.v2"
 
@@ -22,7 +22,10 @@ func ToYAML(list parse.List, fileName string) {
 	if err != nil {
 		fmt.Println("error:", err)
 	}
-	yamlFile.Write(YAML)
+	_, err = yamlFile.Write(YAML)
+	if err != nil {
+		fmt.Println(err)
+	}
 	yamlFile.Close()
 }
 
@@ -30,14 +33,15 @@ func ToYAML(list parse.List, fileName string) {
 func ToYamlFiles(list parse.List) {
 	var i = 0
 	for _, e := range list.Entries {
-		u, err := url.Parse(e.Source)
-		if err != nil {
-			fmt.Println(err)
-		}
-		fname := strings.ReplaceAll(strings.ReplaceAll(strings.TrimSuffix(strings.TrimSuffix(u.Host+"_"+strings.TrimPrefix(u.EscapedPath(), "/"), "/"), "_"), "/", "_"), ":", "_")
+		// u, err := url.Parse(e.Source)
+		// if err != nil {
+		// 	fmt.Println(err)
+		// }
+		// fname := strings.ReplaceAll(strings.ReplaceAll(strings.TrimSuffix(strings.TrimSuffix(u.Host+"_"+strings.TrimPrefix(u.EscapedPath(), "/"), "/"), "_"), "/", "_"), ":", "_")
+		fname := fileName(e.Name)
 		if fileExists("list/"+fname+".yaml") == true {
 			fname = fname + "2"
-			fmt.Printf("%d: %s SourceCode already exists. This should be removed. Renaming to %s for now.\n", e.Line, e.Name, fname)
+			fmt.Printf("%d: %s already exists. Renaming to %s.\n", e.Line, e.Name, fname)
 		}
 		yamlFile, err := os.Create("list/" + fname + ".yaml")
 		if err != nil {
@@ -49,7 +53,10 @@ func ToYamlFiles(list parse.List) {
 			fmt.Println("error:", err)
 		}
 		//fmt.Printf("%s\n\n", string(YAML))
-		yamlFile.Write(YAML)
+		_, err = yamlFile.Write(YAML)
+		if err != nil {
+			fmt.Println(err)
+		}
 		yamlFile.Close()
 		if fileExists("list/"+fname+".yaml") != true {
 			fmt.Printf("Failed to write %d: %s\n", e.Line, e.Name)
@@ -58,6 +65,15 @@ func ToYamlFiles(list parse.List) {
 		}
 	}
 	fmt.Printf("Wrote %d of %d files\n", i, len(list.Entries))
+}
+
+func fileName(f string) string {
+
+	reg, err := regexp.Compile("[^a-zA-Z0-9]+")
+	if err != nil {
+		log.Fatal(err)
+	}
+	return reg.ReplaceAllString(f, "")
 }
 
 func fileExists(filename string) bool {

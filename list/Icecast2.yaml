@@ -3,6 +3,8 @@ Name: Icecast 2
 Description: streaming audio/video server which can be used to create an Internet
   radio station or a privately running jukebox and many things in between.
 Source Code: https://git.xiph.org/?p=icecast-server.git;a=summary
+Clients:
+- http://www.icecast.org/apps/
 Website: http://www.icecast.org/
 License:
 - GPL-2.0

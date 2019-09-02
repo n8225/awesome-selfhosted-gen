@@ -2,6 +2,8 @@ ID: 528
 Name: OpenStreetMap
 Description: Collaborative project to create a free editable map of the world.
 Source Code: https://github.com/openstreetmap/openstreetmap-website
+Clients:
+- https://wiki.openstreetmap.org/wiki/Software
 Website: https://www.openstreetmap.org/
 License:
 - GPL-2.0

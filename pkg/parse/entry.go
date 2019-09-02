@@ -55,17 +55,17 @@ func GetDescrip(e string) string {
 	return strings.TrimSpace(regexp.MustCompile(Pattern).FindAllStringSubmatch(e, -1)[0][4])
 }
 
-//GetLicense parses the license from the markdown entry and seperates multiple licenses into a slice.
+//GetLicense parses the license from the markdown entry and separates multiple licenses into a slice.
 func GetLicense(e string) []string {
 	return LSplit(strings.TrimSpace(regexp.MustCompile(Pattern).FindAllStringSubmatch(e, -1)[0][5]))
 }
 
-//GetLang parses the programming language from the markdown entry and seperates multiple licenses into a slice.
+//GetLang parses the programming language from the markdown entry and separates multiple licenses into a slice.
 func GetLang(e string) []string {
 	return LangSplit(strings.TrimSpace(regexp.MustCompile(Pattern).FindAllStringSubmatch(e, -1)[0][6]))
 }
 
-//GetPdep determines whether an entry has a proprietary dependancy.
+//GetPdep determines whether an entry has a proprietary dependency.
 func GetPdep(e string) bool {
 	if strings.Contains(regexp.MustCompile(Pattern).FindAllStringSubmatch(e, -1)[0][3], "⚠") == true {
 		return true
@@ -87,7 +87,7 @@ func GetClients(e string) []string {
 	const clientp string = "\\Q[Clients](\\E(.*?)\\Q)\\E"
 	var clients []string
 	if regexp.MustCompile(clientp).MatchString(e) {
-		clients = append(clients, strings.TrimSpace(regexp.MustCompile(clientp).FindAllStringSubmatch(e, -1)[0][1]))
+		return append(clients, strings.TrimSpace(regexp.MustCompile(clientp).FindAllStringSubmatch(e, -1)[0][1]))
 	}
 	return nil
 }

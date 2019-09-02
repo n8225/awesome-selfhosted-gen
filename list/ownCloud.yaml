@@ -3,6 +3,8 @@ Name: ownCloud
 Description: All-in-one solution for saving, synchronizing, viewing, editing and sharing
   files, calendars, address books and more.
 Source Code: https://github.com/owncloud/core
+Clients:
+- https://github.com/owncloud/core/wiki/Apps
 Website: https://owncloud.org/
 License:
 - AGPL-3.0
