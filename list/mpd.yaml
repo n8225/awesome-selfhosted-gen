@@ -3,6 +3,8 @@ Name: mpd
 Description: Daemon to remotely play music, stream music, handle and organize playlists.
   Many clients available.
 Source Code: https://github.com/MusicPlayerDaemon/MPD
+Clients:
+- https://www.musicpd.org/clients/
 Website: http://www.musicpd.org/
 License:
 - GPL-2.0
