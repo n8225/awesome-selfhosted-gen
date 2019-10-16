@@ -10,7 +10,7 @@ jobs:
     - name: Get latest Release
       run: wget -c https://github.com/n8225/awesome-selfhosted-gen/releases/download/v0.1.1/awesome-selfhosted-gen_0.1.1_linux_amd64.tar.gz -O - | tar xvz
     - name: Clone Awesome-Selfhosted 
-      run: git clone https://github.com/Kickball/awesome-selfhosted.git /tmp
+      run: git clone https://github.com/Kickball/awesome-selfhosted.git /tmp/awesome-selfhosted
     - name: generate updated json
       run: ./awesome-selfhosted-gen_0.1.1_linux_amd64 --path /tmp/awesome-selfhosted/README.md --ghtoken ${{secrets.GITHUB_TOKEN}}
     - name: Deploy
