@@ -1,4 +1,4 @@
-ID: 770
+ID: 772
 Name: Wallabag
 Description: Wallabag, formerly Poche, is a web application allowing you to save articles
   to read them later with improved readability.
@@ -16,4 +16,4 @@ MD: '- [Wallabag](https://www.wallabag.org) - Wallabag, formerly Poche, is a web
   allowing you to save articles to read them later with improved readability. ([Demo](http://demo.wallabag.org/),
   [Source Code](https://github.com/wallabag/wallabag)) `MIT` `PHP`'
 SourceType: Github
-Line: 1206
+Line: 1212

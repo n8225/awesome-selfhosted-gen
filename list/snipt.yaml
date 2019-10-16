@@ -1,4 +1,4 @@
-ID: 702
+ID: 703
 Name: snipt
 Description: Long-term memory for coders. Share and store code snippets.
 Source Code: https://github.com/nicksergeant/snipt
@@ -13,4 +13,4 @@ Tags:
 MD: '- [snipt](https://snipt.net/) - Long-term memory for coders. Share and store
   code snippets. ([Source Code](https://github.com/nicksergeant/snipt)) `MIT` `Python`'
 SourceType: Github
-Line: 1108
+Line: 1113

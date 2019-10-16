@@ -1,4 +1,4 @@
-ID: 880
+ID: 882
 Name: devShort
 Description: A simple and privacy-friendly URL shortener for web developers, admins
   and all professionals.
@@ -15,4 +15,4 @@ MD: '- [devShort](https://github.com/flokX/devShort) - A simple and privacy-frie
   URL shortener for web developers, admins and all professionals. ([Demo](https://devshort.florian-kaldowski.de))
   `MIT` `PHP`'
 SourceType: Github
-Line: 1393
+Line: 1399

@@ -1,9 +1,8 @@
-ID: 700
+ID: 701
 Name: SharpPaste
 Description: Cross-platform C# pastebin with client-side AES-256 encryption that just
   works.
 Source Code: https://github.com/phonicmouse/SharpPaste
-Demo: https://sharppaste.nl/
 License:
 - MIT
 Languages:
@@ -12,7 +11,6 @@ C: Pastebins
 Tags:
 - Pastebin
 MD: '- [SharpPaste](https://github.com/phonicmouse/SharpPaste) - Cross-platform C#
-  pastebin with client-side AES-256 encryption that just works. ([Demo](https://sharppaste.nl/))
-  `MIT` `C#/NancyFX`'
+  pastebin with client-side AES-256 encryption that just works. `MIT` `C#/NancyFX`'
 SourceType: Github
-Line: 1106
+Line: 1111

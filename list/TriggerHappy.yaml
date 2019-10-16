@@ -1,4 +1,4 @@
-ID: 57
+ID: 56
 Name: TriggerHappy
 Description: Open source clone of IFTTT, a bridge between your internet services.
 Source Code: https://github.com/foxmask/django-th
@@ -14,4 +14,4 @@ MD: '- [TriggerHappy](https://trigger-happy.readthedocs.io/en/latest/) - Open so
   clone of IFTTT, a bridge between your internet services. ([Source Code](https://github.com/foxmask/django-th))
   `BSD-3-Clause` `Python`'
 SourceType: Github
-Line: 185
+Line: 184

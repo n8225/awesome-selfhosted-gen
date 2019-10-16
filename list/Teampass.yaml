@@ -1,4 +1,4 @@
-ID: 680
+ID: 681
 Name: Teampass
 Description: Password manager dedicated for managing passwords in a collaborative
   way. One symmetric key is used to encrypt all shared/team passwords and stored server
@@ -18,4 +18,4 @@ MD: '- [Teampass](http://teampass.net/) - Password manager dedicated for managin
   Apache, MySQL and PHP. ([Source Code](https://github.com/nilsteampassnet/TeamPass))
   `GPL-3.0` `PHP`'
 SourceType: Github
-Line: 1081
+Line: 1086

@@ -1,4 +1,4 @@
-ID: 233
+ID: 231
 Name: Movim
 Description: Modern, federated social network based on XMPP, with a fully featured
   group-chat, subscriptions and microblogging.
@@ -17,4 +17,4 @@ MD: '- [Movim](https://movim.eu/) - Modern, federated social network based on XM
   with a fully featured group-chat, subscriptions and microblogging. ([Source Code](https://github.com/movim/movim))
   `AGPL-3.0` `PHP`'
 SourceType: Github
-Line: 441
+Line: 439

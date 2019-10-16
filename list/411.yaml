@@ -1,8 +1,7 @@
-ID: 587
+ID: 588
 Name: "411"
 Description: Alert Management Web Application.
 Source Code: https://github.com/etsy/411
-Website: https://demo.fouroneone.io/
 License:
 - MIT
 Languages:
@@ -11,7 +10,7 @@ C: Misc/Other
 Tags:
 - Misc
 - Other
-MD: '- [411](https://demo.fouroneone.io/) - Alert Management Web Application. ([Source
-  Code](https://github.com/etsy/411)) `MIT` `PHP`'
+MD: '- [411](https://github.com/etsy/411) - Alert Management Web Application. `MIT`
+  `PHP`'
 SourceType: Github
-Line: 958
+Line: 963

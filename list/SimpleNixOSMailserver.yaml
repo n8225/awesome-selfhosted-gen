@@ -1,4 +1,4 @@
-ID: 153
+ID: 150
 Name: Simple NixOS Mailserver
 Description: Complete mailserver solution leveraging the Nix Ecosystem.
 Source Code: https://gitlab.com/simple-nixos-mailserver/nixos-mailserver
@@ -14,4 +14,4 @@ Tags:
 MD: '- [Simple NixOS Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver)
   - Complete mailserver solution leveraging the Nix Ecosystem. `GPL-3.0` `Nix`'
 SourceType: Gitlab
-Line: 324
+Line: 321

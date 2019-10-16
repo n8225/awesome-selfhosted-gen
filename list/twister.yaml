@@ -1,4 +1,4 @@
-ID: 254
+ID: 252
 Name: twister
 Description: Fully decentralized P2P microblogging platform leveraging the free software
   implementations of Bitcoin and BitTorrent protocols.
@@ -17,4 +17,4 @@ MD: '- [twister](http://twister.net.co/) - Fully decentralized P2P microblogging
   leveraging the free software implementations of Bitcoin and BitTorrent protocols.
   ([Source Code](https://github.com/miguelfreitas/twister-core)) `MIT` `C++`'
 SourceType: Github
-Line: 462
+Line: 460

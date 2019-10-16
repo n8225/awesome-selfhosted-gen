@@ -1,4 +1,4 @@
-ID: 728
+ID: 730
 Name: Photonix
 Description: A new web-based photo management application with object recognition,
   location awareness, color analysis and other ML algorithms.
@@ -17,4 +17,4 @@ MD: '- [Photonix](https://photonix.org/) - A new web-based photo management appl
   ([Demo](https://demo.photonix.org/), [Source Code](https://github.com/damianmoore/photonix))
   `AGPL-3.0` `Python`'
 SourceType: Github
-Line: 1146
+Line: 1152

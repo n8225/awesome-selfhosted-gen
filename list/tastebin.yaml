@@ -1,4 +1,4 @@
-ID: 705
+ID: 706
 Name: tastebin
 Description: Updated version of hastebin plus additional features.
 Source Code: https://github.com/andreineculau/tastebin
@@ -12,4 +12,4 @@ Tags:
 MD: '- [tastebin](https://github.com/andreineculau/tastebin) - Updated version of
   hastebin plus additional features. `Apache-2.0` `Nodejs`'
 SourceType: Github
-Line: 1111
+Line: 1116

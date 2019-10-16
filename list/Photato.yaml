@@ -1,4 +1,4 @@
-ID: 725
+ID: 727
 Name: Photato
 Description: Self-hosted photo gallery, accessible through a responsive WebUI. Directly
   uses and indexes a specific folder in the filesystem.
@@ -14,4 +14,4 @@ MD: '- [Photato](https://github.com/trebonius0/Photato) - Self-hosted photo gall
   accessible through a responsive WebUI. Directly uses and indexes a specific folder
   in the filesystem. `AGPL-3.0` `Java`'
 SourceType: Github
-Line: 1143
+Line: 1149

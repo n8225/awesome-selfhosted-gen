@@ -1,4 +1,4 @@
-ID: 548
+ID: 550
 Name: Airsonic
 Description: Open-source web-based media streamer and jukebox. A fork of Subsonic's
   last open-source release, before it switched licenses.
@@ -20,4 +20,4 @@ MD: '- [Airsonic](https://airsonic.github.io/) - Open-source web-based media str
   licenses. ([Source Code](https://github.com/airsonic/airsonic), [Clients](https://airsonic.github.io/docs/apps/))
   `GPL-3.0` `Java`'
 SourceType: Github
-Line: 911
+Line: 917

@@ -1,4 +1,4 @@
-ID: 524
+ID: 527
 Name: MapBBCodeShare
 Description: Tool for sharing custom OSM maps. Support for annotated markers, polygons,
   lines, multi-format import/export, multiple layers, shortlinks.
@@ -18,4 +18,4 @@ MD: '- [MapBBCodeShare](https://github.com/MapBBCode/share.mapbbcode.org) - Tool
   import/export, multiple layers, shortlinks. ([Demo](http://share.mapbbcode.org/))
   `WTFPL/Other` `PHP`'
 SourceType: Github
-Line: 874
+Line: 881

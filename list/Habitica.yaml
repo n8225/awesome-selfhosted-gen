@@ -1,4 +1,4 @@
-ID: 708
+ID: 709
 Name: Habitica
 Description: Habit tracker app which treats your goals like a Role Playing Game. Previously
   called HabitRPG.
@@ -17,4 +17,4 @@ MD: '- [Habitica](https://habitica.com/) - Habit tracker app which treats your g
   like a Role Playing Game. Previously called HabitRPG. ([Source Code](https://github.com/HabitRPG/habitrpg))
   `GPL-3.0/CC-BY-NC-SA-3.0/CC-BY-SA-3.0` `Nodejs`'
 SourceType: Github
-Line: 1121
+Line: 1126

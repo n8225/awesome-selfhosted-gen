@@ -1,4 +1,4 @@
-ID: 675
+ID: 676
 Name: keeweb
 Description: This webapp is a browser and desktop password manager compatible with
   KeePass databases.
@@ -15,4 +15,4 @@ MD: '- [keeweb](https://keeweb.info/) - This webapp is a browser and desktop pas
   manager compatible with KeePass databases. ([Source Code](https://github.com/keeweb/keeweb))
   `MIT` `HTML5`'
 SourceType: Github
-Line: 1076
+Line: 1081

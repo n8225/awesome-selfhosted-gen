@@ -1,4 +1,4 @@
-ID: 485
+ID: 487
 Name: Citadel
 Description: Groupware including email, calendar/scheduling, address books, forums,
   mailing lists, IM, wiki and blog engines, RSS aggregation and more.
@@ -15,4 +15,4 @@ MD: '- [Citadel](http://www.citadel.org/doku.php) - Groupware including email, c
   address books, forums, mailing lists, IM, wiki and blog engines, RSS aggregation
   and more. ([Source Code](http://www.citadel.org/doku.php/installation:source)) `GPL-3.0`
   `C`'
-Line: 808
+Line: 814

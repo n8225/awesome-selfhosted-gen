@@ -1,4 +1,4 @@
-ID: 579
+ID: 580
 Name: Open Streaming Platform
 Description: Self-Hosted alternative to Twitch and Youtube Live for live and on-demand
   video streaming.
@@ -17,4 +17,4 @@ MD: '- [Open Streaming Platform](https://gitlab.com/Deamos/flask-nginx-rtmp-mana
   - Self-Hosted alternative to Twitch and Youtube Live for live and on-demand video
   streaming. ([Demo](https://osptest.divby0.net)) `MIT` `Python`'
 SourceType: Gitlab
-Line: 945
+Line: 950

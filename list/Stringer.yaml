@@ -1,4 +1,4 @@
-ID: 387
+ID: 383
 Name: Stringer
 Description: Work-in-progress self-hosted, anti-social RSS reader.
 Source Code: https://github.com/swanson/stringer
@@ -13,4 +13,4 @@ Tags:
 MD: '- [Stringer](https://github.com/swanson/stringer) - Work-in-progress self-hosted,
   anti-social RSS reader. `MIT` `Ruby`'
 SourceType: Github
-Line: 663
+Line: 659

@@ -1,4 +1,4 @@
-ID: 259
+ID: 257
 Name: MongooseIM
 Description: Mobile messaging platform with a focus on performance and scalability.
 Source Code: https://github.com/esl/MongooseIM
@@ -16,4 +16,4 @@ MD: '- [MongooseIM](https://www.erlang-solutions.com/products/mongooseim.html) -
   messaging platform with a focus on performance and scalability. ([Source Code](https://github.com/esl/MongooseIM))
   `GPL-2.0` `Erlang`'
 SourceType: Github
-Line: 476
+Line: 474

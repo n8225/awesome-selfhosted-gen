@@ -1,4 +1,4 @@
-ID: 783
+ID: 785
 Name: Fossil
 Description: Distributed version control system featuring wiki and bug tracker.
 Source Code: https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki
@@ -13,4 +13,4 @@ Tags:
 MD: '- [Fossil](https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki) -
   Distributed version control system featuring wiki and bug tracker. `BSD-2-Clause-FreeBSD`
   `C`'
-Line: 1241
+Line: 1247

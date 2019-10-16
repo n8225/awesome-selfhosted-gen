@@ -1,4 +1,4 @@
-ID: 804
+ID: 806
 Name: SCM Manager
 Description: The easiest way to share and manage your Git, Mercurial and Subversion
   repositories over http.
@@ -15,4 +15,4 @@ Tags:
 MD: '- [SCM Manager](https://www.scm-manager.org/) - The easiest way to share and
   manage your Git, Mercurial and Subversion repositories over http. ([Source Code](https://bitbucket.org/sdorra/scm-manager/src))
   `BSD-3-Clause` `Java`'
-Line: 1262
+Line: 1268

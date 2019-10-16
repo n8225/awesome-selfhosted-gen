@@ -1,4 +1,4 @@
-ID: 342
+ID: 339
 Name: Shuup
 Description: Django powered fully customizable open source e-commerce framework for
   small and large sites.
@@ -16,4 +16,4 @@ MD: '- [Shuup](https://www.shuup.com/) - Django powered fully customizable open 
   e-commerce framework for small and large sites. ([Source Code](https://github.com/shuup/shuup))
   `AGPL-3.0` `Python`'
 SourceType: Github
-Line: 580
+Line: 577

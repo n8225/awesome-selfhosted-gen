@@ -1,4 +1,4 @@
-ID: 786
+ID: 788
 Name: gitbucket
 Description: Easily installable GitHub clone powered by Scala.
 Source Code: https://github.com/gitbucket/gitbucket
@@ -16,4 +16,4 @@ MD: '- [gitbucket](https://gitbucket.github.io/gitbucket-news/) - Easily install
   GitHub clone powered by Scala. ([Source Code](https://github.com/gitbucket/gitbucket))
   `Apache-2.0` `Scala/Java`'
 SourceType: Github
-Line: 1244
+Line: 1250

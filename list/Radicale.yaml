@@ -1,4 +1,4 @@
-ID: 101
+ID: 99
 Name: Radicale
 Description: Simple calendar and contact server with extremely low administrative
   overhead.
@@ -18,4 +18,4 @@ MD: '- [Radicale](http://radicale.org/) - Simple calendar and contact server wit
   extremely low administrative overhead. ([Source Code](https://github.com/Kozea/Radicale))
   `GPL-3.0` `Python`'
 SourceType: Github
-Line: 253
+Line: 251

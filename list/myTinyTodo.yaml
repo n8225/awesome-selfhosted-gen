@@ -1,4 +1,4 @@
-ID: 845
+ID: 847
 Name: myTinyTodo
 Description: Simple way to manage your todo list in AJAX style. Uses PHP, jQuery,
   SQLite/MySQL. GTD compliant.
@@ -16,4 +16,4 @@ Tags:
 MD: '- [myTinyTodo](http://www.mytinytodo.net/) - Simple way to manage your todo list
   in AJAX style. Uses PHP, jQuery, SQLite/MySQL. GTD compliant. ([Demo](http://www.mytinytodo.net/demo/),
   [Source Code](https://bitbucket.org/maxpozdeev/mytinytodo)) `GPL-2.0` `PHP`'
-Line: 1346
+Line: 1352

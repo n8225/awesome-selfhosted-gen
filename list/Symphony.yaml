@@ -1,4 +1,4 @@
-ID: 250
+ID: 248
 Name: Symphony
 Description: Modern community (forum/SNS/blog) platform written in Java.
 Source Code: https://github.com/b3log/symphony
@@ -15,4 +15,4 @@ Tags:
 MD: '- [Symphony](https://hacpai.com/) - Modern community (forum/SNS/blog) platform
   written in Java. ([Source Code](https://github.com/b3log/symphony)) `GPL-3.0` `Java`'
 SourceType: Github
-Line: 458
+Line: 456

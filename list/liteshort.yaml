@@ -1,4 +1,4 @@
-ID: 884
+ID: 886
 Name: liteshort
 Description: User-friendly, actually lightweight, and configurable URL shortener.
 Source Code: https://github.com/132ikl/liteshort
@@ -13,4 +13,4 @@ Tags:
 MD: '- [liteshort](https://github.com/132ikl/liteshort) - User-friendly, actually
   lightweight, and configurable URL shortener. ([Demo](https://ls.ikl.sh)) `MIT` `Python`'
 SourceType: Github
-Line: 1397
+Line: 1403

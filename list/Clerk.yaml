@@ -1,4 +1,4 @@
-ID: 739
+ID: 741
 Name: Clerk
 Description: Simple event logger to keep track of periodic events, habits, etc. as
   they occur.
@@ -14,4 +14,4 @@ Tags:
 MD: '- [Clerk](https://github.com/chr15m/Clerk) - Simple event logger to keep track
   of periodic events, habits, etc. as they occur. `GPL-3.0` `PHP`'
 SourceType: Github
-Line: 1162
+Line: 1168

@@ -1,4 +1,4 @@
-ID: 180
+ID: 177
 Name: Afterlogic WebMail Lite
 Description: Fast and easy-to-use webmail front-end for your existing IMAP mail server,
   Plesk or cPanel.
@@ -19,4 +19,4 @@ MD: '- [Afterlogic WebMail Lite](http://www.afterlogic.org/webmail-lite) - Fast 
   ([Demo](https://lite.afterlogic.com/), [Source Code](https://github.com/afterlogic/webmail-lite))
   `AGPL-3.0` `PHP`'
 SourceType: Github
-Line: 369
+Line: 366

@@ -1,4 +1,4 @@
-ID: 350
+ID: 347
 Name: CaseBox
 Description: Manage all your organization's information in one system.
 Source Code: https://github.com/KETSE/casebox
@@ -14,4 +14,4 @@ Tags:
 MD: '- [CaseBox](https://www.casebox.org) - Manage all your organization''s information
   in one system. ([Source Code](https://github.com/KETSE/casebox)) `AGPL-3.0` `PHP/Java`'
 SourceType: Github
-Line: 600
+Line: 597

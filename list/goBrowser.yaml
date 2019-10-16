@@ -1,4 +1,4 @@
-ID: 456
+ID: 458
 Name: goBrowser
 Description: Simple http file browser.
 Source Code: https://github.com/xataz/gobrowser
@@ -13,4 +13,4 @@ Tags:
 MD: '- [goBrowser](https://github.com/xataz/gobrowser) - Simple http file browser.
   `GPL-3.0` `Go`'
 SourceType: Github
-Line: 762
+Line: 768

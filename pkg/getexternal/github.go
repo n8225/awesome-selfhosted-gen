@@ -199,7 +199,7 @@ func ghClientv4(ght string, jsonStr []byte) []byte {
 	req.Header.Set("Accept", "application/vnd.github.quicksilver-preview+json")
 	req.Header.Set("Content-Type", "application/json")
 	client := &http.Client{
-		Timeout: time.Duration(5 * time.Second),
+		Timeout: time.Duration(10 * time.Second),
 	}
 	res, err := client.Do(req)
 	if err != nil {
@@ -225,7 +225,7 @@ func ghClientv3(ght, u, r string) ([]byte, []string) {
 	}
 	req.Header.Set("Authorization", "bearer "+ght)
 	client := http.Client{
-		Timeout: time.Duration(5 * time.Second),
+		Timeout: time.Duration(10 * time.Second),
 	}
 	res, err := client.Do(req)
 	if err != nil {

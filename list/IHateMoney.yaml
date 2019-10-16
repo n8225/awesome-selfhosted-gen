@@ -1,4 +1,4 @@
-ID: 639
+ID: 640
 Name: IHateMoney
 Description: Manage your shared expenses, easily.
 Source Code: https://github.com/spiral-project/ihatemoney
@@ -16,4 +16,4 @@ MD: '- [IHateMoney](http://ihatemoney.org/) - Manage your shared expenses, easil
   ([Demo](https://ihatemoney.org/demo/), [Source Code](https://github.com/spiral-project/ihatemoney))
   `BSD-3-Clause` `Python`'
 SourceType: Github
-Line: 1017
+Line: 1022

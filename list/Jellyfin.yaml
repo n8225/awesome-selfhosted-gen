@@ -1,4 +1,4 @@
-ID: 542
+ID: 544
 Name: Jellyfin
 Description: Streaming audio/video server with a slick UI and robust transcoding capabilities
   (fork of Emby).
@@ -17,4 +17,4 @@ MD: '- [Jellyfin](https://jellyfin.media) - Streaming audio/video server with a 
   UI and robust transcoding capabilities (fork of Emby). ([Source Code](https://github.com/jellyfin/jellyfin))
   `GPL-2.0` `C#`'
 SourceType: Github
-Line: 901
+Line: 907

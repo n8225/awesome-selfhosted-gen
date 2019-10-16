@@ -1,4 +1,4 @@
-ID: 109
+ID: 107
 Name: Cherry
 Description: Tiny webchat server.
 Source Code: https://github.com/rafael-santiago/cherry
@@ -12,4 +12,4 @@ Tags:
 MD: '- [Cherry](https://github.com/rafael-santiago/cherry) - Tiny webchat server.
   `GPL-2.0` `Go`'
 SourceType: Github
-Line: 271
+Line: 269

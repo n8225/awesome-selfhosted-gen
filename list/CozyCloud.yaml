@@ -1,4 +1,4 @@
-ID: 486
+ID: 488
 Name: Cozy Cloud
 Description: Personal cloud where you can read your emails or manage and sync your
   contact, files or calendars, with an app store full of community contributions.
@@ -15,4 +15,4 @@ MD: '- [Cozy Cloud](https://cozy.io) - Personal cloud where you can read your em
   or manage and sync your contact, files or calendars, with an app store full of community
   contributions. ([Source Code](https://github.com/cozy)) `GPL-3.0` `Nodejs`'
 SourceType: Github
-Line: 809
+Line: 815

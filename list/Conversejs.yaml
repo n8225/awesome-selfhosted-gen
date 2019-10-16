@@ -1,4 +1,4 @@
-ID: 264
+ID: 262
 Name: Converse.js
 Description: Free and open-source XMPP chat client in your browser.
 Source Code: https://github.com/jcbrand/converse.js
@@ -16,4 +16,4 @@ MD: '- [Converse.js](https://conversejs.org/) - Free and open-source XMPP chat c
   in your browser. ([Source Code](https://github.com/jcbrand/converse.js)) `MPL-2.0`
   `Javascript`'
 SourceType: Github
-Line: 484
+Line: 482

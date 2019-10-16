@@ -1,4 +1,4 @@
-ID: 844
+ID: 846
 Name: Kanboard
 Description: Simple and open source visual task board.
 Source Code: https://github.com/kanboard/kanboard
@@ -14,4 +14,4 @@ Tags:
 MD: '- [Kanboard](http://kanboard.net/) - Simple and open source visual task board.
   ([Source Code](https://github.com/kanboard/kanboard)) `MIT` `PHP`'
 SourceType: Github
-Line: 1345
+Line: 1351

@@ -1,4 +1,4 @@
-ID: 106
+ID: 104
 Name: InfCloud
 Description: Open source CalDAV/CardDAV web client implementation.
 Source Code: https://www.inf-it.com/InfCloud_0.13.1.zip
@@ -15,4 +15,4 @@ Tags:
 MD: '- [InfCloud](https://www.inf-it.com/open-source/clients/infcloud/) - Open source
   CalDAV/CardDAV web client implementation. ([Demo](https://www.inf-it.com/infcloud/),
   [Source Code](https://www.inf-it.com/InfCloud_0.13.1.zip)) `AGPL-3.0` `Javascript`'
-Line: 261
+Line: 259

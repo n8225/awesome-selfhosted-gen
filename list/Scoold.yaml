@@ -1,4 +1,4 @@
-ID: 247
+ID: 245
 Name: Scoold
 Description: Stack Overflow in a JAR. An enterprise-ready Q&A platform with full-text
   search, SAML, LDAP integration and social login support.
@@ -19,4 +19,4 @@ MD: '- [Scoold](https://scoold.com) - Stack Overflow in a JAR. An enterprise-rea
   ([Demo](https://live.scoold.com), [Source Code](https://github.com/Erudika/scoold))
   `Apache-2.0` `Java`'
 SourceType: Github
-Line: 455
+Line: 453

@@ -1,4 +1,4 @@
-ID: 169
+ID: 166
 Name: Dada Mail
 Description: Web-based list management system that can be used for announcement lists
   and/or discussion lists.
@@ -19,4 +19,4 @@ MD: '- [Dada Mail](http://dadamailproject.com/) - Web-based list management syst
   that can be used for announcement lists and/or discussion lists. ([Source Code](https://github.com/justingit/dada-mail))
   `GPL-2.0` `Perl`'
 SourceType: Github
-Line: 355
+Line: 352

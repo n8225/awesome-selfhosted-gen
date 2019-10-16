@@ -1,4 +1,4 @@
-ID: 674
+ID: 675
 Name: Bitwarden
 Description: Password manager with webapp, browser extension, and mobile app.
 Source Code: https://github.com/bitwarden/core
@@ -14,4 +14,4 @@ MD: '- [Bitwarden](https://bitwarden.com/) - Password manager with webapp, brows
   extension, and mobile app. ([Source Code](https://github.com/bitwarden/core)) `AGPL-3.0`
   `C#`'
 SourceType: Github
-Line: 1075
+Line: 1080

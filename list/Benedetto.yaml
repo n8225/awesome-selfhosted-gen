@@ -1,4 +1,4 @@
-ID: 625
+ID: 626
 Name: Benedetto
 Description: Bennedetto is a simple, turn-based budget management app.
 Source Code: https://github.com/arecker/bennedetto
@@ -13,4 +13,4 @@ Tags:
 MD: '- [Benedetto](https://github.com/arecker/bennedetto) - Bennedetto is a simple,
   turn-based budget management app. `GPL-3.0` `Python`'
 SourceType: Github
-Line: 1003
+Line: 1008

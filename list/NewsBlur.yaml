@@ -1,4 +1,4 @@
-ID: 378
+ID: 376
 Name: NewsBlur
 Description: NewsBlur is a personal news reader that brings people together to talk
   about the world. A new sound of an old instrument.
@@ -16,4 +16,4 @@ MD: '- [NewsBlur](http://www.newsblur.com/) - NewsBlur is a personal news reader
   brings people together to talk about the world. A new sound of an old instrument.
   ([Source Code](https://github.com/samuelclay/NewsBlur)) `MIT` `Python`'
 SourceType: Github
-Line: 654
+Line: 652

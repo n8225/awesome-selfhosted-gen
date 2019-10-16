@@ -1,9 +1,9 @@
-ID: 713
+ID: 715
 Name: simple-dash
 Description: A simple, fully responsive Dashboard to forward to the services of your
   choice.
-Source Code: https://github.com/Swagielka/simple-dash
-Demo: https://swagielka.github.io/simple-dash/
+Source Code: https://github.com/kutyla-philipp/simple-dash
+Demo: https://kutyla-philipp.github.io/simple-dash/
 License:
 - MIT
 Languages:
@@ -11,8 +11,8 @@ Languages:
 C: Personal Dashboards
 Tags:
 - Dashboard
-MD: '- [simple-dash](https://github.com/Swagielka/simple-dash) - A simple, fully responsive
-  Dashboard to forward to the services of your choice. ([Demo](https://swagielka.github.io/simple-dash/))
+MD: '- [simple-dash](https://github.com/kutyla-philipp/simple-dash) - A simple, fully
+  responsive Dashboard to forward to the services of your choice. ([Demo](https://kutyla-philipp.github.io/simple-dash/))
   `MIT` `Javascript`'
 SourceType: Github
-Line: 1126
+Line: 1132

@@ -1,4 +1,4 @@
-ID: 935
+ID: 938
 Name: UBOS
 Description: Linux distro that runs on indie boxes (personal servers and IoT devices).
   Single-command installation and management of apps - Jenkins, Mediawiki, Owncloud,
@@ -14,4 +14,4 @@ Tags:
 MD: '- [UBOS](http://ubos.net/) - Linux distro that runs on indie boxes (personal
   servers and IoT devices). Single-command installation and management of apps - Jenkins,
   Mediawiki, Owncloud, WordPress, etc., and other features. `GPL-3.0` `Perl/Other`'
-Line: 1472
+Line: 1479

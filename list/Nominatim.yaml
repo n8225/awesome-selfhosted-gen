@@ -1,4 +1,4 @@
-ID: 526
+ID: 529
 Name: Nominatim
 Description: Server application for reverse geocoding (address -> coordinates) on
   OpenStreetMap data.
@@ -16,4 +16,4 @@ MD: '- [Nominatim](https://nominatim.org/) - Server application for reverse geoc
   (address -> coordinates) on OpenStreetMap data. ([Source Code](https://github.com/openstreetmap/Nominatim))
   `GPL-2.0` `C`'
 SourceType: Github
-Line: 876
+Line: 883

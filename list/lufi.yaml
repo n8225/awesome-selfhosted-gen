@@ -1,4 +1,4 @@
-ID: 434
+ID: 436
 Name: lufi
 Description: Let's Upload that FIle, client-side encrypted.
 Source Code: https://git.framasoft.org/luc/lufi/tree/master
@@ -16,4 +16,4 @@ Tags:
 MD: '- [lufi](https://git.framasoft.org/luc/lufi) - Let''s Upload that FIle, client-side
   encrypted. ([Demo](https://demo.lufi.io), [Source Code](https://git.framasoft.org/luc/lufi/tree/master))
   `AGPL-3.0` `Perl`'
-Line: 734
+Line: 740

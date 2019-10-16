@@ -1,4 +1,4 @@
-ID: 741
+ID: 743
 Name: Fider
 Description: Open source alternative to UserVoice for customer feedback.
 Source Code: https://github.com/getfider/fider
@@ -16,4 +16,4 @@ MD: '- [Fider](http://getfider.com) - Open source alternative to UserVoice for c
   feedback. ([Demo](https://demo.fider.io), [Source Code](https://github.com/getfider/fider))
   `MIT` `Go`'
 SourceType: Github
-Line: 1164
+Line: 1170

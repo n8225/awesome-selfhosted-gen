@@ -1,4 +1,4 @@
-ID: 446
+ID: 448
 Name: XBackBone
 Description: A simple, fast, lightweight and powerful ShareX (a free and open-source
   screenshot utility for Windows) PHP backend.
@@ -16,4 +16,4 @@ MD: '- [XBackBone](https://github.com/SergiX44/XBackBone) - A simple, fast, ligh
   and powerful ShareX (a free and open-source screenshot utility for Windows) PHP
   backend. `AGPL-3.0` `PHP`'
 SourceType: Github
-Line: 746
+Line: 752

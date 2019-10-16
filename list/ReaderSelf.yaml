@@ -1,4 +1,4 @@
-ID: 381
+ID: 379
 Name: Reader-Self
 Description: Self-hosted rss reader (php / mysql or sqlite) - Google Reader alternative.
 Source Code: https://github.com/readerself/readerself
@@ -15,4 +15,4 @@ MD: '- [Reader-Self](http://readerself.com/) - Self-hosted rss reader (php / mys
   or sqlite) - Google Reader alternative. ([Source Code](https://github.com/readerself/readerself))
   `GPL-3.0` `PHP`'
 SourceType: Github
-Line: 657
+Line: 655

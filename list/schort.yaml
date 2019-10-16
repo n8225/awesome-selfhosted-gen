@@ -1,4 +1,4 @@
-ID: 889
+ID: 891
 Name: schort
 Description: No login, no javascript, just short links.
 Source Code: https://github.com/sqozz/schort
@@ -13,4 +13,4 @@ Tags:
 MD: '- [schort](https://github.com/sqozz/schort) - No login, no javascript, just short
   links. ([Demo](https://s.wx0.de)) `CC0-1.0` `Python`'
 SourceType: Github
-Line: 1402
+Line: 1408

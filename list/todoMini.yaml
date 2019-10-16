@@ -1,4 +1,4 @@
-ID: 857
+ID: 859
 Name: todoMini
 Description: Mobile friendly zero-feature TODO list web app. Unix philosophy.
 Source Code: https://github.com/appMini/todoMini
@@ -17,4 +17,4 @@ MD: '- [todoMini](https://www.todomini.app/) - Mobile friendly zero-feature TODO
   web app. Unix philosophy. ([Demo](https://appmini.github.io/todoMini/?demo), [Source
   Code](https://github.com/appMini/todoMini)) `GPL-3.0` `PHP/Clojure`'
 SourceType: Github
-Line: 1358
+Line: 1364

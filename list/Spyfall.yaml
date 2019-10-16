@@ -1,4 +1,4 @@
-ID: 475
+ID: 478
 Name: Spyfall
 Description: Fan made web version of the Spyfall party game.
 Source Code: https://github.com/mpcovcd/spyfall
@@ -14,4 +14,4 @@ Tags:
 MD: '- [Spyfall](https://github.com/mpcovcd/spyfall) - Fan made web version of the
   Spyfall party game. ([Demo](http://spyfall.crabhat.com/)) `MIT` `HTML/Javascript`'
 SourceType: Github
-Line: 788
+Line: 795

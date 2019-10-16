@@ -1,4 +1,4 @@
-ID: 457
+ID: 459
 Name: Gossa
 Description: Gossa is a light and simple webserver for your files.
 Source Code: https://github.com/pldubouilh/gossa
@@ -13,4 +13,4 @@ Tags:
 MD: '- [Gossa](https://github.com/pldubouilh/gossa) - Gossa is a light and simple
   webserver for your files. `MIT` `Go`'
 SourceType: Github
-Line: 763
+Line: 769

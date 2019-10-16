@@ -1,4 +1,4 @@
-ID: 397
+ID: 399
 Name: OpenSSH/SFTP
 Description: Secure File Transfer Program.
 Source Code: http://cvsweb.openbsd.org/cgi-bin/cvsweb/src/usr.bin/ssh
@@ -15,4 +15,4 @@ Tags:
 MD: '- [OpenSSH/SFTP](http://www.openssh.com/) - Secure File Transfer Program. ([Source
   Code](http://cvsweb.openbsd.org/cgi-bin/cvsweb/src/usr.bin/ssh)) `BSD-2-Clause`
   `C`'
-Line: 688
+Line: 694

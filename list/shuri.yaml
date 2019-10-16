@@ -1,4 +1,4 @@
-ID: 891
+ID: 894
 Name: shuri
 Description: SHort URI - Lightweight URL shortener.
 Source Code: https://github.com/pips-/shuri
@@ -12,4 +12,4 @@ Tags:
 MD: '- [shuri](https://github.com/pips-/shuri) - SHort URI - Lightweight URL shortener.
   `MIT` `PHP`'
 SourceType: Github
-Line: 1404
+Line: 1411
