@@ -12,7 +12,7 @@ jobs:
     - name: Clone Awesome-Selfhosted 
       run: git clone https://github.com/Kickball/awesome-selfhosted.git /tmp/awesome-selfhosted
     - name: generate updated json
-      run: ./awesome-selfhosted-gen_0.1.1_linux_amd64 --path /tmp/awesome-selfhosted/README.md --ghtoken ${{secrets.GITHUB_TOKEN}}
+      run: ./awesome-selfhosted-gen_0.1.1_linux_amd64/awesome-selfhosted-gen --path /tmp/awesome-selfhosted/README.md --ghtoken ${{secrets.GITHUB_TOKEN}}
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v2.5.0 
       env:
