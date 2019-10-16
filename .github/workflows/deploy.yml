@@ -1,0 +1,21 @@
+name: Deploy
+
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-18.04
+    steps:
+    - uses: actions/checkout@master
+
+    - name: Get latest Release
+      run: wget -c https://github.com/n8225/awesome-selfhosted-gen/releases/download/v0.1.1/awesome-selfhosted-gen_0.1.1_linux_amd64.tar.gz -O - | tar xvz
+    - name: Clone Awesome-Selfhosted 
+      run: git clone https://github.com/Kickball/awesome-selfhosted.git /tmp
+    - name: generate updated json
+      run: ./awesome-selfhosted-gen_0.1.1_linux_amd64 --path /tmp/awesome-selfhosted/README.md --ghtoken ${{secrets.GITHUB_TOKEN}}
+
+uses: peaceiris/actions-gh-pages@v2.5.0 
+env:
+  ACTIONS_DEPLOY_KEY: ${{secrets.ACTIONS_DEPLOY_KEY}}
+  PUBLISH_BRANCH: gh-pages
+  PUBLISH_DIR: ./static
