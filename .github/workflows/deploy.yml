@@ -8,7 +8,7 @@ jobs:
     - uses: actions/checkout@master
 
     - name: Get latest Release
-      run: wget -c https://github.com/n8225/awesome-selfhosted-gen/releases/download/v0.1.1/awesome-selfhosted-gen_0.1.1_linux_amd64.tar.gz -O - | tar xvz
+      run: wget https://github.com/n8225/awesome-selfhosted-gen/releases/download/v0.1.1/awesome-selfhosted-gen_0.1.1_linux_amd64.tar.gz && tar xvz awesome-selfhosted-gen_0.1.1_linux_amd64.tar.gz && pwd && ls
     - name: Clone Awesome-Selfhosted 
       run: git clone https://github.com/Kickball/awesome-selfhosted.git /tmp/awesome-selfhosted
     - name: generate updated json
