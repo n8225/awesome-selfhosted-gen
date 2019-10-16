@@ -13,9 +13,9 @@ jobs:
       run: git clone https://github.com/Kickball/awesome-selfhosted.git /tmp
     - name: generate updated json
       run: ./awesome-selfhosted-gen_0.1.1_linux_amd64 --path /tmp/awesome-selfhosted/README.md --ghtoken ${{secrets.GITHUB_TOKEN}}
-
-uses: peaceiris/actions-gh-pages@v2.5.0 
-env:
-  ACTIONS_DEPLOY_KEY: ${{secrets.ACTIONS_DEPLOY_KEY}}
-  PUBLISH_BRANCH: gh-pages
-  PUBLISH_DIR: ./static
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v2.5.0 
+      env:
+        ACTIONS_DEPLOY_KEY: ${{secrets.ACTIONS_DEPLOY_KEY}}
+        PUBLISH_BRANCH: gh-pages
+        PUBLISH_DIR: ./static
