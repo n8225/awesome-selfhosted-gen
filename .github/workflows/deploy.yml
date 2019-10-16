@@ -6,13 +6,17 @@ jobs:
     runs-on: ubuntu-18.04
     steps:
     - uses: actions/checkout@master
-
-    - name: Get latest Release
-      run: wget https://github.com/n8225/awesome-selfhosted-gen/releases/download/v0.1.1/awesome-selfhosted-gen_0.1.1_linux_amd64.tar.gz && tar xvzf awesome-selfhosted-gen_0.1.1_linux_amd64.tar.gz && pwd && ls
+    - name: Set up Go 1.12
+      uses: actions/setup-go@v1
+      with:
+        go-version: 1.12
+      id: go
+    - name: build 
+      run: go build .
     - name: Clone Awesome-Selfhosted 
       run: git clone https://github.com/Kickball/awesome-selfhosted.git /tmp/awesome-selfhosted
     - name: generate updated json
-      run: ./awesome-selfhosted-gen/awesome-selfhosted-gen --path /tmp/awesome-selfhosted/README.md --ghtoken ${{secrets.GITHUB_TOKEN}}
+      run: ./awesome-selfhosted-gen --path /tmp/awesome-selfhosted/README.md --ghtoken ${{secrets.GITHUB_TOKEN}}
     - name: prep files
       run: mkdir public && mv index.html public/. && mv static public/.
     - name: Deploy
