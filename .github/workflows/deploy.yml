@@ -1,9 +1,7 @@
 name: Deploy
 on:
-  push
   schedule:
     - cron: '0 3 * * *'
-
 jobs:
   build-deploy:
     runs-on: ubuntu-18.04
