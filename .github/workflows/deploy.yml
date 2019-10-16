@@ -15,6 +15,8 @@ jobs:
       run: go build .
     - name: Clone Awesome-Selfhosted 
       run: git clone https://github.com/Kickball/awesome-selfhosted.git /tmp/awesome-selfhosted
+    - name: clean
+      run: rm list/*
     - name: generate updated json
       run: ./awesome-selfhosted-gen --path /tmp/awesome-selfhosted/README.md --ghtoken ${{secrets.GITHUB_TOKEN}}
     - name: prep files
