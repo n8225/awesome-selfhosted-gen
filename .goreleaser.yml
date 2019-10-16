@@ -2,7 +2,6 @@
 # Make sure to check the documentation at http://goreleaser.com
 builds:
 - env:
-  - CGO_ENABLED=0
   goos:
     - linux
     - darwin
@@ -11,6 +10,16 @@ builds:
     - amd64
     - arm
     - arm64
+archives:
+  - name_template: '{{ .ProjectName }}_{{ .Os }}_{{ .Arch }}{{ if .Arm }}v{{ .Arm }}{{ end }}'
+    replacements:
+      darwin: Darwin
+      linux: Linux
+      windows: Windows
+      amd64: x86_64
+    format_overrides:
+    - goos: windows
+      format: zip
 checksum:
   name_template: 'checksums.txt'
 snapshot:
