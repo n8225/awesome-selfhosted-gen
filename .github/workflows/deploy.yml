@@ -16,7 +16,7 @@ jobs:
     - name: build 
       run: go build .
     - name: Clone Awesome-Selfhosted 
-      run: git clone https://github.com/Kickball/awesome-selfhosted.git /tmp/awesome-selfhosted
+      run: git clone --depth 1 https://github.com/awesome-selfhosted/awesome-selfhosted.git --branch master --single-branch /tmp/awesome-selfhosted
     - name: clean
       run: rm list/*
     - name: generate updated json
