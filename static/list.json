@@ -31,7 +31,7 @@
 				"Pastebin"
 			],
 			"SourceType": "Github",
-			"Line": 1101,
+			"Line": 1102,
 			"stars": 842,
 			"update": "2019-05-23"
 		},
@@ -51,7 +51,7 @@
 				"Self-hosting Solution"
 			],
 			"SourceType": "Github",
-			"Line": 1473,
+			"Line": 1474,
 			"stars": 1837,
 			"update": "2019-03-23"
 		},
@@ -94,7 +94,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 789,
-			"stars": 4567,
+			"stars": 4571,
 			"update": "2019-10-21"
 		},
 		{
@@ -158,7 +158,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 112,
-			"stars": 158,
+			"stars": 159,
 			"update": "2019-08-30"
 		},
 		{
@@ -221,8 +221,8 @@
 				"Localiztion"
 			],
 			"SourceType": "Github",
-			"Line": 1343,
-			"stars": 490,
+			"Line": 1344,
+			"stars": 491,
 			"update": "2019-10-23"
 		},
 		{
@@ -268,7 +268,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 111,
-			"stars": 1048,
+			"stars": 1049,
 			"update": "2019-10-20"
 		},
 		{
@@ -288,7 +288,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 155,
-			"stars": 92,
+			"stars": 93,
 			"update": "2019-10-23"
 		},
 		{
@@ -354,7 +354,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 259,
-			"stars": 380,
+			"stars": 381,
 			"update": "2018-01-23"
 		},
 		{
@@ -380,7 +380,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 924,
-			"stars": 945,
+			"stars": 946,
 			"update": "2019-10-25"
 		},
 		{
@@ -402,7 +402,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 1015,
-			"stars": 2245,
+			"stars": 2247,
 			"update": "2019-04-10"
 		},
 		{
@@ -446,9 +446,9 @@
 				"Events"
 			],
 			"SourceType": "Github",
-			"Line": 1189,
+			"Line": 1190,
 			"stars": 401,
-			"update": "2019-10-20"
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 22,
@@ -468,7 +468,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 156,
-			"stars": 939,
+			"stars": 938,
 			"update": "2019-10-13"
 		},
 		{
@@ -511,8 +511,8 @@
 				"Search Engine"
 			],
 			"SourceType": "Github",
-			"Line": 1242,
-			"stars": 1198,
+			"Line": 1243,
+			"stars": 1199,
 			"update": "2019-09-12"
 		},
 		{
@@ -536,7 +536,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 923,
-			"stars": 2223,
+			"stars": 2225,
 			"update": "2019-10-26"
 		},
 		{
@@ -622,8 +622,8 @@
 				"Self-hosting Solution"
 			],
 			"SourceType": "Github",
-			"Line": 1474,
-			"stars": 477,
+			"Line": 1475,
+			"stars": 481,
 			"update": "2019-10-20"
 		},
 		{
@@ -668,7 +668,7 @@
 			"SourceType": "Github",
 			"Line": 974,
 			"stars": 109,
-			"update": "2019-10-26"
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 32,
@@ -689,7 +689,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 767,
-			"stars": 1489,
+			"stars": 1490,
 			"update": "2019-09-06"
 		},
 		{
@@ -711,7 +711,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 513,
-			"stars": 2842,
+			"stars": 2844,
 			"update": "2019-10-25"
 		},
 		{
@@ -733,7 +733,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 146,
-			"stars": 5561,
+			"stars": 5568,
 			"update": "2019-10-21"
 		},
 		{
@@ -843,7 +843,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 925,
-			"stars": 676,
+			"stars": 678,
 			"update": "2019-10-26"
 		},
 		{
@@ -866,8 +866,8 @@
 			],
 			"SourceType": "Github",
 			"Line": 1016,
-			"stars": 1172,
-			"update": "2019-10-26"
+			"stars": 1175,
+			"update": "2019-10-28"
 		},
 		{
 			"ID": 41,
@@ -887,9 +887,9 @@
 				"IDE"
 			],
 			"SourceType": "Github",
-			"Line": 1289,
+			"Line": 1290,
 			"stars": 246,
-			"update": "2019-10-25"
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 42,
@@ -908,7 +908,7 @@
 				"Dashboard"
 			],
 			"SourceType": "Github",
-			"Line": 1133,
+			"Line": 1134,
 			"stars": 805,
 			"update": "2019-10-05"
 		},
@@ -953,7 +953,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 565,
-			"stars": 1606,
+			"stars": 1609,
 			"update": "2019-10-24"
 		},
 		{
@@ -977,7 +977,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 247,
-			"stars": 1560,
+			"stars": 1559,
 			"update": "2019-10-21"
 		},
 		{
@@ -1041,7 +1041,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 158,
-			"stars": 3956,
+			"stars": 3955,
 			"update": "2019-10-20"
 		},
 		{
@@ -1130,7 +1130,7 @@
 			"SourceType": "Github",
 			"Line": 496,
 			"stars": 2580,
-			"update": "2019-10-26"
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 53,
@@ -1169,9 +1169,10 @@
 			"T": [
 				"Password Manager"
 			],
+			"P": true,
 			"SourceType": "Github",
 			"Line": 1089,
-			"stars": 4053,
+			"stars": 4057,
 			"update": "2019-10-25"
 		},
 		{
@@ -1194,7 +1195,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 927,
-			"stars": 452,
+			"stars": 453,
 			"update": "2019-09-14"
 		},
 		{
@@ -1238,8 +1239,8 @@
 			"P": true,
 			"SourceType": "Github",
 			"Line": 199,
-			"stars": 573,
-			"update": "2019-10-24"
+			"stars": 574,
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 58,
@@ -1326,7 +1327,7 @@
 				"Project Mgmnt"
 			],
 			"SourceType": "Github",
-			"Line": 1255,
+			"Line": 1256,
 			"stars": 1505,
 			"update": "2019-09-29"
 		},
@@ -1369,9 +1370,9 @@
 				"Wiki"
 			],
 			"SourceType": "Github",
-			"Line": 1445,
-			"stars": 3528,
-			"update": "2019-10-26"
+			"Line": 1446,
+			"stars": 3534,
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 64,
@@ -1392,7 +1393,7 @@
 				"Events"
 			],
 			"SourceType": "",
-			"Line": 1190
+			"Line": 1191
 		},
 		{
 			"ID": 65,
@@ -1413,7 +1414,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 1050,
-			"stars": 15644,
+			"stars": 15656,
 			"update": "2019-10-16"
 		},
 		{
@@ -1436,7 +1437,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 422,
-			"stars": 1819,
+			"stars": 1820,
 			"update": "2019-03-11"
 		},
 		{
@@ -1522,7 +1523,7 @@
 				"Ticketing"
 			],
 			"SourceType": "",
-			"Line": 1385
+			"Line": 1386
 		},
 		{
 			"ID": 71,
@@ -1563,7 +1564,7 @@
 				"Ticketing"
 			],
 			"SourceType": "Github",
-			"Line": 1386,
+			"Line": 1387,
 			"stars": 23,
 			"update": "2016-09-19"
 		},
@@ -1628,7 +1629,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 977,
-			"stars": 848,
+			"stars": 849,
 			"update": "2019-10-24"
 		},
 		{
@@ -1669,7 +1670,7 @@
 				"Events"
 			],
 			"SourceType": "Github",
-			"Line": 1176,
+			"Line": 1177,
 			"stars": 376,
 			"update": "2019-09-16"
 		},
@@ -1735,7 +1736,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 618,
-			"stars": 2294,
+			"stars": 2295,
 			"update": "2019-10-22"
 		},
 		{
@@ -1783,7 +1784,7 @@
 			"SourceType": "Github",
 			"Line": 867,
 			"stars": 2964,
-			"update": "2019-10-26"
+			"update": "2019-10-28"
 		},
 		{
 			"ID": 83,
@@ -1825,7 +1826,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 270,
-			"stars": 3834,
+			"stars": 3835,
 			"update": "2019-10-26"
 		},
 		{
@@ -1845,7 +1846,7 @@
 				"Ticketing"
 			],
 			"SourceType": "Github",
-			"Line": 1387,
+			"Line": 1388,
 			"stars": 47,
 			"update": "2018-04-25"
 		},
@@ -1870,7 +1871,7 @@
 			"SourceType": "Github",
 			"Line": 868,
 			"stars": 395,
-			"update": "2019-10-26"
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 87,
@@ -1909,8 +1910,8 @@
 				"Photo and Video Gallery"
 			],
 			"SourceType": "Github",
-			"Line": 1149,
-			"stars": 1201,
+			"Line": 1150,
+			"stars": 1202,
 			"update": "2019-10-15"
 		},
 		{
@@ -1970,7 +1971,7 @@
 				"Events"
 			],
 			"SourceType": "Github",
-			"Line": 1177,
+			"Line": 1178,
 			"stars": 17,
 			"update": "2019-03-26"
 		},
@@ -1991,7 +1992,7 @@
 				"Self-hosting Solution"
 			],
 			"SourceType": "Github",
-			"Line": 1475,
+			"Line": 1476,
 			"stars": 26,
 			"update": "2019-10-26"
 		},
@@ -2034,7 +2035,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 519,
-			"stars": 4155,
+			"stars": 4158,
 			"update": "2019-10-25"
 		},
 		{
@@ -2056,8 +2057,8 @@
 				"IDE"
 			],
 			"SourceType": "Github",
-			"Line": 1290,
-			"stars": 24247,
+			"Line": 1291,
+			"stars": 24277,
 			"update": "2019-10-25"
 		},
 		{
@@ -2077,7 +2078,7 @@
 				"Pastebin"
 			],
 			"SourceType": "Github",
-			"Line": 1104,
+			"Line": 1105,
 			"stars": 316,
 			"update": "2016-12-06"
 		},
@@ -2100,7 +2101,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 1051,
-			"stars": 5204,
+			"stars": 5207,
 			"update": "2019-10-22"
 		},
 		{
@@ -2268,7 +2269,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 521,
-			"stars": 79,
+			"stars": 80,
 			"update": "2019-10-25"
 		},
 		{
@@ -2315,7 +2316,7 @@
 			"SourceType": "Github",
 			"Line": 384,
 			"stars": 536,
-			"update": "2019-10-27"
+			"update": "2019-10-28"
 		},
 		{
 			"ID": 108,
@@ -2335,7 +2336,7 @@
 				"Photo and Video Gallery"
 			],
 			"SourceType": "Github",
-			"Line": 1150,
+			"Line": 1151,
 			"stars": 26,
 			"update": "2019-10-13"
 		},
@@ -2401,7 +2402,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 593,
-			"stars": 4955,
+			"stars": 4958,
 			"update": "2019-10-21"
 		},
 		{
@@ -2465,7 +2466,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 159,
-			"stars": 3548,
+			"stars": 3549,
 			"update": "2019-01-13"
 		},
 		{
@@ -2487,7 +2488,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 113,
-			"stars": 4213,
+			"stars": 4215,
 			"update": "2019-10-24"
 		},
 		{
@@ -2529,8 +2530,8 @@
 				"Wiki"
 			],
 			"SourceType": "Github",
-			"Line": 1446,
-			"stars": 590,
+			"Line": 1447,
+			"stars": 592,
 			"update": "2019-07-06"
 		},
 		{
@@ -2571,7 +2572,7 @@
 				"Task Mgmnt"
 			],
 			"SourceType": "Github",
-			"Line": 1360,
+			"Line": 1361,
 			"stars": 159,
 			"update": "2015-12-27"
 		},
@@ -2593,7 +2594,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 1076,
-			"stars": 1403,
+			"stars": 1404,
 			"update": "2019-10-08"
 		},
 		{
@@ -2613,7 +2614,7 @@
 				"Photo and Video Gallery"
 			],
 			"SourceType": "",
-			"Line": 1151
+			"Line": 1152
 		},
 		{
 			"ID": 122,
@@ -2657,8 +2658,8 @@
 			],
 			"SourceType": "Github",
 			"Line": 978,
-			"stars": 7397,
-			"update": "2019-10-21"
+			"stars": 7412,
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 124,
@@ -2706,7 +2707,7 @@
 			"SourceType": "Github",
 			"Line": 346,
 			"stars": 272,
-			"update": "2019-10-26"
+			"update": "2019-10-28"
 		},
 		{
 			"ID": 126,
@@ -2769,7 +2770,7 @@
 				"Self-hosting Solution"
 			],
 			"SourceType": "Github",
-			"Line": 1478,
+			"Line": 1479,
 			"stars": 223,
 			"update": "2018-04-19"
 		},
@@ -2839,7 +2840,7 @@
 			"SourceType": "Github",
 			"Line": 202,
 			"stars": 370,
-			"update": "2019-09-18"
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 132,
@@ -2883,7 +2884,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 714,
-			"stars": 7650,
+			"stars": 7651,
 			"update": "2019-10-17"
 		},
 		{
@@ -2927,7 +2928,7 @@
 				"Ticketing"
 			],
 			"SourceType": "Github",
-			"Line": 1388,
+			"Line": 1389,
 			"stars": 479,
 			"update": "2016-06-15"
 		},
@@ -2972,7 +2973,7 @@
 				"Ticketing"
 			],
 			"SourceType": "Github",
-			"Line": 1389,
+			"Line": 1390,
 			"stars": 106,
 			"update": "2019-07-01"
 		},
@@ -2993,8 +2994,8 @@
 				"Self-hosting Solution"
 			],
 			"SourceType": "Github",
-			"Line": 1476,
-			"stars": 1684,
+			"Line": 1477,
+			"stars": 1688,
 			"update": "2019-10-25"
 		},
 		{
@@ -3037,7 +3038,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 523,
-			"stars": 5159,
+			"stars": 5164,
 			"update": "2019-09-27"
 		},
 		{
@@ -3061,8 +3062,8 @@
 			],
 			"SourceType": "Github",
 			"Line": 429,
-			"stars": 29277,
-			"update": "2019-10-26"
+			"stars": 29281,
+			"update": "2019-10-28"
 		},
 		{
 			"ID": 142,
@@ -3125,7 +3126,7 @@
 				"Dashboard"
 			],
 			"SourceType": "Github",
-			"Line": 1134,
+			"Line": 1135,
 			"stars": 72,
 			"update": "2019-02-05"
 		},
@@ -3148,7 +3149,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 1053,
-			"stars": 1232,
+			"stars": 1237,
 			"update": "2019-10-10"
 		},
 		{
@@ -3191,8 +3192,8 @@
 				"Self-hosting Solution"
 			],
 			"SourceType": "Github",
-			"Line": 1477,
-			"stars": 706,
+			"Line": 1478,
+			"stars": 707,
 			"update": "2019-10-24"
 		},
 		{
@@ -3213,7 +3214,7 @@
 				"Documentation Gen"
 			],
 			"SourceType": "Github",
-			"Line": 1336,
+			"Line": 1337,
 			"stars": 109,
 			"update": "2017-04-04"
 		},
@@ -3234,8 +3235,8 @@
 				"Wiki"
 			],
 			"SourceType": "Github",
-			"Line": 1448,
-			"stars": 910,
+			"Line": 1449,
+			"stars": 911,
 			"update": "2019-10-26"
 		},
 		{
@@ -3255,9 +3256,9 @@
 				"Wiki"
 			],
 			"SourceType": "Github",
-			"Line": 1449,
+			"Line": 1450,
 			"stars": 2611,
-			"update": "2019-10-25"
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 151,
@@ -3306,7 +3307,7 @@
 			"SourceType": "Github",
 			"Line": 850,
 			"stars": 2292,
-			"update": "2019-10-26"
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 153,
@@ -3394,7 +3395,7 @@
 				"API Mgmnt"
 			],
 			"SourceType": "Github",
-			"Line": 1324,
+			"Line": 1325,
 			"stars": 992,
 			"update": "2019-10-11"
 		},
@@ -3417,8 +3418,8 @@
 			],
 			"SourceType": "Github",
 			"Line": 114,
-			"stars": 8770,
-			"update": "2019-10-27"
+			"stars": 8772,
+			"update": "2019-10-28"
 		},
 		{
 			"ID": 158,
@@ -3503,9 +3504,9 @@
 				"Enterprise rsrc planning"
 			],
 			"SourceType": "Github",
-			"Line": 1233,
-			"stars": 5282,
-			"update": "2019-10-26"
+			"Line": 1234,
+			"stars": 5284,
+			"update": "2019-10-28"
 		},
 		{
 			"ID": 162,
@@ -3526,7 +3527,7 @@
 				"Events"
 			],
 			"SourceType": "Github",
-			"Line": 1191,
+			"Line": 1192,
 			"stars": 1048,
 			"update": "2019-07-14"
 		},
@@ -3571,7 +3572,7 @@
 				"IDE"
 			],
 			"SourceType": "Github",
-			"Line": 1291,
+			"Line": 1292,
 			"stars": 5775,
 			"update": "2019-10-25"
 		},
@@ -3635,7 +3636,7 @@
 				"Pastebin"
 			],
 			"SourceType": "Github",
-			"Line": 1106,
+			"Line": 1107,
 			"stars": 26,
 			"update": "2019-01-12"
 		},
@@ -3682,7 +3683,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 769,
-			"stars": 171,
+			"stars": 172,
 			"update": "2018-03-05"
 		},
 		{
@@ -3702,7 +3703,7 @@
 				"API Mgmnt"
 			],
 			"SourceType": "Github",
-			"Line": 1325,
+			"Line": 1326,
 			"stars": 100,
 			"update": "2018-03-05"
 		},
@@ -3745,8 +3746,8 @@
 			],
 			"SourceType": "Github",
 			"Line": 222,
-			"stars": 122,
-			"update": "2019-10-03"
+			"stars": 124,
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 173,
@@ -3767,7 +3768,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 824,
-			"stars": 512,
+			"stars": 513,
 			"update": "2019-10-25"
 		},
 		{
@@ -3792,7 +3793,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 252,
-			"stars": 165,
+			"stars": 166,
 			"update": "2019-10-23"
 		},
 		{
@@ -3815,7 +3816,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 262,
-			"stars": 50,
+			"stars": 97,
 			"update": "2019-10-24"
 		},
 		{
@@ -3879,7 +3880,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 1079,
-			"stars": 8204,
+			"stars": 8203,
 			"update": "2019-10-25"
 		},
 		{
@@ -4026,7 +4027,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 115,
-			"stars": 6017,
+			"stars": 6021,
 			"update": "2019-10-25"
 		},
 		{
@@ -4049,7 +4050,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 1024,
-			"stars": 554,
+			"stars": 555,
 			"update": "2019-10-26"
 		},
 		{
@@ -4115,7 +4116,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 646,
-			"stars": 2365,
+			"stars": 2366,
 			"update": "2019-10-17"
 		},
 		{
@@ -4137,8 +4138,8 @@
 				"Events"
 			],
 			"SourceType": "Github",
-			"Line": 1179,
-			"stars": 856,
+			"Line": 1180,
+			"stars": 857,
 			"update": "2019-10-26"
 		},
 		{
@@ -4160,7 +4161,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 715,
-			"stars": 2608,
+			"stars": 2610,
 			"update": "2019-10-22"
 		},
 		{
@@ -4228,7 +4229,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 772,
-			"stars": 1914,
+			"stars": 1916,
 			"update": "2019-10-05"
 		},
 		{
@@ -4251,7 +4252,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 1023,
-			"stars": 3707,
+			"stars": 3712,
 			"update": "2019-10-26"
 		},
 		{
@@ -4273,7 +4274,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 223,
-			"stars": 398,
+			"stars": 397,
 			"update": "2019-04-03"
 		},
 		{
@@ -4315,8 +4316,8 @@
 			],
 			"SourceType": "Github",
 			"Line": 716,
-			"stars": 8434,
-			"update": "2019-10-23"
+			"stars": 8440,
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 199,
@@ -4360,7 +4361,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 432,
-			"stars": 9515,
+			"stars": 9516,
 			"update": "2019-09-16"
 		},
 		{
@@ -4380,7 +4381,7 @@
 				"Documentation Gen"
 			],
 			"SourceType": "",
-			"Line": 1337
+			"Line": 1338
 		},
 		{
 			"ID": 202,
@@ -4445,9 +4446,9 @@
 				"Ticketing"
 			],
 			"SourceType": "Github",
-			"Line": 1391,
+			"Line": 1392,
 			"stars": 313,
-			"update": "2019-10-27"
+			"update": "2019-10-28"
 		},
 		{
 			"ID": 205,
@@ -4487,7 +4488,7 @@
 				"Project Mgmnt"
 			],
 			"SourceType": "",
-			"Line": 1256
+			"Line": 1257
 		},
 		{
 			"ID": 207,
@@ -4508,7 +4509,7 @@
 				"Events"
 			],
 			"SourceType": "",
-			"Line": 1180
+			"Line": 1181
 		},
 		{
 			"ID": 208,
@@ -4527,8 +4528,8 @@
 				"Self-hosting Solution"
 			],
 			"SourceType": "Github",
-			"Line": 1481,
-			"stars": 1352,
+			"Line": 1482,
+			"stars": 1353,
 			"update": "2019-10-23"
 		},
 		{
@@ -4567,8 +4568,8 @@
 				"Ticketing"
 			],
 			"SourceType": "Github",
-			"Line": 1392,
-			"stars": 517,
+			"Line": 1393,
+			"stars": 518,
 			"update": "2019-10-14"
 		},
 		{
@@ -4588,7 +4589,7 @@
 				"Self-hosting Solution"
 			],
 			"SourceType": "",
-			"Line": 1479
+			"Line": 1480
 		},
 		{
 			"ID": 212,
@@ -4606,7 +4607,7 @@
 				"Self-hosting Solution"
 			],
 			"SourceType": "",
-			"Line": 1480
+			"Line": 1481
 		},
 		{
 			"ID": 213,
@@ -4626,7 +4627,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 272,
-			"stars": 532,
+			"stars": 531,
 			"update": "2019-10-01"
 		},
 		{
@@ -4669,7 +4670,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 648,
-			"stars": 1791,
+			"stars": 1795,
 			"update": "2019-07-25"
 		},
 		{
@@ -4692,8 +4693,8 @@
 			],
 			"SourceType": "Github",
 			"Line": 435,
-			"stars": 778,
-			"update": "2019-10-26"
+			"stars": 780,
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 217,
@@ -4757,7 +4758,7 @@
 				"Pastebin"
 			],
 			"SourceType": "Github",
-			"Line": 1108,
+			"Line": 1109,
 			"stars": 88,
 			"update": "2019-03-18"
 		},
@@ -4823,7 +4824,7 @@
 				"API Mgmnt"
 			],
 			"SourceType": "Github",
-			"Line": 1326,
+			"Line": 1327,
 			"stars": 780,
 			"update": "2019-10-19"
 		},
@@ -4866,7 +4867,7 @@
 				"Pastebin"
 			],
 			"SourceType": "",
-			"Line": 1109
+			"Line": 1110
 		},
 		{
 			"ID": 225,
@@ -4988,7 +4989,7 @@
 				"Photo and Video Gallery"
 			],
 			"SourceType": "Github",
-			"Line": 1152,
+			"Line": 1153,
 			"stars": 1093,
 			"update": "2016-01-21"
 		},
@@ -5051,7 +5052,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 164,
-			"stars": 8688,
+			"stars": 8692,
 			"update": "2019-04-29"
 		},
 		{
@@ -5074,7 +5075,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 983,
-			"stars": 119,
+			"stars": 120,
 			"update": "2019-10-26"
 		},
 		{
@@ -5139,8 +5140,8 @@
 			],
 			"SourceType": "Github",
 			"Line": 205,
-			"stars": 31435,
-			"update": "2019-10-23"
+			"stars": 31449,
+			"update": "2019-10-28"
 		},
 		{
 			"ID": 238,
@@ -5159,7 +5160,7 @@
 				"Search Engine"
 			],
 			"SourceType": "Github",
-			"Line": 1243,
+			"Line": 1244,
 			"stars": 1067,
 			"update": "2017-06-02"
 		},
@@ -5203,7 +5204,7 @@
 				"Project Mgmnt"
 			],
 			"SourceType": "Gitlab",
-			"Line": 1261
+			"Line": 1262
 		},
 		{
 			"ID": 241,
@@ -5224,7 +5225,7 @@
 				"Project Mgmnt"
 			],
 			"SourceType": "Github",
-			"Line": 1264,
+			"Line": 1265,
 			"stars": 820,
 			"update": "2019-10-16"
 		},
@@ -5245,7 +5246,7 @@
 				"Project Mgmnt"
 			],
 			"SourceType": "Github",
-			"Line": 1265,
+			"Line": 1266,
 			"stars": 684,
 			"update": "2017-11-10"
 		},
@@ -5267,7 +5268,7 @@
 				"Project Mgmnt"
 			],
 			"SourceType": "Github",
-			"Line": 1258,
+			"Line": 1259,
 			"stars": 1673,
 			"update": "2019-06-16"
 		},
@@ -5290,9 +5291,9 @@
 				"Project Mgmnt"
 			],
 			"SourceType": "Github",
-			"Line": 1260,
-			"stars": 16586,
-			"update": "2019-10-26"
+			"Line": 1261,
+			"stars": 16587,
+			"update": "2019-10-28"
 		},
 		{
 			"ID": 245,
@@ -5310,7 +5311,7 @@
 				"Wiki"
 			],
 			"SourceType": "Github",
-			"Line": 1450,
+			"Line": 1451,
 			"stars": 1705,
 			"update": "2019-10-14"
 		},
@@ -5332,8 +5333,8 @@
 				"Project Mgmnt"
 			],
 			"SourceType": "Github",
-			"Line": 1262,
-			"stars": 2724,
+			"Line": 1263,
+			"stars": 2722,
 			"update": "2019-06-01"
 		},
 		{
@@ -5354,8 +5355,8 @@
 				"Project Mgmnt"
 			],
 			"SourceType": "Github",
-			"Line": 1263,
-			"stars": 7546,
+			"Line": 1264,
+			"stars": 7548,
 			"update": "2019-10-16"
 		},
 		{
@@ -5377,7 +5378,7 @@
 			"SourceType": "Github",
 			"Line": 165,
 			"stars": 1266,
-			"update": "2019-10-26"
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 249,
@@ -5420,7 +5421,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 116,
-			"stars": 10025,
+			"stars": 10032,
 			"update": "2019-09-10"
 		},
 		{
@@ -5464,8 +5465,8 @@
 				"Project Mgmnt"
 			],
 			"SourceType": "Github",
-			"Line": 1266,
-			"stars": 32045,
+			"Line": 1267,
+			"stars": 32050,
 			"update": "2019-10-26"
 		},
 		{
@@ -5484,7 +5485,7 @@
 				"Wiki"
 			],
 			"SourceType": "Github",
-			"Line": 1451,
+			"Line": 1452,
 			"stars": 10271,
 			"update": "2019-08-12"
 		},
@@ -5506,8 +5507,8 @@
 				"Project Mgmnt"
 			],
 			"SourceType": "Github",
-			"Line": 1257,
-			"stars": 792,
+			"Line": 1258,
+			"stars": 793,
 			"update": "2019-10-26"
 		},
 		{
@@ -5552,7 +5553,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 275,
-			"stars": 4268,
+			"stars": 4269,
 			"update": "2019-10-24"
 		},
 		{
@@ -5575,7 +5576,7 @@
 			"SourceType": "Github",
 			"Line": 886,
 			"stars": 2265,
-			"update": "2019-10-25"
+			"update": "2019-10-28"
 		},
 		{
 			"ID": 258,
@@ -5678,9 +5679,9 @@
 				"Dashboard"
 			],
 			"SourceType": "Github",
-			"Line": 1135,
-			"stars": 7161,
-			"update": "2019-10-26"
+			"Line": 1136,
+			"stars": 7160,
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 263,
@@ -5699,7 +5700,7 @@
 				"API Mgmnt"
 			],
 			"SourceType": "Github",
-			"Line": 1327,
+			"Line": 1328,
 			"stars": 86,
 			"update": "2019-02-27"
 		},
@@ -5724,7 +5725,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 332,
-			"stars": 3398,
+			"stars": 3397,
 			"update": "2019-10-25"
 		},
 		{
@@ -5810,7 +5811,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 166,
-			"stars": 2836,
+			"stars": 2835,
 			"update": "2019-09-08"
 		},
 		{
@@ -5831,7 +5832,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 167,
-			"stars": 2237,
+			"stars": 2241,
 			"update": "2019-10-21"
 		},
 		{
@@ -5851,8 +5852,8 @@
 				"Dashboard"
 			],
 			"SourceType": "Github",
-			"Line": 1136,
-			"stars": 1241,
+			"Line": 1137,
+			"stars": 1242,
 			"update": "2019-08-29"
 		},
 		{
@@ -5895,7 +5896,7 @@
 				"Ticketing"
 			],
 			"SourceType": "Github",
-			"Line": 1393,
+			"Line": 1394,
 			"stars": 1744,
 			"update": "2019-10-24"
 		},
@@ -5917,8 +5918,8 @@
 			],
 			"SourceType": "Github",
 			"Line": 206,
-			"stars": 28407,
-			"update": "2019-10-27"
+			"stars": 28418,
+			"update": "2019-10-28"
 		},
 		{
 			"ID": 274,
@@ -5938,7 +5939,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 794,
-			"stars": 1532,
+			"stars": 1533,
 			"update": "2019-05-10"
 		},
 		{
@@ -5960,8 +5961,8 @@
 			],
 			"SourceType": "Github",
 			"Line": 168,
-			"stars": 27696,
-			"update": "2019-10-27"
+			"stars": 27710,
+			"update": "2019-10-28"
 		},
 		{
 			"ID": 276,
@@ -5979,9 +5980,9 @@
 				"Self-hosting Solution"
 			],
 			"SourceType": "Gitlab",
-			"Line": 1482,
-			"stars": 598,
-			"update": "2019-10-26"
+			"Line": 1483,
+			"stars": 599,
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 277,
@@ -5999,7 +6000,7 @@
 				"Dashboard"
 			],
 			"SourceType": "Github",
-			"Line": 1137,
+			"Line": 1138,
 			"stars": 171,
 			"update": "2019-06-30"
 		},
@@ -6023,7 +6024,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 407,
-			"stars": 569,
+			"stars": 570,
 			"update": "2019-10-10"
 		},
 		{
@@ -6042,8 +6043,8 @@
 				"Dashboard"
 			],
 			"SourceType": "Github",
-			"Line": 1138,
-			"stars": 17,
+			"Line": 1139,
+			"stars": 19,
 			"update": "2019-10-09"
 		},
 		{
@@ -6088,7 +6089,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 1027,
-			"stars": 564,
+			"stars": 565,
 			"update": "2019-10-21"
 		},
 		{
@@ -6174,7 +6175,7 @@
 			],
 			"P": true,
 			"SourceType": "Github",
-			"Line": 1394,
+			"Line": 1395,
 			"stars": 1687,
 			"update": "2016-07-28"
 		},
@@ -6216,7 +6217,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 171,
-			"stars": 22441,
+			"stars": 22445,
 			"update": "2019-10-06"
 		},
 		{
@@ -6261,7 +6262,7 @@
 				"IDE"
 			],
 			"SourceType": "Github",
-			"Line": 1292,
+			"Line": 1293,
 			"stars": 1133,
 			"update": "2019-10-15"
 		},
@@ -6283,7 +6284,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 776,
-			"stars": 166,
+			"stars": 165,
 			"update": "2019-10-05"
 		},
 		{
@@ -6509,7 +6510,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 1080,
-			"stars": 453,
+			"stars": 452,
 			"update": "2018-08-26"
 		},
 		{
@@ -6531,7 +6532,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 385,
-			"stars": 724,
+			"stars": 723,
 			"update": "2019-10-25"
 		},
 		{
@@ -6576,8 +6577,8 @@
 			],
 			"SourceType": "Github",
 			"Line": 1029,
-			"stars": 4625,
-			"update": "2019-10-23"
+			"stars": 4624,
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 304,
@@ -6620,7 +6621,7 @@
 				"Severless"
 			],
 			"SourceType": "Github",
-			"Line": 1318,
+			"Line": 1319,
 			"stars": 2657,
 			"update": "2018-08-20"
 		},
@@ -6666,7 +6667,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 439,
-			"stars": 3755,
+			"stars": 3754,
 			"update": "2019-10-13"
 		},
 		{
@@ -6710,8 +6711,8 @@
 				"IDE"
 			],
 			"SourceType": "Github",
-			"Line": 1293,
-			"stars": 3949,
+			"Line": 1294,
+			"stars": 3950,
 			"update": "2019-09-01"
 		},
 		{
@@ -6776,8 +6777,8 @@
 			],
 			"SourceType": "Github",
 			"Line": 914,
-			"stars": 4118,
-			"update": "2019-10-25"
+			"stars": 4133,
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 313,
@@ -6862,7 +6863,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 529,
-			"stars": 3373,
+			"stars": 3374,
 			"update": "2019-10-25"
 		},
 		{
@@ -6884,7 +6885,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 1056,
-			"stars": 9135,
+			"stars": 9144,
 			"update": "2019-10-20"
 		},
 		{
@@ -6905,8 +6906,8 @@
 				"IDE"
 			],
 			"SourceType": "Github",
-			"Line": 1294,
-			"stars": 199,
+			"Line": 1295,
+			"stars": 200,
 			"update": "2019-10-15"
 		},
 		{
@@ -6992,7 +6993,7 @@
 				"Project Mgmnt"
 			],
 			"SourceType": "",
-			"Line": 1267
+			"Line": 1268
 		},
 		{
 			"ID": 323,
@@ -7034,7 +7035,7 @@
 				"Task Mgmnt"
 			],
 			"SourceType": "Github",
-			"Line": 1361,
+			"Line": 1362,
 			"stars": 4642,
 			"update": "2019-10-27"
 		},
@@ -7100,8 +7101,8 @@
 			],
 			"SourceType": "Github",
 			"Line": 530,
-			"stars": 639,
-			"update": "2019-10-26"
+			"stars": 650,
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 328,
@@ -7145,7 +7146,7 @@
 			"SourceType": "Github",
 			"Line": 987,
 			"stars": 570,
-			"update": "2019-10-26"
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 330,
@@ -7188,7 +7189,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 697,
-			"stars": 3833,
+			"stars": 3835,
 			"update": "2019-10-24"
 		},
 		{
@@ -7211,7 +7212,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 387,
-			"stars": 276,
+			"stars": 277,
 			"update": "2019-10-19"
 		},
 		{
@@ -7231,7 +7232,7 @@
 				"Project Mgmnt"
 			],
 			"SourceType": "Github",
-			"Line": 1268,
+			"Line": 1269,
 			"stars": 540,
 			"update": "2019-07-06"
 		},
@@ -7254,7 +7255,7 @@
 			"SourceType": "Github",
 			"Line": 209,
 			"stars": 762,
-			"update": "2019-10-24"
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 335,
@@ -7274,7 +7275,7 @@
 				"IDE"
 			],
 			"SourceType": "Github",
-			"Line": 1295,
+			"Line": 1296,
 			"stars": 1442,
 			"update": "2019-02-07"
 		},
@@ -7342,8 +7343,8 @@
 				"API Mgmnt"
 			],
 			"SourceType": "Github",
-			"Line": 1328,
-			"stars": 23782,
+			"Line": 1329,
+			"stars": 23789,
 			"update": "2019-10-23"
 		},
 		{
@@ -7411,7 +7412,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 1032,
-			"stars": 134,
+			"stars": 136,
 			"update": "2019-10-19"
 		},
 		{
@@ -7454,8 +7455,8 @@
 				"URL Shortener"
 			],
 			"SourceType": "Github",
-			"Line": 1410,
-			"stars": 2403,
+			"Line": 1411,
+			"stars": 2405,
 			"update": "2019-10-26"
 		},
 		{
@@ -7477,7 +7478,7 @@
 				"Events"
 			],
 			"SourceType": "Github",
-			"Line": 1181,
+			"Line": 1182,
 			"stars": 21,
 			"update": "2019-04-04"
 		},
@@ -7501,7 +7502,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 936,
-			"stars": 79,
+			"stars": 80,
 			"update": "2019-10-10"
 		},
 		{
@@ -7522,7 +7523,7 @@
 				"Project Mgmnt"
 			],
 			"SourceType": "Github",
-			"Line": 1269,
+			"Line": 1270,
 			"stars": 443,
 			"update": "2019-09-08"
 		},
@@ -7545,7 +7546,7 @@
 			"SourceType": "Gitlab",
 			"Line": 174,
 			"stars": 90,
-			"update": "2019-10-27"
+			"update": "2019-10-28"
 		},
 		{
 			"ID": 348,
@@ -7609,9 +7610,9 @@
 				"Enterprise rsrc planning"
 			],
 			"SourceType": "Github",
-			"Line": 1234,
+			"Line": 1235,
 			"stars": 149,
-			"update": "2019-10-25"
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 351,
@@ -7676,7 +7677,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 440,
-			"stars": 1733,
+			"stars": 1737,
 			"update": "2019-10-22"
 		},
 		{
@@ -7698,7 +7699,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 175,
-			"stars": 5958,
+			"stars": 5962,
 			"update": "2019-07-11"
 		},
 		{
@@ -7847,8 +7848,8 @@
 			],
 			"SourceType": "Github",
 			"Line": 796,
-			"stars": 5957,
-			"update": "2019-10-26"
+			"stars": 5960,
+			"update": "2019-10-28"
 		},
 		{
 			"ID": 362,
@@ -7868,7 +7869,7 @@
 				"Events"
 			],
 			"SourceType": "",
-			"Line": 1182
+			"Line": 1183
 		},
 		{
 			"ID": 363,
@@ -7887,7 +7888,7 @@
 				"URL Shortener"
 			],
 			"SourceType": "Github",
-			"Line": 1412,
+			"Line": 1413,
 			"stars": 100,
 			"update": "2019-05-28"
 		},
@@ -7909,7 +7910,7 @@
 			],
 			"P": true,
 			"SourceType": "Github",
-			"Line": 1411,
+			"Line": 1412,
 			"stars": 2,
 			"update": "2017-09-29"
 		},
@@ -7935,7 +7936,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 355,
-			"stars": 3047,
+			"stars": 3050,
 			"update": "2019-10-23"
 		},
 		{
@@ -8000,8 +8001,8 @@
 			],
 			"SourceType": "Github",
 			"Line": 228,
-			"stars": 2403,
-			"update": "2019-10-27"
+			"stars": 2404,
+			"update": "2019-10-28"
 		},
 		{
 			"ID": 369,
@@ -8022,9 +8023,9 @@
 				"Severless"
 			],
 			"SourceType": "Github",
-			"Line": 1319,
-			"stars": 19762,
-			"update": "2019-10-26"
+			"Line": 1320,
+			"stars": 19768,
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 370,
@@ -8046,8 +8047,8 @@
 			],
 			"SourceType": "Github",
 			"Line": 441,
-			"stars": 1875,
-			"update": "2019-10-27"
+			"stars": 1876,
+			"update": "2019-10-28"
 		},
 		{
 			"ID": 371,
@@ -8065,7 +8066,7 @@
 				"URL Shortener"
 			],
 			"SourceType": "Github",
-			"Line": 1414,
+			"Line": 1415,
 			"stars": 119,
 			"update": "2018-12-17"
 		},
@@ -8086,8 +8087,8 @@
 				"Photo and Video Gallery"
 			],
 			"SourceType": "Github",
-			"Line": 1153,
-			"stars": 848,
+			"Line": 1154,
+			"stars": 851,
 			"update": "2019-10-18"
 		},
 		{
@@ -8107,8 +8108,8 @@
 				"IDE"
 			],
 			"SourceType": "Github",
-			"Line": 1296,
-			"stars": 627,
+			"Line": 1297,
+			"stars": 631,
 			"update": "2019-10-18"
 		},
 		{
@@ -8152,7 +8153,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 568,
-			"stars": 7978,
+			"stars": 7981,
 			"update": "2019-10-26"
 		},
 		{
@@ -8264,7 +8265,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 333,
-			"stars": 4790,
+			"stars": 4791,
 			"update": "2019-10-21"
 		},
 		{
@@ -8289,7 +8290,7 @@
 			"P": true,
 			"SourceType": "Github",
 			"Line": 356,
-			"stars": 3225,
+			"stars": 3227,
 			"update": "2019-10-04"
 		},
 		{
@@ -8312,7 +8313,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 335,
-			"stars": 5465,
+			"stars": 5467,
 			"update": "2019-10-15"
 		},
 		{
@@ -8381,7 +8382,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 320,
-			"stars": 8500,
+			"stars": 8501,
 			"update": "2019-10-05"
 		},
 		{
@@ -8476,7 +8477,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 319,
-			"stars": 1473,
+			"stars": 1475,
 			"update": "2019-10-23"
 		},
 		{
@@ -8544,8 +8545,8 @@
 				"Ticketing"
 			],
 			"SourceType": "Github",
-			"Line": 1395,
-			"stars": 1162,
+			"Line": 1396,
+			"stars": 1163,
 			"update": "2019-10-24"
 		},
 		{
@@ -8613,8 +8614,8 @@
 			],
 			"SourceType": "Github",
 			"Line": 442,
-			"stars": 19255,
-			"update": "2019-10-26"
+			"stars": 19259,
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 396,
@@ -8635,7 +8636,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 120,
-			"stars": 12231,
+			"stars": 12237,
 			"update": "2019-10-26"
 		},
 		{
@@ -8678,8 +8679,8 @@
 			],
 			"SourceType": "Github",
 			"Line": 285,
-			"stars": 16602,
-			"update": "2019-10-26"
+			"stars": 16609,
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 399,
@@ -8703,7 +8704,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 360,
-			"stars": 3489,
+			"stars": 3491,
 			"update": "2019-10-08"
 		},
 		{
@@ -8725,7 +8726,7 @@
 			"SourceType": "Gitlab",
 			"Line": 604,
 			"stars": 299,
-			"update": "2019-10-26"
+			"update": "2019-10-28"
 		},
 		{
 			"ID": 401,
@@ -8744,7 +8745,7 @@
 				"Photo and Video Gallery"
 			],
 			"SourceType": "Github",
-			"Line": 1154,
+			"Line": 1155,
 			"stars": 786,
 			"update": "2018-04-11"
 		},
@@ -8765,7 +8766,7 @@
 				"Photo and Video Gallery"
 			],
 			"SourceType": "",
-			"Line": 1155
+			"Line": 1156
 		},
 		{
 			"ID": 403,
@@ -8784,7 +8785,7 @@
 				"Wiki"
 			],
 			"SourceType": "",
-			"Line": 1453
+			"Line": 1454
 		},
 		{
 			"ID": 404,
@@ -8825,7 +8826,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 1059,
-			"stars": 189,
+			"stars": 188,
 			"update": "2019-10-05"
 		},
 		{
@@ -8846,7 +8847,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 129,
-			"stars": 17373,
+			"stars": 17382,
 			"update": "2019-10-23"
 		},
 		{
@@ -8979,7 +8980,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 797,
-			"stars": 4501,
+			"stars": 4502,
 			"update": "2019-10-25"
 		},
 		{
@@ -9041,7 +9042,7 @@
 				"Photo and Video Gallery"
 			],
 			"SourceType": "Github",
-			"Line": 1156,
+			"Line": 1157,
 			"stars": 136,
 			"update": "2016-06-24"
 		},
@@ -9064,8 +9065,8 @@
 			],
 			"SourceType": "Github",
 			"Line": 728,
-			"stars": 18625,
-			"update": "2019-10-25"
+			"stars": 18638,
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 417,
@@ -9106,8 +9107,8 @@
 				"Pastebin"
 			],
 			"SourceType": "Github",
-			"Line": 1111,
-			"stars": 235,
+			"Line": 1112,
+			"stars": 234,
 			"update": "2018-07-28"
 		},
 		{
@@ -9130,7 +9131,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 321,
-			"stars": 1379,
+			"stars": 1378,
 			"update": "2019-07-09"
 		},
 		{
@@ -9150,7 +9151,7 @@
 				"Wiki"
 			],
 			"SourceType": "",
-			"Line": 1454
+			"Line": 1455
 		},
 		{
 			"ID": 421,
@@ -9194,8 +9195,8 @@
 			],
 			"SourceType": "Github",
 			"Line": 990,
-			"stars": 7909,
-			"update": "2019-10-26"
+			"stars": 7917,
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 423,
@@ -9351,7 +9352,7 @@
 			"SourceType": "Github",
 			"Line": 443,
 			"stars": 894,
-			"update": "2019-10-26"
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 430,
@@ -9374,8 +9375,8 @@
 			],
 			"SourceType": "Github",
 			"Line": 288,
-			"stars": 2754,
-			"update": "2019-10-27"
+			"stars": 2753,
+			"update": "2019-10-28"
 		},
 		{
 			"ID": 431,
@@ -9462,7 +9463,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 859,
-			"stars": 2252,
+			"stars": 2251,
 			"update": "2019-10-01"
 		},
 		{
@@ -9569,9 +9570,7 @@
 				"Feed Reader"
 			],
 			"SourceType": "Gitlab",
-			"Line": 657,
-			"stars": 5,
-			"update": "2019-10-18"
+			"Line": 657
 		},
 		{
 			"ID": 440,
@@ -9594,8 +9593,8 @@
 			],
 			"SourceType": "Github",
 			"Line": 698,
-			"stars": 8721,
-			"update": "2019-10-27"
+			"stars": 8735,
+			"update": "2019-10-28"
 		},
 		{
 			"ID": 441,
@@ -9613,7 +9612,7 @@
 				"URL Shortener"
 			],
 			"SourceType": "Github",
-			"Line": 1415,
+			"Line": 1416,
 			"stars": 199,
 			"update": "2017-04-18"
 		},
@@ -9680,8 +9679,8 @@
 			],
 			"SourceType": "Github",
 			"Line": 446,
-			"stars": 10511,
-			"update": "2019-10-26"
+			"stars": 10513,
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 445,
@@ -9721,8 +9720,8 @@
 			],
 			"SourceType": "Github",
 			"Line": 179,
-			"stars": 8671,
-			"update": "2019-10-25"
+			"stars": 8674,
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 447,
@@ -9765,7 +9764,7 @@
 			"SourceType": "Gitlab",
 			"Line": 533,
 			"stars": 51,
-			"update": "2019-10-17"
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 449,
@@ -9783,7 +9782,7 @@
 				"Pastebin"
 			],
 			"SourceType": "Github",
-			"Line": 1113,
+			"Line": 1114,
 			"stars": 253,
 			"update": "2018-02-16"
 		},
@@ -9827,7 +9826,7 @@
 				"Events"
 			],
 			"SourceType": "",
-			"Line": 1183
+			"Line": 1184
 		},
 		{
 			"ID": 452,
@@ -9846,7 +9845,7 @@
 				"Read it Later Lists"
 			],
 			"SourceType": "Github",
-			"Line": 1220,
+			"Line": 1221,
 			"stars": 65,
 			"update": "2018-10-01"
 		},
@@ -9933,7 +9932,7 @@
 			"T": [],
 			"SourceType": "Github",
 			"Line": 814,
-			"stars": 5049,
+			"stars": 5050,
 			"update": "2019-08-27"
 		},
 		{
@@ -9953,8 +9952,8 @@
 				"Ticketing"
 			],
 			"SourceType": "Github",
-			"Line": 1398,
-			"stars": 624,
+			"Line": 1399,
+			"stars": 626,
 			"update": "2019-10-25"
 		},
 		{
@@ -9999,8 +9998,8 @@
 			],
 			"P": true,
 			"SourceType": "Github",
-			"Line": 1270,
-			"stars": 3823,
+			"Line": 1271,
+			"stars": 3824,
 			"update": "2019-10-26"
 		},
 		{
@@ -10042,8 +10041,8 @@
 				"Enterprise rsrc planning"
 			],
 			"SourceType": "Github",
-			"Line": 1235,
-			"stars": 15529,
+			"Line": 1236,
+			"stars": 15535,
 			"update": "2019-10-26"
 		},
 		{
@@ -10063,7 +10062,7 @@
 				"Wiki"
 			],
 			"SourceType": "Github",
-			"Line": 1455,
+			"Line": 1456,
 			"stars": 241,
 			"update": "2017-02-05"
 		},
@@ -10087,7 +10086,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 994,
-			"stars": 1724,
+			"stars": 1725,
 			"update": "2019-10-16"
 		},
 		{
@@ -10109,7 +10108,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 535,
-			"stars": 291,
+			"stars": 292,
 			"update": "2019-09-05"
 		},
 		{
@@ -10131,7 +10130,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 747,
-			"stars": 3533,
+			"stars": 3538,
 			"update": "2019-10-22"
 		},
 		{
@@ -10196,7 +10195,7 @@
 			"SourceType": "Github",
 			"Line": 571,
 			"stars": 5106,
-			"update": "2019-10-23"
+			"update": "2019-10-28"
 		},
 		{
 			"ID": 469,
@@ -10302,8 +10301,8 @@
 				"Events"
 			],
 			"SourceType": "Github",
-			"Line": 1184,
-			"stars": 1941,
+			"Line": 1185,
+			"stars": 1943,
 			"update": "2019-10-23"
 		},
 		{
@@ -10325,9 +10324,9 @@
 				"Severless"
 			],
 			"SourceType": "Github",
-			"Line": 1320,
-			"stars": 15927,
-			"update": "2019-10-25"
+			"Line": 1321,
+			"stars": 15934,
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 475,
@@ -10389,8 +10388,8 @@
 				"Self-hosting Solution"
 			],
 			"SourceType": "Github",
-			"Line": 1483,
-			"stars": 1081,
+			"Line": 1484,
+			"stars": 1082,
 			"update": "2019-10-25"
 		},
 		{
@@ -10457,9 +10456,9 @@
 				"Project Mgmnt"
 			],
 			"SourceType": "Github",
-			"Line": 1271,
+			"Line": 1272,
 			"stars": 3302,
-			"update": "2019-10-26"
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 481,
@@ -10546,7 +10545,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 889,
-			"stars": 3369,
+			"stars": 3371,
 			"update": "2019-10-02"
 		},
 		{
@@ -10569,8 +10568,8 @@
 			],
 			"SourceType": "Gitlab",
 			"Line": 958,
-			"stars": 100,
-			"update": "2019-10-27"
+			"stars": 105,
+			"update": "2019-10-28"
 		},
 		{
 			"ID": 486,
@@ -10594,8 +10593,8 @@
 			],
 			"SourceType": "Github",
 			"Line": 892,
-			"stars": 1016,
-			"update": "2019-10-24"
+			"stars": 1017,
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 487,
@@ -10615,7 +10614,7 @@
 				"Ticketing"
 			],
 			"SourceType": "Github",
-			"Line": 1396,
+			"Line": 1397,
 			"stars": 381,
 			"update": "2019-10-21"
 		},
@@ -10685,7 +10684,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 873,
-			"stars": 57,
+			"stars": 58,
 			"update": "2019-10-15"
 		},
 		{
@@ -10708,7 +10707,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 479,
-			"stars": 1997,
+			"stars": 1998,
 			"update": "2019-10-27"
 		},
 		{
@@ -10811,7 +10810,7 @@
 				"Proxy"
 			],
 			"SourceType": "Github",
-			"Line": 1202,
+			"Line": 1203,
 			"stars": 25,
 			"update": "2016-01-25"
 		},
@@ -10831,7 +10830,7 @@
 				"Dashboard"
 			],
 			"SourceType": "Github",
-			"Line": 1140,
+			"Line": 1141,
 			"stars": 2235,
 			"update": "2019-10-18"
 		},
@@ -10895,9 +10894,9 @@
 			],
 			"P": true,
 			"SourceType": "Github",
-			"Line": 1456,
-			"stars": 6052,
-			"update": "2019-10-27"
+			"Line": 1457,
+			"stars": 6059,
+			"update": "2019-10-28"
 		},
 		{
 			"ID": 501,
@@ -10915,8 +10914,8 @@
 				"Photo and Video Gallery"
 			],
 			"SourceType": "Github",
-			"Line": 1157,
-			"stars": 1273,
+			"Line": 1158,
+			"stars": 1274,
 			"update": "2019-03-29"
 		},
 		{
@@ -10981,7 +10980,7 @@
 				"Events"
 			],
 			"SourceType": "Github",
-			"Line": 1185,
+			"Line": 1186,
 			"stars": 313,
 			"update": "2019-05-08"
 		},
@@ -11002,7 +11001,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 1082,
-			"stars": 11084,
+			"stars": 11087,
 			"update": "2019-01-02"
 		},
 		{
@@ -11023,8 +11022,8 @@
 				"Proxy"
 			],
 			"SourceType": "Github",
-			"Line": 1203,
-			"stars": 393,
+			"Line": 1204,
+			"stars": 394,
 			"update": "2019-09-02"
 		},
 		{
@@ -11044,7 +11043,7 @@
 				"Task Mgmnt"
 			],
 			"SourceType": "Github",
-			"Line": 1363,
+			"Line": 1364,
 			"stars": 10,
 			"update": "2016-05-10"
 		},
@@ -11088,7 +11087,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 536,
-			"stars": 5214,
+			"stars": 5216,
 			"update": "2019-07-11"
 		},
 		{
@@ -11108,7 +11107,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 605,
-			"stars": 6036,
+			"stars": 6037,
 			"update": "2019-10-06"
 		},
 		{
@@ -11130,7 +11129,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 1063,
-			"stars": 7238,
+			"stars": 7235,
 			"update": "2019-06-15"
 		},
 		{
@@ -11151,7 +11150,7 @@
 				"API Mgmnt"
 			],
 			"SourceType": "Github",
-			"Line": 1329,
+			"Line": 1330,
 			"stars": 307,
 			"update": "2019-10-16"
 		},
@@ -11218,7 +11217,7 @@
 				"Password Manager"
 			],
 			"SourceType": "Gitlab",
-			"Line": 1092
+			"Line": 1093
 		},
 		{
 			"ID": 516,
@@ -11237,8 +11236,8 @@
 				"Password Manager"
 			],
 			"SourceType": "Github",
-			"Line": 1091,
-			"stars": 1199,
+			"Line": 1092,
+			"stars": 1200,
 			"update": "2019-08-08"
 		},
 		{
@@ -11258,7 +11257,7 @@
 				"Pastebin"
 			],
 			"SourceType": "Github",
-			"Line": 1114,
+			"Line": 1115,
 			"stars": 126,
 			"update": "2018-12-02"
 		},
@@ -11278,7 +11277,7 @@
 				"Pastebin"
 			],
 			"SourceType": "Github",
-			"Line": 1116,
+			"Line": 1117,
 			"stars": 89,
 			"update": "2017-04-18"
 		},
@@ -11301,7 +11300,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 450,
-			"stars": 2795,
+			"stars": 2797,
 			"update": "2019-10-24"
 		},
 		{
@@ -11324,7 +11323,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 959,
-			"stars": 6109,
+			"stars": 6113,
 			"update": "2019-10-25"
 		},
 		{
@@ -11344,7 +11343,7 @@
 				"Wiki"
 			],
 			"SourceType": "Github",
-			"Line": 1457,
+			"Line": 1458,
 			"stars": 49,
 			"update": "2019-10-26"
 		},
@@ -11367,8 +11366,8 @@
 				"Project Mgmnt"
 			],
 			"SourceType": "Github",
-			"Line": 1272,
-			"stars": 11062,
+			"Line": 1273,
+			"stars": 11065,
 			"update": "2019-10-26"
 		},
 		{
@@ -11387,8 +11386,8 @@
 				"Photo and Video Gallery"
 			],
 			"SourceType": "Github",
-			"Line": 1158,
-			"stars": 105,
+			"Line": 1159,
+			"stars": 104,
 			"update": "2018-09-29"
 		},
 		{
@@ -11407,7 +11406,7 @@
 				"Photo and Video Gallery"
 			],
 			"SourceType": "Github",
-			"Line": 1160,
+			"Line": 1161,
 			"stars": 26,
 			"update": "2013-06-17"
 		},
@@ -11428,8 +11427,8 @@
 				"Photo and Video Gallery"
 			],
 			"SourceType": "Github",
-			"Line": 1162,
-			"stars": 4120,
+			"Line": 1163,
+			"stars": 4123,
 			"update": "2019-10-24"
 		},
 		{
@@ -11449,7 +11448,7 @@
 				"Photo and Video Gallery"
 			],
 			"SourceType": "",
-			"Line": 1159
+			"Line": 1160
 		},
 		{
 			"ID": 527,
@@ -11469,7 +11468,7 @@
 				"Photo and Video Gallery"
 			],
 			"SourceType": "Github",
-			"Line": 1161,
+			"Line": 1162,
 			"stars": 262,
 			"update": "2019-10-16"
 		},
@@ -11490,8 +11489,8 @@
 				"Photo and Video Gallery"
 			],
 			"SourceType": "Github",
-			"Line": 1163,
-			"stars": 475,
+			"Line": 1164,
+			"stars": 474,
 			"update": "2018-08-13"
 		},
 		{
@@ -11513,7 +11512,7 @@
 				"Project Mgmnt"
 			],
 			"SourceType": "Github",
-			"Line": 1273,
+			"Line": 1274,
 			"stars": 279,
 			"update": "2019-09-19"
 		},
@@ -11558,7 +11557,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 748,
-			"stars": 441,
+			"stars": 443,
 			"update": "2019-08-21"
 		},
 		{
@@ -11621,7 +11620,7 @@
 				"Wiki"
 			],
 			"SourceType": "Github",
-			"Line": 1458,
+			"Line": 1459,
 			"stars": 14,
 			"update": "2019-04-11"
 		},
@@ -11644,7 +11643,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 230,
-			"stars": 1427,
+			"stars": 1426,
 			"update": "2019-07-22"
 		},
 		{
@@ -11664,7 +11663,7 @@
 				"Self-hosting Solution"
 			],
 			"SourceType": "Github",
-			"Line": 1484,
+			"Line": 1485,
 			"stars": 153,
 			"update": "2018-02-27"
 		},
@@ -11686,8 +11685,8 @@
 				"Photo and Video Gallery"
 			],
 			"SourceType": "Github",
-			"Line": 1164,
-			"stars": 747,
+			"Line": 1165,
+			"stars": 748,
 			"update": "2019-10-15"
 		},
 		{
@@ -11711,7 +11710,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 452,
-			"stars": 1734,
+			"stars": 1738,
 			"update": "2019-10-19"
 		},
 		{
@@ -11755,7 +11754,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 749,
-			"stars": 374,
+			"stars": 376,
 			"update": "2019-04-03"
 		},
 		{
@@ -11818,7 +11817,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 211,
-			"stars": 1112,
+			"stars": 1114,
 			"update": "2019-10-24"
 		},
 		{
@@ -11838,7 +11837,7 @@
 				"Photo and Video Gallery"
 			],
 			"SourceType": "Github",
-			"Line": 1165,
+			"Line": 1166,
 			"stars": 93,
 			"update": "2019-05-02"
 		},
@@ -11858,7 +11857,7 @@
 				"Wiki"
 			],
 			"SourceType": "",
-			"Line": 1459
+			"Line": 1460
 		},
 		{
 			"ID": 546,
@@ -11901,7 +11900,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 620,
-			"stars": 3332,
+			"stars": 3331,
 			"update": "2019-10-27"
 		},
 		{
@@ -11965,8 +11964,8 @@
 				"URL Shortener"
 			],
 			"SourceType": "Github",
-			"Line": 1416,
-			"stars": 2909,
+			"Line": 1417,
+			"stars": 2908,
 			"update": "2018-05-24"
 		},
 		{
@@ -11986,7 +11985,7 @@
 				"Proxy"
 			],
 			"SourceType": "Github",
-			"Line": 1204,
+			"Line": 1205,
 			"stars": 650,
 			"update": "2019-10-20"
 		},
@@ -12030,8 +12029,8 @@
 				"Localiztion"
 			],
 			"SourceType": "Github",
-			"Line": 1344,
-			"stars": 1216,
+			"Line": 1345,
+			"stars": 1217,
 			"update": "2019-04-12"
 		},
 		{
@@ -12136,7 +12135,7 @@
 				"Proxy"
 			],
 			"SourceType": "",
-			"Line": 1205
+			"Line": 1206
 		},
 		{
 			"ID": 559,
@@ -12158,7 +12157,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 576,
-			"stars": 4068,
+			"stars": 4080,
 			"update": "2019-10-25"
 		},
 		{
@@ -12180,7 +12179,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 577,
-			"stars": 746,
+			"stars": 748,
 			"update": "2019-10-25"
 		},
 		{
@@ -12201,8 +12200,8 @@
 				"Pastebin"
 			],
 			"SourceType": "Github",
-			"Line": 1119,
-			"stars": 1794,
+			"Line": 1120,
+			"stars": 1795,
 			"update": "2019-10-26"
 		},
 		{
@@ -12221,7 +12220,7 @@
 				"Proxy"
 			],
 			"SourceType": "",
-			"Line": 1206
+			"Line": 1207
 		},
 		{
 			"ID": 563,
@@ -12263,7 +12262,7 @@
 				"Project Mgmnt"
 			],
 			"SourceType": "",
-			"Line": 1274
+			"Line": 1275
 		},
 		{
 			"ID": 565,
@@ -12285,7 +12284,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 751,
-			"stars": 455,
+			"stars": 458,
 			"update": "2018-12-26"
 		},
 		{
@@ -12371,7 +12370,7 @@
 				"Password Manager"
 			],
 			"SourceType": "Gitlab",
-			"Line": 1093
+			"Line": 1094
 		},
 		{
 			"ID": 570,
@@ -12411,7 +12410,7 @@
 				"Self-hosting Solution"
 			],
 			"SourceType": "Github",
-			"Line": 1485,
+			"Line": 1486,
 			"stars": 74,
 			"update": "2019-07-07"
 		},
@@ -12435,7 +12434,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 455,
-			"stars": 1894,
+			"stars": 1895,
 			"update": "2019-10-15"
 		},
 		{
@@ -12458,7 +12457,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 701,
-			"stars": 888,
+			"stars": 887,
 			"update": "2019-09-25"
 		},
 		{
@@ -12546,7 +12545,7 @@
 				"Photo and Video Gallery"
 			],
 			"SourceType": "Github",
-			"Line": 1166,
+			"Line": 1167,
 			"stars": 25,
 			"update": "2019-10-24"
 		},
@@ -12569,7 +12568,7 @@
 			"SourceType": "Github",
 			"Line": 543,
 			"stars": 240,
-			"update": "2019-10-18"
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 579,
@@ -12634,7 +12633,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 677,
-			"stars": 1860,
+			"stars": 1863,
 			"update": "2019-10-24"
 		},
 		{
@@ -12719,8 +12718,8 @@
 				"IDE"
 			],
 			"SourceType": "Github",
-			"Line": 1299,
-			"stars": 2957,
+			"Line": 1300,
+			"stars": 2958,
 			"update": "2019-10-25"
 		},
 		{
@@ -12741,7 +12740,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 183,
-			"stars": 3409,
+			"stars": 3410,
 			"update": "2019-10-24"
 		},
 		{
@@ -12789,7 +12788,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 374,
-			"stars": 3059,
+			"stars": 3060,
 			"update": "2019-10-16"
 		},
 		{
@@ -12832,7 +12831,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 290,
-			"stars": 201,
+			"stars": 202,
 			"update": "2018-12-03"
 		},
 		{
@@ -12851,7 +12850,7 @@
 				"Wiki"
 			],
 			"SourceType": "",
-			"Line": 1460
+			"Line": 1461
 		},
 		{
 			"ID": 592,
@@ -12959,8 +12958,8 @@
 				"Documentation Gen"
 			],
 			"SourceType": "Github",
-			"Line": 1339,
-			"stars": 5472,
+			"Line": 1340,
+			"stars": 5473,
 			"update": "2019-10-25"
 		},
 		{
@@ -13003,8 +13002,8 @@
 			],
 			"SourceType": "Github",
 			"Line": 130,
-			"stars": 14091,
-			"update": "2019-10-25"
+			"stars": 14098,
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 599,
@@ -13044,8 +13043,8 @@
 				"Proxy"
 			],
 			"SourceType": "Github",
-			"Line": 1207,
-			"stars": 3943,
+			"Line": 1208,
+			"stars": 3942,
 			"update": "2019-07-18"
 		},
 		{
@@ -13067,7 +13066,7 @@
 				"Project Mgmnt"
 			],
 			"SourceType": "",
-			"Line": 1275
+			"Line": 1276
 		},
 		{
 			"ID": 602,
@@ -13087,7 +13086,7 @@
 				"IDE"
 			],
 			"SourceType": "Github",
-			"Line": 1297,
+			"Line": 1298,
 			"stars": 6120,
 			"update": "2019-10-16"
 		},
@@ -13128,7 +13127,7 @@
 				"IDE"
 			],
 			"SourceType": "Github",
-			"Line": 1298,
+			"Line": 1299,
 			"stars": 1776,
 			"update": "2018-04-09"
 		},
@@ -13149,7 +13148,7 @@
 				"Ticketing"
 			],
 			"SourceType": "Github",
-			"Line": 1399,
+			"Line": 1400,
 			"stars": 475,
 			"update": "2019-10-23"
 		},
@@ -13217,8 +13216,8 @@
 				"Task Mgmnt"
 			],
 			"SourceType": "Github",
-			"Line": 1364,
-			"stars": 1354,
+			"Line": 1365,
+			"stars": 1355,
 			"update": "2019-10-25"
 		},
 		{
@@ -13239,7 +13238,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 291,
-			"stars": 972,
+			"stars": 975,
 			"update": "2019-10-26"
 		},
 		{
@@ -13283,7 +13282,7 @@
 				"Project Mgmnt"
 			],
 			"SourceType": "",
-			"Line": 1276
+			"Line": 1277
 		},
 		{
 			"ID": 612,
@@ -13303,7 +13302,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 298,
-			"stars": 3651,
+			"stars": 3654,
 			"update": "2019-10-24"
 		},
 		{
@@ -13367,8 +13366,8 @@
 			],
 			"SourceType": "Github",
 			"Line": 293,
-			"stars": 24398,
-			"update": "2019-10-25"
+			"stars": 24403,
+			"update": "2019-10-28"
 		},
 		{
 			"ID": 616,
@@ -13414,8 +13413,8 @@
 			],
 			"SourceType": "Github",
 			"Line": 375,
-			"stars": 3071,
-			"update": "2019-10-23"
+			"stars": 3072,
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 618,
@@ -13476,7 +13475,7 @@
 				"Project Mgmnt"
 			],
 			"SourceType": "",
-			"Line": 1277
+			"Line": 1278
 		},
 		{
 			"ID": 621,
@@ -13495,7 +13494,7 @@
 				"Ticketing"
 			],
 			"SourceType": "Github",
-			"Line": 1401,
+			"Line": 1402,
 			"stars": 519,
 			"update": "2018-12-20"
 		},
@@ -13515,7 +13514,7 @@
 				"Proxy"
 			],
 			"SourceType": "Github",
-			"Line": 1210,
+			"Line": 1211,
 			"stars": 10,
 			"update": "2019-05-13"
 		},
@@ -13538,7 +13537,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 830,
-			"stars": 830,
+			"stars": 831,
 			"update": "2019-10-25"
 		},
 		{
@@ -13649,7 +13648,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 579,
-			"stars": 5853,
+			"stars": 5855,
 			"update": "2019-10-25"
 		},
 		{
@@ -13734,9 +13733,9 @@
 				"Self-hosting Solution"
 			],
 			"SourceType": "Github",
-			"Line": 1486,
-			"stars": 5201,
-			"update": "2019-09-28"
+			"Line": 1487,
+			"stars": 5203,
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 633,
@@ -13848,8 +13847,8 @@
 			],
 			"SourceType": "Github",
 			"Line": 703,
-			"stars": 7189,
-			"update": "2019-10-24"
+			"stars": 7190,
+			"update": "2019-10-28"
 		},
 		{
 			"ID": 638,
@@ -13869,8 +13868,8 @@
 				"Search Engine"
 			],
 			"SourceType": "Github",
-			"Line": 1244,
-			"stars": 5319,
+			"Line": 1245,
+			"stars": 5328,
 			"update": "2019-10-24"
 		},
 		{
@@ -13890,9 +13889,9 @@
 				"Software Dev"
 			],
 			"SourceType": "Github",
-			"Line": 1310,
-			"stars": 1341,
-			"update": "2019-10-26"
+			"Line": 1311,
+			"stars": 1344,
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 640,
@@ -13913,7 +13912,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 661,
-			"stars": 1773,
+			"stars": 1774,
 			"update": "2019-10-23"
 		},
 		{
@@ -13977,8 +13976,8 @@
 				"Ticketing"
 			],
 			"SourceType": "Github",
-			"Line": 1400,
-			"stars": 22502,
+			"Line": 1401,
+			"stars": 22513,
 			"update": "2019-10-25"
 		},
 		{
@@ -14000,7 +13999,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 123,
-			"stars": 486,
+			"stars": 487,
 			"update": "2019-04-03"
 		},
 		{
@@ -14022,8 +14021,8 @@
 			],
 			"SourceType": "Github",
 			"Line": 231,
-			"stars": 1606,
-			"update": "2019-10-02"
+			"stars": 1608,
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 646,
@@ -14044,7 +14043,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 1065,
-			"stars": 5831,
+			"stars": 5835,
 			"update": "2019-10-23"
 		},
 		{
@@ -14067,7 +14066,7 @@
 			"SourceType": "Github",
 			"Line": 580,
 			"stars": 1828,
-			"update": "2019-10-25"
+			"update": "2019-10-28"
 		},
 		{
 			"ID": 648,
@@ -14085,7 +14084,7 @@
 				"Pastebin"
 			],
 			"SourceType": "Github",
-			"Line": 1120,
+			"Line": 1121,
 			"stars": 26,
 			"update": "2019-05-04"
 		},
@@ -14133,7 +14132,7 @@
 			"SourceType": "Gitlab",
 			"Line": 962,
 			"stars": 55,
-			"update": "2019-10-26"
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 651,
@@ -14153,7 +14152,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 232,
-			"stars": 3422,
+			"stars": 3425,
 			"update": "2019-10-23"
 		},
 		{
@@ -14176,7 +14175,7 @@
 				"URL Shortener"
 			],
 			"SourceType": "Github",
-			"Line": 1419,
+			"Line": 1420,
 			"stars": 253,
 			"update": "2019-10-25"
 		},
@@ -14243,7 +14242,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 184,
-			"stars": 1508,
+			"stars": 1509,
 			"update": "2019-09-30"
 		},
 		{
@@ -14354,7 +14353,7 @@
 				"URL Shortener"
 			],
 			"SourceType": "Github",
-			"Line": 1422,
+			"Line": 1423,
 			"stars": 11,
 			"update": "2019-07-30"
 		},
@@ -14445,7 +14444,7 @@
 				"Pastebin"
 			],
 			"SourceType": "Github",
-			"Line": 1121,
+			"Line": 1122,
 			"stars": 1055,
 			"update": "2019-07-16"
 		},
@@ -14468,7 +14467,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 124,
-			"stars": 4961,
+			"stars": 4963,
 			"update": "2019-09-13"
 		},
 		{
@@ -14536,7 +14535,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 214,
-			"stars": 12386,
+			"stars": 12421,
 			"update": "2019-10-24"
 		},
 		{
@@ -14581,7 +14580,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 947,
-			"stars": 715,
+			"stars": 714,
 			"update": "2019-09-29"
 		},
 		{
@@ -14625,7 +14624,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 704,
-			"stars": 4322,
+			"stars": 4320,
 			"update": "2019-05-25"
 		},
 		{
@@ -14732,7 +14731,7 @@
 				"Proxy"
 			],
 			"SourceType": "",
-			"Line": 1211
+			"Line": 1212
 		},
 		{
 			"ID": 678,
@@ -14754,7 +14753,7 @@
 			"SourceType": "Github",
 			"Line": 548,
 			"stars": 811,
-			"update": "2019-10-26"
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 679,
@@ -14797,7 +14796,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 1066,
-			"stars": 1547,
+			"stars": 1553,
 			"update": "2019-10-25"
 		},
 		{
@@ -14817,8 +14816,8 @@
 				"Pastebin"
 			],
 			"SourceType": "Github",
-			"Line": 1123,
-			"stars": 770,
+			"Line": 1124,
+			"stars": 771,
 			"update": "2018-11-22"
 		},
 		{
@@ -14858,7 +14857,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 549,
-			"stars": 18733,
+			"stars": 18755,
 			"update": "2019-10-26"
 		},
 		{
@@ -14881,7 +14880,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 963,
-			"stars": 7873,
+			"stars": 7875,
 			"update": "2019-09-17"
 		},
 		{
@@ -14968,7 +14967,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 831,
-			"stars": 1730,
+			"stars": 1731,
 			"update": "2019-08-23"
 		},
 		{
@@ -14987,7 +14986,7 @@
 				"Pastebin"
 			],
 			"SourceType": "Github",
-			"Line": 1124,
+			"Line": 1125,
 			"stars": 238,
 			"update": "2018-03-28"
 		},
@@ -15009,7 +15008,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 131,
-			"stars": 26626,
+			"stars": 26640,
 			"update": "2019-10-26"
 		},
 		{
@@ -15050,7 +15049,7 @@
 				"Proxy"
 			],
 			"SourceType": "Github",
-			"Line": 1212,
+			"Line": 1213,
 			"stars": 283,
 			"update": "2016-10-26"
 		},
@@ -15074,7 +15073,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 583,
-			"stars": 5466,
+			"stars": 5468,
 			"update": "2019-10-25"
 		},
 		{
@@ -15119,7 +15118,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 460,
-			"stars": 12888,
+			"stars": 12900,
 			"update": "2019-10-15"
 		},
 		{
@@ -15140,7 +15139,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 296,
-			"stars": 4792,
+			"stars": 4795,
 			"update": "2019-10-18"
 		},
 		{
@@ -15180,7 +15179,7 @@
 				"Self-hosting Solution"
 			],
 			"SourceType": "Github",
-			"Line": 1488,
+			"Line": 1489,
 			"stars": 155,
 			"update": "2019-10-10"
 		},
@@ -15204,7 +15203,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 706,
-			"stars": 28331,
+			"stars": 28363,
 			"update": "2019-10-25"
 		},
 		{
@@ -15243,7 +15242,7 @@
 				"Wiki"
 			],
 			"SourceType": "",
-			"Line": 1463
+			"Line": 1464
 		},
 		{
 			"ID": 702,
@@ -15287,7 +15286,7 @@
 			"SourceType": "Github",
 			"Line": 781,
 			"stars": 1820,
-			"update": "2019-10-25"
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 704,
@@ -15328,8 +15327,8 @@
 				"Project Mgmnt"
 			],
 			"SourceType": "Github",
-			"Line": 1278,
-			"stars": 4980,
+			"Line": 1279,
+			"stars": 4982,
 			"update": "2019-09-30"
 		},
 		{
@@ -15372,7 +15371,7 @@
 				"Resource Planning"
 			],
 			"SourceType": "Github",
-			"Line": 1229,
+			"Line": 1230,
 			"stars": 240,
 			"update": "2019-10-03"
 		},
@@ -15418,8 +15417,8 @@
 				"Task Mgmnt"
 			],
 			"SourceType": "Github",
-			"Line": 1366,
-			"stars": 1040,
+			"Line": 1367,
+			"stars": 1039,
 			"update": "2019-05-28"
 		},
 		{
@@ -15439,7 +15438,7 @@
 				"Task Mgmnt"
 			],
 			"SourceType": "",
-			"Line": 1367
+			"Line": 1368
 		},
 		{
 			"ID": 711,
@@ -15458,7 +15457,7 @@
 				"Task Mgmnt"
 			],
 			"SourceType": "Github",
-			"Line": 1368,
+			"Line": 1369,
 			"stars": 80,
 			"update": "2019-05-28"
 		},
@@ -15479,7 +15478,7 @@
 				"Task Mgmnt"
 			],
 			"SourceType": "Github",
-			"Line": 1369,
+			"Line": 1370,
 			"stars": 437,
 			"update": "2019-04-17"
 		},
@@ -15501,7 +15500,7 @@
 				"Task Mgmnt"
 			],
 			"SourceType": "",
-			"Line": 1371
+			"Line": 1372
 		},
 		{
 			"ID": 714,
@@ -15520,7 +15519,7 @@
 				"Password Manager"
 			],
 			"SourceType": "Github",
-			"Line": 1095,
+			"Line": 1096,
 			"stars": 1209,
 			"update": "2019-05-30"
 		},
@@ -15543,7 +15542,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 606,
-			"stars": 314,
+			"stars": 315,
 			"update": "2019-10-12"
 		},
 		{
@@ -15565,7 +15564,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 803,
-			"stars": 1294,
+			"stars": 1295,
 			"update": "2019-10-26"
 		},
 		{
@@ -15649,7 +15648,7 @@
 				"Ticketing"
 			],
 			"SourceType": "Github",
-			"Line": 1402,
+			"Line": 1403,
 			"stars": 447,
 			"update": "2019-06-17"
 		},
@@ -15719,7 +15718,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 851,
-			"stars": 4436,
+			"stars": 4441,
 			"update": "2019-10-23"
 		},
 		{
@@ -15786,8 +15785,8 @@
 				"Wiki"
 			],
 			"SourceType": "Github",
-			"Line": 1461,
-			"stars": 4299,
+			"Line": 1462,
+			"stars": 4300,
 			"update": "2019-10-24"
 		},
 		{
@@ -15828,7 +15827,7 @@
 				"Wiki"
 			],
 			"SourceType": "",
-			"Line": 1462
+			"Line": 1463
 		},
 		{
 			"ID": 729,
@@ -15849,7 +15848,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 896,
-			"stars": 856,
+			"stars": 857,
 			"update": "2019-10-02"
 		},
 		{
@@ -15955,7 +15954,7 @@
 				"Task Mgmnt"
 			],
 			"SourceType": "Github",
-			"Line": 1372,
+			"Line": 1373,
 			"stars": 48,
 			"update": "2016-08-19"
 		},
@@ -15976,8 +15975,8 @@
 				"Proxy"
 			],
 			"SourceType": "Github",
-			"Line": 1213,
-			"stars": 1810,
+			"Line": 1214,
+			"stars": 1811,
 			"update": "2019-08-20"
 		},
 		{
@@ -15997,8 +15996,8 @@
 				"Dashboard"
 			],
 			"SourceType": "Github",
-			"Line": 1142,
-			"stars": 914,
+			"Line": 1143,
+			"stars": 913,
 			"update": "2019-07-22"
 		},
 		{
@@ -16063,7 +16062,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 301,
-			"stars": 8582,
+			"stars": 8581,
 			"update": "2018-10-03"
 		},
 		{
@@ -16083,7 +16082,7 @@
 				"Project Mgmnt"
 			],
 			"SourceType": "",
-			"Line": 1279
+			"Line": 1280
 		},
 		{
 			"ID": 741,
@@ -16105,7 +16104,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 898,
-			"stars": 2109,
+			"stars": 2112,
 			"update": "2019-10-27"
 		},
 		{
@@ -16126,7 +16125,7 @@
 				"Task Mgmnt"
 			],
 			"SourceType": "Github",
-			"Line": 1375,
+			"Line": 1376,
 			"stars": 919,
 			"update": "2019-10-24"
 		},
@@ -16147,8 +16146,8 @@
 				"Proxy"
 			],
 			"SourceType": "Github",
-			"Line": 1214,
-			"stars": 25509,
+			"Line": 1215,
+			"stars": 25521,
 			"update": "2019-10-16"
 		},
 		{
@@ -16170,7 +16169,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 724,
-			"stars": 3327,
+			"stars": 3332,
 			"update": "2019-10-21"
 		},
 		{
@@ -16235,8 +16234,8 @@
 			],
 			"SourceType": "Github",
 			"Line": 1068,
-			"stars": 5767,
-			"update": "2019-10-26"
+			"stars": 5770,
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 748,
@@ -16257,7 +16256,7 @@
 				"Enterprise rsrc planning"
 			],
 			"SourceType": "",
-			"Line": 1236
+			"Line": 1237
 		},
 		{
 			"ID": 749,
@@ -16298,7 +16297,7 @@
 				"Project Mgmnt"
 			],
 			"SourceType": "",
-			"Line": 1280
+			"Line": 1281
 		},
 		{
 			"ID": 751,
@@ -16319,7 +16318,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 1069,
-			"stars": 510,
+			"stars": 509,
 			"update": "2019-04-15"
 		},
 		{
@@ -16340,8 +16339,8 @@
 				"API Mgmnt"
 			],
 			"SourceType": "Github",
-			"Line": 1330,
-			"stars": 4906,
+			"Line": 1331,
+			"stars": 4907,
 			"update": "2019-10-25"
 		},
 		{
@@ -16360,7 +16359,7 @@
 				"Self-hosting Solution"
 			],
 			"SourceType": "",
-			"Line": 1489
+			"Line": 1490
 		},
 		{
 			"ID": 754,
@@ -16379,7 +16378,7 @@
 				"URL Shortener"
 			],
 			"SourceType": "Github",
-			"Line": 1424,
+			"Line": 1425,
 			"stars": 2,
 			"update": "2019-07-09"
 		},
@@ -16402,7 +16401,7 @@
 				"Project Mgmnt"
 			],
 			"SourceType": "Github",
-			"Line": 1281,
+			"Line": 1282,
 			"stars": 118,
 			"update": "2019-10-23"
 		},
@@ -16423,7 +16422,7 @@
 				"Photo and Video Gallery"
 			],
 			"SourceType": "Github",
-			"Line": 1168,
+			"Line": 1169,
 			"stars": 170,
 			"update": "2019-10-15"
 		},
@@ -16466,7 +16465,7 @@
 				"Software Dev"
 			],
 			"SourceType": "Github",
-			"Line": 1309,
+			"Line": 1310,
 			"stars": 23,
 			"update": "2019-07-28"
 		},
@@ -16511,8 +16510,8 @@
 			],
 			"SourceType": "Github",
 			"Line": 553,
-			"stars": 2753,
-			"update": "2019-10-25"
+			"stars": 2754,
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 761,
@@ -16553,7 +16552,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 755,
-			"stars": 608,
+			"stars": 607,
 			"update": "2017-08-05"
 		},
 		{
@@ -16576,7 +16575,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 465,
-			"stars": 2042,
+			"stars": 2041,
 			"update": "2019-10-25"
 		},
 		{
@@ -16622,8 +16621,8 @@
 			],
 			"SourceType": "Github",
 			"Line": 964,
-			"stars": 5393,
-			"update": "2019-10-27"
+			"stars": 5397,
+			"update": "2019-10-28"
 		},
 		{
 			"ID": 766,
@@ -16643,7 +16642,7 @@
 				"Photo and Video Gallery"
 			],
 			"SourceType": "",
-			"Line": 1169
+			"Line": 1170
 		},
 		{
 			"ID": 767,
@@ -16662,7 +16661,7 @@
 				"Task Mgmnt"
 			],
 			"SourceType": "Github",
-			"Line": 1376,
+			"Line": 1377,
 			"stars": 86,
 			"update": "2019-06-11"
 		},
@@ -16707,7 +16706,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 554,
-			"stars": 8012,
+			"stars": 8013,
 			"update": "2019-10-23"
 		},
 		{
@@ -16728,8 +16727,8 @@
 				"Read it Later Lists"
 			],
 			"SourceType": "Github",
-			"Line": 1221,
-			"stars": 4440,
+			"Line": 1222,
+			"stars": 4442,
 			"update": "2019-10-23"
 		},
 		{
@@ -16818,7 +16817,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 1083,
-			"stars": 660,
+			"stars": 661,
 			"update": "2019-02-08"
 		},
 		{
@@ -16839,7 +16838,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 187,
-			"stars": 6924,
+			"stars": 6929,
 			"update": "2018-12-09"
 		},
 		{
@@ -16882,9 +16881,9 @@
 				"Localiztion"
 			],
 			"SourceType": "Github",
-			"Line": 1345,
-			"stars": 1570,
-			"update": "2019-10-26"
+			"Line": 1346,
+			"stars": 1573,
+			"update": "2019-10-28"
 		},
 		{
 			"ID": 778,
@@ -16924,8 +16923,8 @@
 				"Task Mgmnt"
 			],
 			"SourceType": "Github",
-			"Line": 1377,
-			"stars": 15058,
+			"Line": 1378,
+			"stars": 15062,
 			"update": "2019-10-09"
 		},
 		{
@@ -16945,7 +16944,7 @@
 				"Wiki"
 			],
 			"SourceType": "",
-			"Line": 1466
+			"Line": 1467
 		},
 		{
 			"ID": 781,
@@ -16965,8 +16964,8 @@
 				"IDE"
 			],
 			"SourceType": "Github",
-			"Line": 1301,
-			"stars": 3996,
+			"Line": 1302,
+			"stars": 4003,
 			"update": "2019-10-07"
 		},
 		{
@@ -16986,7 +16985,7 @@
 				"Self-hosting Solution"
 			],
 			"SourceType": "",
-			"Line": 1490
+			"Line": 1491
 		},
 		{
 			"ID": 783,
@@ -17005,7 +17004,7 @@
 				"Wiki"
 			],
 			"SourceType": "",
-			"Line": 1465
+			"Line": 1466
 		},
 		{
 			"ID": 784,
@@ -17028,7 +17027,7 @@
 			"P": true,
 			"SourceType": "Github",
 			"Line": 669,
-			"stars": 7066,
+			"stars": 7068,
 			"update": "2019-09-17"
 		},
 		{
@@ -17072,8 +17071,8 @@
 			],
 			"SourceType": "Github",
 			"Line": 585,
-			"stars": 5595,
-			"update": "2019-10-25"
+			"stars": 5597,
+			"update": "2019-10-27"
 		},
 		{
 			"ID": 787,
@@ -17093,8 +17092,8 @@
 			],
 			"SourceType": "Github",
 			"Line": 556,
-			"stars": 13011,
-			"update": "2019-10-26"
+			"stars": 13013,
+			"update": "2019-10-28"
 		},
 		{
 			"ID": 788,
@@ -17115,7 +17114,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 757,
-			"stars": 117,
+			"stars": 119,
 			"update": "2019-10-23"
 		},
 		{
@@ -17136,7 +17135,7 @@
 				"Wiki"
 			],
 			"SourceType": "Github",
-			"Line": 1467,
+			"Line": 1468,
 			"stars": 478,
 			"update": "2019-10-25"
 		},
@@ -17181,8 +17180,8 @@
 				"URL Shortener"
 			],
 			"SourceType": "Github",
-			"Line": 1425,
-			"stars": 5379,
+			"Line": 1426,
+			"stars": 5382,
 			"update": "2019-10-26"
 		},
 		{
@@ -17203,8 +17202,8 @@
 				"Search Engine"
 			],
 			"SourceType": "Github",
-			"Line": 1245,
-			"stars": 1534,
+			"Line": 1246,
+			"stars": 1535,
 			"update": "2019-10-20"
 		},
 		{
@@ -17228,7 +17227,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 758,
-			"stars": 1345,
+			"stars": 1344,
 			"update": "2019-06-13"
 		},
 		{
@@ -17249,8 +17248,8 @@
 				"Self-hosting Solution"
 			],
 			"SourceType": "Github",
-			"Line": 1491,
-			"stars": 489,
+			"Line": 1492,
+			"stars": 491,
 			"update": "2019-10-26"
 		},
 		{
@@ -17313,8 +17312,8 @@
 				"Software Dev"
 			],
 			"SourceType": "Github",
-			"Line": 1311,
-			"stars": 1975,
+			"Line": 1312,
+			"stars": 1976,
 			"update": "2019-10-15"
 		},
 		{
@@ -17334,7 +17333,7 @@
 				"Ticketing"
 			],
 			"SourceType": "Github",
-			"Line": 1403,
+			"Line": 1404,
 			"stars": 1800,
 			"update": "2019-10-24"
 		},
@@ -17356,8 +17355,8 @@
 				"Localiztion"
 			],
 			"SourceType": "Github",
-			"Line": 1346,
-			"stars": 218,
+			"Line": 1347,
+			"stars": 219,
 			"update": "2018-09-04"
 		},
 		{
@@ -17419,7 +17418,7 @@
 				"Photo and Video Gallery"
 			],
 			"SourceType": "Github",
-			"Line": 1170,
+			"Line": 1171,
 			"stars": 209,
 			"update": "2019-10-25"
 		},
@@ -17442,7 +17441,7 @@
 			"P": true,
 			"SourceType": "Github",
 			"Line": 303,
-			"stars": 14763,
+			"stars": 14769,
 			"update": "2019-10-26"
 		},
 		{
@@ -17487,7 +17486,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 965,
-			"stars": 2365,
+			"stars": 2367,
 			"update": "2019-10-23"
 		},
 		{
@@ -17509,7 +17508,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 304,
-			"stars": 10562,
+			"stars": 10568,
 			"update": "2019-10-25"
 		},
 		{
@@ -17555,7 +17554,7 @@
 			],
 			"SourceType": "Github",
 			"Line": 975,
-			"stars": 960,
+			"stars": 961,
 			"update": "2019-02-11"
 		},
 		{
@@ -17575,7 +17574,7 @@
 			"T": [],
 			"SourceType": "Github",
 			"Line": 810,
-			"stars": 1506,
+			"stars": 1507,
 			"update": "2019-04-07"
 		},
 		{
@@ -17636,7 +17635,7 @@
 				"Pastebin"
 			],
 			"SourceType": "Github",
-			"Line": 1102,
+			"Line": 1103,
 			"stars": 61,
 			"update": "2019-07-02"
 		},
@@ -17657,7 +17656,7 @@
 				"Pastebin"
 			],
 			"SourceType": "Github",
-			"Line": 1103,
+			"Line": 1104,
 			"stars": 33,
 			"update": "2019-05-23"
 		},
@@ -17685,6 +17684,26 @@
 		},
 		{
 			"ID": 815,
+			"N": "bitwarden_rs",
+			"D": "Lightweight Bitwarden server API implementation written in Rust.",
+			"Sr": "https://github.com/dani-garcia/bitwarden_rs",
+			"Li": [
+				"GPL-3.0"
+			],
+			"La": [
+				"Rust"
+			],
+			"C": "Password Managers",
+			"T": [
+				"Password Manager"
+			],
+			"SourceType": "Github",
+			"Line": 1090,
+			"stars": 1938,
+			"update": "2019-10-25"
+		},
+		{
+			"ID": 816,
 			"N": "blynk",
 			"D": "Platform with iOS and Android apps to control Arduino, ESP8266, Raspberry Pi and similar microcontroller boards over the Internet.",
 			"Sr": "https://github.com/blynkkk/blynk-server",
@@ -17706,7 +17725,7 @@
 			"update": "2019-10-07"
 		},
 		{
-			"ID": 816,
+			"ID": 817,
 			"N": "calypso",
 			"D": "Python-based CalDAV and CardDAV server, forked from Radicale.",
 			"Sr": "https://keithp.com/git/calypso.git",
@@ -17728,7 +17747,7 @@
 			"Line": 249
 		},
 		{
-			"ID": 817,
+			"ID": 818,
 			"N": "cartulary",
 			"D": "RSS reader, readability tool, article archiver, microblogger, social graph manager and reading list manager.",
 			"Sr": "https://github.com/daveajones/cartulary",
@@ -17750,7 +17769,7 @@
 			"update": "2019-09-27"
 		},
 		{
-			"ID": 818,
+			"ID": 819,
 			"N": "chasquid",
 			"D": "SMTP (email) server with a focus on simplicity, security, and ease of operation.",
 			"Sr": "https://blitiri.com.ar/git/r/chasquid/",
@@ -17772,7 +17791,7 @@
 			"Line": 329
 		},
 		{
-			"ID": 819,
+			"ID": 820,
 			"N": "cloud-torrent",
 			"D": "Torrent Web Client with HTTP retrievable or streamable downloaded files.",
 			"Sr": "https://github.com/jpillora/cloud-torrent",
@@ -17789,11 +17808,11 @@
 			],
 			"SourceType": "Github",
 			"Line": 713,
-			"stars": 3840,
+			"stars": 3843,
 			"update": "2018-04-27"
 		},
 		{
-			"ID": 820,
+			"ID": 821,
 			"N": "cloudtunes",
 			"D": "Web-based music player for the cloud.",
 			"Sr": "https://github.com/jkbrzt/cloudtunes",
@@ -17816,7 +17835,7 @@
 			"update": "2017-03-11"
 		},
 		{
-			"ID": 821,
+			"ID": 822,
 			"N": "crtmpserver",
 			"D": "High performance RTMP/RTSP streaming server.",
 			"Sr": "https://packages.debian.org/stable/crtmpserver",
@@ -17836,7 +17855,7 @@
 			"Line": 953
 		},
 		{
-			"ID": 822,
+			"ID": 823,
 			"N": "cryptonote",
 			"D": "Simple open source web application that lets users encrypt and share messages that can only be read once.",
 			"Sr": "https://github.com/alainmeier/cryptonote",
@@ -17852,12 +17871,12 @@
 				"Pastebin"
 			],
 			"SourceType": "Github",
-			"Line": 1105,
+			"Line": 1106,
 			"stars": 135,
 			"update": "2019-10-23"
 		},
 		{
-			"ID": 823,
+			"ID": 824,
 			"N": "devShort",
 			"D": "A simple and privacy-friendly URL shortener for web developers, admins and all professionals.",
 			"Sr": "https://github.com/flokX/devShort",
@@ -17873,12 +17892,12 @@
 				"URL Shortener"
 			],
 			"SourceType": "Github",
-			"Line": 1409,
+			"Line": 1410,
 			"stars": 17,
 			"update": "2019-10-13"
 		},
 		{
-			"ID": 824,
+			"ID": 825,
 			"N": "diaspora*",
 			"D": "Distributed social networking server.",
 			"Sr": "https://github.com/diaspora/diaspora",
@@ -17902,7 +17921,7 @@
 			"update": "2019-10-24"
 		},
 		{
-			"ID": 825,
+			"ID": 826,
 			"N": "dillinger",
 			"D": "The last Markdown editor, ever.",
 			"Sr": "https://github.com/joemccann/dillinger",
@@ -17920,11 +17939,11 @@
 			],
 			"SourceType": "Github",
 			"Line": 1052,
-			"stars": 6491,
+			"stars": 6493,
 			"update": "2019-10-02"
 		},
 		{
-			"ID": 826,
+			"ID": 827,
 			"N": "django-todo",
 			"D": "django-todo is a pluggable, multi-user, multi-group, multi-list todo and ticketing system - a reusable app designed to be dropped into any existing Django project.",
 			"Sr": "https://github.com/shacker/django-todo",
@@ -17941,12 +17960,12 @@
 				"Ticketing"
 			],
 			"SourceType": "Github",
-			"Line": 1390,
+			"Line": 1391,
 			"stars": 463,
 			"update": "2019-09-20"
 		},
 		{
-			"ID": 827,
+			"ID": 828,
 			"N": "django-wiki",
 			"D": "Wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models.",
 			"Sr": "https://github.com/django-wiki/django-wiki",
@@ -17962,12 +17981,12 @@
 				"Wiki"
 			],
 			"SourceType": "Github",
-			"Line": 1447,
-			"stars": 1179,
-			"update": "2019-10-23"
+			"Line": 1448,
+			"stars": 1178,
+			"update": "2019-10-27"
 		},
 		{
-			"ID": 828,
+			"ID": 829,
 			"N": "docker-mailserver",
 			"D": "Fullstack but simple mail server (smtp, imap, antispam, antivirus, etc.). Only configuration files, no SQL database. Keep it simple and versioned. Easy to deploy and upgrade.",
 			"Sr": "https://github.com/tomav/docker-mailserver",
@@ -17985,11 +18004,11 @@
 			],
 			"SourceType": "Github",
 			"Line": 314,
-			"stars": 4627,
-			"update": "2019-10-23"
+			"stars": 4629,
+			"update": "2019-10-27"
 		},
 		{
-			"ID": 829,
+			"ID": 830,
 			"N": "draw.io",
 			"D": "Diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.",
 			"Sr": "https://github.com/jgraph/drawio",
@@ -18007,11 +18026,11 @@
 			],
 			"SourceType": "Github",
 			"Line": 1055,
-			"stars": 10880,
+			"stars": 10888,
 			"update": "2019-10-25"
 		},
 		{
-			"ID": 830,
+			"ID": 831,
 			"N": "droppy",
 			"D": "droppy is a self-hosted cloud server with an interface similar to desktop file managers and has capabilities to edit files on-the-fly as well as view and playback media directly in the browser.",
 			"Sr": "https://github.com/silverwind/droppy",
@@ -18030,11 +18049,11 @@
 			],
 			"SourceType": "Github",
 			"Line": 735,
-			"stars": 778,
+			"stars": 780,
 			"update": "2019-07-22"
 		},
 		{
-			"ID": 831,
+			"ID": 832,
 			"N": "dudle",
 			"D": "Online scheduling application.",
 			"Sr": "https://github.com/kellerben/dudle",
@@ -18052,12 +18071,12 @@
 				"Events"
 			],
 			"SourceType": "Github",
-			"Line": 1178,
+			"Line": 1179,
 			"stars": 185,
 			"update": "2019-08-23"
 		},
 		{
-			"ID": 832,
+			"ID": 833,
 			"N": "dyu/bookmarks",
 			"D": "Single-threaded/process bookmark app powered by leveldb and uWebSockets. Supports importing from Delicious and Chrome.",
 			"Sr": "https://github.com/dyu/bookmarks",
@@ -18079,7 +18098,7 @@
 			"update": "2019-01-20"
 		},
 		{
-			"ID": 833,
+			"ID": 834,
 			"N": "dyu/comments",
 			"D": "Real-time, markdown-enabled comment engine powered by leveldb.",
 			"Sr": "https://github.com/dyu/comments",
@@ -18102,7 +18121,7 @@
 			"update": "2019-01-20"
 		},
 		{
-			"ID": 834,
+			"ID": 835,
 			"N": "eLabFTW",
 			"D": "Online lab notebook for research labs. Store experiments, use a database to find reagents or protocols, use trusted timestamping to legally timestamp an experiment, export as pdf or zip archive, share with collaborators….",
 			"Sr": "https://github.com/elabftw/elabftw",
@@ -18124,7 +18143,7 @@
 			"update": "2019-10-20"
 		},
 		{
-			"ID": 835,
+			"ID": 836,
 			"N": "edX",
 			"D": "The Open edX platform is open-source code that powers edX.org.",
 			"Sr": "https://github.com/edx/",
@@ -18144,10 +18163,10 @@
 			"SourceType": "Github",
 			"Line": 869,
 			"stars": 4628,
-			"update": "2019-10-25"
+			"update": "2019-10-28"
 		},
 		{
-			"ID": 836,
+			"ID": 837,
 			"N": "egroupware",
 			"D": "Software suite including calendars, address books, notepad, project management tools, client relationship management tools (CRM), knowledge management tools, a wiki and a CMS.",
 			"Sr": "https://github.com/EGroupware/egroupware",
@@ -18168,7 +18187,7 @@
 			"update": "2019-10-25"
 		},
 		{
-			"ID": 837,
+			"ID": 838,
 			"N": "ejabberd",
 			"D": "XMPP instant messaging server.",
 			"Sr": "https://github.com/processone/ejabberd",
@@ -18187,11 +18206,11 @@
 			],
 			"SourceType": "Github",
 			"Line": 475,
-			"stars": 4281,
+			"stars": 4282,
 			"update": "2019-10-26"
 		},
 		{
-			"ID": 838,
+			"ID": 839,
 			"N": "elevatorsaga",
 			"D": "The elevator programming game.",
 			"Sr": "https://github.com/magwo/elevatorsaga",
@@ -18212,7 +18231,7 @@
 			"update": "2015-07-21"
 		},
 		{
-			"ID": 839,
+			"ID": 840,
 			"N": "elixire",
 			"D": "Simple yet advanced screenshot uploading and link shortening service.",
 			"Sr": "https://gitlab.com/elixire/elixire",
@@ -18238,7 +18257,7 @@
 			"update": "2019-10-24"
 		},
 		{
-			"ID": 840,
+			"ID": 841,
 			"N": "explorer",
 			"D": "Highly-configurable directory listing made with nodejs.",
 			"Sr": "https://github.com/soyuka/explorer",
@@ -18260,7 +18279,7 @@
 			"update": "2018-02-14"
 		},
 		{
-			"ID": 841,
+			"ID": 842,
 			"N": "farmOS",
 			"D": "Web-based farm record keeping application.",
 			"Sr": "https://github.com/farmOS/farmOS",
@@ -18276,12 +18295,12 @@
 				"Resource Planning"
 			],
 			"SourceType": "Github",
-			"Line": 1227,
+			"Line": 1228,
 			"stars": 242,
 			"update": "2019-10-26"
 		},
 		{
-			"ID": 842,
+			"ID": 843,
 			"N": "feed2toot",
 			"D": "Feed2toot parses a RSS feed, extracts the last entries and sends them to Mastodon.",
 			"Sr": "https://gitlab.com/chaica/feed2toot",
@@ -18302,7 +18321,7 @@
 			"update": "2019-09-15"
 		},
 		{
-			"ID": 843,
+			"ID": 844,
 			"N": "feedmixer",
 			"D": "FeedMixer is a WSGI (Python3) micro web service which takes a list of feed URLs and returns a new feed consisting of the most recent n entries from each given feed(Returns Atom, RSS, or JSON).",
 			"Sr": "https://github.com/cristoper/feedmixer",
@@ -18323,7 +18342,7 @@
 			"update": "2019-08-12"
 		},
 		{
-			"ID": 844,
+			"ID": 845,
 			"N": "fibridge",
 			"D": "Stream huge files out of your browser without having to upload.",
 			"Sr": "https://github.com/anderspitman/fibridge-proxy-rs",
@@ -18346,7 +18365,7 @@
 			"update": "2019-09-11"
 		},
 		{
-			"ID": 845,
+			"ID": 846,
 			"N": "fiche",
 			"D": "Command line pastebin, all you need is netcat.",
 			"Sr": "https://github.com/solusipse/fiche",
@@ -18362,12 +18381,12 @@
 				"Pastebin"
 			],
 			"SourceType": "Github",
-			"Line": 1107,
-			"stars": 697,
+			"Line": 1108,
+			"stars": 696,
 			"update": "2018-12-20"
 		},
 		{
-			"ID": 846,
+			"ID": 847,
 			"N": "filebrowser",
 			"D": "Web File Manager which can be used as a middleware or standalone app.",
 			"Sr": "https://github.com/filebrowser/filebrowser",
@@ -18386,11 +18405,11 @@
 			],
 			"SourceType": "Github",
 			"Line": 771,
-			"stars": 5920,
+			"stars": 5927,
 			"update": "2019-10-24"
 		},
 		{
-			"ID": 847,
+			"ID": 848,
 			"N": "flaskbb",
 			"D": "FlaskBB is forum software written in Python using the microframework Flask. You can easily create new topics, posts and send other users private messages. It also includes basic administration and moderation tools.",
 			"Sr": "https://github.com/sh4nks/flaskbb",
@@ -18413,7 +18432,7 @@
 			"update": "2019-10-25"
 		},
 		{
-			"ID": 848,
+			"ID": 849,
 			"N": "formspree",
 			"D": "Just send your form to our URL and we'll forward it to your email. No PHP, Javascript or sign up required.",
 			"Sr": "https://github.com/formspree/formspree",
@@ -18437,7 +18456,7 @@
 			"update": "2018-12-04"
 		},
 		{
-			"ID": 849,
+			"ID": 850,
 			"N": "frab",
 			"D": "web-based conference planning and management system. It helps to collect submissions, to manage talks and speakers and to create a schedule.",
 			"Sr": "https://github.com/frab/frab",
@@ -18458,7 +18477,7 @@
 			"update": "2019-10-26"
 		},
 		{
-			"ID": 850,
+			"ID": 851,
 			"N": "fx",
 			"D": "fx is a tool to help you do Function as a Service with painless on your own servers.",
 			"Sr": "https://github.com/metrue/fx",
@@ -18475,12 +18494,12 @@
 				"Severless"
 			],
 			"SourceType": "Github",
-			"Line": 1317,
+			"Line": 1318,
 			"stars": 1289,
-			"update": "2019-10-19"
+			"update": "2019-10-27"
 		},
 		{
-			"ID": 851,
+			"ID": 852,
 			"N": "gitbucket",
 			"D": "Easily installable GitHub clone powered by Scala.",
 			"Sr": "https://github.com/gitbucket/gitbucket",
@@ -18498,12 +18517,12 @@
 				"Project Mgmnt"
 			],
 			"SourceType": "Github",
-			"Line": 1259,
-			"stars": 7842,
+			"Line": 1260,
+			"stars": 7840,
 			"update": "2019-10-24"
 		},
 		{
-			"ID": 852,
+			"ID": 853,
 			"N": "goBrowser",
 			"D": "Simple http file browser.",
 			"Sr": "https://github.com/xataz/gobrowser",
@@ -18524,7 +18543,7 @@
 			"update": "2018-01-24"
 		},
 		{
-			"ID": 853,
+			"ID": 854,
 			"N": "golinks",
 			"D": "Web application that allows you to create smart bookmarks, commands and aliases by pointing your web browser's default search engine at a running instance. Similar to bunny1 or yubnub.",
 			"Sr": "https://github.com/prologic/golinks",
@@ -18546,7 +18565,7 @@
 			"update": "2019-10-08"
 		},
 		{
-			"ID": 854,
+			"ID": 855,
 			"N": "google-webfonts-helper",
 			"D": "Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets.",
 			"Sr": "https://github.com/majodev/google-webfonts-helper",
@@ -18565,11 +18584,11 @@
 			"P": true,
 			"SourceType": "Github",
 			"Line": 985,
-			"stars": 5604,
+			"stars": 5605,
 			"update": "2017-11-20"
 		},
 		{
-			"ID": 855,
+			"ID": 856,
 			"N": "gritttt-rss",
 			"D": "More features for Tiny Tiny RSS.",
 			"Sr": "https://github.com/nhoening/gritttt-rss",
@@ -18591,7 +18610,7 @@
 			"update": "2016-09-17"
 		},
 		{
-			"ID": 856,
+			"ID": 857,
 			"N": "grocy",
 			"D": "ERP beyond your fridge - grocy is a web-based self-hosted groceries \u0026 household management solution for your home.",
 			"Sr": "https://github.com/grocy/grocy",
@@ -18608,12 +18627,12 @@
 				"Resource Planning"
 			],
 			"SourceType": "Github",
-			"Line": 1228,
-			"stars": 466,
+			"Line": 1229,
+			"stars": 468,
 			"update": "2019-10-19"
 		},
 		{
-			"ID": 857,
+			"ID": 858,
 			"N": "h5ai",
 			"D": "Modern file indexer for HTTP web servers with focus on your files. Directories are displayed in a appealing way and browsing them is enhanced by different views, a breadcrumb and a tree overview.",
 			"Sr": "https://github.com/lrsjng/h5ai",
@@ -18632,11 +18651,11 @@
 			],
 			"SourceType": "Github",
 			"Line": 775,
-			"stars": 3540,
+			"stars": 3542,
 			"update": "2019-08-12"
 		},
 		{
-			"ID": 858,
+			"ID": 859,
 			"N": "hastebin",
 			"D": "Open source pastebin written in node.js.",
 			"Sr": "https://github.com/seejohnrun/haste-server",
@@ -18653,12 +18672,12 @@
 				"Pastebin"
 			],
 			"SourceType": "Github",
-			"Line": 1110,
+			"Line": 1111,
 			"stars": 1826,
 			"update": "2019-04-05"
 		},
 		{
-			"ID": 859,
+			"ID": 860,
 			"N": "homebank-converter",
 			"D": "Web app to convert an export bank file to compatible Homebank csv.",
 			"Sr": "https://github.com/Binnette/homebank-converter",
@@ -18679,7 +18698,7 @@
 			"update": "2019-06-16"
 		},
 		{
-			"ID": 860,
+			"ID": 861,
 			"N": "homebox",
 			"D": "Suite of Ansible scripts to deploy a fully functional mail server on Debian. Unobtrusive and automatic as much as possible, focusing on stability and security.",
 			"Sr": "https://github.com/progmaticltd/homebox",
@@ -18697,11 +18716,11 @@
 			],
 			"SourceType": "Github",
 			"Line": 316,
-			"stars": 138,
+			"stars": 139,
 			"update": "2019-10-25"
 		},
 		{
-			"ID": 861,
+			"ID": 862,
 			"N": "homehost",
 			"D": "Self-hosted React + Redux app that streams your media collection (music, movies, books, podcasts, comics etc).",
 			"Sr": "https://github.com/ridhwaans/homehost",
@@ -18724,7 +18743,7 @@
 			"update": "2019-09-20"
 		},
 		{
-			"ID": 862,
+			"ID": 863,
 			"N": "htmly",
 			"D": "Databaseless Blogging Platform (Flat-File Blog).",
 			"Sr": "https://github.com/danpros/htmly",
@@ -18746,7 +18765,7 @@
 			"update": "2017-04-24"
 		},
 		{
-			"ID": 863,
+			"ID": 864,
 			"N": "http2-serverpush-proxy",
 			"D": "Reverse proxy that helps to automatically utilize HTTP/2.0's server push mechanism for static websites. Available as middleware and standalone application.",
 			"Sr": "https://github.com/n1try/http2-serverpush-proxy",
@@ -18761,12 +18780,12 @@
 				"Proxy"
 			],
 			"SourceType": "Github",
-			"Line": 1197,
+			"Line": 1198,
 			"stars": 22,
 			"update": "2016-11-17"
 		},
 		{
-			"ID": 864,
+			"ID": 865,
 			"N": "iDashboard-PHP",
 			"D": "HTPC Dashboard to load website services.",
 			"Sr": "https://github.com/causefx/iDashboard-PHP",
@@ -18781,12 +18800,12 @@
 				"Dashboard"
 			],
 			"SourceType": "Github",
-			"Line": 1139,
+			"Line": 1140,
 			"stars": 111,
 			"update": "2017-04-17"
 		},
 		{
-			"ID": 865,
+			"ID": 866,
 			"N": "iRedMail",
 			"D": "Full-featured mail server solution based on Postfix and Dovecot.",
 			"Sr": "https://bitbucket.org/zhb/iredmail/commits/",
@@ -18807,7 +18826,7 @@
 			"Line": 317
 		},
 		{
-			"ID": 866,
+			"ID": 867,
 			"N": "img.bi",
 			"D": "img.bi is a secure image hosting. Images are encrypted using AES-256 with random key in browser before upload.",
 			"Sr": "https://github.com/imgbi/img.bi",
@@ -18829,7 +18848,7 @@
 			"update": "2016-01-15"
 		},
 		{
-			"ID": 867,
+			"ID": 868,
 			"N": "imgproxy",
 			"D": "Fast and secure standalone server for resizing and converting remote images. It works great when you need to resize multiple images on the fly without preparing a ton of cached resized images or re-doing it every time the design changes.",
 			"Sr": "https://github.com/DarthSim/imgproxy",
@@ -18845,12 +18864,12 @@
 				"Proxy"
 			],
 			"SourceType": "Github",
-			"Line": 1198,
-			"stars": 2731,
+			"Line": 1199,
+			"stars": 2735,
 			"update": "2019-10-23"
 		},
 		{
-			"ID": 868,
+			"ID": 869,
 			"N": "imgpush",
 			"D": "imgpush is a self-hosted file upload service that can easily be integrated into other webapps.",
 			"Sr": "https://github.com/hauxir/imgpush",
@@ -18872,7 +18891,7 @@
 			"update": "2019-10-04"
 		},
 		{
-			"ID": 869,
+			"ID": 870,
 			"N": "indico",
 			"D": "A feature-rich event management system, made @ CERN, the place where the Web was born.",
 			"Sr": "https://getindico.io/",
@@ -18891,7 +18910,7 @@
 			"Line": 499
 		},
 		{
-			"ID": 870,
+			"ID": 871,
 			"N": "instant.io",
 			"D": "Streaming file transfer over WebTorrent.",
 			"Sr": "https://github.com/feross/instant.io",
@@ -18909,11 +18928,11 @@
 			],
 			"SourceType": "Github",
 			"Line": 717,
-			"stars": 2304,
+			"stars": 2305,
 			"update": "2019-10-24"
 		},
 		{
-			"ID": 871,
+			"ID": 872,
 			"N": "iodine",
 			"D": "IPv4 over DNS tunnel solution, enabling you to start up a socks5 proxy listener.",
 			"Sr": "https://github.com/yarrick/iodine",
@@ -18929,12 +18948,12 @@
 				"Proxy"
 			],
 			"SourceType": "Github",
-			"Line": 1199,
-			"stars": 3109,
+			"Line": 1200,
+			"stars": 3108,
 			"update": "2019-08-27"
 		},
 		{
-			"ID": 872,
+			"ID": 873,
 			"N": "ipfs.pics",
 			"D": "ipfs.pics is a distributed image hosting website.",
 			"Sr": "https://github.com/ipfspics/server",
@@ -18956,7 +18975,7 @@
 			"update": "2018-11-09"
 		},
 		{
-			"ID": 873,
+			"ID": 874,
 			"N": "jingo",
 			"D": "Git based wiki engine written for node.js, with a decent design, a search capability and good typography.",
 			"Sr": "https://github.com/claudioc/jingo",
@@ -18972,12 +18991,12 @@
 				"Wiki"
 			],
 			"SourceType": "Github",
-			"Line": 1452,
+			"Line": 1453,
 			"stars": 922,
 			"update": "2018-12-18"
 		},
 		{
-			"ID": 874,
+			"ID": 875,
 			"N": "keeweb",
 			"D": "This webapp is a browser and desktop password manager compatible with KeePass databases.",
 			"Sr": "https://github.com/keeweb/keeweb",
@@ -18993,12 +19012,12 @@
 				"Password Manager"
 			],
 			"SourceType": "Github",
-			"Line": 1090,
-			"stars": 8095,
-			"update": "2019-10-26"
+			"Line": 1091,
+			"stars": 8098,
+			"update": "2019-10-27"
 		},
 		{
-			"ID": 875,
+			"ID": 876,
 			"N": "koel",
 			"D": "Personal music streaming server that works.",
 			"Sr": "https://github.com/phanan/koel",
@@ -19017,11 +19036,11 @@
 			],
 			"SourceType": "Github",
 			"Line": 934,
-			"stars": 10680,
+			"stars": 10682,
 			"update": "2019-10-26"
 		},
 		{
-			"ID": 876,
+			"ID": 877,
 			"N": "linx",
 			"D": "File sharing application and pastebin with API, auto-expiry, deletion keys, and web seed support.",
 			"Sr": "https://github.com/andreimarcu/linx-server",
@@ -19044,7 +19063,7 @@
 			"update": "2019-06-13"
 		},
 		{
-			"ID": 877,
+			"ID": 878,
 			"N": "liteshort",
 			"D": "User-friendly, actually lightweight, and configurable URL shortener.",
 			"Sr": "https://github.com/132ikl/liteshort",
@@ -19060,12 +19079,12 @@
 				"URL Shortener"
 			],
 			"SourceType": "Github",
-			"Line": 1413,
+			"Line": 1414,
 			"stars": 16,
 			"update": "2019-09-04"
 		},
 		{
-			"ID": 878,
+			"ID": 879,
 			"N": "μlogger",
 			"D": "Collect geolocation from users in real-time and display their GPS tracks on a website.",
 			"Sr": "https://github.com/bfabiszewski/ulogger-server",
@@ -19087,7 +19106,7 @@
 			"update": "2019-10-09"
 		},
 		{
-			"ID": 879,
+			"ID": 880,
 			"N": "lufi",
 			"D": "Let's Upload that FIle, client-side encrypted.",
 			"Sr": "https://git.framasoft.org/luc/lufi/tree/master",
@@ -19109,7 +19128,7 @@
 			"Line": 745
 		},
 		{
-			"ID": 880,
+			"ID": 881,
 			"N": "lutim",
 			"D": "Let's Upload That Image.",
 			"Sr": "https://github.com/ldidry/lutim",
@@ -19131,7 +19150,7 @@
 			"update": "2019-04-19"
 		},
 		{
-			"ID": 881,
+			"ID": 882,
 			"N": "mStream",
 			"D": "Music streaming server with GUI management tools. Runs on Mac, Windows, and Linux.",
 			"Sr": "https://github.com/IrosTheBeggar/mStream",
@@ -19152,10 +19171,10 @@
 			"SourceType": "Github",
 			"Line": 943,
 			"stars": 1417,
-			"update": "2019-10-25"
+			"update": "2019-10-27"
 		},
 		{
-			"ID": 882,
+			"ID": 883,
 			"N": "markdown-tree",
 			"D": "Serve a hierarchy / tree directory of markdown files. Use intended for small sites built in markdown.",
 			"Sr": "https://github.com/mil/markdown-tree",
@@ -19171,12 +19190,12 @@
 				"Documentation Gen"
 			],
 			"SourceType": "Github",
-			"Line": 1338,
+			"Line": 1339,
 			"stars": 86,
 			"update": "2015-01-24"
 		},
 		{
-			"ID": 883,
+			"ID": 884,
 			"N": "microproxy",
 			"D": "lightweight non-caching HTTP/HTTPS proxy server.",
 			"Sr": "https://github.com/thekvs/microproxy",
@@ -19191,12 +19210,12 @@
 				"Proxy"
 			],
 			"SourceType": "Github",
-			"Line": 1200,
+			"Line": 1201,
 			"stars": 90,
 			"update": "2019-03-18"
 		},
 		{
-			"ID": 884,
+			"ID": 885,
 			"N": "miniProxy",
 			"D": "Simple web proxy written in PHP that can allow you to bypass Internet content filters, or to browse the internet anonymously. Only one php file.",
 			"Sr": "https://github.com/joshdick/miniProxy",
@@ -19212,12 +19231,12 @@
 				"Proxy"
 			],
 			"SourceType": "Github",
-			"Line": 1201,
+			"Line": 1202,
 			"stars": 687,
 			"update": "2019-04-02"
 		},
 		{
-			"ID": 885,
+			"ID": 886,
 			"N": "minimalist-web-notepad",
 			"D": "Minimalist notepad.cc clone.",
 			"Sr": "https://github.com/pereorga/minimalist-web-notepad",
@@ -19238,7 +19257,7 @@
 			"update": "2019-10-17"
 		},
 		{
-			"ID": 886,
+			"ID": 887,
 			"N": "mojopaste",
 			"D": "Perl based pastebin.",
 			"Sr": "https://github.com/jhthorsen/app-mojopaste",
@@ -19255,12 +19274,12 @@
 				"Pastebin"
 			],
 			"SourceType": "Github",
-			"Line": 1112,
+			"Line": 1113,
 			"stars": 27,
 			"update": "2019-08-09"
 		},
 		{
-			"ID": 887,
+			"ID": 888,
 			"N": "mpd",
 			"D": "Daemon to remotely play music, stream music, handle and organize playlists. Many clients available.",
 			"Sr": "https://github.com/MusicPlayerDaemon/MPD",
@@ -19286,7 +19305,7 @@
 			"update": "2019-10-25"
 		},
 		{
-			"ID": 888,
+			"ID": 889,
 			"N": "musikcube",
 			"D": "Streaming audio server with Linux/macOS/Windows/Android clients.",
 			"Sr": "https://github.com/clangen/musikcube",
@@ -19305,11 +19324,11 @@
 			],
 			"SourceType": "Github",
 			"Line": 945,
-			"stars": 1623,
-			"update": "2019-10-27"
+			"stars": 1624,
+			"update": "2019-10-28"
 		},
 		{
-			"ID": 889,
+			"ID": 890,
 			"N": "myTinyTodo",
 			"D": "Simple way to manage your todo list in AJAX style. Uses PHP, jQuery, SQLite/MySQL. GTD compliant.",
 			"Sr": "https://bitbucket.org/maxpozdeev/mytinytodo",
@@ -19327,10 +19346,10 @@
 				"Task Mgmnt"
 			],
 			"SourceType": "",
-			"Line": 1362
+			"Line": 1363
 		},
 		{
-			"ID": 890,
+			"ID": 891,
 			"N": "n8n",
 			"D": "Free node based Workflow Automation Tool. Easily automate tasks across different services.",
 			"Sr": "https://github.com/n8n-io/n8n",
@@ -19347,11 +19366,11 @@
 			],
 			"SourceType": "Github",
 			"Line": 178,
-			"stars": 4559,
-			"update": "2019-10-26"
+			"stars": 4591,
+			"update": "2019-10-27"
 		},
 		{
-			"ID": 891,
+			"ID": 892,
 			"N": "ngircd",
 			"D": "Free, portable and lightweight Internet Relay Chat server for small or private networks.",
 			"Sr": "https://github.com/ngircd/ngircd",
@@ -19373,7 +19392,7 @@
 			"update": "2019-09-09"
 		},
 		{
-			"ID": 892,
+			"ID": 893,
 			"N": "nnmm",
 			"D": "Super tiny pastebin/url minifier \"microservice\".",
 			"Sr": "https://github.com/Mechazawa/nnmm",
@@ -19394,7 +19413,7 @@
 			"update": "2018-01-19"
 		},
 		{
-			"ID": 893,
+			"ID": 894,
 			"N": "nsupdate.info",
 			"D": "nsupdate.info is a dynamic DNS service.",
 			"Sr": "https://github.com/nsupdate-info/nsupdate.info",
@@ -19416,7 +19435,7 @@
 			"update": "2019-05-09"
 		},
 		{
-			"ID": 894,
+			"ID": 895,
 			"N": "oTranscribe",
 			"D": "Free web app to take the pain out of transcribing recorded interviews.",
 			"Sr": "https://github.com/oTranscribe/oTranscribe",
@@ -19438,7 +19457,7 @@
 			"update": "2019-05-07"
 		},
 		{
-			"ID": 895,
+			"ID": 896,
 			"N": "october",
 			"D": "Free, open-source, self-hosted CMS platform.",
 			"Sr": "https://github.com/octobercms/october",
@@ -19455,11 +19474,11 @@
 			],
 			"SourceType": "Github",
 			"Line": 534,
-			"stars": 9165,
+			"stars": 9166,
 			"update": "2019-10-11"
 		},
 		{
-			"ID": 896,
+			"ID": 897,
 			"N": "oneye",
 			"D": "Cloud software to access your data from everywhere with any browser.",
 			"Sr": "https://github.com/oneye/oneye",
@@ -19479,7 +19498,7 @@
 			"update": "2017-07-27"
 		},
 		{
-			"ID": 897,
+			"ID": 898,
 			"N": "openHAB",
 			"D": "Vendor and technology agnostic open source software for home automation.",
 			"Sr": "https://github.com/openhab/openhab",
@@ -19496,11 +19515,11 @@
 			],
 			"SourceType": "Github",
 			"Line": 180,
-			"stars": 3476,
+			"stars": 3474,
 			"update": "2019-10-14"
 		},
 		{
-			"ID": 898,
+			"ID": 899,
 			"N": "osTicket",
 			"D": "Manage, organize and archive all your support requests and responses in one place.",
 			"Sr": "https://github.com/osTicket/osTicket",
@@ -19516,12 +19535,12 @@
 				"Ticketing"
 			],
 			"SourceType": "Github",
-			"Line": 1397,
+			"Line": 1398,
 			"stars": 1708,
 			"update": "2019-10-25"
 		},
 		{
-			"ID": 899,
+			"ID": 900,
 			"N": "osem",
 			"D": "Event management tailored to free Software conferences.",
 			"Sr": "https://github.com/openSUSE/osem",
@@ -19543,7 +19562,7 @@
 			"update": "2019-10-25"
 		},
 		{
-			"ID": 900,
+			"ID": 901,
 			"N": "ownCloud",
 			"D": "All-in-one solution for saving, synchronizing, viewing, editing and sharing files, calendars, address books and more.",
 			"Sr": "https://github.com/owncloud/core",
@@ -19565,11 +19584,11 @@
 			],
 			"SourceType": "Github",
 			"Line": 700,
-			"stars": 6825,
+			"stars": 6826,
 			"update": "2019-10-25"
 		},
 		{
-			"ID": 901,
+			"ID": 902,
 			"N": "pastebin",
 			"D": "Simple pastebin service with convenient api and CLI.",
 			"Sr": "https://github.com/prologic/pastebin",
@@ -19585,12 +19604,12 @@
 				"Pastebin"
 			],
 			"SourceType": "Github",
-			"Line": 1115,
+			"Line": 1116,
 			"stars": 26,
 			"update": "2019-07-11"
 		},
 		{
-			"ID": 902,
+			"ID": 903,
 			"N": "pb",
 			"D": "Lightweight pastebin (and url shortener) built using flask.",
 			"Sr": "https://github.com/ptpb/pb",
@@ -19605,12 +19624,12 @@
 				"Pastebin"
 			],
 			"SourceType": "Github",
-			"Line": 1117,
+			"Line": 1118,
 			"stars": 398,
 			"update": "2019-05-02"
 		},
 		{
-			"ID": 903,
+			"ID": 904,
 			"N": "pbnh",
 			"D": "Pastebin inspired from project pb and hastebin, with an API and a SQL-based backend.",
 			"Sr": "https://github.com/bhanderson/pbnh",
@@ -19625,12 +19644,12 @@
 				"Pastebin"
 			],
 			"SourceType": "Github",
-			"Line": 1118,
+			"Line": 1119,
 			"stars": 9,
 			"update": "2018-10-27"
 		},
 		{
-			"ID": 904,
+			"ID": 905,
 			"N": "peerflix-server",
 			"D": "Downloads torrent files and provides a direct link download or a direct link stream.",
 			"Sr": "https://github.com/asapach/peerflix-server",
@@ -19651,7 +19670,7 @@
 			"update": "2019-10-21"
 		},
 		{
-			"ID": 905,
+			"ID": 906,
 			"N": "phpBB",
 			"D": "Flat-forum bulletin board software solution that can be used to stay in touch with a group of people or can power your entire website.",
 			"Sr": "https://github.com/phpbb/phpbb",
@@ -19670,11 +19689,11 @@
 			],
 			"SourceType": "Github",
 			"Line": 451,
-			"stars": 1260,
+			"stars": 1259,
 			"update": "2019-10-26"
 		},
 		{
-			"ID": 906,
+			"ID": 907,
 			"N": "phpList",
 			"D": "Newsletter and email marketing with advanced management of subscribers, bounces, and plugins.",
 			"Sr": "https://github.com/phpList/",
@@ -19699,7 +19718,7 @@
 			"update": "2019-10-25"
 		},
 		{
-			"ID": 907,
+			"ID": 908,
 			"N": "piqueserver",
 			"D": "Server for openspades, the first-person shooter in a destructible voxel world.",
 			"Sr": "https://github.com/piqueserver/piqueserver",
@@ -19719,11 +19738,11 @@
 			],
 			"SourceType": "Github",
 			"Line": 799,
-			"stars": 52,
+			"stars": 53,
 			"update": "2019-10-22"
 		},
 		{
-			"ID": 908,
+			"ID": 909,
 			"N": "pretalx",
 			"D": "Web-based event management, including running a Call for Papers, reviewing submissions, and scheduling talks. Exports and imports for various related tools.",
 			"Sr": "https://github.com/pretalx/pretalx",
@@ -19744,7 +19763,7 @@
 			"update": "2019-10-25"
 		},
 		{
-			"ID": 909,
+			"ID": 910,
 			"N": "pyLoad",
 			"D": "Lightweight, customizable and remotely manageable downloader for 1-click-hosting sites like rapidshare.com or uploaded.to.",
 			"Sr": "https://github.com/pyload/pyload",
@@ -19765,7 +19784,7 @@
 			"update": "2019-10-09"
 		},
 		{
-			"ID": 910,
+			"ID": 911,
 			"N": "qBittorrent",
 			"D": "Free cross-platform bittorrent client with a feature rich Web UI for remote access.",
 			"Sr": "https://github.com/qbittorrent/qBittorrent",
@@ -19783,11 +19802,11 @@
 			],
 			"SourceType": "Github",
 			"Line": 722,
-			"stars": 7334,
-			"update": "2019-10-24"
+			"stars": 7336,
+			"update": "2019-10-27"
 		},
 		{
-			"ID": 911,
+			"ID": 912,
 			"N": "rartracker",
 			"D": "Complete private bittorrent tracker.",
 			"Sr": "https://github.com/swetorrentking/rartracker",
@@ -19808,7 +19827,7 @@
 			"update": "2017-04-13"
 		},
 		{
-			"ID": 912,
+			"ID": 913,
 			"N": "reduc.io",
 			"D": "URL shortener service written in Scala, using Akka-Http and Redis.",
 			"Sr": "https://github.com/ziyasal/reducio",
@@ -19823,12 +19842,12 @@
 				"URL Shortener"
 			],
 			"SourceType": "Github",
-			"Line": 1417,
+			"Line": 1418,
 			"stars": 45,
 			"update": "2019-07-15"
 		},
 		{
-			"ID": 913,
+			"ID": 914,
 			"N": "remark42",
 			"D": "A lightweight and simple comment engine, which doesn't spy on users. It can be embedded into blogs, articles or any other place where readers add comments.",
 			"Sr": "https://github.com/umputun/remark",
@@ -19848,11 +19867,11 @@
 			],
 			"SourceType": "Github",
 			"Line": 456,
-			"stars": 1209,
-			"update": "2019-10-24"
+			"stars": 1210,
+			"update": "2019-10-28"
 		},
 		{
-			"ID": 914,
+			"ID": 915,
 			"N": "revealjs",
 			"D": "Framework for easily creating beautiful presentations using HTML.",
 			"Sr": "https://github.com/hakimel/reveal.js",
@@ -19871,11 +19890,11 @@
 			],
 			"SourceType": "Github",
 			"Line": 998,
-			"stars": 48904,
+			"stars": 48914,
 			"update": "2019-04-08"
 		},
 		{
-			"ID": 915,
+			"ID": 916,
 			"N": "s3server",
 			"D": "Simple HTTP interface to index and browse files in a public S3 or Google Cloud Storage bucket.",
 			"Sr": "https://github.com/jessfraz/s3server",
@@ -19897,7 +19916,7 @@
 			"update": "2019-05-25"
 		},
 		{
-			"ID": 916,
+			"ID": 917,
 			"N": "savepad",
 			"D": "Minimalist notepad based on notepad.cc.",
 			"Sr": "https://github.com/shelltr/textpad",
@@ -19918,7 +19937,7 @@
 			"update": "2016-12-11"
 		},
 		{
-			"ID": 917,
+			"ID": 918,
 			"N": "schort",
 			"D": "No login, no javascript, just short links.",
 			"Sr": "https://github.com/sqozz/schort",
@@ -19934,12 +19953,12 @@
 				"URL Shortener"
 			],
 			"SourceType": "Github",
-			"Line": 1418,
-			"stars": 20,
+			"Line": 1419,
+			"stars": 21,
 			"update": "2018-06-09"
 		},
 		{
-			"ID": 918,
+			"ID": 919,
 			"N": "scrumblr",
 			"D": "Collaborative Online Scrum Tool Using Websockets, Node.js, jQuery, and CSS3.",
 			"Sr": "https://github.com/ocdtrekkie/scrumblr/tree/sandstorm",
@@ -19957,12 +19976,12 @@
 				"Task Mgmnt"
 			],
 			"SourceType": "Github",
-			"Line": 1365,
+			"Line": 1366,
 			"stars": 28,
 			"update": "2018-05-30"
 		},
 		{
-			"ID": 919,
+			"ID": 920,
 			"N": "shorturl",
 			"D": "Simple URL shortener with very tiny URLs.",
 			"Sr": "https://github.com/prologic/shorturl",
@@ -19978,12 +19997,12 @@
 				"URL Shortener"
 			],
 			"SourceType": "Github",
-			"Line": 1420,
-			"stars": 51,
+			"Line": 1421,
+			"stars": 52,
 			"update": "2019-09-01"
 		},
 		{
-			"ID": 920,
+			"ID": 921,
 			"N": "shuri",
 			"D": "SHort URI - Lightweight URL shortener.",
 			"Sr": "https://github.com/pips-/shuri",
@@ -19998,12 +20017,12 @@
 				"URL Shortener"
 			],
 			"SourceType": "Github",
-			"Line": 1421,
+			"Line": 1422,
 			"stars": 13,
 			"update": "2018-04-27"
 		},
 		{
-			"ID": 921,
+			"ID": 922,
 			"N": "sigal",
 			"D": "Yet another simple static gallery generator.",
 			"Sr": "https://github.com/saimn/sigal",
@@ -20018,12 +20037,12 @@
 				"Photo and Video Gallery"
 			],
 			"SourceType": "Github",
-			"Line": 1167,
+			"Line": 1168,
 			"stars": 576,
 			"update": "2019-10-05"
 		},
 		{
-			"ID": 922,
+			"ID": 923,
 			"N": "simple-dash",
 			"D": "A simple, fully responsive Dashboard to forward to the services of your choice.",
 			"Sr": "https://github.com/kutyla-philipp/simple-dash",
@@ -20039,12 +20058,12 @@
 				"Dashboard"
 			],
 			"SourceType": "Github",
-			"Line": 1141,
-			"stars": 124,
+			"Line": 1142,
+			"stars": 125,
 			"update": "2019-10-10"
 		},
 		{
-			"ID": 923,
+			"ID": 924,
 			"N": "sish",
 			"D": "Open source serveo/ngrok alternative providing HTTP(S)/WS(S)/TCP tunnels to localhost using only SSH.",
 			"Sr": "https://github.com/antoniomika/sish",
@@ -20059,12 +20078,12 @@
 				"Proxy"
 			],
 			"SourceType": "Github",
-			"Line": 1208,
+			"Line": 1209,
 			"stars": 474,
 			"update": "2019-10-21"
 		},
 		{
-			"ID": 924,
+			"ID": 925,
 			"N": "snipt",
 			"D": "Long-term memory for coders. Share and store code snippets.",
 			"Sr": "https://github.com/nicksergeant/snipt",
@@ -20080,12 +20099,12 @@
 				"Pastebin"
 			],
 			"SourceType": "Github",
-			"Line": 1122,
+			"Line": 1123,
 			"stars": 9,
 			"update": "2019-05-27"
 		},
 		{
-			"ID": 925,
+			"ID": 926,
 			"N": "socks5-proxy-server",
 			"D": "SOCKS5 proxy server with built-in authentication and Telegram-bot for user management and user statistics on data spent (handy when you pay per GB of data). It is dockerised and simple to install.",
 			"Sr": "https://github.com/nskondratev/socks5-proxy-server",
@@ -20100,12 +20119,12 @@
 				"Proxy"
 			],
 			"SourceType": "Github",
-			"Line": 1209,
+			"Line": 1210,
 			"stars": 4,
 			"update": "2019-08-04"
 		},
 		{
-			"ID": 926,
+			"ID": 927,
 			"N": "sourcegraph",
 			"D": "Sourcegraph is a fast, open-source, fully-featured code search and navigation engine written in Go.",
 			"Sr": "https://github.com/sourcegraph/sourcegraph",
@@ -20122,12 +20141,12 @@
 				"IDE"
 			],
 			"SourceType": "Github",
-			"Line": 1300,
-			"stars": 2752,
+			"Line": 1301,
+			"stars": 2759,
 			"update": "2019-10-27"
 		},
 		{
-			"ID": 927,
+			"ID": 928,
 			"N": "sovereign",
 			"D": "Set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.",
 			"Sr": "https://github.com/sovereign/sovereign",
@@ -20142,12 +20161,12 @@
 				"Self-hosting Solution"
 			],
 			"SourceType": "Github",
-			"Line": 1487,
-			"stars": 7540,
+			"Line": 1488,
+			"stars": 7542,
 			"update": "2019-09-13"
 		},
 		{
-			"ID": 928,
+			"ID": 929,
 			"N": "sysPass",
 			"D": "Multiuser password management system.",
 			"Sr": "https://github.com/nuxsmin/sysPass",
@@ -20164,12 +20183,12 @@
 				"Password Manager"
 			],
 			"SourceType": "Github",
-			"Line": 1094,
+			"Line": 1095,
 			"stars": 589,
 			"update": "2019-08-20"
 		},
 		{
-			"ID": 929,
+			"ID": 930,
 			"N": "tasks.php",
 			"D": "Simple task/todo list manager.",
 			"Sr": "https://github.com/RaymiiOrg/tasks.php",
@@ -20185,12 +20204,12 @@
 				"Task Mgmnt"
 			],
 			"SourceType": "Github",
-			"Line": 1370,
+			"Line": 1371,
 			"stars": 41,
 			"update": "2013-06-06"
 		},
 		{
-			"ID": 930,
+			"ID": 931,
 			"N": "tastebin",
 			"D": "Updated version of hastebin plus additional features.",
 			"Sr": "https://github.com/andreineculau/tastebin",
@@ -20205,12 +20224,12 @@
 				"Pastebin"
 			],
 			"SourceType": "Github",
-			"Line": 1125,
+			"Line": 1126,
 			"stars": 25,
 			"update": "2016-01-30"
 		},
 		{
-			"ID": 931,
+			"ID": 932,
 			"N": "tmate",
 			"D": "Instant terminal sharing.",
 			"Sr": "https://github.com/tmate-io/tmate",
@@ -20225,11 +20244,11 @@
 			"T": [],
 			"SourceType": "Github",
 			"Line": 815,
-			"stars": 3150,
+			"stars": 3153,
 			"update": "2019-10-21"
 		},
 		{
-			"ID": 932,
+			"ID": 933,
 			"N": "todo",
 			"D": "Simple todo list manager.",
 			"Sr": "https://github.com/prologic/todo",
@@ -20246,12 +20265,12 @@
 				"Task Mgmnt"
 			],
 			"SourceType": "Github",
-			"Line": 1373,
+			"Line": 1374,
 			"stars": 27,
 			"update": "2019-07-28"
 		},
 		{
-			"ID": 933,
+			"ID": 934,
 			"N": "todoMini",
 			"D": "Mobile friendly zero-feature TODO list web app. Unix philosophy.",
 			"Sr": "https://github.com/appMini/todoMini",
@@ -20270,12 +20289,12 @@
 				"Task Mgmnt"
 			],
 			"SourceType": "Github",
-			"Line": 1374,
+			"Line": 1375,
 			"stars": 47,
 			"update": "2019-08-07"
 		},
 		{
-			"ID": 934,
+			"ID": 935,
 			"N": "transfer.sh",
 			"D": "Easy file sharing from the command line.",
 			"Sr": "https://github.com/dutchcoders/transfer.sh",
@@ -20295,11 +20314,11 @@
 			],
 			"SourceType": "Github",
 			"Line": 763,
-			"stars": 8894,
+			"stars": 8899,
 			"update": "2019-10-07"
 		},
 		{
-			"ID": 935,
+			"ID": 936,
 			"N": "ttrss-mobile",
 			"D": "Mobile webapp for Tiny Tiny RSS.",
 			"Sr": "https://github.com/mboinet/ttrss-mobile",
@@ -20320,7 +20339,7 @@
 			"update": "2019-08-21"
 		},
 		{
-			"ID": 936,
+			"ID": 937,
 			"N": "ttrss-reader",
 			"D": "Light and responsive client for TTRSS.",
 			"Sr": "https://github.com/kucrut/ttrss-reader",
@@ -20341,7 +20360,7 @@
 			"update": "2017-03-28"
 		},
 		{
-			"ID": 937,
+			"ID": 938,
 			"N": "turndown",
 			"D": "HTML to Markdown converter written in JavaScript.",
 			"Sr": "https://github.com/domchristie/turndown",
@@ -20359,11 +20378,11 @@
 			],
 			"SourceType": "Github",
 			"Line": 1067,
-			"stars": 4236,
+			"stars": 4237,
 			"update": "2019-08-23"
 		},
 		{
-			"ID": 938,
+			"ID": 939,
 			"N": "twister",
 			"D": "Fully decentralized P2P microblogging platform leveraging the free software implementations of Bitcoin and BitTorrent protocols.",
 			"Sr": "https://github.com/miguelfreitas/twister-core",
@@ -20382,11 +20401,11 @@
 			],
 			"SourceType": "Github",
 			"Line": 464,
-			"stars": 1333,
+			"stars": 1332,
 			"update": "2019-08-19"
 		},
 		{
-			"ID": 939,
+			"ID": 940,
 			"N": "uMap",
 			"D": "Create maps with OpenStreetMap layers in a minute and embed them in your site.",
 			"Sr": "https://github.com/umap-project/umap",
@@ -20404,11 +20423,11 @@
 			],
 			"SourceType": "Github",
 			"Line": 900,
-			"stars": 454,
+			"stars": 455,
 			"update": "2019-05-11"
 		},
 		{
-			"ID": 940,
+			"ID": 941,
 			"N": "uPste",
 			"D": "Private file hosting application with an emphasis on serving technology communities.",
 			"Sr": "https://github.com/TheReverend403/uPste",
@@ -20431,7 +20450,7 @@
 			"update": "2018-11-20"
 		},
 		{
-			"ID": 941,
+			"ID": 942,
 			"N": "unmark",
 			"D": "Open source to do app for links.",
 			"Sr": "https://github.com/plainmade/unmark",
@@ -20448,11 +20467,11 @@
 			],
 			"SourceType": "Github",
 			"Line": 233,
-			"stars": 1220,
+			"stars": 1219,
 			"update": "2019-04-02"
 		},
 		{
-			"ID": 942,
+			"ID": 943,
 			"N": "url-shortener",
 			"D": "Shitty url shortener, emoji and AI powered.",
 			"Sr": "https://github.com/cagataycali/url-shortener",
@@ -20468,12 +20487,12 @@
 			],
 			"P": true,
 			"SourceType": "Github",
-			"Line": 1423,
+			"Line": 1424,
 			"stars": 140,
 			"update": "2019-04-03"
 		},
 		{
-			"ID": 943,
+			"ID": 944,
 			"N": "visualCaptcha",
 			"D": "Configurable captcha solution, focusing on accessibility and simplicity whilst maintaining security.",
 			"Sr": "https://github.com/emotionLoop/visualCaptcha",
@@ -20499,7 +20518,7 @@
 			"update": "2018-01-24"
 		},
 		{
-			"ID": 944,
+			"ID": 945,
 			"N": "webtrees",
 			"D": "Webtrees is the web's leading on-line collaborative genealogy application.",
 			"Sr": "https://github.com/fisharebest/webtrees",
@@ -20519,10 +20538,10 @@
 			"SourceType": "Github",
 			"Line": 1007,
 			"stars": 367,
-			"update": "2019-10-26"
+			"update": "2019-10-27"
 		},
 		{
-			"ID": 945,
+			"ID": 946,
 			"N": "wger",
 			"D": "Web-based personal workout, fitness and weight logger/tracker. It can also be used as a simple gym management utility and offers a full REST API as well.",
 			"Sr": "https://github.com/rolandgeider/wger",
@@ -20539,12 +20558,12 @@
 				"Dashboard"
 			],
 			"SourceType": "Github",
-			"Line": 1143,
-			"stars": 1029,
+			"Line": 1144,
+			"stars": 1028,
 			"update": "2018-03-16"
 		},
 		{
-			"ID": 946,
+			"ID": 947,
 			"N": "wiki",
 			"D": "Simple Markdown based wiki engine.",
 			"Sr": "https://github.com/prologic/wiki",
@@ -20560,12 +20579,12 @@
 				"Wiki"
 			],
 			"SourceType": "Github",
-			"Line": 1464,
-			"stars": 47,
+			"Line": 1465,
+			"stars": 48,
 			"update": "2019-09-01"
 		},
 		{
-			"ID": 947,
+			"ID": 948,
 			"N": "xBrowserSync",
 			"D": "Open source tool for syncing browser data between browsers and devices.",
 			"Sr": "https://github.com/xBrowserSync",
@@ -20587,7 +20606,7 @@
 			"update": "2019-10-07"
 		},
 		{
-			"ID": 948,
+			"ID": 949,
 			"N": "ymarks",
 			"D": "Keep your browser's bookmarks synchronized without limiting yourself to one provider.",
 			"Sr": "https://bitbucket.org/ymarks/ymarks-server",
@@ -20606,7 +20625,7 @@
 			"Line": 235
 		},
 		{
-			"ID": 949,
+			"ID": 950,
 			"N": "ympd",
 			"D": "Standalone MPD Web GUI written in C, utilizing Websockets and Bootstrap/JS.",
 			"Sr": "https://github.com/notandy/ympd",
@@ -20629,7 +20648,7 @@
 			"update": "2018-03-29"
 		},
 		{
-			"ID": 950,
+			"ID": 951,
 			"N": "ytdl-webserver",
 			"D": "Docker-ready webserver for downloading youtube videos.",
 			"Sr": "https://github.com/Algram/ytdl-webserver",
@@ -20745,7 +20764,7 @@
 		},
 		{
 			"Lang": "Rust",
-			"Count": 6
+			"Count": 7
 		},
 		{
 			"Lang": "Shell",
@@ -20883,7 +20902,7 @@
 		},
 		{
 			"Cat": "Password Managers",
-			"Count": 7
+			"Count": 8
 		},
 		{
 			"Cat": "Pastebins",
@@ -21213,7 +21232,7 @@
 		},
 		{
 			"Tag": "Password Manager",
-			"C": 7
+			"C": 8
 		},
 		{
 			"Tag": "Pastebin",
