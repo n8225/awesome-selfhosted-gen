@@ -96,6 +96,7 @@ const entriesb = `</p></div></article>`
 
 function populateEntries() {
     var x, y, txt = "";
+    document.getElementById("demo").innerHTML = ""
     for (y in cats) {
         var ctxt = "<div class='box'><article class='message'><div class='message-header'><p>" + cats[y].Cat + "</p></div></article>"
         var etxt = ""
@@ -117,10 +118,9 @@ function populateEntries() {
             }    
         }
         if (etxt !== "") {
-            txt += ctxt + etxt + "</div>"
+            document.getElementById("demo").innerHTML += ctxt + etxt + "</div>"
         }
     }
-    document.getElementById("demo").innerHTML = txt;
     displayFilters();
 }
 
@@ -132,30 +132,6 @@ function getDates(u, s) {
         return ""
     }
 }
-
-// function populateAllEntries() {
-//     var x,y, txt = "";
-//     for (y in cats) {
-//         txt += "<div class='box'><article class='message'><div class='message-header'><p>" + cats[y].Cat + "</p></div></article>"
-//         for (x in entries) {
-//             if (entries[x].C === cats[y].Cat ) {
-//                 txt += namea + entries[x].N + nameb;
-//                 if (entries[x].P !== undefined) {txt += propri;}
-//                 if (entries[x].NF !== undefined) {txt += nonf;}
-//                 txt += parseArr(entries[x].T, "tag", entries[x].N);
-//                 if (entries[x].stars !== undefined) {txt += date + entries[x].update + stara + entries[x].stars + starb;}
-//                 txt += getL(entries[x].Li, entries[x].N) + parseArr(entries[x].La, "lang", entries[x].N) + linka + entries[x].Sr + linkb + src;
-//                 if (entries[x].Si !== undefined) {txt +=linka + entries[x].Si + linkb + site;}
-//                 if (entries[x].Dem !== undefined) {txt +=linka + entries[x].Dem + linkb + demo;}
-//                 if (entries[x].CL !== undefined) {txt +=linka + entries[x].CL + linkb + client;}
-//                 txt += entriesa + entries[x].D + entriesb
-//             }
-//         }
-//         txt += "</div>"
-//     }
-//     document.getElementById("demo").innerHTML = txt;
-// }
-
 function goHome() {
     tagSelect = [];
     langSelect = "";
