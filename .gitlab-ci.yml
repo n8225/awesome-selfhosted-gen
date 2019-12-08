@@ -1,0 +1,15 @@
+image: docker:stable
+services:
+- docker:dind
+
+stages:
+- build
+
+variables:
+  GORELEASER_IMAGE: goreleaser/goreleaser:latest
+
+build:
+  stage: build
+  script:
+    - docker pull $GORELEASER_IMAGE
+    - docker run --rm --privileged -v $PWD:/go/src/github.com/n8225/awesome-selfhosted-gen -v /var/run/docker.sock:/var/run/docker.sock -w /go/src/github.com/YourGithubUser/YourGithubRepo -e GITHUB_TOKEN $GORELEASER_IMAGE release --rm-dist
