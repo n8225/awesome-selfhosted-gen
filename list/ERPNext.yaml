@@ -1,0 +1,18 @@
+ID: 774
+Name: ERPNext
+Description: Free open source ERP system.
+Source Code: https://github.com/frappe/erpnext
+Demo: https://demo.erpnext.com
+Website: https://erpnext.com
+License:
+- GPL-3.0
+Languages:
+- Python
+C: Resource Planning
+Tags:
+- Resource Planning
+- Enterprise rsrc planning
+MD: '- [ERPNext](https://erpnext.com) - Free open source ERP system. ([Demo](https://demo.erpnext.com),
+  [Source Code](https://github.com/frappe/erpnext)) `GPL-3.0` `Python`'
+SourceType: Github
+Line: 1218

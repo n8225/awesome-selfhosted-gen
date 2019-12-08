@@ -1,0 +1,16 @@
+ID: 288
+Name: CouchCMS
+Description: Simple Open-Source CMS for designers.
+Source Code: https://github.com/CouchCMS/CouchCMS
+Website: http://www.couchcms.com/
+License:
+- CPAL-1.0
+Languages:
+- PHP
+C: Content Management Systems (CMS)
+Tags:
+- CMS
+MD: '- [CouchCMS](http://www.couchcms.com/) - Simple Open-Source CMS for designers.
+  ([Source Code](https://github.com/CouchCMS/CouchCMS)) `CPAL-1.0` `PHP`'
+SourceType: Github
+Line: 520

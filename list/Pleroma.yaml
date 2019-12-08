@@ -1,0 +1,18 @@
+ID: 243
+Name: Pleroma
+Description: Federated microblogging server, Mastodon, GNU social, & ActivityPub compatible.
+Source Code: https://git.pleroma.social/pleroma/pleroma
+Website: https://pleroma.social
+License:
+- AGPL-3.0
+Languages:
+- Elixir
+C: Communication systems
+Tags:
+- Communications
+- Social Network
+- Forum
+MD: '- [Pleroma](https://pleroma.social) - Federated microblogging server, Mastodon,
+  GNU social, & ActivityPub compatible. ([Source Code](https://git.pleroma.social/pleroma/pleroma))
+  `AGPL-3.0` `Elixir`'
+Line: 451

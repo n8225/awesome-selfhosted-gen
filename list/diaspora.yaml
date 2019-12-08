@@ -1,0 +1,20 @@
+ID: 218
+Name: diaspora*
+Description: Distributed social networking server.
+Source Code: https://github.com/diaspora/diaspora
+Demo: https://podupti.me/go.php
+Website: https://diasporafoundation.org/
+License:
+- AGPL-3.0
+Languages:
+- Ruby
+C: Communication systems
+Tags:
+- Communications
+- Social Network
+- Forum
+MD: '- [diaspora*](https://diasporafoundation.org/) - Distributed social networking
+  server. ([Demo](https://podupti.me/go.php), [Source Code](https://github.com/diaspora/diaspora))
+  `AGPL-3.0` `Ruby`'
+SourceType: Github
+Line: 426

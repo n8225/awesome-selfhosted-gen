@@ -1,0 +1,20 @@
+ID: 154
+Name: chasquid
+Description: SMTP (email) server with a focus on simplicity, security, and ease of
+  operation.
+Source Code: https://blitiri.com.ar/git/r/chasquid/
+Website: https://blitiri.com.ar/p/chasquid/
+License:
+- Apache-2.0
+Languages:
+- Go
+C: Communication systems
+Tags:
+- Communications
+- Email
+- MTA
+- SMTP
+MD: '- [chasquid](https://blitiri.com.ar/p/chasquid/) - SMTP (email) server with a
+  focus on simplicity, security, and ease of operation. ([Source Code](https://blitiri.com.ar/git/r/chasquid/))
+  `Apache-2.0` `Go`'
+Line: 330

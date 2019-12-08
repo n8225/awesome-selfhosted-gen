@@ -1,0 +1,21 @@
+ID: 585
+Name: VideoLAN Client (VLC)
+Description: Cross-platform multimedia player client and server supporting most multimedia
+  files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.
+Source Code: https://github.com/videolan/vlc
+Website: https://www.videolan.org/
+License:
+- Multiple
+Languages:
+- C
+C: Media Streaming
+Tags:
+- Media
+- Streaming
+- Video
+MD: '- [VideoLAN Client (VLC)](https://www.videolan.org/) - Cross-platform multimedia
+  player client and server supporting most multimedia files as well as DVDs, Audio
+  CDs, VCDs, and various streaming protocols. ([Source Code](https://github.com/videolan/vlc))
+  `Multiple` `C`'
+SourceType: Github
+Line: 951

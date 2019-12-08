@@ -1,0 +1,18 @@
+ID: 362
+Name: DSpace
+Description: Turnkey repository application providing durable access to digital resources.
+Source Code: https://github.com/DSpace/DSpace
+Website: http://dspace.org/
+License:
+- BSD-3-Clause
+Languages:
+- Java
+C: E-books and Integrated Library Systems (ILS)
+Tags:
+- E-book
+- ILS
+MD: '- [DSpace](http://dspace.org/) - Turnkey repository application providing durable
+  access to digital resources. ([Source Code](https://github.com/DSpace/DSpace)) `BSD-3-Clause`
+  `Java`'
+SourceType: Github
+Line: 627

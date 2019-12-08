@@ -1,0 +1,21 @@
+ID: 425
+Name: elixire
+Description: Simple yet advanced screenshot uploading and link shortening service.
+Source Code: https://gitlab.com/elixire/elixire
+Clients:
+- https://gitlab.com/elixire/elixiremanager
+Website: https://elixi.re
+License:
+- AGPL-3.0
+Languages:
+- Python
+C: File Sharing and Synchronization
+Tags:
+- File Sharing
+- Single-Click Upload
+- Drag-n-Drop Upload
+MD: '- [elixire](https://elixi.re) - Simple yet advanced screenshot uploading and
+  link shortening service. ([Source Code](https://gitlab.com/elixire/elixire), [Clients](https://gitlab.com/elixire/elixiremanager))
+  `AGPL-3.0` `Python`'
+SourceType: Gitlab
+Line: 725

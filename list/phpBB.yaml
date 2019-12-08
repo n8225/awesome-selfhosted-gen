@@ -1,0 +1,20 @@
+ID: 241
+Name: phpBB
+Description: Flat-forum bulletin board software solution that can be used to stay
+  in touch with a group of people or can power your entire website.
+Source Code: https://github.com/phpbb/phpbb
+Website: https://www.phpbb.com/
+License:
+- GPL-2.0
+Languages:
+- PHP
+C: Communication systems
+Tags:
+- Communications
+- Social Network
+- Forum
+MD: '- [phpBB](https://www.phpbb.com/) - Flat-forum bulletin board software solution
+  that can be used to stay in touch with a group of people or can power your entire
+  website. ([Source Code](https://github.com/phpbb/phpbb)) `GPL-2.0` `PHP`'
+SourceType: Github
+Line: 449

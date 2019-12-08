@@ -1,0 +1,16 @@
+ID: 859
+Name: Volition
+Description: Opinionated open-source task management.
+Source Code: https://github.com/usevolition/volition
+License:
+- MIT
+Languages:
+- Ruby
+C: Task management/To-do lists
+Tags:
+- To-Do
+- Task Mgmnt
+MD: '- [Volition](https://github.com/usevolition/volition) - Opinionated open-source
+  task management. `MIT` `Ruby`'
+SourceType: Github
+Line: 1360

@@ -1,0 +1,18 @@
+ID: 49
+Name: Poffer
+Description: Tool that makes it easier to share the content you like thanks to Pocket+Buffer.
+Source Code: https://github.com/Zhouzi/Poffer
+Website: http://poffer.gabinaureche.com
+License:
+- MIT
+Languages:
+- Nodejs
+C: Automation
+Tags:
+- Automation
+ProprietaryDependency: true
+MD: '- [Poffer](http://poffer.gabinaureche.com) `⚠` - Tool that makes it easier to
+  share the content you like thanks to Pocket+Buffer. ([Source Code](https://github.com/Zhouzi/Poffer))
+  `MIT` `Nodejs`'
+SourceType: Github
+Line: 177

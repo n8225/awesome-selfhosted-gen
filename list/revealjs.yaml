@@ -1,0 +1,19 @@
+ID: 614
+Name: revealjs
+Description: Framework for easily creating beautiful presentations using HTML.
+Source Code: https://github.com/hakimel/reveal.js
+Demo: https://revealjs.com/
+Website: https://revealjs.com
+License:
+- MIT
+Languages:
+- HTML5
+C: Misc/Other
+Tags:
+- Misc
+- Other
+MD: '- [revealjs](https://revealjs.com) - Framework for easily creating beautiful
+  presentations using HTML. ([Demo](https://revealjs.com/), [Source Code](https://github.com/hakimel/reveal.js))
+  `MIT` `JavaScript`'
+SourceType: Github
+Line: 985

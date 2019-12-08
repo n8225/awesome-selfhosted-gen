@@ -1,0 +1,19 @@
+ID: 658
+Name: Paperwork
+Description: OpenSource note-taking and archiving alternative to Evernote, Microsoft
+  OneNote and Google Keep.
+Source Code: https://github.com/twostairs/paperwork
+Website: http://paperwork.rocks
+License:
+- MIT
+Languages:
+- PHP
+C: Note-taking and Editors
+Tags:
+- Note-taking
+- Editor
+MD: '- [Paperwork](http://paperwork.rocks) - OpenSource note-taking and archiving
+  alternative to Evernote, Microsoft OneNote and Google Keep. ([Source Code](https://github.com/twostairs/paperwork))
+  `MIT` `PHP`'
+SourceType: Github
+Line: 1049

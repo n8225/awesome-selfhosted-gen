@@ -1,0 +1,16 @@
+ID: 463
+Name: Surfer
+Description: Simple static file server with webui to manage files.
+Source Code: https://github.com/nebulade/surfer
+License:
+- MIT
+Languages:
+- Nodejs
+C: File Sharing and Synchronization
+Tags:
+- File Sharing
+- Web File MGR
+MD: '- [Surfer](https://github.com/nebulade/surfer) - Simple static file server with
+  webui to manage files. `MIT` `Nodejs`'
+SourceType: Github
+Line: 769

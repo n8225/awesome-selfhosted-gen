@@ -52,13 +52,14 @@ func LSplit(lang string) []string {
 	}
 }
 
-// LangSplit creates new laguage slice from string
+// LangSplit creates new language slice from string
 func LangSplit(lang string) []string {
 	nLangs := LSplit(lang)
 	var mLangs []string
 	for _, lang := range nLangs {
 		mLangs = append(mLangs, langs[lang]...)
 	}
+	//fmt.Printf("%v\n", mLangs)
 	return mLangs
 }
 

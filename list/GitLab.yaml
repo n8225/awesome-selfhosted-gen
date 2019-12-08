@@ -1,0 +1,20 @@
+ID: 788
+Name: GitLab
+Description: Self Hosted Git repository management, code reviews, issue tracking,
+  activity feeds and wikis.
+Source Code: https://gitlab.com/gitlab-org/gitlab-ce
+Demo: https://gitlab.com/
+Website: http://gitlab.org/
+License:
+- MIT
+Languages:
+- Ruby
+C: Software Development
+Tags:
+- Software Dev
+- Project Mgmnt
+MD: '- [GitLab](http://gitlab.org/) - Self Hosted Git repository management, code
+  reviews, issue tracking, activity feeds and wikis. ([Demo](https://gitlab.com/),
+  [Source Code](https://gitlab.com/gitlab-org/gitlab-ce)) `MIT` `Ruby`'
+SourceType: Gitlab
+Line: 1246

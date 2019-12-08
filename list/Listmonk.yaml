@@ -1,0 +1,22 @@
+ID: 170
+Name: Listmonk
+Description: High performance, self-hosted newsletter and mailing list manager with
+  a modern dashboard.
+Source Code: https://github.com/knadh/listmonk
+Website: https://listmonk.app/
+License:
+- AGPL-3.0
+Languages:
+- Go
+C: Communication systems
+Tags:
+- Communications
+- Email
+- Mailng List
+- Newsletters
+- Mass mail
+MD: '- [Listmonk](https://listmonk.app/) - High performance, self-hosted newsletter
+  and mailing list manager with a modern dashboard. ([Source Code](https://github.com/knadh/listmonk))
+  `AGPL-3.0` `Go`'
+SourceType: Github
+Line: 356

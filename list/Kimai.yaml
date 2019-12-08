@@ -1,0 +1,18 @@
+ID: 603
+Name: Kimai
+Description: Simple time and project tracking.
+Source Code: https://github.com/kimai/kimai
+Demo: http://www.kimai.org/demo/
+Website: http://www.kimai.org/
+License:
+- GPL-3.0
+Languages:
+- PHP
+C: Misc/Other
+Tags:
+- Misc
+- Other
+MD: '- [Kimai](http://www.kimai.org/) - Simple time and project tracking. ([Demo](http://www.kimai.org/demo/),
+  [Source Code](https://github.com/kimai/kimai)) `GPL-3.0` `PHP`'
+SourceType: Github
+Line: 974

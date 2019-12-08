@@ -1,0 +1,22 @@
+ID: 215
+Name: BuddyPress
+Description: Powerful plugin that takes your WordPress.org powered site beyond the
+  blog with social-network features like user profiles, activity streams, user groups,
+  and more.
+Source Code: https://github.com/buddypress/BuddyPress
+Website: https://buddypress.org/about/
+License:
+- GPL-2.0
+Languages:
+- PHP
+C: Communication systems
+Tags:
+- Communications
+- Social Network
+- Forum
+MD: '- [BuddyPress](https://buddypress.org/about/) - Powerful plugin that takes your
+  WordPress.org powered site beyond the blog with social-network features like user
+  profiles, activity streams, user groups, and more. ([Source Code](https://github.com/buddypress/BuddyPress))
+  `GPL-2.0` `PHP`'
+SourceType: Github
+Line: 423

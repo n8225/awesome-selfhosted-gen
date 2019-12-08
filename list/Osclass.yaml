@@ -1,0 +1,17 @@
+ID: 334
+Name: Osclass
+Description: One-stop shop to building your own classifieds marketplace.
+Source Code: https://github.com/osclass/Osclass
+Website: https://osclass.org/
+License:
+- Apache-2.0
+Languages:
+- PHP
+C: Content Management Systems (CMS)
+Tags:
+- CMS
+- E-commerce
+MD: '- [Osclass](https://osclass.org/) - One-stop shop to building your own classifieds
+  marketplace. ([Source Code](https://github.com/osclass/Osclass)) `Apache-2.0` `PHP`'
+SourceType: Github
+Line: 572

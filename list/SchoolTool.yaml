@@ -1,0 +1,21 @@
+ID: 522
+Name: SchoolTool
+Description: SchoolTool is free administrative software for schools. It includes demographics,
+  gradebook, attendance, calendaring, reporting and more for primary and secondary
+  schools.
+Source Code: http://bazaar.launchpad.net/~schooltool-owners/schooltool/2.8/files
+Website: http://schooltool.org/
+License:
+- GPL-2.0
+Languages:
+- Python
+C: Learning and Courses
+Tags:
+- Learning
+- Courses
+- LMS
+MD: '- [SchoolTool](http://schooltool.org/) - SchoolTool is free administrative software
+  for schools. It includes demographics, gradebook, attendance, calendaring, reporting
+  and more for primary and secondary schools. ([Source Code](http://bazaar.launchpad.net/~schooltool-owners/schooltool/2.8/files))
+  `GPL-2.0` `Python`'
+Line: 865

@@ -1,0 +1,18 @@
+ID: 874
+Name: OTRS
+Description: Trouble ticket system for assigning tickets to incoming queries and tracking
+  further communications.
+Source Code: https://github.com/OTRS/otrs
+Website: http://www.otrs.com/
+License:
+- AGPL-3.0
+Languages:
+- Perl
+C: Ticketing
+Tags:
+- Ticketing
+MD: '- [OTRS](http://www.otrs.com/) - Trouble ticket system for assigning tickets
+  to incoming queries and tracking further communications. ([Source Code](https://github.com/OTRS/otrs))
+  `AGPL-3.0` `Perl`'
+SourceType: Github
+Line: 1382

@@ -1,0 +1,19 @@
+ID: 13
+Name: Suet
+Description: Detailed analytics and reporting for your Mailgun transactional emails.
+Source Code: https://github.com/kehers/suet
+Website: https://suet.co/
+License:
+- GPL-3.0
+Languages:
+- Nodejs
+C: Analytics
+Tags:
+- Analytics
+- Web Analytics
+ProprietaryDependency: true
+MD: '- [Suet](https://suet.co/) `⚠` - Detailed analytics and reporting for your Mailgun
+  transactional emails. ([Source Code](https://github.com/kehers/suet)) `GPL-3.0`
+  `Nodejs`'
+SourceType: Github
+Line: 123

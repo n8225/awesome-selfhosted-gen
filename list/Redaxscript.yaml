@@ -1,0 +1,18 @@
+ID: 310
+Name: Redaxscript
+Description: Ultra lightweight CMS for MySQL, SQLite and PostgreSQL.
+Source Code: https://github.com/redaxmedia/redaxscript
+Demo: https://demo.redaxscript.com/login
+Website: https://redaxscript.com
+License:
+- GPL-3.0
+Languages:
+- PHP
+C: Content Management Systems (CMS)
+Tags:
+- CMS
+MD: '- [Redaxscript](https://redaxscript.com) - Ultra lightweight CMS for MySQL, SQLite
+  and PostgreSQL. ([Demo](https://demo.redaxscript.com/login), [Source Code](https://github.com/redaxmedia/redaxscript))
+  `GPL-3.0` `PHP`'
+SourceType: Github
+Line: 542

@@ -1,0 +1,19 @@
+ID: 638
+Name: InvoicePlane
+Description: Manage quotes, invoices, payments and customers for your small business.
+Source Code: https://github.com/InvoicePlane/InvoicePlane
+Demo: https://demo.invoiceplane.com
+Website: https://invoiceplane.com/
+License:
+- MIT
+Languages:
+- PHP
+C: Money, Budgeting and Management
+Tags:
+- Money
+- Budget
+MD: '- [InvoicePlane](https://invoiceplane.com/) - Manage quotes, invoices, payments
+  and customers for your small business. ([Demo](https://demo.invoiceplane.com), [Source
+  Code](https://github.com/InvoicePlane/InvoicePlane)) `MIT` `PHP`'
+SourceType: Github
+Line: 1016

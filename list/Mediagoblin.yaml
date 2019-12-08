@@ -1,0 +1,18 @@
+ID: 722
+Name: Mediagoblin
+Description: Free software media publishing platform that anyone can run. You can
+  think of it as a decentralized alternative to Flickr, YouTube, SoundCloud, etc.
+Source Code: https://savannah.gnu.org/projects/mediagoblin
+Website: http://mediagoblin.org
+License:
+- AGPL-3.0
+Languages:
+- Python
+C: Photo and Video Galleries
+Tags:
+- Photo and Video Gallery
+MD: '- [Mediagoblin](http://mediagoblin.org) - Free software media publishing platform
+  that anyone can run. You can think of it as a decentralized alternative to Flickr,
+  YouTube, SoundCloud, etc. ([Source Code](https://savannah.gnu.org/projects/mediagoblin))
+  `AGPL-3.0` `Python`'
+Line: 1140

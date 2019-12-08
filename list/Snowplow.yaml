@@ -1,0 +1,21 @@
+ID: 12
+Name: Snowplow
+Description: Have every single event, from your websites, mobile apps, desktop applications
+  and server-side systems, stored in your own data warehouse and available to action
+  in real-time.
+Source Code: https://github.com/snowplow/
+Website: http://snowplowanalytics.com/
+License:
+- Apache-2.0
+Languages:
+- scala
+C: Analytics
+Tags:
+- Analytics
+- Web Analytics
+MD: '- [Snowplow](http://snowplowanalytics.com/) - Have every single event, from your
+  websites, mobile apps, desktop applications and server-side systems, stored in your
+  own data warehouse and available to action in real-time. ([Source Code](https://github.com/snowplow/))
+  `Apache-2.0` `Scala`'
+SourceType: Github
+Line: 122

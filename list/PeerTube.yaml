@@ -1,0 +1,20 @@
+ID: 580
+Name: PeerTube
+Description: Decentralized video streaming platform using P2P (BitTorrent) directly
+  in the web browser.
+Source Code: https://github.com/Chocobozzz/PeerTube
+Website: https://joinpeertube.org/en/
+License:
+- AGPL-3.0
+Languages:
+- Nodejs
+C: Media Streaming
+Tags:
+- Media
+- Streaming
+- Video
+MD: '- [PeerTube](https://joinpeertube.org/en/) - Decentralized video streaming platform
+  using P2P (BitTorrent) directly in the web browser. ([Source Code](https://github.com/Chocobozzz/PeerTube))
+  `AGPL-3.0` `Nodejs`'
+SourceType: Github
+Line: 946

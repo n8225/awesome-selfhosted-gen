@@ -1,0 +1,18 @@
+ID: 235
+Name: Newebe
+Description: Distributed Social Network.
+Source Code: https://github.com/gelnior/newebe
+Website: http://newebe.org/
+License:
+- AGPL-3.0
+Languages:
+- Python
+C: Communication systems
+Tags:
+- Communications
+- Social Network
+- Forum
+MD: '- [Newebe](http://newebe.org/) - Distributed Social Network. ([Source Code](https://github.com/gelnior/newebe))
+  `AGPL-3.0` `Python`'
+SourceType: Github
+Line: 443

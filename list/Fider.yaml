@@ -1,0 +1,19 @@
+ID: 741
+Name: Fider
+Description: Open source alternative to UserVoice for customer feedback.
+Source Code: https://github.com/getfider/fider
+Demo: https://demo.fider.io
+Website: http://getfider.com
+License:
+- MIT
+Languages:
+- Go
+C: Polls and Events
+Tags:
+- Polls
+- Events
+MD: '- [Fider](http://getfider.com) - Open source alternative to UserVoice for customer
+  feedback. ([Demo](https://demo.fider.io), [Source Code](https://github.com/getfider/fider))
+  `MIT` `Go`'
+SourceType: Github
+Line: 1164

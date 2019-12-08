@@ -1,0 +1,18 @@
+ID: 781
+Name: Yacy
+Description: Peer based, decentralized search engine server.
+Source Code: https://github.com/yacy/yacy_search_server
+Demo: http://search.yacy.net/
+Website: http://yacy.net/en/index.html
+License:
+- GPL-2.0
+Languages:
+- Java
+C: Search Engines
+Tags:
+- Search Engine
+MD: '- [Yacy](http://yacy.net/en/index.html) - Peer based, decentralized search engine
+  server. ([Demo](http://search.yacy.net/), [Source Code](https://github.com/yacy/yacy_search_server))
+  `GPL-2.0` `Java`'
+SourceType: Github
+Line: 1230

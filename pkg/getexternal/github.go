@@ -1,16 +1,19 @@
 package getexternal
 
 import (
-	"net/http"
-	"log"
-	"io/ioutil"
-	"encoding/json"
-	"strings"
 	"bytes"
+	"encoding/json"
 	"fmt"
+	"io/ioutil"
+	"log"
+	"net/http"
+	"net/url"
+	"strconv"
+	"strings"
+	"time"
 )
 
-// Gh struct receives Github api data
+// Gh struct receives Github v4 api data
 type Gh struct {
 	Data struct {
 		Repository struct {
@@ -35,154 +38,169 @@ type Gh struct {
 				} `json:"target"`
 			} `json:"defaultBranchRef"`
 		} `json:"repository"`
-	} `json:"data"`
-	Errors []struct {
-		Message string `json:"message"`
-		Type    string `json:"type"`
-		Path []string `json:"path"`
-	} `json:"errors"`
-}
-
-type GHnoRepo struct {
-	Data struct {
 		RepositoryOwner struct {
 			PinnedRepositories struct {
 				Edges []struct {
-					Node struct { 
+					Node struct {
 						Name string `json:"nameWithOwner"`
-					}`json:"node"`
+					} `json:"node"`
 				} `json:"edges"`
 			} `json:"pinnedRepositories"`
 			Repositories struct {
 				Edges []struct {
 					Node struct {
 						Name string `json:"nameWithOwner"`
-					}`json:"node"`
-				}`json:"edges"`
-			}`json:"Repositories"`
+					} `json:"node"`
+				} `json:"edges"`
+			} `json:"Repositories"`
 		} `json:"repositoryOwner"`
 	} `json:"data"`
 	Errors []struct {
-		Message string `json:"message"`
-		Type    string `json:"type"`
-		Path []string `json:"path"`
+		Message string   `json:"message"`
+		Type    string   `json:"type"`
+		Path    []string `json:"path"`
 	} `json:"errors"`
-} 
+}
 
+// //GHnoRepo struct receives Github api data when we are guessing
+// type GHnoRepo struct {
+// 	Data struct {
+// 		RepositoryOwner struct {
+// 			PinnedRepositories struct {
+// 				Edges []struct {
+// 					Node struct {
+// 						Name string `json:"nameWithOwner"`
+// 					} `json:"node"`
+// 				} `json:"edges"`
+// 			} `json:"pinnedRepositories"`
+// 			Repositories struct {
+// 				Edges []struct {
+// 					Node struct {
+// 						Name string `json:"nameWithOwner"`
+// 					} `json:"node"`
+// 				} `json:"edges"`
+// 			} `json:"Repositories"`
+// 		} `json:"repositoryOwner"`
+// 	} `json:"data"`
+// 	Errors []struct {
+// 		Message string   `json:"message"`
+// 		Type    string   `json:"type"`
+// 		Path    []string `json:"path"`
+// 	} `json:"errors"`
+// }
 
-// GetGHRepo uses the github APIv4 (GRAPHQL) to retrieve star count, last commit, license, and language info. If the repository has moved or there is an error it will fall back to APIv3.
-func GetGHRepo(ur, ght, src string) (stars int, commitDate, license, language, srcUpdate string) {
-	ur = strings.TrimPrefix(strings.TrimSuffix(ur, "/"), "/")
-	if strings.Contains(ur, "/") != true {
-		//log.Printf("No repository provided. Update %s to include a repo.", ur)
-		fmt.Println("Sending " + ur + " to repo chooser.")
-		ur = chooseRepo(ur, ght)
-		fmt.Println("fixed: " + ur)
-		//return 0, "", "", "", src
+//ghv3 is the struct for the v3 github api
+type ghv3 struct {
+	FullName string `json:"full_name"`
+	Stars    int    `json:"stargazers_count"`
+	Created  string `json:"created_at"`
+	Updated  string `json:"pushed_at"`
+	License  struct {
+		SpdxID string `json:"spdx_id"`
+	} `json:"license"`
+	Language string `json:"language"`
+}
+
+//GetGH uses the github APIv4 (GRAPHQL) to retrieve star count, last commit, license, and language info. If the repository has moved or there is an error it will fall back to APIv3.
+func GetGH(ghURL, ght string, hasErrors []string) (int, string, string, string, []string) {
+
+	ownRepo := strings.TrimPrefix(strings.TrimSuffix(getOwnRepo(ghURL, ght), "/"), "/")
+
+	if strings.Contains(ownRepo, "/") != true {
+		ownRepo, hasErrors = chooseRepo(ownRepo, ght)
+		if hasErrors != nil {
+			return 0, "", "", "", hasErrors
+		}
+		hasErrors = append(hasErrors, "Repo not provided in Source code URL, guessed to be https://www.github.com/"+ownRepo)
 	}
-	r := strings.Split(ur, "/")
-	fmt.Println(r)
-	if r[1] == "" {
-		//log.Printf("No repository provided. Update %s to include a repo.", ur)
-		//return 0, "", "", "", src
-		fmt.Println("Sending " + ur + " to repo chooser.")
-		r = strings.Split(chooseRepo(ur, ght), "/")
-	}
+	r := strings.Split(ownRepo, "/")
 
 	var jsonStr = []byte(`{"query":"{repository(owner:\"` + r[0] + `\",name:\"` + r[1] + `\"){stargazers{totalCount}licenseInfo{spdxId}primaryLanguage{name}defaultBranchRef{target{... on Commit{history(first: 1){edges{node{committedDate}}}}}}}}"}`)
-	log.Printf("Body: %s\n", jsonStr)
-	req, err := http.NewRequest("POST", "https://api.github.com/graphql", bytes.NewBuffer(jsonStr))
-
-	req.Header.Set("Authorization", "bearer "+ght)
-	req.Header.Set("Accept", "application/vnd.github.quicksilver-preview+json")
-	req.Header.Set("Content-Type", "application/json")
-	//log.Printf("req: ", req.Body)
-
-	client := &http.Client{}
-	res, err := client.Do(req)
-	if err != nil {
-		log.Fatal(err)
-	}
-	defer res.Body.Close()
-	if err != nil {
-		log.Fatal(err)
-	}
-	body, err := ioutil.ReadAll(res.Body)
-	//log.Printf("Body: %s\n", body)
-
 	gh := &Gh{}
-	err = json.Unmarshal(body, &gh)
+	err := json.Unmarshal(ghClientv4(ght, jsonStr), &gh)
 	if err != nil {
 		log.Fatal(err)
 	}
 	//Fallback to github v3 api on error
 	if gh.Data.Repository.Stargazers.TotalCount == 0 {
-		log.Printf("Error: https://github.com/%s/%s => %v Trying github api v3.  ", r[0], r[1], gh.Errors[0].Message)
-		return ghv3api(r[0], r[1], ght, srcUpdate)
+		return ghv3api(r[0], r[1], ght)
 	}
-	return gh.Data.Repository.Stargazers.TotalCount, strings.Split(gh.Data.Repository.DefaultBranchRef.Target.History.Edges[0].Node.CommittedDate, "T")[0], gh.Data.Repository.LicenseInfo.SpdxID, gh.Data.Repository.PrimaryLanguage.Name, src
+	return gh.Data.Repository.Stargazers.TotalCount, strings.Split(gh.Data.Repository.DefaultBranchRef.Target.History.Edges[0].Node.CommittedDate, "T")[0], gh.Data.Repository.LicenseInfo.SpdxID, gh.Data.Repository.PrimaryLanguage.Name, hasErrors
 }
 
-func ghv3api(u, r, ght, src string) (stars int, commitDate, license, language, srcUpdate string) {
-	ghURL := "https://api.github.com/repos/" + u + "/" + r + "?"
+func ghv3api(u, r, ght string) (stars int, commitDate, license, language string, hasError []string) {
+	body, hasError := ghClientv3(ght, u, r)
+	if hasError != nil {
+		return 0, "", "", "", hasError
+	}
 
-
-	req, err := http.NewRequest("GET", ghURL, nil)
-	req.Header.Set("Authorization", "bearer "+ght)
-	client := http.Client{}
-	res, err := client.Do(req)
+	gh := ghv3{}
+	err := json.Unmarshal(body, &gh)
 	if err != nil {
 		log.Fatal(err)
 	}
-	if res.StatusCode != 200 {
-		log.Printf("StatusCode: %v. Source link is invalid: %v/%v\n", res.StatusCode, u, r)
-		return 0, "", "", "", srcUpdate
-	}
-
-	// read body
-	body, err := ioutil.ReadAll(res.Body)
-	res.Body.Close()
-	if err != nil {
-		log.Fatal(err)
-	}
-	//log.Printf("Body: %s\n", body)
-
-	type Gh struct {
-		FullName string `json:"full_name"`
-		Stars    int    `json:"stargazers_count"`
-		Created  string `json:"created_at"`
-		Updated  string `json:"pushed_at"`
-		License struct {
-			SpdxID string `json:"spdx_id"`
-		} `json:"license"`
-		Language string `json:"language"`
-
-	}
-	gh := Gh{}
-	err = json.Unmarshal(body, &gh)
-	if err != nil {
-		log.Fatal(err)
-	}
-	log.Printf("Update https://github.com/%s/%s Source code link to: https://github.com/%s\n", u, r, gh.FullName)
+	hasError = append(hasError, "Update https://github.com/"+u+"/"+r+" Source code link to: https://github.com/"+gh.FullName)
 	if "/"+u+"/"+r != gh.FullName {
-		log.Printf("Retrying Github api v4 with %s", gh.FullName)
-		GetGHRepo(gh.FullName, ght, gh.FullName)
+		GetGH(gh.FullName, ght, hasError)
 	}
-	return gh.Stars, strings.Split(gh.Updated, "T")[0], gh.License.SpdxID, gh.Language, gh.FullName
+	return gh.Stars, strings.Split(gh.Updated, "T")[0], gh.License.SpdxID, gh.Language, hasError
 }
 
-func chooseRepo(ur, ght string) (url string) { 
-	fmt.Println(ur)
-	var jsonStr = []byte(`{"query":"{repositoryOwner(login:\"` + ur + `\"){pinnedRepositories(first: 1, orderBy: {direction: DESC, field: STARGAZERS}){edges{node{nameWithOwner}}}repositories(last:1, orderBy: {direction: ASC, field: STARGAZERS}){edges{node{nameWithOwner}}}}}"}`)
-	//log.Printf("Body: %s\n", jsonStr)
-	req, err := http.NewRequest("POST", "https://api.github.com/graphql", bytes.NewBuffer(jsonStr))
+// chooserepo guesses the missing repo. It doesn't do a very good job.
+func chooseRepo(ur, ght string) (url string, haserr []string) {
+	var jsonStr = []byte(`{"query":"{repositoryOwner(login:\"` + ur + `\"){repositories(first: 100, orderBy: {direction: DESC, field: STARGAZERS}){edges{node{nameWithOwner}}}pinnedRepositories(first: 1, orderBy: {direction: DESC, field: STARGAZERS}){edges{node{nameWithOwner}}}}}"}`)
 
+	gh := &Gh{}
+	err := json.Unmarshal(ghClientv4(ght, jsonStr), &gh)
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	if len(gh.Data.RepositoryOwner.Repositories.Edges) == 1 {
+		return gh.Data.RepositoryOwner.Repositories.Edges[0].Node.Name, nil
+	}
+	for _, r := range gh.Data.RepositoryOwner.PinnedRepositories.Edges {
+		if r.Node.Name == ur {
+			return r.Node.Name, nil
+		} else if strings.Contains(r.Node.Name, "serve") == true {
+			return r.Node.Name, nil
+		} else if strings.Contains(r.Node.Name, "back") == true {
+			return r.Node.Name, nil
+		} else if strings.Contains(r.Node.Name, "api") == true {
+			return r.Node.Name, nil
+		}
+	}
+	for _, r := range gh.Data.RepositoryOwner.Repositories.Edges {
+		if r.Node.Name == ur {
+			return r.Node.Name, nil
+		} else if strings.Contains(r.Node.Name, "serve") == true {
+			return r.Node.Name, nil
+		} else if strings.Contains(r.Node.Name, "back") == true {
+			return r.Node.Name, nil
+		} else if strings.Contains(r.Node.Name, "api") == true {
+			return r.Node.Name, nil
+		} else if strings.Contains(r.Node.Name, ur) == true {
+			return r.Node.Name, nil
+		}
+	}
+	// if len(gh.Data.RepositoryOwner.PinnedRepositories.Edges) >= 2 {
+	// 	return gh.Data.RepositoryOwner.Repositories.Edges[0].Node.Name
+	// }
+	haserr = append(haserr, ur+" did not match or does not exist.")
+	return "", haserr
+}
+
+func ghClientv4(ght string, jsonStr []byte) []byte {
+	req, err := http.NewRequest("POST", "https://api.github.com/graphql", bytes.NewBuffer(jsonStr))
+	if err != nil {
+		log.Fatal(err)
+	}
 	req.Header.Set("Authorization", "bearer "+ght)
 	req.Header.Set("Accept", "application/vnd.github.quicksilver-preview+json")
 	req.Header.Set("Content-Type", "application/json")
-	//log.Printf("req: ", req.Body)
-
-	client := &http.Client{}
+	client := &http.Client{
+		Timeout: time.Duration(5 * time.Second),
+	}
 	res, err := client.Do(req)
 	if err != nil {
 		log.Fatal(err)
@@ -192,17 +210,44 @@ func chooseRepo(ur, ght string) (url string) {
 		log.Fatal(err)
 	}
 	body, err := ioutil.ReadAll(res.Body)
-	log.Printf("Body: %s\n", body)
-
-	gh := &GHnoRepo{}
-	err = json.Unmarshal(body, &gh)
 	if err != nil {
 		log.Fatal(err)
-		return ""
 	}
-	if len(gh.Data.RepositoryOwner.PinnedRepositories.Edges) == 0 {
-		fmt.Println("ln24 true " + ur)
-		return gh.Data.RepositoryOwner.Repositories.Edges[0].Node.Name
+	return body
+}
+
+func ghClientv3(ght, u, r string) ([]byte, []string) {
+	url := "https://api.github.com/repos/" + u + "/" + r + "?"
+	var hasError []string
+	req, err := http.NewRequest("GET", url, nil)
+	if err != nil {
+		log.Fatal(err)
 	}
-	return gh.Data.RepositoryOwner.PinnedRepositories.Edges[0].Node.Name
+	req.Header.Set("Authorization", "bearer "+ght)
+	client := http.Client{
+		Timeout: time.Duration(5 * time.Second),
+	}
+	res, err := client.Do(req)
+	if err != nil {
+		log.Fatal(err)
+	}
+	if res.StatusCode != 200 {
+		hasError = append(hasError, "StatusCode: "+strconv.Itoa(res.StatusCode)+". Source link is invalid: "+u+"/"+r)
+		return nil, hasError
+	}
+	body, err := ioutil.ReadAll(res.Body)
+	res.Body.Close()
+	if err != nil {
+		log.Fatal(err)
+	}
+	return body, hasError
+}
+
+//getOwnRepo parses the owner and repo from a github url
+func getOwnRepo(ghURL, ght string) string {
+	u, err := url.Parse(ghURL)
+	if err != nil {
+		fmt.Println(err)
+	}
+	return u.Path
 }

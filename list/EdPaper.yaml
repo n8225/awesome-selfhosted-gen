@@ -1,0 +1,15 @@
+ID: 351
+Name: EdPaper
+Description: PDF organizer with users management.
+Source Code: https://github.com/Edraens/EdPaper
+License:
+- MIT
+Languages:
+- PHP
+C: Document Management
+Tags:
+- Doc Mgmnt
+MD: '- [EdPaper](https://github.com/Edraens/EdPaper) - PDF organizer with users management.
+  `MIT` `PHP`'
+SourceType: Github
+Line: 601

@@ -1,0 +1,21 @@
+ID: 19
+Name: Access to Memory (AtoM)
+Description: Web-based, open source application for standards-based archival description
+  and access in a multilingual, multi-repository environment.
+Source Code: https://github.com/artefactual/atom
+Demo: https://demo.accesstomemory.org/
+Website: https://www.accesstomemory.org/
+License:
+- AGPL-3.0-only
+Languages:
+- PHP
+C: Archiving and Digital Preservation (DP)
+Tags:
+- archiving
+- Digital Preservation
+MD: '- [Access to Memory (AtoM)](https://www.accesstomemory.org/) - Web-based, open
+  source application for standards-based archival description and access in a multilingual,
+  multi-repository environment. ([Demo](https://demo.accesstomemory.org/), [Source
+  Code](https://github.com/artefactual/atom)) `AGPL-3.0-only` `PHP`'
+SourceType: Github
+Line: 142

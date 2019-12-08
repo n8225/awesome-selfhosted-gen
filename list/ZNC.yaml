@@ -1,0 +1,17 @@
+ID: 198
+Name: ZNC
+Description: Advanced IRC bouncer.
+Source Code: https://github.com/znc/znc
+Website: http://wiki.znc.in/ZNC
+License:
+- Apache-2.0
+Languages:
+- C++
+C: Communication systems
+Tags:
+- Communications
+- IRC
+MD: '- [ZNC](http://wiki.znc.in/ZNC) - Advanced IRC bouncer. ([Source Code](https://github.com/znc/znc))
+  `Apache-2.0` `C++`'
+SourceType: Github
+Line: 394

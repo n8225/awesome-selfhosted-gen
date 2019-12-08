@@ -1,0 +1,18 @@
+ID: 252
+Name: Tokumei
+Description: Anonymous microblogging platform.
+Source Code: https://gitlab.com/tokumei/tokumei
+Website: https://tokumei.co/
+License:
+- ISC
+Languages:
+- rc
+C: Communication systems
+Tags:
+- Communications
+- Social Network
+- Forum
+MD: '- [Tokumei](https://tokumei.co/) - Anonymous microblogging platform. ([Source
+  Code](https://gitlab.com/tokumei/tokumei)) `ISC` `rc`'
+SourceType: Gitlab
+Line: 460
