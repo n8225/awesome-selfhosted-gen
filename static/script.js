@@ -1,43 +1,37 @@
-var entries, langSelect = "";
+var list, langSelect = "";
 var tagSelect = new Array;
 
-var requestURL = 'static/list.min.json';
-var request = new XMLHttpRequest();
-request.open('GET', requestURL);
-request.responseType = 'json';
-request.send();
-
-request.onload = function() {
-        if (window.matchMedia("(max-width: 752px)").matches) {
-            document.getElementById("panel-l").checked = false;
-            document.getElementById("panel-t").checked = false;
-        }
-    entries = request.response.Entries;
-    cats = request.response.Cats
-    var tags = request.response.Tags;
-    var langs = request.response.Langs;
-    populateTags(tags);
-    populateLangs(langs);
-    populateEntries();
-
-};
+window.onload = function() {
+    if (window.matchMedia("(max-width: 752px)").matches) {
+        document.getElementById("panel-l").checked = false;
+        document.getElementById("panel-t").checked = false;
+    }
+}
+    fetch('static/list.min.json')
+        .then(res => res.json())
+            .then(res => {
+                list = res
+                populateTags(list.Tags);
+                populateLangs(list.Langs);
+                displayFilters();
+                populateEntries();
+    })
 function clrLang() {
     langSelect = "";
+    displayFilters();
     populateEntries();
 }
-
 function remove(array, element) {
     const index = array.indexOf(element);
    array.splice(index, 1);
 }
-
 function clrTags(t) {
    remove(tagSelect, t);
+   displayFilters();
     populateEntries();
 }
-
 function displayFilters() {
-    var del = "<span class='tag is-danger' onclick='goHome()'>Clear All</span>";
+    const del = "<span class='tag is-danger' onclick='goHome()'>Clear All</span>";
     var lang = "<span class='tag is-success'>" + langSelect + "<button onclick='clrLang()' class='delete is-small'></button></span>";
     var tags = "";
     for (i in tagSelect) {
@@ -61,23 +55,22 @@ function displayFilters() {
             document.getElementById("filters").classList.remove("notification");
     }
 };
-
 function populateLangs(lObj) {
     var z, txt3 = "";
     for (z in lObj) {
         txt3 += "<span id='" + lObj[z].Lang + "' class='tag is-success' onClick='langPicker(`" + lObj[z].Lang + "`)'>" + lObj[z].Lang + "</span>"
     }
     document.getElementById("lang").innerHTML = txt3;
+    displayFilters();
 }
-
 function populateTags(tObj) {
     var z, txt = "";
     for (z in tObj) {
         txt += "<span id='" + tObj[z].Tag + "' class='tag is-link' onClick='tagPicker(`" + tObj[z].Tag + "`)'>" + tObj[z].Tag + "</span>"
     }
     document.getElementById("tagList").innerHTML = txt;
+    displayFilters();
 }
-
 const namea = `<article class="media"><div class="media-content"><span class="field is-grouped is-grouped-multiline"><span class="control"><strong>`
 const nameb = `</strong></span>`
 const propri = `<span class="control"><a class="icon has-text-warning"><i class="fas fa-lg fa-exclamation-triangle"></i></a></span>`
@@ -96,32 +89,31 @@ const entriesb = `</p></div></article>`
 
 function populateEntries() {
     var x, y, txt = "";
-    for (y in cats) {
-        var ctxt = "<div class='box'><article class='message'><div class='message-header'><p>" + cats[y].Cat + "</p></div></article>"
+    document.getElementById("demo").innerHTML = ""
+    for (y in list.Cats) {
+        var ctxt = "<div class='box'><article class='message'><div class='message-header'><p>" + list.Cats[y].Cat + "</p></div></article>"
         var etxt = ""
-        for (x in entries) {
-            if (entries[x].C === cats[y].Cat) {
-                if (!tagSelect.some(ele => !entries[x].T.includes(ele) || tagSelect === []) && (entries[x].La.includes(langSelect) || langSelect === "")) {
-                    etxt += namea + entries[x].N + nameb;
-                    if (entries[x].P !== undefined) {etxt += propri;}
-                    if (entries[x].NF !== undefined) {etxt += nonf;}
-                    etxt += parseArr(entries[x].T, "tag");
-                    if (entries[x].stars !== undefined) {etxt += date + entries[x].update + stara + entries[x].stars + starb;}
-                    etxt += getL(entries[x].Li) + parseArr(entries[x].La, "lang");
-                    etxt += linka + entries[x].Sr + linkb + src;
-                    if (entries[x].Si !== undefined) {etxt +=linka + entries[x].Si + linkb + site;}
-                    if (entries[x].Dem !== undefined) {etxt +=linka + entries[x].Dem + linkb + demo;}
-                    if (entries[x].CL !== undefined) {etxt +=linka + entries[x].CL + linkb + client;}
-                    etxt += entriesa + entries[x].D + entriesb
+        for (x in list.Entries) {
+            if (list.Entries[x].C === list.Cats[y].Cat) {
+                if (!tagSelect.some(ele => !list.Entries[x].T.includes(ele) || tagSelect === []) && (list.Entries[x].La.includes(langSelect) || langSelect === "")) {
+                    etxt += namea + list.Entries[x].N + nameb;
+                    if (list.Entries[x].P !== undefined) {etxt += propri;}
+                    if (list.Entries[x].NF !== undefined) {etxt += nonf;}
+                    etxt += parseArr(list.Entries[x].T, "tag");
+                    if (list.Entries[x].stars !== undefined) {etxt += date + list.Entries[x].update + stara + list.Entries[x].stars + starb;}
+                    etxt += getL(list.Entries[x].Li) + parseArr(list.Entries[x].La, "lang");
+                    etxt += linka + list.Entries[x].Sr + linkb + src;
+                    if (list.Entries[x].Si !== undefined) {etxt +=linka + list.Entries[x].Si + linkb + site;}
+                    if (list.Entries[x].Dem !== undefined) {etxt +=linka + list.Entries[x].Dem + linkb + demo;}
+                    if (list.Entries[x].CL !== undefined) {etxt +=linka + list.Entries[x].CL + linkb + client;}
+                    etxt += entriesa + list.Entries[x].D + entriesb
                 }
             }    
         }
         if (etxt !== "") {
-            txt += ctxt + etxt + "</div>"
+            document.getElementById("demo").innerHTML += ctxt + etxt + "</div>"
         }
     }
-    document.getElementById("demo").innerHTML = txt;
-    displayFilters();
 }
 
 function getDates(u, s) {
@@ -132,49 +124,28 @@ function getDates(u, s) {
         return ""
     }
 }
-
-// function populateAllEntries() {
-//     var x,y, txt = "";
-//     for (y in cats) {
-//         txt += "<div class='box'><article class='message'><div class='message-header'><p>" + cats[y].Cat + "</p></div></article>"
-//         for (x in entries) {
-//             if (entries[x].C === cats[y].Cat ) {
-//                 txt += namea + entries[x].N + nameb;
-//                 if (entries[x].P !== undefined) {txt += propri;}
-//                 if (entries[x].NF !== undefined) {txt += nonf;}
-//                 txt += parseArr(entries[x].T, "tag", entries[x].N);
-//                 if (entries[x].stars !== undefined) {txt += date + entries[x].update + stara + entries[x].stars + starb;}
-//                 txt += getL(entries[x].Li, entries[x].N) + parseArr(entries[x].La, "lang", entries[x].N) + linka + entries[x].Sr + linkb + src;
-//                 if (entries[x].Si !== undefined) {txt +=linka + entries[x].Si + linkb + site;}
-//                 if (entries[x].Dem !== undefined) {txt +=linka + entries[x].Dem + linkb + demo;}
-//                 if (entries[x].CL !== undefined) {txt +=linka + entries[x].CL + linkb + client;}
-//                 txt += entriesa + entries[x].D + entriesb
-//             }
-//         }
-//         txt += "</div>"
-//     }
-//     document.getElementById("demo").innerHTML = txt;
-// }
-
 function goHome() {
     tagSelect = [];
     langSelect = "";
-    rmvActive();
+    displayFilters();
     populateEntries()
+    //rmvActive();
 }
-function rmvActive() {
-    let els = document.getElementsByClassName('is-active');
-    while (els[0]) {
-        els[0].classList.remove('is-active')
-    }
-}
+// function rmvActive() {
+//     let els = document.getElementsByClassName('is-active');
+//      while (els[0]) {
+//          els[0].classList.remove('is-active')
+//      }
+// }
 function tagPicker(t) {
     tagSelect.push(t);
+    displayFilters();
     populateEntries()
 }
 function langPicker(l) {
-    rmvActive();
+    //rmvActive();
     langSelect = l;
+        displayFilters();
     populateEntries()
 }
 function parseArr(e, t, n) {

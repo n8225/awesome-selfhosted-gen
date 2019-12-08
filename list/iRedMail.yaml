@@ -1,4 +1,4 @@
-ID: 147
+ID: 144
 Name: iRedMail
 Description: Full-featured mail server solution based on Postfix and Dovecot.
 Source Code: https://bitbucket.org/zhb/iredmail/commits/
@@ -15,4 +15,4 @@ Tags:
 MD: '- [iRedMail](http://www.iredmail.org/) - Full-featured mail server solution based
   on Postfix and Dovecot. ([Source Code](https://bitbucket.org/zhb/iredmail/commits/))
   `GPL-3.0` `Shell`'
-Line: 318
+Line: 315

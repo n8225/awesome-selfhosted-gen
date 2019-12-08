@@ -1,9 +1,8 @@
-ID: 746
+ID: 748
 Name: Open Event Server
 Description: Enables organizers to manage events from concerts to conferences and
   meet-ups.
 Source Code: https://github.com/fossasia/open-event-server
-Demo: https://open-event-api.herokuapp.com/
 License:
 - GPL-3.0
 Languages:
@@ -13,7 +12,7 @@ Tags:
 - Polls
 - Events
 MD: '- [Open Event Server](https://github.com/fossasia/open-event-server) - Enables
-  organizers to manage events from concerts to conferences and meet-ups. ([Demo](https://open-event-api.herokuapp.com/))
-  `GPL-3.0` `Python`'
+  organizers to manage events from concerts to conferences and meet-ups. `GPL-3.0`
+  `Python`'
 SourceType: Github
-Line: 1169
+Line: 1175

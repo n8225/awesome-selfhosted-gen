@@ -1,4 +1,4 @@
-ID: 384
+ID: 395
 Name: Screaming Liquid Tiger
 Description: Simple script to automatically generate valid RSS and Atom feeds from
   a list of media files in the same folder.
@@ -15,4 +15,4 @@ MD: '- [Screaming Liquid Tiger](https://github.com/herrbischoff/screaming-liquid
   - Simple script to automatically generate valid RSS and Atom feeds from a list of
   media files in the same folder. `MIT` `PHP`'
 SourceType: Github
-Line: 660
+Line: 674

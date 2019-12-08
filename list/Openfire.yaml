@@ -1,4 +1,4 @@
-ID: 260
+ID: 258
 Name: Openfire
 Description: Real time collaboration (RTC) server.
 Source Code: https://github.com/igniterealtime/Openfire
@@ -16,4 +16,4 @@ MD: '- [Openfire](http://www.igniterealtime.org/projects/openfire/) - Real time 
   (RTC) server. ([Source Code](https://github.com/igniterealtime/Openfire)) `Apache-2.0`
   `Java`'
 SourceType: Github
-Line: 477
+Line: 475

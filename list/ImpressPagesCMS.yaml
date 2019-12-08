@@ -1,4 +1,4 @@
-ID: 294
+ID: 292
 Name: ImpressPages CMS
 Description: Easy code meets easy admin.
 Source Code: https://github.com/impresspages/ImpressPages
@@ -16,4 +16,4 @@ MD: '- [ImpressPages CMS](https://www.impresspages.org/) - Easy code meets easy 
   ([Demo](https://www.impresspages.org/demo), [Source Code](https://github.com/impresspages/ImpressPages))
   `GPL-3.0/MIT` `PHP`'
 SourceType: Github
-Line: 526
+Line: 524

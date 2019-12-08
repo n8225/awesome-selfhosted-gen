@@ -1,4 +1,4 @@
-ID: 199
+ID: 197
 Name: Asterisk
 Description: Easy to use but advanced IP PBX system, VoIP gateway and conference server.
 Source Code: http://www.asterisk.org/
@@ -12,4 +12,4 @@ Tags:
 - SIP
 MD: '- [Asterisk](http://www.asterisk.org/) - Easy to use but advanced IP PBX system,
   VoIP gateway and conference server. `GPL-2.0` `C`'
-Line: 402
+Line: 400

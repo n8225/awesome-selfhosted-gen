@@ -1,4 +1,4 @@
-ID: 232
+ID: 230
 Name: Mastodon
 Description: Federated microblogging server, an alternative to GNU social.
 Source Code: https://github.com/tootsuite/mastodon
@@ -16,4 +16,4 @@ MD: '- [Mastodon](https://joinmastodon.org/) - Federated microblogging server, a
   alternative to GNU social. ([Source Code](https://github.com/tootsuite/mastodon))
   `AGPL-3.0` `Ruby`'
 SourceType: Github
-Line: 440
+Line: 438

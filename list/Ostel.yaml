@@ -1,4 +1,4 @@
-ID: 207
+ID: 205
 Name: Ostel
 Description: Secure SIP telephony setup with ZRTP encryption.
 Source Code: https://dev.guardianproject.info/projects/ostel/wiki/Server_Documentation
@@ -12,4 +12,4 @@ Tags:
 - SIP
 MD: '- [Ostel](https://dev.guardianproject.info/projects/ostel/wiki/Server_Documentation)
   - Secure SIP telephony setup with ZRTP encryption. `GPL-3.0` `Ruby`'
-Line: 410
+Line: 408

@@ -1,4 +1,4 @@
-ID: 826
+ID: 828
 Name: LocalStack
 Description: LocalStack is a fully functional local AWS cloud stack. This includes
   Lambda for serverless computation.
@@ -17,4 +17,4 @@ MD: '- [LocalStack](https://localstack.cloud/) - LocalStack is a fully functiona
   local AWS cloud stack. This includes Lambda for serverless computation. ([Source
   Code](https://github.com/localstack/localstack)) `Apache-2.0` `Python/Other`'
 SourceType: Github
-Line: 1303
+Line: 1309

@@ -1,4 +1,4 @@
-ID: 56
+ID: 55
 Name: Sonarr
 Description: Automatic TV Shows downloader and manager for Usenet and BitTorrent.
   It can grab, sort and rename new episodes and automatically upgrade the quality
@@ -17,4 +17,4 @@ MD: '- [Sonarr](https://sonarr.tv/) - Automatic TV Shows downloader and manager 
   upgrade the quality of files already downloaded when a better quality format becomes
   available. ([Source Code](https://github.com/Sonarr/Sonarr)) `GPL-3.0` `C#`'
 SourceType: Github
-Line: 184
+Line: 183

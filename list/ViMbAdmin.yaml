@@ -1,4 +1,4 @@
-ID: 619
+ID: 620
 Name: ViMbAdmin
 Description: Provides a web based virtual mailbox administration system to allow mail
   administrators to easily manage domains, mailboxes and aliases.
@@ -18,4 +18,4 @@ MD: '- [ViMbAdmin](http://www.vimbadmin.net/) - Provides a web based virtual mai
   and aliases. ([Demo](http://www.vimbadmin.net/demo/auth/login), [Source Code](https://github.com/opensolutions/ViMbAdmin))
   `GPL-3.0` `PHP`'
 SourceType: Github
-Line: 990
+Line: 995

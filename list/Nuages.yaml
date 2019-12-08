@@ -1,4 +1,4 @@
-ID: 745
+ID: 747
 Name: Nuages
 Description: Collaborative meeting poll system, similar to doodle or rdvz.
 Source Code: http://git.domainepublic.net/?p=nuages.git;a=tree
@@ -14,4 +14,4 @@ Tags:
 MD: '- [Nuages](https://nuages.domainepublic.net/) - Collaborative meeting poll system,
   similar to doodle or rdvz. ([Source Code](http://git.domainepublic.net/?p=nuages.git;a=tree))
   `GPL-3.0` `Python`'
-Line: 1168
+Line: 1174

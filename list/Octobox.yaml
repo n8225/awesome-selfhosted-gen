@@ -1,4 +1,4 @@
-ID: 797
+ID: 799
 Name: Octobox
 Description: Take back control of your GitHub Notifications.
 Source Code: https://github.com/octobox/octobox
@@ -15,4 +15,4 @@ ProprietaryDependency: true
 MD: '- [Octobox](https://octobox.io/) `⚠` - Take back control of your GitHub Notifications.
   ([Source Code](https://github.com/octobox/octobox)) `AGPL-3.0` `Ruby`'
 SourceType: Github
-Line: 1255
+Line: 1261

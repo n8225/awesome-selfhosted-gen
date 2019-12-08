@@ -1,4 +1,4 @@
-ID: 134
+ID: 131
 Name: Spreed
 Description: WebRTC audio/video calls, conferencing server, and web client.
 Source Code: https://github.com/strukturag/spreed-webrtc
@@ -14,4 +14,4 @@ MD: '- [Spreed](https://www.spreed.me/) - WebRTC audio/video calls, conferencing
   and web client. ([Source Code](https://github.com/strukturag/spreed-webrtc)) `AGPL-3.0`
   `Go`'
 SourceType: Github
-Line: 296
+Line: 293

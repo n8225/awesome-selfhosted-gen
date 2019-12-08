@@ -1,4 +1,4 @@
-ID: 164
+ID: 161
 Name: Sendmail
 Description: Message transfer agent (MTA).
 Source Code: http://www.sendmail.com/sm/open_source/
@@ -14,4 +14,4 @@ Tags:
 - SMTP
 MD: '- [Sendmail](http://www.sendmail.com/sm/open_source/) - Message transfer agent
   (MTA). `Sendmail` `C`'
-Line: 340
+Line: 337

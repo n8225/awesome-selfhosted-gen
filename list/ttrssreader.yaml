@@ -1,4 +1,4 @@
-ID: 392
+ID: 388
 Name: ttrss-reader
 Description: Light and responsive client for TTRSS.
 Source Code: https://github.com/kucrut/ttrss-reader
@@ -13,4 +13,4 @@ Tags:
 MD: '  - [ttrss-reader](https://github.com/kucrut/ttrss-reader) - Light and responsive
   client for TTRSS. `GPL-2.0` `Javascript`'
 SourceType: Github
-Line: 668
+Line: 664

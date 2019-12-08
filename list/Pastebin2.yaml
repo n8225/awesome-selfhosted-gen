@@ -1,4 +1,4 @@
-ID: 696
+ID: 697
 Name: Pastebin
 Description: Modern self-hosted pastebin service with a restful API.
 Source Code: https://github.com/ewhal/Pastebin
@@ -12,4 +12,4 @@ Tags:
 MD: '- [Pastebin](https://github.com/ewhal/Pastebin) - Modern self-hosted pastebin
   service with a restful API. `MIT` `Go`'
 SourceType: Github
-Line: 1102
+Line: 1107

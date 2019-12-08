@@ -1,4 +1,4 @@
-ID: 368
+ID: 366
 Name: Feedbin
 Description: Simple, fast and nice looking RSS reader.
 Source Code: https://github.com/feedbin/feedbin
@@ -14,4 +14,4 @@ Tags:
 MD: '- [Feedbin](https://feedbin.com/) - Simple, fast and nice looking RSS reader.
   ([Source Code](https://github.com/feedbin/feedbin)) `MIT` `Ruby`'
 SourceType: Github
-Line: 644
+Line: 642

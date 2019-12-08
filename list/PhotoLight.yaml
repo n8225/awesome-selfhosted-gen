@@ -1,4 +1,4 @@
-ID: 727
+ID: 729
 Name: PhotoLight
 Description: The easiest photo gallery there is.
 Source Code: https://github.com/thibaud-rohmer/PhotoLight
@@ -12,4 +12,4 @@ Tags:
 MD: '- [PhotoLight](https://github.com/thibaud-rohmer/PhotoLight) - The easiest photo
   gallery there is. `GPL-3.0` `PHP`'
 SourceType: Github
-Line: 1145
+Line: 1151

@@ -1,4 +1,4 @@
-ID: 131
+ID: 128
 Name: Jami
 Description: Free and universal communication platform which preserves the user's
   privacy and freedoms (formerly GNU Ring).
@@ -14,4 +14,4 @@ Tags:
 MD: '- [Jami](https://jami.net/) - Free and universal communication platform which
   preserves the user''s privacy and freedoms (formerly GNU Ring). ([Source Code](https://git.ring.cx/savoirfairelinux/ring-project))
   `GPL-3.0` `C++`'
-Line: 293
+Line: 290

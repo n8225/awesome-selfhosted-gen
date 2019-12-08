@@ -1,4 +1,4 @@
-ID: 285
+ID: 283
 Name: Cockpit
 Description: Simple Content Platform to manage any structured content.
 Source Code: https://github.com/agentejo/cockpit
@@ -13,4 +13,4 @@ Tags:
 MD: '- [Cockpit](http://getcockpit.com) - Simple Content Platform to manage any structured
   content. ([Source Code](https://github.com/agentejo/cockpit)) `MIT` `PHP`'
 SourceType: Github
-Line: 517
+Line: 515

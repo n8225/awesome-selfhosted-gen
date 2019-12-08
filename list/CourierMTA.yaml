@@ -1,4 +1,4 @@
-ID: 155
+ID: 152
 Name: Courier MTA
 Description: Fast, scalable, enterprise mail/groupware server providing ESMTP, IMAP,
   POP3, webmail, mailing list, basic web-based calendaring and scheduling services.
@@ -18,4 +18,4 @@ MD: '- [Courier MTA](http://www.courier-mta.org/) - Fast, scalable, enterprise m
   server providing ESMTP, IMAP, POP3, webmail, mailing list, basic web-based calendaring
   and scheduling services. ([Source Code](http://www.courier-mta.org/repo.html)) `GPL-3.0`
   `C`'
-Line: 331
+Line: 328

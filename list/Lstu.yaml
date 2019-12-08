@@ -1,4 +1,4 @@
-ID: 885
+ID: 887
 Name: Lstu
 Description: _Let's SHorten That Url_ - Lightweight URL shortener.
 Source Code: https://github.com/ldidry/lstu
@@ -12,4 +12,4 @@ Tags:
 MD: '- [Lstu](https://github.com/ldidry/lstu) - _Let''s SHorten That Url_ - Lightweight
   URL shortener. `WTFPL` `Perl`'
 SourceType: Github
-Line: 1398
+Line: 1404

@@ -1,4 +1,4 @@
-ID: 670
+ID: 671
 Name: Infinoted
 Description: Server for [Gobby](https://github.com/gobby/gobby/wiki), a multi-platform
   collaborative text editor.
@@ -15,4 +15,4 @@ MD: '- [Infinoted](https://github.com/gobby/gobby/wiki/Dedicated%20Server) - Ser
   for [Gobby](https://github.com/gobby/gobby/wiki), a multi-platform collaborative
   text editor. ([Source Code](https://github.com/gobby/gobby)) `MIT` `C++`'
 SourceType: Github
-Line: 1066
+Line: 1071

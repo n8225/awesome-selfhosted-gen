@@ -1,0 +1,16 @@
+ID: 817
+Name: ML Workspace
+Description: All-in-one web-based IDE for machine learning and data science.
+Source Code: https://github.com/ml-tooling/ml-workspace
+License:
+- Apache-2.0
+Languages:
+- Docker
+C: Software Development
+Tags:
+- Software Dev
+- IDE
+MD: '- [ML Workspace](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based
+  IDE for machine learning and data science. `Apache-2.0` `Docker`'
+SourceType: Github
+Line: 1286

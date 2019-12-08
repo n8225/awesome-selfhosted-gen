@@ -1,4 +1,4 @@
-ID: 105
+ID: 103
 Name: DAVDroid
 Description: Open-source CalDAV/CardDAV suite and sync app for Android.
 Source Code: https://gitlab.com/bitfireAT/davdroid
@@ -15,4 +15,4 @@ MD: '- [DAVDroid](https://www.davdroid.com/) - Open-source CalDAV/CardDAV suite 
   sync app for Android. ([Source Code](https://gitlab.com/bitfireAT/davdroid)) `GPL-3.0`
   `Java`'
 SourceType: Gitlab
-Line: 260
+Line: 258

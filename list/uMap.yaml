@@ -1,4 +1,4 @@
-ID: 529
+ID: 539
 Name: uMap
 Description: Create maps with OpenStreetMap layers in a minute and embed them in your
   site.
@@ -12,8 +12,8 @@ C: Maps and Global Positioning System (GPS)
 Tags:
 - Maps
 - GPS
-MD: '  - [uMap](https://umap.openstreetmap.fr/en/) - Create maps with OpenStreetMap
+MD: '- [uMap](https://umap.openstreetmap.fr/en/) - Create maps with OpenStreetMap
   layers in a minute and embed them in your site. ([Source Code](https://github.com/umap-project/umap))
   `WTFPL` `Python`'
 SourceType: Github
-Line: 879
+Line: 893

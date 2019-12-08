@@ -1,4 +1,4 @@
-ID: 717
+ID: 719
 Name: Coppermine
 Description: Multilingual photo gallery that integrates with various bulletin boards.
   Includes upload approval and password protected albums.
@@ -17,4 +17,4 @@ MD: '- [Coppermine](http://coppermine-gallery.net/) - Multilingual photo gallery
   albums. ([Demo](http://coppermine-gallery.net/demo/cpg15x/), [Source Code](https://github.com/coppermine-gallery/cpg1.6.x))
   `GPL-3.0` `PHP`'
 SourceType: Github
-Line: 1135
+Line: 1141

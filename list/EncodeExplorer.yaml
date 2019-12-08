@@ -1,4 +1,4 @@
-ID: 452
+ID: 454
 Name: Encode Explorer
 Description: Encode Explorer is a single page file browser, it is simple and functional.
 Source Code: https://github.com/marekrei/encode-explorer
@@ -16,4 +16,4 @@ MD: '- [Encode Explorer](http://encode-explorer.siineiolekala.net/) - Encode Exp
   is a single page file browser, it is simple and functional. ([Demo](http://encode-explorer.siineiolekala.net/explorer/index.php),
   [Source Code](https://github.com/marekrei/encode-explorer)) `MIT` `PHP`'
 SourceType: Github
-Line: 758
+Line: 764

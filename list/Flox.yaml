@@ -1,4 +1,4 @@
-ID: 597
+ID: 598
 Name: Flox
 Description: Self hosted movie, TV series and anime watch list with a 3-point rating
   system. Uses The Movie Database backend for information.
@@ -17,4 +17,4 @@ MD: '- [Flox](https://github.com/devfake/flox) `⚠` - Self hosted movie, TV ser
   and anime watch list with a 3-point rating system. Uses The Movie Database backend
   for information. ([Demo](http://80.240.132.120/flox-demo/public/)) `MIT` `PHP`'
 SourceType: Github
-Line: 968
+Line: 973

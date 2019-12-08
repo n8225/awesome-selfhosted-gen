@@ -1,4 +1,4 @@
-ID: 308
+ID: 306
 Name: Publify
 Description: Simple but full featured web publishing software.
 Source Code: https://github.com/publify/publify
@@ -13,4 +13,4 @@ Tags:
 MD: '- [Publify](https://publify.github.io/) - Simple but full featured web publishing
   software. ([Source Code](https://github.com/publify/publify)) `MIT` `Ruby`'
 SourceType: Github
-Line: 540
+Line: 538

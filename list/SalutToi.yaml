@@ -1,4 +1,4 @@
-ID: 267
+ID: 265
 Name: Salut à Toi
 Description: Multipurpose, multi frontend, libre and decentralized communication tool.
 Source Code: http://repos.goffi.org/sat
@@ -15,4 +15,4 @@ Tags:
 MD: '- [Salut à Toi](http://www.salut-a-toi.org/) - Multipurpose, multi frontend,
   libre and decentralized communication tool. ([Source Code](http://repos.goffi.org/sat))
   `AGPL-3.0` `Python`'
-Line: 487
+Line: 485

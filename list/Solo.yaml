@@ -1,4 +1,4 @@
-ID: 79
+ID: 77
 Name: Solo
 Description: Blogging system written in Java, feel free to create your or your team
   own blog.
@@ -16,4 +16,4 @@ MD: '- [Solo](http://b3log.org/) - Blogging system written in Java, feel free to
   your or your team own blog. ([Demo](http://88250.b3log.org/), [Source Code](https://github.com/b3log/solo))
   `Apache-2.0` `Java`'
 SourceType: Github
-Line: 214
+Line: 212

@@ -1,4 +1,4 @@
-ID: 359
+ID: 357
 Name: Polar Bookshelf
 Description: Polar is a personal knowledge repository for PDF and web content supporting
   incremental reading and document annotation.
@@ -16,4 +16,4 @@ MD: '  - [Polar Bookshelf](https://getpolarized.io/) - Polar is a personal knowl
   repository for PDF and web content supporting incremental reading and document annotation.
   ([Source Code](https://github.com/burtonator/polar-bookshelf)) `GPL` `Javascript`'
 SourceType: Github
-Line: 618
+Line: 616

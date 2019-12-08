@@ -1,4 +1,4 @@
-ID: 605
+ID: 606
 Name: Maily Form
 Description: Self-hosted service you can use to place forms on static sites. It uses
   nodemailer and you can host it with Docker.
@@ -16,4 +16,4 @@ MD: '- [Maily Form](https://github.com/jlelse/Maily-Form) - Self-hosted service 
   can use to place forms on static sites. It uses nodemailer and you can host it with
   Docker. `GPL-3.0` `Nodejs/Docker`'
 SourceType: Github
-Line: 976
+Line: 981

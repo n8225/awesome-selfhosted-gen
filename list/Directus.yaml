@@ -1,4 +1,4 @@
-ID: 289
+ID: 287
 Name: Directus
 Description: Directus is a powerful and intuitive headless CMS for managing SQL databases
   with custom architectures. Built around a robust and extensible API, this decoupled
@@ -18,4 +18,4 @@ MD: '- [Directus](http://getdirectus.com/) - Directus is a powerful and intuitiv
   for websites, apps, or multi-client projects. ([Source Code](https://github.com/directus/directus))
   `GPL-3.0` `PHP`'
 SourceType: Github
-Line: 521
+Line: 519

@@ -1,4 +1,4 @@
-ID: 29
+ID: 32
 Name: feed2toot
 Description: Feed2toot parses a RSS feed, extracts the last entries and sends them
   to Mastodon.
@@ -15,4 +15,4 @@ MD: '- [feed2toot](https://feed2toot.readthedocs.io/) - Feed2toot parses a RSS f
   extracts the last entries and sends them to Mastodon. ([Source Code](https://gitlab.com/chaica/feed2toot))
   `GPL-3.0` `Python`'
 SourceType: Gitlab
-Line: 157
+Line: 160

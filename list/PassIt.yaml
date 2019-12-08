@@ -1,4 +1,4 @@
-ID: 677
+ID: 678
 Name: PassIt
 Description: Simple password manage with sharing features by group and user, but no
   administration interface.
@@ -16,4 +16,4 @@ MD: '- [PassIt](https://passit.io/) - Simple password manage with sharing featur
   by group and user, but no administration interface. ([Demo](https://app.passit.io/),
   [Source Code](https://gitlab.com/passit)) `AGPL-3.0` `Python`'
 SourceType: Gitlab
-Line: 1078
+Line: 1083

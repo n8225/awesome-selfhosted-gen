@@ -1,4 +1,4 @@
-ID: 53
+ID: 391
 Name: RSS Fulltext Proxy
 Description: Mirrors RSS feeds to return the full content of the items, extracted
   from the website.
@@ -7,11 +7,12 @@ License:
 - MIT
 Languages:
 - Nodejs
-C: Automation
+C: Feed Readers
 Tags:
-- Automation
+- RSS
+- Feed Reader
 MD: '- [RSS Fulltext Proxy](https://github.com/Kombustor/rss-fulltext-proxy) - Mirrors
   RSS feeds to return the full content of the items, extracted from the website. `MIT`
   `NodeJS`'
 SourceType: Github
-Line: 181
+Line: 670

@@ -1,4 +1,4 @@
-ID: 182
+ID: 179
 Name: Disposable Mailbox
 Description: Simple disposable mailbox web-app based on a catch-all IMAP mailbox.
 Source Code: https://github.com/synox/disposable-mailbox
@@ -16,4 +16,4 @@ MD: '- [Disposable Mailbox](https://github.com/synox/disposable-mailbox) - Simpl
   disposable mailbox web-app based on a catch-all IMAP mailbox. ([Demo](https://bhadoomail.com/))
   `GPL-3.0` `PHP`'
 SourceType: Github
-Line: 371
+Line: 368

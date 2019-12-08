@@ -1,4 +1,4 @@
-ID: 176
+ID: 173
 Name: phpList
 Description: Newsletter and email marketing with advanced management of subscribers,
   bounces, and plugins.
@@ -19,4 +19,4 @@ MD: '- [phpList](https://phplist.org) - Newsletter and email marketing with adva
   management of subscribers, bounces, and plugins. ([Source Code](https://github.com/phpList/))
   `AGPL-3.0` `PHP`'
 SourceType: Github
-Line: 362
+Line: 359

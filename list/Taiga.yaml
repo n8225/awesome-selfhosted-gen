@@ -1,4 +1,4 @@
-ID: 805
+ID: 807
 Name: Taiga
 Description: Agile Project Management Tool based on the Kanban and Scrum methods.
 Source Code: https://github.com/taigaio
@@ -14,4 +14,4 @@ Tags:
 MD: '- [Taiga](https://taiga.io/) - Agile Project Management Tool based on the Kanban
   and Scrum methods. ([Source Code](https://github.com/taigaio)) `AGPL-3.0` `Python`'
 SourceType: Github
-Line: 1263
+Line: 1269

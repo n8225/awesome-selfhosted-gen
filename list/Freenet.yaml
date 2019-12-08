@@ -1,4 +1,4 @@
-ID: 110
+ID: 108
 Name: Freenet
 Description: Anonymously share files, browse and publish "freesites" (web sites accessible
   only through Freenet) and chat on forums.
@@ -15,4 +15,4 @@ MD: '- [Freenet](https://freenetproject.org/index.html) - Anonymously share file
   browse and publish "freesites" (web sites accessible only through Freenet) and chat
   on forums. ([Source Code](https://github.com/freenet/fred)) `GPL-2.0` `Java`'
 SourceType: Github
-Line: 272
+Line: 270

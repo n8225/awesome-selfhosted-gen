@@ -1,4 +1,4 @@
-ID: 556
+ID: 557
 Name: Funkwhale
 Description: Modern, web-based, convivial, multi-user and free music server.
 Source Code: https://code.eliotberriot.com/funkwhale/funkwhale
@@ -17,4 +17,4 @@ Tags:
 MD: '- [Funkwhale](https://funkwhale.audio/) - Modern, web-based, convivial, multi-user
   and free music server. ([Demo](https://demo.funkwhale.audio/), [Source Code](https://code.eliotberriot.com/funkwhale/funkwhale))
   `BSD-3-Clause` `Python/Django`'
-Line: 919
+Line: 924

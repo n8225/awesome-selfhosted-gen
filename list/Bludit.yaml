@@ -1,4 +1,4 @@
-ID: 64
+ID: 62
 Name: Bludit
 Description: Simple application to build a site or blog in seconds. Bludit uses flat-files
   (text files in JSON format) to store posts and pages.
@@ -18,4 +18,4 @@ MD: '- [Bludit](https://www.bludit.com/) `⚠` - Simple application to build a s
   posts and pages. ([Demo](https://demo.bludit.com/), [Source Code](https://github.com/dignajar/bludit))
   `MIT` `PHP`'
 SourceType: Github
-Line: 199
+Line: 197

@@ -1,4 +1,4 @@
-ID: 903
+ID: 906
 Name: jingo
 Description: Git based wiki engine written for node.js, with a decent design, a search
   capability and good typography.
@@ -15,4 +15,4 @@ MD: '- [jingo](https://github.com/claudioc/jingo) - Git based wiki engine writte
   for node.js, with a decent design, a search capability and good typography. ([Demo](http://jingo.cica.li:6067/wiki/home))
   `MIT` `Nodejs`'
 SourceType: Github
-Line: 1435
+Line: 1442

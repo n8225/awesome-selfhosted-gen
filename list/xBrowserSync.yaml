@@ -1,4 +1,4 @@
-ID: 93
+ID: 91
 Name: xBrowserSync
 Description: Open source tool for syncing browser data between browsers and devices.
 Source Code: https://github.com/xBrowserSync
@@ -15,4 +15,4 @@ MD: '- [xBrowserSync](https://www.xbrowsersync.org) - Open source tool for synci
   browser data between browsers and devices. ([Source Code](https://github.com/xBrowserSync))
   `MIT` `Nodejs`'
 SourceType: Github
-Line: 234
+Line: 232

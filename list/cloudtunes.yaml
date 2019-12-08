@@ -1,4 +1,4 @@
-ID: 553
+ID: 554
 Name: cloudtunes
 Description: Web-based music player for the cloud.
 Source Code: https://github.com/jkbrzt/cloudtunes
@@ -15,4 +15,4 @@ ProprietaryDependency: true
 MD: '- [cloudtunes](https://github.com/jkbrzt/cloudtunes) `⚠` - Web-based music player
   for the cloud. `MIT` `Python`'
 SourceType: Github
-Line: 916
+Line: 921

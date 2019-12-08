@@ -1,4 +1,4 @@
-ID: 227
+ID: 225
 Name: Hubzilla
 Description: Decentralized identity, privacy, publishing, sharing, cloud storage,
   and communications/social platform.
@@ -16,4 +16,4 @@ Tags:
 MD: '- [Hubzilla](https://hubzilla.org) - Decentralized identity, privacy, publishing,
   sharing, cloud storage, and communications/social platform. ([Source Code](https://framagit.org/hubzilla/core))
   `MIT` `PHP`'
-Line: 435
+Line: 433
