@@ -17,7 +17,7 @@ build:
     - tags
   stage: build
   script:
-    - curl -s https://raw.githubusercontent.com/goreleaser/get/master/latest | bash
+    - curl -sL https://git.io/goreleaser | bash
 
 deploy_pages:
   script:
