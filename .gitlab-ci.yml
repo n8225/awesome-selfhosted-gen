@@ -21,7 +21,7 @@ build:
 
 deploy_pages:
   script:
-    - ls -l
+    - chmod +x godownloader.sh && ls -l
     - ./godownloader.sh -b /go/bin
     - git clone --depth 1 https://gitlab.com/n8225/awesome-selfhosted.git --branch master --single-branch /tmp/awesome-selfhosted
     - rm /tmp/awesome-selfhosted/list/*
