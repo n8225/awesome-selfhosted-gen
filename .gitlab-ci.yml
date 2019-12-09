@@ -30,7 +30,8 @@ deploy_pages:
     - cd public
     - ls ../ 
     - ls
-    - mv ../index.html . && mv ../static/* static/*
+    - rm -rf static
+    - mv ../index.html . && mv -v ../static static
     - git config user.email "n8225@gmail.com" && git config user.name "Nathan"
     - git add -A
     - git commit -m "Build from $CI_SERVER_NAME $CI_PIPELINE_ID"
