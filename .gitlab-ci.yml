@@ -24,7 +24,7 @@ deploy_pages:
     - chmod +x godownloader.sh
     - ./godownloader.sh -d
     - git clone --depth 1 https://gitlab.com/n8225/awesome-selfhosted.git --branch master --single-branch /tmp/awesome-selfhosted
-    - rm /tmp/awesome-selfhosted/list/*
+    - rm list/*
     - Awesome-Selfhosted-Gen --path /tmp/awesome-selfhosted/README.md --ghtoken $GITHUB_TOKEN
     - git clone --depth 1 --single-branch --branch gh-pages https://n8225:$GITHUB_TOKEN@github.com/n8225/awesome-selfhosted-gen.git public
     - mv index.html public/. && mv static public/.
