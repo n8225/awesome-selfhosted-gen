@@ -1,4 +1,4 @@
-ID: 6
+ID: 871
 Name: SquirrelMail
 Description: Another browser-based IMAP client.
 Source Code: https://sourceforge.net/p/squirrelmail/code/HEAD/tree/
@@ -10,7 +10,7 @@ Languages:
 C: Communication systems
 Tags:
 - Communication systems
-- Webmail clients
+- ' Webmail clients'
 MD: '- [SquirrelMail](http://squirrelmail.org) - Another browser-based IMAP client.
   ([Source Code](https://sourceforge.net/p/squirrelmail/code/HEAD/tree/)) `GPL-2.0`
   `PHP`'

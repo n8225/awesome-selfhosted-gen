@@ -1,4 +1,4 @@
-ID: 234
+ID: 45
 Name: Schleuder
 Description: GPG-enabled mailing list manager with resending-capabilities.
 Source Code: https://0xacab.org/schleuder/schleuder/tree/master
@@ -10,7 +10,7 @@ Languages:
 C: Communication systems
 Tags:
 - Communication systems
-- Mailing lists and Newsletters
+- ' Mailing lists and Newsletters'
 - Mailing lists servers and mass mailing software - one message to many recipients.
 MD: '- [Schleuder](https://schleuder.nadir.org/) - GPG-enabled mailing list manager
   with resending-capabilities. ([Source Code](https://0xacab.org/schleuder/schleuder/tree/master))

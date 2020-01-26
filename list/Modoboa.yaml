@@ -1,4 +1,4 @@
-ID: 714
+ID: 587
 Name: Modoboa
 Description: Modoboa is a mail hosting and management platform including a modern
   and simplified Web User Interface.
@@ -11,7 +11,7 @@ Languages:
 C: Communication systems
 Tags:
 - Communication systems
-- Complete solutions
+- ' Complete solutions'
 - Simple deployment of a mail server, e.g. for inexperienced or impatient admins.
 MD: '- [Modoboa](http://modoboa.org/en/) - Modoboa is a mail hosting and management
   platform including a modern and simplified Web User Interface. ([Source Code](https://github.com/tonioo/modoboa))

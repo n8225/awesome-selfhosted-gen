@@ -1,4 +1,4 @@
-ID: 264
+ID: 901
 Name: ipfs.pics
 Description: ipfs.pics is a distributed image hosting website.
 Source Code: https://github.com/ipfspics/server
@@ -9,7 +9,7 @@ Languages:
 C: File Sharing and Synchronization
 Tags:
 - File Sharing and Synchronization
-- Single-click/drag-n-drop upload
+- ' Single-click/drag-n-drop upload'
 MD: '- [ipfs.pics](https://github.com/ipfspics/server) - ipfs.pics is a distributed
   image hosting website. `AGPL-3.0` `PHP`'
 SourceType: Github

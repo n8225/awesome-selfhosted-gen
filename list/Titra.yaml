@@ -1,4 +1,4 @@
-ID: 69
+ID: 802
 Name: Titra
 Description: Time-tracking solution for freelancers and small teams.
 Source Code: https://github.com/kromitgmbh/titra
@@ -12,8 +12,6 @@ C: Software Development
 Tags:
 - Software Development
 - Project Management
-- See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managementto-do-lists),
-  [awesome-sysadmin/Code Review](https://github.com/n1trux/awesome-sysadmin#code-review)
 MD: '- [Titra](https://titra.io/en/free-time-tracking-online/) - Time-tracking solution
   for freelancers and small teams. ([Demo](https://app.titra.io/try), [Source Code](https://github.com/kromitgmbh/titra))
   `GPL-3.0` `JavaScript`'

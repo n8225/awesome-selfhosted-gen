@@ -1,4 +1,4 @@
-ID: 487
+ID: 451
 Name: imgpush
 Description: imgpush is a self-hosted file upload service that can easily be integrated
   into other webapps.
@@ -10,7 +10,7 @@ Languages:
 C: File Sharing and Synchronization
 Tags:
 - File Sharing and Synchronization
-- Single-click/drag-n-drop upload
+- ' Single-click/drag-n-drop upload'
 MD: '- [imgpush](https://github.com/hauxir/imgpush) - imgpush is a self-hosted file
   upload service that can easily be integrated into other webapps. `MIT` `Python`'
 SourceType: Github

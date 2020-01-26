@@ -1,18 +1,17 @@
-ID: 294
+ID: 274
 Name: Homer
-Description: Troubleshooting and monitoring VoIP calls.
-Source Code: https://github.com/sipcapture/homer
-Website: https://www.sipcapture.org/
+Description: A dead simple static homepage to expose your server services, with an
+  easy yaml configuration and connectivity check.
+Source Code: https://github.com/bastienwirtz/homer
 License:
-- AGPL-3.0
+- Apache-2.0
 Languages:
-- Angular
-- C
-C: Communication systems
+- HTML5
+C: Personal Dashboards
 Tags:
-- Communication systems
-- SIP
-MD: '- [Homer](https://www.sipcapture.org/) - Troubleshooting and monitoring VoIP
-  calls. ([Source Code](https://github.com/sipcapture/homer)) `AGPL-3.0` `Angular/C`'
+- Personal Dashboards
+MD: '- [Homer](https://github.com/bastienwirtz/homer) - A dead simple static homepage
+  to expose your server services, with an easy yaml configuration and connectivity
+  check. `Apache-2.0` `HTML5`'
 SourceType: Github
-Line: 410
+Line: 1152

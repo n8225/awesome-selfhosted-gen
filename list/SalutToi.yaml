@@ -1,4 +1,4 @@
-ID: 106
+ID: 641
 Name: Salut à Toi
 Description: Multipurpose, multi frontend, libre and decentralized communication tool.
 Source Code: http://repos.goffi.org/sat
@@ -10,7 +10,7 @@ Languages:
 C: Communication systems
 Tags:
 - Communication systems
-- XMPP Web Clients
+- ' XMPP Web Clients'
 MD: '- [Salut à Toi](http://www.salut-a-toi.org/) - Multipurpose, multi frontend,
   libre and decentralized communication tool. ([Source Code](http://repos.goffi.org/sat))
   `AGPL-3.0` `Python`'

@@ -1,4 +1,4 @@
-ID: 11
+ID: 68
 Name: Bonobo Git Server
 Description: Set up your own self hosted git server on IIS for Windows. Manage users
   and have full control over your repositories with a nice user friendly graphical
@@ -13,8 +13,6 @@ C: Software Development
 Tags:
 - Software Development
 - Project Management
-- See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managementto-do-lists),
-  [awesome-sysadmin/Code Review](https://github.com/n1trux/awesome-sysadmin#code-review)
 MD: '- [Bonobo Git Server](https://bonobogitserver.com/) - Set up your own self hosted
   git server on IIS for Windows. Manage users and have full control over your repositories
   with a nice user friendly graphical interface. ([Source Code](https://github.com/jakubgarfield/Bonobo-Git-Server))

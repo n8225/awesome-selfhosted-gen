@@ -1,4 +1,4 @@
-ID: 2
+ID: 770
 Name: Phabricator
 Description: Collection of web applications that help build better software.
 Source Code: https://github.com/phacility/phabricator
@@ -12,8 +12,6 @@ C: Software Development
 Tags:
 - Software Development
 - Project Management
-- See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managementto-do-lists),
-  [awesome-sysadmin/Code Review](https://github.com/n1trux/awesome-sysadmin#code-review)
 MD: '- [Phabricator](http://phabricator.org/) - Collection of web applications that
   help build better software. ([Demo](https://secure.phabricator.com/), [Source Code](https://github.com/phacility/phabricator))
   `Apache-2.0` `PHP`'

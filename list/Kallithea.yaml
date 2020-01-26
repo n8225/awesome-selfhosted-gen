@@ -1,4 +1,4 @@
-ID: 569
+ID: 747
 Name: Kallithea
 Description: Source code management system that supports two leading version control
   systems, Mercurial and Git, with a web interface.
@@ -12,8 +12,6 @@ C: Software Development
 Tags:
 - Software Development
 - Project Management
-- See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managementto-do-lists),
-  [awesome-sysadmin/Code Review](https://github.com/n1trux/awesome-sysadmin#code-review)
 MD: '- [Kallithea](https://kallithea-scm.org/) - Source code management system that
   supports two leading version control systems, Mercurial and Git, with a web interface.
   ([Source Code](https://kallithea-scm.org/repos/kallithea)) `GPL-3.0` `Python`'

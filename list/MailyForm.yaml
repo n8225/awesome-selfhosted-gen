@@ -1,4 +1,4 @@
-ID: 862
+ID: 252
 Name: Maily Form
 Description: Self-hosted service you can use to place forms on static sites. It uses
   nodemailer and you can host it with Docker.

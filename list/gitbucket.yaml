@@ -1,4 +1,4 @@
-ID: 299
+ID: 881
 Name: gitbucket
 Description: Easily installable GitHub clone powered by Scala.
 Source Code: https://github.com/gitbucket/gitbucket
@@ -12,8 +12,6 @@ C: Software Development
 Tags:
 - Software Development
 - Project Management
-- See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managementto-do-lists),
-  [awesome-sysadmin/Code Review](https://github.com/n1trux/awesome-sysadmin#code-review)
 MD: '- [gitbucket](https://gitbucket.github.io/gitbucket-news/) - Easily installable
   GitHub clone powered by Scala. ([Source Code](https://github.com/gitbucket/gitbucket))
   `Apache-2.0` `Scala/Java`'

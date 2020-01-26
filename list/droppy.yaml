@@ -1,4 +1,4 @@
-ID: 353
+ID: 384
 Name: droppy
 Description: droppy is a self-hosted cloud server with an interface similar to desktop
   file managers and has capabilities to edit files on-the-fly as well as view and
@@ -12,7 +12,7 @@ Languages:
 C: File Sharing and Synchronization
 Tags:
 - File Sharing and Synchronization
-- Single-click/drag-n-drop upload
+- ' Single-click/drag-n-drop upload'
 MD: '- [droppy](https://github.com/silverwind/droppy) - droppy is a self-hosted cloud
   server with an interface similar to desktop file managers and has capabilities to
   edit files on-the-fly as well as view and playback media directly in the browser.

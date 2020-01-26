@@ -1,17 +1,15 @@
-ID: 622
+ID: 402
 Name: Tasks
-Description: Simple tasks and notes manager written in PHP, jQuery and Bootstrap using
-  a custom flat file database.
-Source Code: https://github.com/m1guelpf/tasks
+Description: Kanban based to-do list manager written in Go.
+Source Code: https://github.com/thewhitetulip/Tasks
 License:
-- MPL-2.0
+- MIT
 Languages:
-- PHP
+- Go
 C: Task management/To-do lists
 Tags:
 - Task management/To-do lists
-MD: '- [Tasks](https://github.com/m1guelpf/tasks) - Simple tasks and notes manager
-  written in PHP, jQuery and Bootstrap using a custom flat file database. `MPL-2.0`
-  `PHP`'
+MD: '- [Tasks](https://github.com/thewhitetulip/Tasks) - Kanban based to-do list manager
+  written in Go. `MIT` `Go`'
 SourceType: Github
-Line: 1389
+Line: 1390

@@ -1,4 +1,4 @@
-ID: 124
+ID: 743
 Name: Octobox
 Description: Take back control of your GitHub Notifications.
 Source Code: https://github.com/octobox/octobox
@@ -11,8 +11,6 @@ C: Software Development
 Tags:
 - Software Development
 - Project Management
-- See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managementto-do-lists),
-  [awesome-sysadmin/Code Review](https://github.com/n1trux/awesome-sysadmin#code-review)
 ProprietaryDependency: true
 MD: '- [Octobox](https://octobox.io/) `⚠` - Take back control of your GitHub Notifications.
   ([Source Code](https://github.com/octobox/octobox)) `AGPL-3.0` `Ruby`'

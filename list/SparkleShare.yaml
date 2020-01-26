@@ -1,4 +1,4 @@
-ID: 498
+ID: 592
 Name: SparkleShare
 Description: Self hosted, instant, secure file sync.
 Source Code: https://github.com/hbons/SparkleShare
@@ -10,7 +10,7 @@ Languages:
 C: File Sharing and Synchronization
 Tags:
 - File Sharing and Synchronization
-- File transfer/synchronization
+- ' File transfer/synchronization'
 MD: '- [SparkleShare](http://sparkleshare.org/) - Self hosted, instant, secure file
   sync. ([Source Code](https://github.com/hbons/SparkleShare)) `GPL-3.0` `C#`'
 SourceType: Github

@@ -1,4 +1,4 @@
-ID: 355
+ID: 353
 Name: GitLab
 Description: Self Hosted Git repository management, code reviews, issue tracking,
   activity feeds and wikis.
@@ -13,8 +13,6 @@ C: Software Development
 Tags:
 - Software Development
 - Project Management
-- See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managementto-do-lists),
-  [awesome-sysadmin/Code Review](https://github.com/n1trux/awesome-sysadmin#code-review)
 MD: '- [GitLab](http://gitlab.org/) - Self Hosted Git repository management, code
   reviews, issue tracking, activity feeds and wikis. ([Demo](https://gitlab.com/),
   [Source Code](https://gitlab.com/gitlab-org/gitlab-ce)) `MIT` `Ruby`'

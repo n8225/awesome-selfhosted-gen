@@ -42,6 +42,38 @@ type Gitdata struct {
 	Updated  string
 }
 
+//AddEntry creates an Entry
+func AddEntry(i, l int, t string, catAarr []tmpCat) *Entry {
+	e := new(Entry)
+	e.Line = l
+	e.ID = i
+	e.MD = t
+	e.Name = GetName(e.MD)
+	e.Descrip = GetDescrip(e.MD)
+	e.License = GetLicense(e.MD)
+	e.Lang = GetLang(e.MD)
+	e.Pdep = GetPdep(e.MD)
+	e.Demo = GetDemo(e.MD)
+	e.Clients = GetClients(e.MD)
+	e.Site = GetSite(e.MD)
+	e.Source, e.SourceType = GetSource(e.MD)
+	e.Cat, e.Tags = getCat(l, catAarr)
+	return e
+}
+
+//GetCat get categories and tags from the temporary Arrays
+func getCat(l int, catAarr []tmpCat) (cat string, tags []string) {
+	for _, c := range catAarr{
+		if (c.level == 1 && l > c.start && l < c.stop) {
+			cat = c.cat
+			tags = append(tags, c.cat)
+		} else if (c.start < l && l < c.stop) {
+			tags = append(tags, c.cat)
+		}
+	}
+	return
+}
+
 //Pattern to parse data from markdown entry.
 const Pattern string = "^\\s{0,4}\\Q- [\\E(?P<name>.*?)\\Q](\\E(?P<site>.*?)\\)(?P<pdep>\\Q `⚠` - \\E|\\Q -  `⚠`\\E|\\Q - \\E)(?P<desc>.*?[.])(?:\\s\x60|\\s\\(.*\x60)(?P<license>.*?)\\Q` `\\E(?P<lang>.*?)\\Q`\\E"
 

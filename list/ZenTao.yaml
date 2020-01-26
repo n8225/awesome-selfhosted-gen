@@ -1,4 +1,4 @@
-ID: 121
+ID: 289
 Name: ZenTao
 Description: An agile(scrum) project management system/tool.
 Source Code: https://github.com/easysoft/zentaopms
@@ -12,8 +12,6 @@ C: Software Development
 Tags:
 - Software Development
 - Project Management
-- See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managementto-do-lists),
-  [awesome-sysadmin/Code Review](https://github.com/n1trux/awesome-sysadmin#code-review)
 MD: '- [ZenTao](http://www.zentao.pm/) - An agile(scrum) project management system/tool.
   ([Demo](http://demo.zentao.pm/user-login.html), [Source Code](https://github.com/easysoft/zentaopms))
   `ZPL-1.2` `PHP`'

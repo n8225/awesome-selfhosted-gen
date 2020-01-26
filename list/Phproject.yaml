@@ -1,4 +1,4 @@
-ID: 75
+ID: 18
 Name: Phproject
 Description: High performance full-featured project management system.
 Source Code: https://github.com/Alanaktion/phproject
@@ -12,8 +12,6 @@ C: Software Development
 Tags:
 - Software Development
 - Project Management
-- See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managementto-do-lists),
-  [awesome-sysadmin/Code Review](https://github.com/n1trux/awesome-sysadmin#code-review)
 MD: '- [Phproject](http://www.phproject.org/) - High performance full-featured project
   management system. ([Demo](http://demo.phproject.org/), [Source Code](https://github.com/Alanaktion/phproject))
   `GPL-3.0` `PHP`'

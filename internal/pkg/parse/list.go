@@ -5,10 +5,7 @@ import (
 
 	"os"
 	"strings"
-	"fmt"
 )
-
-
 
 type tmpCat struct{
 	start int
@@ -18,6 +15,7 @@ type tmpCat struct{
 }
 
 var prefixLvl = map[string]int{
+	"_See": 0,
 	"##": 1,
 	"###": 2,
 	"####": 3,
@@ -27,7 +25,7 @@ var prefixLvl = map[string]int{
 
 var catNeedStop = make(map[int]int)
 
-
+//MdParser parses the README.md file into lines creates a slice of entries
 func MdParser(path, gh string) []Entry {
 	inputFile, _ := os.Open(path)
 	defer inputFile.Close()
@@ -48,68 +46,36 @@ func MdParser(path, gh string) []Entry {
 		}
 		if list {
 			switch true {
-			case prefixLvl[PrefixParse(scanner.Text())] == 5:
+			case prefixLvl[prefixParse(scanner.Text())] == 5: //adds entry line to a map of entries and their line #s
 				tmpListMap[l] = scanner.Text()
-			case prefixLvl[PrefixParse(scanner.Text())] == 1:
+			case prefixLvl[prefixParse(scanner.Text())] == 1:
 				addStop(CatAarr, catNeedStop, 1, l)
-				CatAarr = append(CatAarr, tmpCat{start: l, level: prefixLvl[PrefixParse(scanner.Text())], cat: strings.Trim(scanner.Text(), "## ")})
+				CatAarr = append(CatAarr, tmpCat{start: l, level: prefixLvl[prefixParse(scanner.Text())], cat: scanner.Text()[3:len(scanner.Text())]})
 				catNeedStop[1] = len(CatAarr)-1
-			case prefixLvl[PrefixParse(scanner.Text())] == 2:
+			case prefixLvl[prefixParse(scanner.Text())] == 2:
 				addStop(CatAarr, catNeedStop, 2, l)
-				CatAarr = append(CatAarr, tmpCat{start: l, level: prefixLvl[PrefixParse(scanner.Text())], cat: strings.Trim(scanner.Text(), "### ")})
+				CatAarr = append(CatAarr, tmpCat{start: l, level: prefixLvl[prefixParse(scanner.Text())], cat: scanner.Text()[4:len(scanner.Text())]})
 				catNeedStop[2] = len(CatAarr)-1
-			case prefixLvl[PrefixParse(scanner.Text())] == 3:
+			case prefixLvl[prefixParse(scanner.Text())] == 3:
 				addStop(CatAarr, catNeedStop, 3, l)
-				CatAarr = append(CatAarr, tmpCat{start: l, level: prefixLvl[PrefixParse(scanner.Text())], cat: strings.Trim(scanner.Text(), "### ")})
+				CatAarr = append(CatAarr, tmpCat{start: l, level: prefixLvl[prefixParse(scanner.Text())], cat: scanner.Text()[5:len(scanner.Text())]})
 				catNeedStop[3] = len(CatAarr)-1
-			case prefixLvl[PrefixParse(scanner.Text())] == 4:
+			case prefixLvl[prefixParse(scanner.Text())] == 4:
 				addStop(CatAarr, catNeedStop, 4, l)
-				CatAarr = append(CatAarr, tmpCat{start: l, level: prefixLvl[PrefixParse(scanner.Text())], cat: strings.Trim(scanner.Text(), "_")})
+				CatAarr = append(CatAarr, tmpCat{start: l, level: prefixLvl[prefixParse(scanner.Text())], cat: scanner.Text()[1:len(scanner.Text())-1]})
 				catNeedStop[4] = len(CatAarr)-1
 			}
 		}
 	}
 
 	for k, v := range tmpListMap {
-		fmt.Printf("%d: %v\n", k, v)
-		entries = append(entries, *addEntry(i, k, v, CatAarr))
 		i++
+		entries = append(entries, *AddEntry(i, k, v, CatAarr))
 	}
-
-	fmt.Printf("%+v\n", CatAarr)
 	return entries
 }
 
-func addEntry(i, l int, t string, catAarr []tmpCat) *Entry {
-	e := new(Entry)
-	e.Line = l
-	e.ID = i
-	e.MD = t
-	e.Name = GetName(e.MD)
-	e.Descrip = GetDescrip(e.MD)
-	e.License = GetLicense(e.MD)
-	e.Lang = GetLang(e.MD)
-	e.Pdep = GetPdep(e.MD)
-	e.Demo = GetDemo(e.MD)
-	e.Clients = GetClients(e.MD)
-	e.Site = GetSite(e.MD)
-	e.Source, e.SourceType = GetSource(e.MD)
-	e.Cat, e.Tags = getCat(l, catAarr)
-	return e
-}
-
-func getCat(l int, catAarr []tmpCat) (cat string, tags []string) {
-	for _, c := range catAarr{
-		if (c.level == 1 && l > c.start && l < c.stop) {
-			cat = c.cat
-			tags = append(tags, c.cat)
-		} else if (c.start < l && l < c.stop) {
-			tags = append(tags, c.cat)
-		}
-	}
-	return
-}
-
+//addStop adds the last line to the category in the category map
 func addStop(c []tmpCat, catNeedStop map[int]int, i, l int) {
 	for k, v := range catNeedStop {
 		if k >= i {
@@ -119,7 +85,8 @@ func addStop(c []tmpCat, catNeedStop map[int]int, i, l int) {
 	}
 }
 
-func PrefixParse(s string) string {
+//prefixParse parses category to match switch
+func prefixParse(s string) string {
 	noAZ := func(r rune) rune {
 		if (r != '#' && r!= '_' && r!= '-' && r!= '[') {
 			return -1
@@ -128,8 +95,9 @@ func PrefixParse(s string) string {
 	}
 	if s == "" {
 		return s
+	} else if s[0:4] == "_See" {
+		return ""
 	} else {
 		return strings.Map(noAZ, s[0:3])
 	}
-	
 }

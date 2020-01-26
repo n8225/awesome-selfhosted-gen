@@ -1,4 +1,4 @@
-ID: 58
+ID: 813
 Name: Gitolite
 Description: Gitolite allows you to setup git hosting on a central server, with fine-grained
   access control and many more powerful features.
@@ -12,8 +12,6 @@ C: Software Development
 Tags:
 - Software Development
 - Project Management
-- See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managementto-do-lists),
-  [awesome-sysadmin/Code Review](https://github.com/n1trux/awesome-sysadmin#code-review)
 MD: '- [Gitolite](http://gitolite.com/gitolite/index.html) - Gitolite allows you to
   setup git hosting on a central server, with fine-grained access control and many
   more powerful features. ([Source Code](https://github.com/sitaramc/gitolite)) `GPL-2.0`

@@ -1,4 +1,4 @@
-ID: 875
+ID: 790
 Name: UVDesk
 Description: UVDesk community is a service oriented, event driven extensible opensource
   helpdesk system that can be used by your organization to provide efficient support
@@ -14,8 +14,6 @@ C: Software Development
 Tags:
 - Software Development
 - Project Management
-- See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managementto-do-lists),
-  [awesome-sysadmin/Code Review](https://github.com/n1trux/awesome-sysadmin#code-review)
 MD: '- [UVDesk](https://www.uvdesk.com/) - UVDesk community is a service oriented,
   event driven extensible opensource helpdesk system that can be used by your organization
   to provide efficient support to your clients effortlessly whichever way you imagine.

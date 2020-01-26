@@ -1,4 +1,4 @@
-ID: 23
+ID: 182
 Name: Seafile
 Description: File hosting and sharing solution primary for teams and organizations.
 Source Code: https://github.com/haiwen/seafile
@@ -10,7 +10,7 @@ Languages:
 C: File Sharing and Synchronization
 Tags:
 - File Sharing and Synchronization
-- File transfer/synchronization
+- ' File transfer/synchronization'
 MD: '- [Seafile](https://www.seafile.com/en/home/) - File hosting and sharing solution
   primary for teams and organizations. ([Source Code](https://github.com/haiwen/seafile))
   `GPL-2.0` `C`'

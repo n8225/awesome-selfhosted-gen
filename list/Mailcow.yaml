@@ -1,4 +1,4 @@
-ID: 254
+ID: 544
 Name: Mailcow
 Description: Mail server suite based on Dovecot, Postfix and other open source software,
   that provides a modern Web UI for administration.
@@ -11,7 +11,7 @@ Languages:
 C: Communication systems
 Tags:
 - Communication systems
-- Complete solutions
+- ' Complete solutions'
 - Simple deployment of a mail server, e.g. for inexperienced or impatient admins.
 MD: '- [Mailcow](https://mailcow.email/) - Mail server suite based on Dovecot, Postfix
   and other open source software, that provides a modern Web UI for administration.

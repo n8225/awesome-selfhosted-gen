@@ -1,4 +1,4 @@
-ID: 889
+ID: 40
 Name: img.bi
 Description: img.bi is a secure image hosting. Images are encrypted using AES-256
   with random key in browser before upload.
@@ -10,7 +10,7 @@ Languages:
 C: File Sharing and Synchronization
 Tags:
 - File Sharing and Synchronization
-- Single-click/drag-n-drop upload
+- ' Single-click/drag-n-drop upload'
 MD: '- [img.bi](https://github.com/imgbi/img.bi) - img.bi is a secure image hosting.
   Images are encrypted using AES-256 with random key in browser before upload. `GPL-3.0`
   `Nodejs`'

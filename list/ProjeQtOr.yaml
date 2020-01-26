@@ -1,4 +1,4 @@
-ID: 85
+ID: 81
 Name: ProjeQtOr
 Description: A complete, mature, multi-user project management system with extensive
   functionality for all phases of a project.
@@ -13,8 +13,6 @@ C: Software Development
 Tags:
 - Software Development
 - Project Management
-- See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managementto-do-lists),
-  [awesome-sysadmin/Code Review](https://github.com/n1trux/awesome-sysadmin#code-review)
 MD: '- [ProjeQtOr](https://www.projeqtor.org/) - A complete, mature, multi-user project
   management system with extensive functionality for all phases of a project. ([Demo](https://demo.projeqtor.org/),
   [Source Code](https://sourceforge.net/p/projectorria/code/HEAD/tree/branches/))

@@ -1,4 +1,4 @@
-ID: 309
+ID: 149
 Name: Listmonk
 Description: High performance, self-hosted newsletter and mailing list manager with
   a modern dashboard.
@@ -11,7 +11,7 @@ Languages:
 C: Communication systems
 Tags:
 - Communication systems
-- Mailing lists and Newsletters
+- ' Mailing lists and Newsletters'
 - Mailing lists servers and mass mailing software - one message to many recipients.
 MD: '- [Listmonk](https://listmonk.app/) - High performance, self-hosted newsletter
   and mailing list manager with a modern dashboard. ([Source Code](https://github.com/knadh/listmonk))

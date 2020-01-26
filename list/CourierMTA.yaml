@@ -1,4 +1,4 @@
-ID: 165
+ID: 588
 Name: Courier MTA
 Description: Fast, scalable, enterprise mail/groupware server providing ESMTP, IMAP,
   POP3, webmail, mailing list, basic web-based calendaring and scheduling services.
@@ -11,7 +11,7 @@ Languages:
 C: Communication systems
 Tags:
 - Communication systems
-- Mail Transfer Agents
+- ' Mail Transfer Agents'
 - MTAs / SMTP servers
 MD: '- [Courier MTA](http://www.courier-mta.org/) - Fast, scalable, enterprise mail/groupware
   server providing ESMTP, IMAP, POP3, webmail, mailing list, basic web-based calendaring

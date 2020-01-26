@@ -1,4 +1,4 @@
-ID: 542
+ID: 217
 Name: Leantime
 Description: Leantime is a lean project management system for small teams and startups
   helping to manage projects from ideation through delivery.
@@ -12,8 +12,6 @@ C: Software Development
 Tags:
 - Software Development
 - Project Management
-- See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managementto-do-lists),
-  [awesome-sysadmin/Code Review](https://github.com/n1trux/awesome-sysadmin#code-review)
 MD: '- [Leantime](https://leantime.io) - Leantime is a lean project management system
   for small teams and startups helping to manage projects from ideation through delivery.
   ([Source Code](https://github.com/leantime/leantime)) `GPL-2.0` `PHP`'

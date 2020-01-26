@@ -1,4 +1,4 @@
-ID: 841
+ID: 183
 Name: Tuleap
 Description: Tuleap is a libre suite to plan, track, code and collaborate on software
   projects.
@@ -12,8 +12,6 @@ C: Software Development
 Tags:
 - Software Development
 - Project Management
-- See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managementto-do-lists),
-  [awesome-sysadmin/Code Review](https://github.com/n1trux/awesome-sysadmin#code-review)
 MD: '- [Tuleap](https://www.tuleap.org/) - Tuleap is a libre suite to plan, track,
   code and collaborate on software projects. ([Source Code](https://tuleap.net/plugins/git/tuleap/tuleap/stable?p=tuleap%2Fstable.git&a=tree))
   `GPL-2.0` `PHP`'

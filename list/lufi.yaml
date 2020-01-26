@@ -1,4 +1,4 @@
-ID: 108
+ID: 554
 Name: lufi
 Description: Let's Upload that FIle, client-side encrypted.
 Source Code: https://git.framasoft.org/luc/lufi/tree/master
@@ -11,7 +11,7 @@ Languages:
 C: File Sharing and Synchronization
 Tags:
 - File Sharing and Synchronization
-- Single-click/drag-n-drop upload
+- ' Single-click/drag-n-drop upload'
 MD: '- [lufi](https://git.framasoft.org/luc/lufi) - Let''s Upload that FIle, client-side
   encrypted. ([Demo](https://demo.lufi.io), [Source Code](https://git.framasoft.org/luc/lufi/tree/master))
   `AGPL-3.0` `Perl`'

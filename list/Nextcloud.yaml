@@ -1,4 +1,4 @@
-ID: 521
+ID: 492
 Name: Nextcloud
 Description: Access and share your files, calendars, contacts, mail and [more](https://apps.nextcloud.com/)
   from any device, on your terms.
@@ -12,7 +12,7 @@ Languages:
 C: File Sharing and Synchronization
 Tags:
 - File Sharing and Synchronization
-- File transfer/synchronization
+- ' File transfer/synchronization'
 MD: '- [Nextcloud](https://nextcloud.com/) - Access and share your files, calendars,
   contacts, mail and [more](https://apps.nextcloud.com/) from any device, on your
   terms. ([Demo](https://demo.nextcloud.com/), [Source Code](https://github.com/nextcloud/server))

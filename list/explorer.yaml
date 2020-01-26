@@ -1,4 +1,4 @@
-ID: 735
+ID: 567
 Name: explorer
 Description: Highly-configurable directory listing made with nodejs.
 Source Code: https://github.com/soyuka/explorer
@@ -10,7 +10,7 @@ Languages:
 C: File Sharing and Synchronization
 Tags:
 - File Sharing and Synchronization
-- Web based file managers
+- ' Web based file managers'
 MD: '- [explorer](https://soyuka.github.io/explorer/) - Highly-configurable directory
   listing made with nodejs. ([Source Code](https://github.com/soyuka/explorer)) `MIT`
   `Nodejs`'

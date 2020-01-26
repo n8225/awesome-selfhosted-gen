@@ -1,4 +1,4 @@
-ID: 577
+ID: 734
 Name: IMP
 Description: HORDE application that provides webmail access to IMAP and POP3 accounts.
 Source Code: https://www.horde.org/download/imp
@@ -11,7 +11,7 @@ Languages:
 C: Communication systems
 Tags:
 - Communication systems
-- Webmail clients
+- ' Webmail clients'
 MD: '- [IMP](https://www.horde.org/apps/imp/) - HORDE application that provides webmail
   access to IMAP and POP3 accounts. ([Demo](http://demo.horde.org/), [Source Code](https://www.horde.org/download/imp))
   `GPL-2.0` `PHP`'

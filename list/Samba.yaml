@@ -1,4 +1,4 @@
-ID: 871
+ID: 799
 Name: Samba
 Description: Samba is the standard Windows interoperability suite of programs for
   Linux and Unix. It provides secure, stable and fast file and print services for
@@ -12,7 +12,7 @@ Languages:
 C: File Sharing and Synchronization
 Tags:
 - File Sharing and Synchronization
-- File transfer/synchronization
+- ' File transfer/synchronization'
 MD: '- [Samba](https://www.samba.org/) - Samba is the standard Windows interoperability
   suite of programs for Linux and Unix. It provides secure, stable and fast file and
   print services for all clients using the SMB/CIFS protocol. ([Source Code](https://git.samba.org/samba.git/))

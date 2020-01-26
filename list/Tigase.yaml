@@ -1,4 +1,4 @@
-ID: 909
+ID: 504
 Name: Tigase
 Description: XMPP server implementation in Java.
 Source Code: http://www.tigase.net/content/tigase-xmpp-server
@@ -9,7 +9,7 @@ Languages:
 C: Communication systems
 Tags:
 - Communication systems
-- XMPP Servers
+- ' XMPP Servers'
 MD: '- [Tigase](http://www.tigase.net/content/tigase-xmpp-server) - XMPP server implementation
   in Java. `GPL-3.0` `Java`'
 Line: 484

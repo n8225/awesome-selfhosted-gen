@@ -1,4 +1,4 @@
-ID: 660
+ID: 578
 Name: Sup3rS3cretMes5age
 Description: Very simple (to deploy and to use) secret message service using Hashicorp
   Vault as a secrets storage.

@@ -1,4 +1,4 @@
-ID: 213
+ID: 832
 Name: GitPrep
 Description: Portable Github clone.
 Source Code: https://github.com/yuki-kimoto/gitprep
@@ -12,8 +12,6 @@ C: Software Development
 Tags:
 - Software Development
 - Project Management
-- See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managementto-do-lists),
-  [awesome-sysadmin/Code Review](https://github.com/n1trux/awesome-sysadmin#code-review)
 MD: '- [GitPrep](http://gitprep.yukikimoto.com/) - Portable Github clone. ([Demo](http://perlcodesample.sakura.ne.jp/gitprep/gitprep.cgi),
   [Source Code](https://github.com/yuki-kimoto/gitprep)) `Artistic-2.0` `Perl`'
 SourceType: Github

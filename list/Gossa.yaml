@@ -1,4 +1,4 @@
-ID: 724
+ID: 877
 Name: Gossa
 Description: Gossa is a light and simple webserver for your files.
 Source Code: https://github.com/pldubouilh/gossa
@@ -9,7 +9,7 @@ Languages:
 C: File Sharing and Synchronization
 Tags:
 - File Sharing and Synchronization
-- Web based file managers
+- ' Web based file managers'
 MD: '- [Gossa](https://github.com/pldubouilh/gossa) - Gossa is a light and simple
   webserver for your files. `MIT` `Go`'
 SourceType: Github

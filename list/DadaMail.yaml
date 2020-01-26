@@ -1,4 +1,4 @@
-ID: 850
+ID: 164
 Name: Dada Mail
 Description: Web-based list management system that can be used for announcement lists
   and/or discussion lists.
@@ -11,7 +11,7 @@ Languages:
 C: Communication systems
 Tags:
 - Communication systems
-- Mailing lists and Newsletters
+- ' Mailing lists and Newsletters'
 - Mailing lists servers and mass mailing software - one message to many recipients.
 MD: '- [Dada Mail](http://dadamailproject.com/) - Web-based list management system
   that can be used for announcement lists and/or discussion lists. ([Source Code](https://github.com/justingit/dada-mail))
