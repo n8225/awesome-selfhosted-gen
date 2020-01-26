@@ -1,4 +1,4 @@
-ID: 683
+ID: 925
 Name: bepasty
 Description: A pastebin for all kinds of files.
 Source Code: https://github.com/bepasty/bepasty-server
@@ -9,9 +9,9 @@ Languages:
 - Python
 C: Pastebins
 Tags:
-- Pastebin
+- Pastebins
 MD: '- [bepasty](https://bepasty-server.readthedocs.io/en/latest/) - A pastebin for
   all kinds of files. ([Source Code](https://github.com/bepasty/bepasty-server)) `BSD-2-Clause`
   `Python`'
 SourceType: Github
-Line: 1093
+Line: 1120

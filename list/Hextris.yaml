@@ -1,4 +1,4 @@
-ID: 472
+ID: 379
 Name: Hextris
 Description: Fast paced HTML5 puzzle game inspired by Tetris.
 Source Code: https://github.com/Hextris/hextris
@@ -9,8 +9,9 @@ Languages:
 - HTML5
 C: Games
 Tags:
-- Game
+- Games
+- Games, game servers and control panels.
 MD: '- [Hextris](https://github.com/Hextris/hextris) - Fast paced HTML5 puzzle game
   inspired by Tetris. ([Demo](https://hextris.github.io/hextris)) `GPL-3.0` `HTML5`'
 SourceType: Github
-Line: 789
+Line: 803

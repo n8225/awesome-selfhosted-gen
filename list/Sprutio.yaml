@@ -1,4 +1,4 @@
-ID: 464
+ID: 270
 Name: Sprut.io
 Description: 2 panel file manager with drag and drop features, code editor, text search,
   hotkeys.
@@ -11,10 +11,10 @@ Languages:
 - Python
 C: File Sharing and Synchronization
 Tags:
-- File Sharing
-- Web File MGR
+- File Sharing and Synchronization
+- Web based file managers
 MD: '- [Sprut.io](https://sprut.io) - 2 panel file manager with drag and drop features,
   code editor, text search, hotkeys. ([Demo](https://demo.sprut.io:9443), [Source
   Code](https://github.com/LTD-Beget/sprutio)) `GPL-3.0` `Python`'
 SourceType: Github
-Line: 774
+Line: 788

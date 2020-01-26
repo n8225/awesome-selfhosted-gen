@@ -1,4 +1,4 @@
-ID: 710
+ID: 774
 Name: Heimdall
 Description: Heimdall is an elegant solution to organise all your web applications.
 Source Code: https://github.com/linuxserver/Heimdall
@@ -9,9 +9,9 @@ Languages:
 - PHP
 C: Personal Dashboards
 Tags:
-- Dashboard
+- Personal Dashboards
 MD: '- [Heimdall](https://heimdall.site/) - Heimdall is an elegant solution to organise
   all your web applications. ([Source Code](https://github.com/linuxserver/Heimdall))
   `MIT` `PHP`'
 SourceType: Github
-Line: 1127
+Line: 1150

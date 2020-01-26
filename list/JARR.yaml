@@ -1,4 +1,4 @@
-ID: 369
+ID: 702
 Name: JARR
 Description: JARR (Just Another RSS Reader) is a web-based news aggregator and reader
   (fork of Newspipe).
@@ -11,10 +11,9 @@ Languages:
 - Python
 C: Feed Readers
 Tags:
-- RSS
-- Feed Reader
+- Feed Readers
 MD: '- [JARR](http://1pxsolidblack.pl/jarr-en.html) - JARR (Just Another RSS Reader)
   is a web-based news aggregator and reader (fork of Newspipe). ([Demo](https://jarr.info/login?next=%2F),
   [Source Code](https://github.com/jaesivsm/JARR)) `AGPL-3.0` `Python`'
 SourceType: Github
-Line: 645
+Line: 657

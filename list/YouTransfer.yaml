@@ -1,4 +1,4 @@
-ID: 449
+ID: 545
 Name: YouTransfer
 Description: YouTransfer is a simple but elegant self-hosted file transfer and sharing
   solution.
@@ -11,11 +11,10 @@ Languages:
 - Nodejs
 C: File Sharing and Synchronization
 Tags:
-- File Sharing
-- Single-Click Upload
-- Drag-n-Drop Upload
+- File Sharing and Synchronization
+- Single-click/drag-n-drop upload
 MD: '- [YouTransfer](http://www.youtransfer.io) - YouTransfer is a simple but elegant
   self-hosted file transfer and sharing solution. ([Demo](http://demo.youtransfer.io/),
   [Source Code](https://github.com/remie/YouTransfer)) `Apache-2.0` `Nodejs`'
 SourceType: Github
-Line: 753
+Line: 767

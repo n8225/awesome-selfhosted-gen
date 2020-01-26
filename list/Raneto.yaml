@@ -1,4 +1,4 @@
-ID: 914
+ID: 642
 Name: Raneto
 Description: Raneto is an open source Knowledgebase platform that uses static Markdown
   files to power your Knowledgebase.
@@ -9,7 +9,7 @@ Languages:
 - Nodejs
 C: Wikis
 Tags:
-- Wiki
+- Wikis
 MD: '- [Raneto](http://raneto.com/) - Raneto is an open source Knowledgebase platform
   that uses static Markdown files to power your Knowledgebase. `MIT` `Nodejs`'
-Line: 1450
+Line: 1480

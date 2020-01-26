@@ -1,4 +1,4 @@
-ID: 643
+ID: 265
 Name: SilverStrike
 Description: Personal finance management made easy.
 Source Code: https://github.com/agstrike/silverstrike
@@ -8,13 +8,12 @@ License:
 - MIT
 Languages:
 - Python
-- Python
+- Django
 C: Money, Budgeting and Management
 Tags:
-- Money
-- Budget
+- Money, Budgeting and Management
 MD: '- [SilverStrike](https://silverstrike.org/) - Personal finance management made
   easy. ([Demo](https://demo.silverstrike.org/), [Source Code](https://github.com/agstrike/silverstrike))
   `MIT` `Python/Django`'
 SourceType: Github
-Line: 1025
+Line: 1049

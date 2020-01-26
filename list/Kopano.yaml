@@ -1,4 +1,4 @@
-ID: 494
+ID: 344
 Name: Kopano
 Description: Groupware suite including e-mail, calendars, tasks, todos and notes.
   Featuring a modern WebApp, DeskApp and mobile access over Z-Push/ActiveSync.
@@ -18,4 +18,4 @@ MD: '- [Kopano](https://kopano.com/) - Groupware suite including e-mail, calenda
   tasks, todos and notes. Featuring a modern WebApp, DeskApp and mobile access over
   Z-Push/ActiveSync. ([Demo](http://demo.kopano.com), [Source Code](https://stash.kopano.io))
   `AGPL-3.0` `C/Python/PHP`'
-Line: 821
+Line: 836

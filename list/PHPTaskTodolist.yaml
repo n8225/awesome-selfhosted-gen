@@ -1,4 +1,4 @@
-ID: 848
+ID: 885
 Name: PHP Task/Todo list
 Description: Simple task/todo list that uses a JSON text file for the tasks.
 Source Code: https://github.com/lgg/tasks.php
@@ -8,9 +8,8 @@ Languages:
 - PHP
 C: Task management/To-do lists
 Tags:
-- To-Do
-- Task Mgmnt
+- Task management/To-do lists
 MD: '- [PHP Task/Todo list](https://github.com/lgg/tasks.php) - Simple task/todo list
   that uses a JSON text file for the tasks. `MIT` `PHP`'
 SourceType: Github
-Line: 1353
+Line: 1385

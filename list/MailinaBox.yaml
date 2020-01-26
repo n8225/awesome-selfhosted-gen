@@ -1,4 +1,4 @@
-ID: 147
+ID: 326
 Name: Mail-in-a-Box
 Description: Turns any Ubuntu server into a fully functional mail server with one
   command.
@@ -10,11 +10,11 @@ Languages:
 - Shell
 C: Communication systems
 Tags:
-- Communications
-- Email
-- Complete Email
+- Communication systems
+- Complete solutions
+- Simple deployment of a mail server, e.g. for inexperienced or impatient admins.
 MD: '- [Mail-in-a-Box](https://mailinabox.email/) - Turns any Ubuntu server into a
   fully functional mail server with one command. ([Source Code](https://github.com/mail-in-a-box/mailinabox))
   `CC0-1.0` `Shell`'
 SourceType: Github
-Line: 318
+Line: 322

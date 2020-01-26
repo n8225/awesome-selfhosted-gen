@@ -1,4 +1,4 @@
-ID: 936
+ID: 318
 Name: sovereign
 Description: 'Set of Ansible playbooks to build and maintain your own private cloud:
   email, calendar, contacts, file sync, IRC bouncer, VPN, and more.'
@@ -7,11 +7,12 @@ License:
 - GPL-3.0
 Languages:
 - YAML
+- Other
 C: Self-hosting Solutions
 Tags:
-- Self-hosting Solution
+- Self-hosting Solutions
 MD: '- [sovereign](https://github.com/sovereign/sovereign) - Set of Ansible playbooks
   to build and maintain your own private cloud: email, calendar, contacts, file sync,
   IRC bouncer, VPN, and more. `GPL-3.0` `YAML/Other`'
 SourceType: Github
-Line: 1477
+Line: 1508

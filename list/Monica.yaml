@@ -1,4 +1,4 @@
-ID: 607
+ID: 445
 Name: Monica
 Description: Personal relationship manager, and a new kind of CRM to organize interactions
   with your friends and family.
@@ -10,10 +10,9 @@ Languages:
 - PHP
 C: Misc/Other
 Tags:
-- Misc
-- Other
+- Misc/Other
 MD: '- [Monica](https://monicahq.com/) - Personal relationship manager, and a new
   kind of CRM to organize interactions with your friends and family. ([Source Code](https://github.com/monicahq/monica))
   `AGPL-3.0` `PHP`'
 SourceType: Github
-Line: 982
+Line: 1005

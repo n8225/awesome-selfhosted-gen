@@ -1,4 +1,4 @@
-ID: 330
+ID: 377
 Name: Open Classifieds
 Description: Free open-source, self-hosted CMS for classifieds sites.
 Source Code: https://github.com/open-classifieds/openclassifieds2
@@ -9,10 +9,10 @@ Languages:
 - PHP
 C: Content Management Systems (CMS)
 Tags:
-- CMS
+- Content Management Systems (CMS)
 - E-commerce
 MD: '- [Open Classifieds](http://open-classifieds.com/) - Free open-source, self-hosted
   CMS for classifieds sites. ([Source Code](https://github.com/open-classifieds/openclassifieds2))
   `GPL-3.0` `PHP`'
 SourceType: Github
-Line: 568
+Line: 576

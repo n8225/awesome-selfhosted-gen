@@ -1,4 +1,4 @@
-ID: 686
+ID: 530
 Name: cryptonote
 Description: Simple open source web application that lets users encrypt and share
   messages that can only be read once.
@@ -10,9 +10,9 @@ Languages:
 - Ruby
 C: Pastebins
 Tags:
-- Pastebin
+- Pastebins
 MD: '- [cryptonote](https://cryptonote.me/) - Simple open source web application that
   lets users encrypt and share messages that can only be read once. ([Source Code](https://github.com/alainmeier/cryptonote))
   `MIT` `Ruby`'
 SourceType: Github
-Line: 1096
+Line: 1122

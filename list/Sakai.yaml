@@ -1,4 +1,4 @@
-ID: 523
+ID: 460
 Name: Sakai
 Description: The Sakai project provides a flexible and feature-rich environment for
   teaching, learning, research and other collaboration.
@@ -11,12 +11,10 @@ Languages:
 - Java
 C: Learning and Courses
 Tags:
-- Learning
-- Courses
-- LMS
+- Learning and Courses
 MD: '- [Sakai](https://www.sakaiproject.org/) - The Sakai project provides a flexible
   and feature-rich environment for teaching, learning, research and other collaboration.
   ([Demo](https://www.sakaiproject.org/try-sakai), [Source Code](https://github.com/sakaiproject/sakai))
   `ECL-2.0` `Java`'
 SourceType: Github
-Line: 870
+Line: 890

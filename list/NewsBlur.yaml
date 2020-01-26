@@ -1,4 +1,4 @@
-ID: 376
+ID: 912
 Name: NewsBlur
 Description: NewsBlur is a personal news reader that brings people together to talk
   about the world. A new sound of an old instrument.
@@ -10,10 +10,9 @@ Languages:
 - Python
 C: Feed Readers
 Tags:
-- RSS
-- Feed Reader
+- Feed Readers
 MD: '- [NewsBlur](http://www.newsblur.com/) - NewsBlur is a personal news reader that
   brings people together to talk about the world. A new sound of an old instrument.
   ([Source Code](https://github.com/samuelclay/NewsBlur)) `MIT` `Python`'
 SourceType: Github
-Line: 652
+Line: 664

@@ -1,4 +1,4 @@
-ID: 713
+ID: 679
 Name: iDashboard-PHP
 Description: HTPC Dashboard to load website services.
 Source Code: https://github.com/causefx/iDashboard-PHP
@@ -8,8 +8,8 @@ Languages:
 - PHP
 C: Personal Dashboards
 Tags:
-- Dashboard
+- Personal Dashboards
 MD: '- [iDashboard-PHP](https://github.com/causefx/iDashboard-PHP) - HTPC Dashboard
   to load website services. `MIT` `PHP`'
 SourceType: Github
-Line: 1130
+Line: 1153

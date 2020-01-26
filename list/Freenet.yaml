@@ -1,4 +1,4 @@
-ID: 108
+ID: 258
 Name: Freenet
 Description: Anonymously share files, browse and publish "freesites" (web sites accessible
   only through Freenet) and chat on forums.
@@ -10,9 +10,10 @@ Languages:
 - Java
 C: Communication systems
 Tags:
-- Communications
+- Communication systems
+- Custom communication systems
 MD: '- [Freenet](https://freenetproject.org/index.html) - Anonymously share files,
   browse and publish "freesites" (web sites accessible only through Freenet) and chat
   on forums. ([Source Code](https://github.com/freenet/fred)) `GPL-2.0` `Java`'
 SourceType: Github
-Line: 270
+Line: 274

@@ -1,0 +1,16 @@
+ID: 796
+Name: Torrents.csv
+Description: A self-hostable torrent search engine.
+Source Code: https://gitlab.com/dessalines/torrents.csv
+License:
+- GPL-3.0
+Languages:
+- Rust
+C: File Sharing and Synchronization
+Tags:
+- File Sharing and Synchronization
+- Peer-to-peer filesharing
+MD: '- [Torrents.csv](https://gitlab.com/dessalines/torrents.csv) - A self-hostable
+  torrent search engine. `GPL-3.0` `Rust`'
+SourceType: Gitlab
+Line: 732

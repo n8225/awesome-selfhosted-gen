@@ -1,4 +1,4 @@
-ID: 85
+ID: 181
 Name: Lobsters
 Description: Run your own link aggregation site.
 Source Code: https://github.com/jcs/lobsters
@@ -9,9 +9,8 @@ Languages:
 - Ruby
 C: Bookmarks and Link Sharing
 Tags:
-- Bookmarks
-- Links
+- Bookmarks and Link Sharing
 MD: '- [Lobsters](https://lobste.rs) - Run your own link aggregation site. ([Source
   Code](https://github.com/jcs/lobsters)) `BSD-3-Clause` `Ruby`'
 SourceType: Github
-Line: 226
+Line: 229

@@ -1,4 +1,4 @@
-ID: 283
+ID: 129
 Name: Cockpit
 Description: Simple Content Platform to manage any structured content.
 Source Code: https://github.com/agentejo/cockpit
@@ -9,8 +9,8 @@ Languages:
 - PHP
 C: Content Management Systems (CMS)
 Tags:
-- CMS
+- Content Management Systems (CMS)
 MD: '- [Cockpit](http://getcockpit.com) - Simple Content Platform to manage any structured
   content. ([Source Code](https://github.com/agentejo/cockpit)) `MIT` `PHP`'
 SourceType: Github
-Line: 515
+Line: 522

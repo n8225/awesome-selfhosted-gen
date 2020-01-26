@@ -1,4 +1,4 @@
-ID: 301
+ID: 101
 Name: Pico
 Description: Stupidly simple, blazing fast, flat file CMS.
 Source Code: https://github.com/picocms/Pico
@@ -9,8 +9,8 @@ Languages:
 - PHP
 C: Content Management Systems (CMS)
 Tags:
-- CMS
+- Content Management Systems (CMS)
 MD: '- [Pico](http://picocms.org/) - Stupidly simple, blazing fast, flat file CMS.
   ([Source Code](https://github.com/picocms/Pico)) `MIT` `PHP`'
 SourceType: Github
-Line: 533
+Line: 540

@@ -1,4 +1,4 @@
-ID: 302
+ID: 475
 Name: Pimcore
 Description: Multi-Channel Experience and Engagement Management Platform.
 Source Code: https://github.com/pimcore/pimcore
@@ -9,9 +9,9 @@ Languages:
 - PHP
 C: Content Management Systems (CMS)
 Tags:
-- CMS
+- Content Management Systems (CMS)
 MD: '- [Pimcore](https://www.pimcore.org/) - Multi-Channel Experience and Engagement
   Management Platform. ([Source Code](https://github.com/pimcore/pimcore)) `GPL-3.0-or-later`
   `PHP`'
 SourceType: Github
-Line: 534
+Line: 541

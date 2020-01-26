@@ -1,4 +1,4 @@
-ID: 808
+ID: 553
 Name: Trac
 Description: Trac is an enhanced wiki and issue tracking system for software development
   projects.
@@ -9,8 +9,10 @@ Languages:
 - Python
 C: Software Development
 Tags:
-- Software Dev
-- Project Mgmnt
+- Software Development
+- Project Management
+- See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managementto-do-lists),
+  [awesome-sysadmin/Code Review](https://github.com/n1trux/awesome-sysadmin#code-review)
 MD: '- [Trac](http://trac.edgewall.org/) - Trac is an enhanced wiki and issue tracking
   system for software development projects. `BSD-3-Clause` `Python`'
-Line: 1270
+Line: 1299

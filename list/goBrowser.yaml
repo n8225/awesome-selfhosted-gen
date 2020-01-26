@@ -1,4 +1,4 @@
-ID: 458
+ID: 603
 Name: goBrowser
 Description: Simple http file browser.
 Source Code: https://github.com/xataz/gobrowser
@@ -8,9 +8,9 @@ Languages:
 - Go
 C: File Sharing and Synchronization
 Tags:
-- File Sharing
-- Web File MGR
+- File Sharing and Synchronization
+- Web based file managers
 MD: '- [goBrowser](https://github.com/xataz/gobrowser) - Simple http file browser.
   `GPL-3.0` `Go`'
 SourceType: Github
-Line: 768
+Line: 782

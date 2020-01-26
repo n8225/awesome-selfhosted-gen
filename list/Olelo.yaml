@@ -1,4 +1,4 @@
-ID: 909
+ID: 33
 Name: Olelo
 Description: Olelo is a wiki that stores pages in a Git repository, supports many
   markup styles and has an extensible, hackable architecture.
@@ -10,9 +10,9 @@ Languages:
 - Ruby
 C: Wikis
 Tags:
-- Wiki
+- Wikis
 MD: '- [Olelo](https://github.com/minad/olelo) - Olelo is a wiki that stores pages
   in a Git repository, supports many markup styles and has an extensible, hackable
   architecture. ([Demo](http://gitwiki.org/)) `MIT` `Ruby`'
 SourceType: Github
-Line: 1445
+Line: 1475

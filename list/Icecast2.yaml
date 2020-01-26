@@ -1,4 +1,4 @@
-ID: 543
+ID: 703
 Name: Icecast 2
 Description: streaming audio/video server which can be used to create an Internet
   radio station or a privately running jukebox and many things in between.
@@ -12,11 +12,10 @@ Languages:
 - C
 C: Media Streaming
 Tags:
-- Media
-- Streaming
-- Multimedia
+- Media Streaming
+- Multimedia Streaming
 MD: '- [Icecast 2](http://www.icecast.org/) - streaming audio/video server which can
   be used to create an Internet radio station or a privately running jukebox and many
   things in between. ([Source Code](https://git.xiph.org/?p=icecast-server.git;a=summary),
   [Clients](http://www.icecast.org/apps/)) `GPL-2.0` `C`'
-Line: 906
+Line: 925

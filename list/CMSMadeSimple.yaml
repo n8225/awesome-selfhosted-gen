@@ -1,4 +1,4 @@
-ID: 282
+ID: 62
 Name: CMS Made Simple
 Description: Open source content management system, faster and easier management of
   website contents, scalable for small businesses to large corporations.
@@ -10,9 +10,9 @@ Languages:
 - PHP
 C: Content Management Systems (CMS)
 Tags:
-- CMS
+- Content Management Systems (CMS)
 MD: '- [CMS Made Simple](http://www.cmsmadesimple.org/) - Open source content management
   system, faster and easier management of website contents, scalable for small businesses
   to large corporations. ([Source Code](http://svn.cmsmadesimple.org/svn/cmsmadesimple/trunk/))
   `GPL-1.0` `PHP`'
-Line: 514
+Line: 521

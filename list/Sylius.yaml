@@ -1,4 +1,4 @@
-ID: 341
+ID: 29
 Name: Sylius
 Description: Symfony2 powered open source full-stack platform for eCommerce.
 Source Code: https://github.com/Sylius/Sylius
@@ -10,10 +10,10 @@ Languages:
 - PHP
 C: Content Management Systems (CMS)
 Tags:
-- CMS
+- Content Management Systems (CMS)
 - E-commerce
 MD: '- [Sylius](http://sylius.org/) - Symfony2 powered open source full-stack platform
   for eCommerce. ([Demo](http://sylius.org/demo), [Source Code](https://github.com/Sylius/Sylius))
   `MIT` `PHP`'
 SourceType: Github
-Line: 579
+Line: 588

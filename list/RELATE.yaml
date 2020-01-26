@@ -1,4 +1,4 @@
-ID: 521
+ID: 634
 Name: RELATE
 Description: 'RELATE is a web-based courseware package, includes features such as:
   flexible rules, statistics, multi-course support, class calendar.'
@@ -10,11 +10,9 @@ Languages:
 - Python
 C: Learning and Courses
 Tags:
-- Learning
-- Courses
-- LMS
+- Learning and Courses
 MD: '- [RELATE](https://documen.tician.de/relate/) - RELATE is a web-based courseware
   package, includes features such as: flexible rules, statistics, multi-course support,
   class calendar. ([Source Code](https://github.com/inducer/relate)) `MIT` `Python`'
 SourceType: Github
-Line: 868
+Line: 888

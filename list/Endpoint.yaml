@@ -1,4 +1,4 @@
-ID: 831
+ID: 37
 Name: Endpoint
 Description: Super simple mock HTTP API endpoints that return static JSON data, for
   testing webhooks and client libraries in development.
@@ -9,10 +9,10 @@ Languages:
 - Nodejs
 C: Software Development
 Tags:
-- Software Dev
-- API Mgmnt
+- Software Development
+- API Management
 MD: '- [Endpoint](https://github.com/LINKIWI/endpoint) - Super simple mock HTTP API
   endpoints that return static JSON data, for testing webhooks and client libraries
   in development. `MIT` `Nodejs`'
 SourceType: Github
-Line: 1315
+Line: 1345

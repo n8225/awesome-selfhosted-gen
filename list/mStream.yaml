@@ -1,9 +1,9 @@
-ID: 569
+ID: 552
 Name: mStream
 Description: Music streaming server with GUI management tools. Runs on Mac, Windows,
   and Linux.
 Source Code: https://github.com/IrosTheBeggar/mStream
-Demo: https://darncoyotes.mstream.io/
+Demo: https://demo.mstream.io/
 Website: http://mstream.io/
 License:
 - GPL-2.0
@@ -11,11 +11,10 @@ Languages:
 - Nodejs
 C: Media Streaming
 Tags:
-- Media
-- Streaming
-- Audio
+- Media Streaming
+- Audio Streaming
 MD: '- [mStream](http://mstream.io/) - Music streaming server with GUI management
-  tools. Runs on Mac, Windows, and Linux. ([Demo](https://darncoyotes.mstream.io/),
-  [Source Code](https://github.com/IrosTheBeggar/mStream)) `GPL-2.0` `Nodejs`'
+  tools. Runs on Mac, Windows, and Linux. ([Demo](https://demo.mstream.io/), [Source
+  Code](https://github.com/IrosTheBeggar/mStream)) `GPL-2.0` `Nodejs`'
 SourceType: Github
-Line: 936
+Line: 957

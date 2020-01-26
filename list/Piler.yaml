@@ -1,4 +1,4 @@
-ID: 165
+ID: 88
 Name: Piler
 Description: feature rich open source email archiving solution.
 Source Code: https://bitbucket.org/jsuto/piler
@@ -9,12 +9,10 @@ Languages:
 - C
 C: Communication systems
 Tags:
-- Communications
-- Email
-- MDA
-- IMAP
-- POP3
+- Communication systems
+- Mail Delivery Agents
+- MDAs - IMAP/POP3 software
 MD: '- [Piler](http://www.mailpiler.org/wiki/start) - feature rich open source email
   archiving solution. ([Source Code](https://bitbucket.org/jsuto/piler)) `GPL-3.0`
   `C`'
-Line: 346
+Line: 351

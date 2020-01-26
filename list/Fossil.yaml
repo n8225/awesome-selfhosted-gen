@@ -1,4 +1,4 @@
-ID: 785
+ID: 80
 Name: Fossil
 Description: Distributed version control system featuring wiki and bug tracker.
 Source Code: https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki
@@ -8,9 +8,11 @@ Languages:
 - C
 C: Software Development
 Tags:
-- Software Dev
-- Project Mgmnt
+- Software Development
+- Project Management
+- See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managementto-do-lists),
+  [awesome-sysadmin/Code Review](https://github.com/n1trux/awesome-sysadmin#code-review)
 MD: '- [Fossil](https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki) -
   Distributed version control system featuring wiki and bug tracker. `BSD-2-Clause-FreeBSD`
   `C`'
-Line: 1247
+Line: 1273

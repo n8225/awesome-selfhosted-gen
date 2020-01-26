@@ -1,4 +1,4 @@
-ID: 257
+ID: 195
 Name: MongooseIM
 Description: Mobile messaging platform with a focus on performance and scalability.
 Source Code: https://github.com/esl/MongooseIM
@@ -9,11 +9,10 @@ Languages:
 - Erlang
 C: Communication systems
 Tags:
-- Communications
-- XMPP
-- XMPP Server
+- Communication systems
+- XMPP Servers
 MD: '- [MongooseIM](https://www.erlang-solutions.com/products/mongooseim.html) - Mobile
   messaging platform with a focus on performance and scalability. ([Source Code](https://github.com/esl/MongooseIM))
   `GPL-2.0` `Erlang`'
 SourceType: Github
-Line: 474
+Line: 481

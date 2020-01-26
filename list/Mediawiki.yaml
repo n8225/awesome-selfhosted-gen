@@ -1,9 +1,10 @@
-ID: 907
+ID: 504
 Name: Mediawiki
 Description: MediaWiki is a free and open-source wiki software package written in
   PHP. It serves as the platform for Wikipedia and the other Wikimedia projects, used
   by hundreds of millions of people each month.
 Source Code: https://phabricator.wikimedia.org/diffusion/MW/
+Demo: https://en.wikipedia.org/wiki/Main_Page
 Website: https://www.mediawiki.org/wiki/MediaWiki
 License:
 - GPL-2.0
@@ -11,10 +12,10 @@ Languages:
 - PHP
 C: Wikis
 Tags:
-- Wiki
+- Wikis
 MD: '- [Mediawiki](https://www.mediawiki.org/wiki/MediaWiki) - MediaWiki is a free
   and open-source wiki software package written in PHP. It serves as the platform
   for Wikipedia and the other Wikimedia projects, used by hundreds of millions of
-  people each month. ([Source Code](https://phabricator.wikimedia.org/diffusion/MW/))
+  people each month. ([Demo](https://en.wikipedia.org/wiki/Main_Page), ([Source Code](https://phabricator.wikimedia.org/diffusion/MW/))
   `GPL-2.0` `PHP`'
-Line: 1443
+Line: 1473

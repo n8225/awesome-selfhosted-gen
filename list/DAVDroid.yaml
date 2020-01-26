@@ -1,4 +1,4 @@
-ID: 103
+ID: 686
 Name: DAVDroid
 Description: Open-source CalDAV/CardDAV suite and sync app for Android.
 Source Code: https://gitlab.com/bitfireAT/davdroid
@@ -9,10 +9,10 @@ Languages:
 - Java
 C: Calendaring and Contacts Management
 Tags:
-- Calendar
-- Contacts
+- Calendaring and Contacts Management
+- CalDAV or CardDAV clients.
 MD: '- [DAVDroid](https://www.davdroid.com/) - Open-source CalDAV/CardDAV suite and
   sync app for Android. ([Source Code](https://gitlab.com/bitfireAT/davdroid)) `GPL-3.0`
   `Java`'
 SourceType: Gitlab
-Line: 258
+Line: 262

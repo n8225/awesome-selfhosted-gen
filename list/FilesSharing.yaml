@@ -1,4 +1,4 @@
-ID: 430
+ID: 236
 Name: Files Sharing
 Description: Open Source and self-hosted files sharing application based on unique
   and temporary links.
@@ -9,10 +9,9 @@ Languages:
 - PHP
 C: File Sharing and Synchronization
 Tags:
-- File Sharing
-- Single-Click Upload
-- Drag-n-Drop Upload
+- File Sharing and Synchronization
+- Single-click/drag-n-drop upload
 MD: '- [Files Sharing](https://github.com/axeloz/filesharing) - Open Source and self-hosted
   files sharing application based on unique and temporary links. `GPL-3.0` `PHP`'
 SourceType: Github
-Line: 734
+Line: 748

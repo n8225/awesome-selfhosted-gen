@@ -1,4 +1,4 @@
-ID: 513
+ID: 549
 Name: Canvas LMS
 Description: Canvas is the trusted, open-source learning management system (LMS) that
   is revolutionizing the way we educate.
@@ -11,11 +11,9 @@ Languages:
 - Ruby
 C: Learning and Courses
 Tags:
-- Learning
-- Courses
-- LMS
+- Learning and Courses
 MD: '- [Canvas LMS](https://www.canvaslms.com/) - Canvas is the trusted, open-source
   learning management system (LMS) that is revolutionizing the way we educate. ([Demo](https://canvas.instructure.com/register),
   [Source Code](https://github.com/instructure/canvas-lms)) `AGPL-3.0` `Ruby`'
 SourceType: Github
-Line: 860
+Line: 880

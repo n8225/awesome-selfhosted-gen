@@ -1,4 +1,4 @@
-ID: 105
+ID: 238
 Name: EteSync Web
 Description: EteSync's official Web-based client (i.e., their Web app).
 Source Code: https://github.com/etesync/etesync-web
@@ -10,10 +10,10 @@ Languages:
 - TypeScript
 C: Calendaring and Contacts Management
 Tags:
-- Calendar
-- Contacts
+- Calendaring and Contacts Management
+- CalDAV or CardDAV clients.
 MD: '- [EteSync Web](https://www.etesync.com/faq/#web-client) - EteSync''s official
   Web-based client (i.e., their Web app). ([Demo](https://client.etesync.com/), [Source
   Code](https://github.com/etesync/etesync-web)) `AGPL-3.0` `TypeScript`'
 SourceType: Github
-Line: 260
+Line: 264

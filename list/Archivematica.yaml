@@ -1,4 +1,4 @@
-ID: 22
+ID: 728
 Name: Archivematica
 Description: Mature digital preservation system designed to maintain standards-based,
   long-term access to collections of digital objects.
@@ -11,11 +11,10 @@ Languages:
 - Python
 C: Archiving and Digital Preservation (DP)
 Tags:
-- archiving
-- Digital Preservation
+- Archiving and Digital Preservation (DP)
 MD: '- [Archivematica](https://www.archivematica.org/) - Mature digital preservation
   system designed to maintain standards-based, long-term access to collections of
   digital objects. ([Demo](http://sandbox.archivematica.org/administration/accounts/login/),
   [Source Code](https://github.com/artefactual/archivematica)) `AGPL-3.0-only` `Python`'
 SourceType: Github
-Line: 145
+Line: 147

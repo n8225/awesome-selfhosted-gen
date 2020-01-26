@@ -1,4 +1,4 @@
-ID: 413
+ID: 734
 Name: Firefox Send
 Description: A file sharing experiment which allows you to send encrypted files to
   other users.
@@ -9,9 +9,9 @@ Languages:
 - Nodejs
 C: File Sharing and Synchronization
 Tags:
-- File Sharing
-- P2P
+- File Sharing and Synchronization
+- Peer-to-peer filesharing
 MD: '- [Firefox Send](https://github.com/mozilla/send) - A file sharing experiment
   which allows you to send encrypted files to other users. `MPL-2.0` `Nodejs`'
 SourceType: Github
-Line: 711
+Line: 724

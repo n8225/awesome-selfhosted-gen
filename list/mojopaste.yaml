@@ -1,4 +1,4 @@
-ID: 693
+ID: 814
 Name: mojopaste
 Description: Perl based pastebin.
 Source Code: https://github.com/jhthorsen/app-mojopaste
@@ -10,9 +10,9 @@ Languages:
 - Perl
 C: Pastebins
 Tags:
-- Pastebin
+- Pastebins
 MD: '- [mojopaste](http://search.cpan.org/dist/App-mojopaste/) - Perl based pastebin.
   ([Demo](http://p.thorsen.pm/), [Source Code](https://github.com/jhthorsen/app-mojopaste))
   `Artistic-2.0` `Perl`'
 SourceType: Github
-Line: 1103
+Line: 1128

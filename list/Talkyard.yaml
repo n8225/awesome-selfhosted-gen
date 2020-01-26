@@ -1,4 +1,4 @@
-ID: 249
+ID: 762
 Name: Talkyard
 Description: Create a community, where your users can suggest ideas and get questions
   answered. And have friendly open-ended discussions and chat (Slack/StackOverflow/Discourse/Reddit/Disqus
@@ -9,15 +9,14 @@ Website: https://www.talkyard.io/
 License:
 - AGPL-3.0
 Languages:
-- scala
+- Scala
 C: Communication systems
 Tags:
-- Communications
-- Social Network
-- Forum
+- Communication systems
+- Social Networks and Forums
 MD: '- [Talkyard](https://www.talkyard.io/) - Create a community, where your users
   can suggest ideas and get questions answered. And have friendly open-ended discussions
   and chat (Slack/StackOverflow/Discourse/Reddit/Disqus hybrid). ([Demo](https://www.talkyard.io/forum/latest),
   [Source Code](https://github.com/debiki/talkyard)) `AGPL-3.0` `Scala`'
 SourceType: Github
-Line: 457
+Line: 464

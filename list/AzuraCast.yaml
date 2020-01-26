@@ -1,4 +1,4 @@
-ID: 551
+ID: 899
 Name: AzuraCast
 Description: A modern and accessible self-hosted web radio management suite.
 Source Code: https://github.com/AzuraCast/AzuraCast
@@ -9,11 +9,10 @@ Languages:
 - PHP
 C: Media Streaming
 Tags:
-- Media
-- Streaming
-- Audio
+- Media Streaming
+- Audio Streaming
 MD: '- [AzuraCast](https://www.azuracast.com/) - A modern and accessible self-hosted
   web radio management suite. ([Source Code](https://github.com/AzuraCast/AzuraCast))
   `Apache-2.0` `PHP`'
 SourceType: Github
-Line: 918
+Line: 938

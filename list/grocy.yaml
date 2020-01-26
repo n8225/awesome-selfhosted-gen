@@ -1,0 +1,19 @@
+ID: 824
+Name: grocy
+Description: ERP beyond your fridge - grocy is a web-based self-hosted groceries &
+  household management solution for your home.
+Source Code: https://github.com/grocy/grocy
+Demo: https://en.demo.grocy.info/
+Website: https://grocy.info/
+License:
+- MIT
+Languages:
+- PHP
+C: Resource Planning
+Tags:
+- Resource Planning
+MD: '- [grocy](https://grocy.info/) - ERP beyond your fridge - grocy is a web-based
+  self-hosted groceries & household management solution for your home. ([Demo](https://en.demo.grocy.info/),
+  [Source Code](https://github.com/grocy/grocy)) `MIT` `PHP`'
+SourceType: Github
+Line: 1244

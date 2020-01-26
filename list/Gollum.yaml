@@ -1,4 +1,4 @@
-ID: 905
+ID: 285
 Name: Gollum
 Description: Simple, Git-powered wiki with a sweet API and local frontend.
 Source Code: https://github.com/gollum/gollum
@@ -8,8 +8,8 @@ Languages:
 - Ruby
 C: Wikis
 Tags:
-- Wiki
+- Wikis
 MD: '- [Gollum](https://github.com/gollum/gollum) - Simple, Git-powered wiki with
   a sweet API and local frontend. `MIT` `Ruby`'
 SourceType: Github
-Line: 1441
+Line: 1471

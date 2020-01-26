@@ -1,0 +1,15 @@
+ID: 305
+Name: Journal
+Description: Simple journaling with encrypted entries and sharing capabilities.
+Source Code: https://github.com/inoda/journal
+License:
+- MIT
+Languages:
+- Ruby
+C: Misc/Other
+Tags:
+- Misc/Other
+MD: '- [Journal](https://github.com/inoda/journal) - Simple journaling with encrypted
+  entries and sharing capabilities. `MIT` `Ruby`'
+SourceType: Github
+Line: 1001

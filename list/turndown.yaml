@@ -1,4 +1,4 @@
-ID: 663
+ID: 648
 Name: turndown
 Description: HTML to Markdown converter written in JavaScript.
 Source Code: https://github.com/domchristie/turndown
@@ -6,13 +6,12 @@ Website: https://domchristie.github.io/turndown/
 License:
 - MIT
 Languages:
-- HTML5
+- Javascript
 C: Note-taking and Editors
 Tags:
-- Note-taking
-- Editor
+- Note-taking and Editors
 MD: '- [turndown](https://domchristie.github.io/turndown/) - HTML to Markdown converter
   written in JavaScript. ([Source Code](https://github.com/domchristie/turndown))
   `MIT` `Javascript`'
 SourceType: Github
-Line: 1058
+Line: 1082

@@ -1,4 +1,4 @@
-ID: 512
+ID: 489
 Name: Weaviate
 Description: GraphQL based Knowledge Graph.
 Source Code: https://github.com/semi-technologies/weaviate
@@ -9,8 +9,8 @@ Languages:
 - Go
 C: Knowledge Management Tools
 Tags:
-- Knowledge Mgmnt
+- Knowledge Management Tools
 MD: '- [Weaviate](https://github.com/semi-technologies/weaviate) - GraphQL based Knowledge
   Graph. ([Demo](https://semi.technology)) `BSD-3-Clause` `Go`'
 SourceType: Github
-Line: 854
+Line: 874

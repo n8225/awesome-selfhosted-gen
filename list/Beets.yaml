@@ -1,4 +1,4 @@
-ID: 552
+ID: 368
 Name: Beets
 Description: Music library manager and MusicBrainz tagger (command-line and Web interface).
 Source Code: https://github.com/beetbox/beets
@@ -9,10 +9,9 @@ Languages:
 - Python
 C: Media Streaming
 Tags:
-- Media
-- Streaming
-- Audio
+- Media Streaming
+- Audio Streaming
 MD: '- [Beets](http://beets.io/) - Music library manager and MusicBrainz tagger (command-line
   and Web interface). ([Source Code](https://github.com/beetbox/beets)) `MIT` `Python`'
 SourceType: Github
-Line: 919
+Line: 939

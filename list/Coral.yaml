@@ -1,0 +1,17 @@
+ID: 497
+Name: Coral
+Description: A better commenting experience from Vox Media.
+Source Code: https://github.com/coralproject/talk
+Website: https://coralproject.net/
+License:
+- Apache-2.0
+Languages:
+- Nodejs
+C: Communication systems
+Tags:
+- Communication systems
+- Social Networks and Forums
+MD: '- [Coral](https://coralproject.net/) - A better commenting experience from Vox
+  Media. ([Source Code](https://github.com/coralproject/talk)) `Apache-2.0` `Nodejs`'
+SourceType: Github
+Line: 430

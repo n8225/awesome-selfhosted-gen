@@ -1,4 +1,4 @@
-ID: 405
+ID: 269
 Name: Syncany
 Description: Secure file sync software for arbitrary storage backends, an open-source
   cloud storage and filesharing application. Securely synchronize your files to any
@@ -10,10 +10,9 @@ Languages:
 - Java
 C: File Sharing and Synchronization
 Tags:
-- File Sharing
-- File Transfer
-- File Sync
+- File Sharing and Synchronization
+- File transfer/synchronization
 MD: '- [Syncany](https://www.syncany.org/) - Secure file sync software for arbitrary
   storage backends, an open-source cloud storage and filesharing application. Securely
   synchronize your files to any kind of storage. `GPL-3.0` `Java`'
-Line: 700
+Line: 713

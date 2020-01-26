@@ -1,4 +1,4 @@
-ID: 172
+ID: 887
 Name: Mautic
 Description: Mautic is marketing automation software (email, social and more).
 Source Code: https://github.com/mautic/mautic
@@ -9,13 +9,11 @@ Languages:
 - PHP
 C: Communication systems
 Tags:
-- Communications
-- Email
-- Mailng List
-- Newsletters
-- Mass mail
+- Communication systems
+- Mailing lists and Newsletters
+- Mailing lists servers and mass mailing software - one message to many recipients.
 MD: '- [Mautic](https://www.mautic.org/) - Mautic is marketing automation software
   (email, social and more). ([Source Code](https://github.com/mautic/mautic)) `GPL-3.0`
   `PHP`'
 SourceType: Github
-Line: 358
+Line: 363

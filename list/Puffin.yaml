@@ -1,4 +1,4 @@
-ID: 934
+ID: 168
 Name: Puffin
 Description: Lightweight webapp catalog based on containers, with user interface à
   la mobile app store.
@@ -10,8 +10,8 @@ Languages:
 - Docker
 C: Self-hosting Solutions
 Tags:
-- Self-hosting Solution
+- Self-hosting Solutions
 MD: '- [Puffin](https://github.com/puffinrocks/puffin) - Lightweight webapp catalog
   based on containers, with user interface à la mobile app store. `AGPL-3.0` `Python/Docker`'
 SourceType: Github
-Line: 1475
+Line: 1506

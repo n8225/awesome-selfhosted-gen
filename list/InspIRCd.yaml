@@ -1,4 +1,4 @@
-ID: 187
+ID: 49
 Name: InspIRCd
 Description: Modular IRC server written in C++ for Linux, BSD, Windows, and macOS.
 Source Code: https://github.com/inspircd/inspircd
@@ -9,10 +9,10 @@ Languages:
 - C++
 C: Communication systems
 Tags:
-- Communications
+- Communication systems
 - IRC
 MD: '- [InspIRCd](https://www.inspircd.org/) - Modular IRC server written in C++ for
   Linux, BSD, Windows, and macOS. ([Source Code](https://github.com/inspircd/inspircd))
   `GFDL-1.2-only` `C++`'
 SourceType: Github
-Line: 383
+Line: 387

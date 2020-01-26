@@ -1,4 +1,4 @@
-ID: 358
+ID: 610
 Name: Evergreen
 Description: Highly-scalable software for libraries that helps library patrons find
   library materials, and helps libraries manage, catalog, and circulate those materials.
@@ -7,15 +7,15 @@ Website: https://evergreen-ils.org
 License:
 - GPL-2.0
 Languages:
-- Perl
+- PL
 - pgSQL
 C: E-books and Integrated Library Systems (ILS)
 Tags:
-- E-book
-- ILS
+- E-books and Integrated Library Systems (ILS)
+- Enterprise-class library management software.
 MD: '- [Evergreen](https://evergreen-ils.org) - Highly-scalable software for libraries
   that helps library patrons find library materials, and helps libraries manage, catalog,
   and circulate those materials. ([Source Code](https://github.com/evergreen-library-system/Evergreen))
   `GPL-2.0` `PL/pgSQL`'
 SourceType: Github
-Line: 620
+Line: 632

@@ -1,4 +1,4 @@
-ID: 143
+ID: 394
 Name: homebox
 Description: Suite of Ansible scripts to deploy a fully functional mail server on
   Debian. Unobtrusive and automatic as much as possible, focusing on stability and
@@ -10,11 +10,11 @@ Languages:
 - Shell
 C: Communication systems
 Tags:
-- Communications
-- Email
-- Complete Email
+- Communication systems
+- Complete solutions
+- Simple deployment of a mail server, e.g. for inexperienced or impatient admins.
 MD: '- [homebox](https://github.com/progmaticltd/homebox) - Suite of Ansible scripts
   to deploy a fully functional mail server on Debian. Unobtrusive and automatic as
   much as possible, focusing on stability and security. `GPL-3.0` `Shell`'
 SourceType: Github
-Line: 314
+Line: 318

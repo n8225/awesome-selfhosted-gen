@@ -1,4 +1,4 @@
-ID: 828
+ID: 118
 Name: LocalStack
 Description: LocalStack is a fully functional local AWS cloud stack. This includes
   Lambda for serverless computation.
@@ -8,13 +8,13 @@ License:
 - Apache-2.0
 Languages:
 - Python
+- Other
 C: Software Development
 Tags:
-- Software Dev
-- FAAS
-- Severless
+- Software Development
+- FaaS/Serverless
 MD: '- [LocalStack](https://localstack.cloud/) - LocalStack is a fully functional
   local AWS cloud stack. This includes Lambda for serverless computation. ([Source
   Code](https://github.com/localstack/localstack)) `Apache-2.0` `Python/Other`'
 SourceType: Github
-Line: 1309
+Line: 1339

@@ -1,4 +1,4 @@
-ID: 295
+ID: 508
 Name: MODX
 Description: MODX is an advanced content management and publishing platform. The current
   version is called 'Revolution'.
@@ -10,9 +10,9 @@ Languages:
 - PHP
 C: Content Management Systems (CMS)
 Tags:
-- CMS
+- Content Management Systems (CMS)
 MD: '- [MODX](http://modx.com/) - MODX is an advanced content management and publishing
   platform. The current version is called ''Revolution''. ([Source Code](https://github.com/modxcms/revolution))
   `GPL-2.0` `PHP`'
 SourceType: Github
-Line: 527
+Line: 534

@@ -1,18 +1,16 @@
-ID: 553
+ID: 429
 Name: Black Candy
 Description: Music streaming server built with Rails and Stimulus.
 Source Code: https://github.com/aidewoode/black_candy
-Demo: http://178.62.101.174/
 License:
 - MIT
 Languages:
 - Ruby
 C: Media Streaming
 Tags:
-- Media
-- Streaming
-- Audio
+- Media Streaming
+- Audio Streaming
 MD: '- [Black Candy](https://github.com/aidewoode/black_candy) - Music streaming server
-  built with Rails and Stimulus. ([Demo](http://178.62.101.174/)) `MIT` `Ruby`'
+  built with Rails and Stimulus. `MIT` `Ruby`'
 SourceType: Github
-Line: 920
+Line: 940

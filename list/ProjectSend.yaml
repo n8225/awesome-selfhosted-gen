@@ -1,4 +1,4 @@
-ID: 442
+ID: 606
 Name: ProjectSend
 Description: Upload files and assign them to specific clients you create. Give access
   to those files to your clients.
@@ -10,11 +10,10 @@ Languages:
 - PHP
 C: File Sharing and Synchronization
 Tags:
-- File Sharing
-- Single-Click Upload
-- Drag-n-Drop Upload
+- File Sharing and Synchronization
+- Single-click/drag-n-drop upload
 MD: '- [ProjectSend](http://www.projectsend.org/) - Upload files and assign them to
   specific clients you create. Give access to those files to your clients. ([Source
   Code](https://github.com/ignacionelson/ProjectSend)) `GPL-2.0` `PHP`'
 SourceType: Github
-Line: 746
+Line: 760

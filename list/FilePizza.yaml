@@ -1,4 +1,4 @@
-ID: 412
+ID: 741
 Name: FilePizza
 Description: Peer-to-peer file transfers in your browser.
 Source Code: https://github.com/kern/filepizza
@@ -9,9 +9,9 @@ Languages:
 - Nodejs
 C: File Sharing and Synchronization
 Tags:
-- File Sharing
-- P2P
+- File Sharing and Synchronization
+- Peer-to-peer filesharing
 MD: '- [FilePizza](http://file.pizza/) - Peer-to-peer file transfers in your browser.
   ([Source Code](https://github.com/kern/filepizza)) `BSD-3-Clause` `Nodejs`'
 SourceType: Github
-Line: 710
+Line: 723

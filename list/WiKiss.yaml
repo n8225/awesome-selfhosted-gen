@@ -1,4 +1,4 @@
-ID: 920
+ID: 604
 Name: WiKiss
 Description: Wiki, simple to use and install.
 Source Code: https://svnweb.tuxfamily.org/listing.php?repname=wikiss/svn&path=%2F&sc=0
@@ -9,8 +9,8 @@ Languages:
 - PHP
 C: Wikis
 Tags:
-- Wiki
+- Wikis
 MD: '- [WiKiss](http://wikiss.tuxfamily.org/) - Wiki, simple to use and install. ([Source
   Code](https://svnweb.tuxfamily.org/listing.php?repname=wikiss/svn&path=%2F&sc=0))
   `GPL-2.0` `PHP`'
-Line: 1456
+Line: 1486

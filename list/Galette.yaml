@@ -1,4 +1,4 @@
-ID: 634
+ID: 673
 Name: Galette
 Description: Galette is a membership management web application towards non profit
   organizations.
@@ -10,9 +10,8 @@ Languages:
 - PHP
 C: Money, Budgeting and Management
 Tags:
-- Money
-- Budget
+- Money, Budgeting and Management
 MD: '- [Galette](http://galette.eu/dc/) - Galette is a membership management web application
   towards non profit organizations. ([Source Code](http://git.tuxfamily.org/galette/galette.git/))
   `GPL-3.0` `PHP`'
-Line: 1016
+Line: 1039

@@ -1,4 +1,4 @@
-ID: 59
+ID: 548
 Name: Anchor CMS
 Description: Free, lightweight, faster-than-a-bullet, simple blogging system, made
   for art–directed posts.
@@ -10,9 +10,9 @@ Languages:
 - PHP
 C: Blogging Platforms
 Tags:
-- Blog
+- Blogging Platforms
 MD: '- [Anchor CMS](https://anchorcms.com/) - Free, lightweight, faster-than-a-bullet,
   simple blogging system, made for art–directed posts. ([Source Code](https://github.com/anchorcms/anchor-cms))
   `GPL-3.0` `PHP`'
 SourceType: Github
-Line: 194
+Line: 197

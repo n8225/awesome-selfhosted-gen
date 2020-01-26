@@ -1,4 +1,4 @@
-ID: 501
+ID: 395
 Name: IceHrm
 Description: IceHrm employee management system allows companies to centralize confidential
   employee information.
@@ -11,10 +11,9 @@ Languages:
 - PHP
 C: Human Resources Management (HRM)
 Tags:
-- HRM
-- Human Resources MGMNT
+- Human Resources Management (HRM)
 MD: '- [IceHrm](https://icehrm.com/) - IceHrm employee management system allows companies
   to centralize confidential employee information. ([Demo](https://icehrm.com/demo.php),
   [Source Code](https://github.com/gamonoid/icehrm)) `Apache-2.0` `PHP`'
 SourceType: Github
-Line: 833
+Line: 848

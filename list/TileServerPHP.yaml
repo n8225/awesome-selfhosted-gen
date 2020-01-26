@@ -1,4 +1,4 @@
-ID: 536
+ID: 342
 Name: TileServer PHP
 Description: Serve map tiles from any PHP hosting.
 Source Code: https://github.com/klokantech/tileserver-php
@@ -8,9 +8,8 @@ Languages:
 - PHP
 C: Maps and Global Positioning System (GPS)
 Tags:
-- Maps
-- GPS
+- Maps and Global Positioning System (GPS)
 MD: '- [TileServer PHP](https://github.com/klokantech/tileserver-php) - Serve map
   tiles from any PHP hosting. `BSD-2-Clause` `PHP`'
 SourceType: Github
-Line: 890
+Line: 909

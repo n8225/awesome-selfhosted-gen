@@ -1,4 +1,4 @@
-ID: 223
+ID: 746
 Name: Friendica
 Description: Social Communication Server.
 Source Code: https://github.com/friendica/friendica
@@ -9,10 +9,9 @@ Languages:
 - PHP
 C: Communication systems
 Tags:
-- Communications
-- Social Network
-- Forum
+- Communication systems
+- Social Networks and Forums
 MD: '- [Friendica](https://friendi.ca/) - Social Communication Server. ([Source Code](https://github.com/friendica/friendica))
   `AGPL-3.0` `PHP`'
 SourceType: Github
-Line: 431
+Line: 438

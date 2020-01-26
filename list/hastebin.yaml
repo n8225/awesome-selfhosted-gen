@@ -1,4 +1,4 @@
-ID: 691
+ID: 946
 Name: hastebin
 Description: Open source pastebin written in node.js.
 Source Code: https://github.com/seejohnrun/haste-server
@@ -10,9 +10,9 @@ Languages:
 - Nodejs
 C: Pastebins
 Tags:
-- Pastebin
+- Pastebins
 MD: '- [hastebin](http://hastebin.com/about.md) - Open source pastebin written in
   node.js. ([Demo](http://hastebin.com/), [Source Code](https://github.com/seejohnrun/haste-server))
   `MIT` `Nodejs`'
 SourceType: Github
-Line: 1101
+Line: 1127

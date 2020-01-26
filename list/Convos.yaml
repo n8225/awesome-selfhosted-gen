@@ -1,4 +1,4 @@
-ID: 186
+ID: 766
 Name: Convos
 Description: Always online web IRC client.
 Source Code: http://github.com/nordaaker/convos
@@ -10,9 +10,9 @@ Languages:
 - Perl
 C: Communication systems
 Tags:
-- Communications
+- Communication systems
 - IRC
 MD: '- [Convos](http://convos.by/) - Always online web IRC client. ([Demo](http://demo.convos.by),
   [Source Code](http://github.com/nordaaker/convos)) `Artistic-2.0` `Perl`'
 SourceType: Github
-Line: 382
+Line: 386

@@ -1,4 +1,4 @@
-ID: 281
+ID: 268
 Name: Bolt CMS
 Description: Open source Content Management Tool, which strives to be as simple and
   straightforward as possible.
@@ -11,9 +11,9 @@ Languages:
 - PHP
 C: Content Management Systems (CMS)
 Tags:
-- CMS
+- Content Management Systems (CMS)
 MD: '- [Bolt CMS](https://bolt.cm/) - Open source Content Management Tool, which strives
   to be as simple and straightforward as possible. ([Demo](https://try.bolt.cm/),
   [Source Code](https://github.com/bolt/bolt)) `MIT` `PHP`'
 SourceType: Github
-Line: 513
+Line: 520

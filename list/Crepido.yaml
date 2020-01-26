@@ -1,4 +1,4 @@
-ID: 845
+ID: 59
 Name: Crepido
 Description: Create (kanban) boards to track users and projects from flat markdown
   files.
@@ -9,9 +9,8 @@ Languages:
 - Nodejs
 C: Task management/To-do lists
 Tags:
-- To-Do
-- Task Mgmnt
+- Task management/To-do lists
 MD: '- [Crepido](https://github.com/arshad/crepido) - Create (kanban) boards to track
   users and projects from flat markdown files. `MIT` `Nodejs`'
 SourceType: Github
-Line: 1350
+Line: 1381

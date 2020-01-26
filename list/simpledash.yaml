@@ -1,4 +1,4 @@
-ID: 715
+ID: 386
 Name: simple-dash
 Description: A simple, fully responsive Dashboard to forward to the services of your
   choice.
@@ -7,12 +7,12 @@ Demo: https://kutyla-philipp.github.io/simple-dash/
 License:
 - MIT
 Languages:
-- HTML5
+- Javascript
 C: Personal Dashboards
 Tags:
-- Dashboard
+- Personal Dashboards
 MD: '- [simple-dash](https://github.com/kutyla-philipp/simple-dash) - A simple, fully
   responsive Dashboard to forward to the services of your choice. ([Demo](https://kutyla-philipp.github.io/simple-dash/))
   `MIT` `Javascript`'
 SourceType: Github
-Line: 1132
+Line: 1155

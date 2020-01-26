@@ -1,4 +1,4 @@
-ID: 655
+ID: 561
 Name: Meemo
 Description: Personal notes stream with Markdown support.
 Source Code: https://github.com/nebulade/meemo
@@ -9,9 +9,8 @@ Languages:
 - Nodejs
 C: Note-taking and Editors
 Tags:
-- Note-taking
-- Editor
+- Note-taking and Editors
 MD: '- [Meemo](https://meemo.minimal-space.de/) - Personal notes stream with Markdown
   support. ([Source Code](https://github.com/nebulade/meemo)) `MIT` `Nodejs`'
 SourceType: Github
-Line: 1050
+Line: 1074

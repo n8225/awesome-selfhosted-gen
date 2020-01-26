@@ -1,4 +1,4 @@
-ID: 843
+ID: 467
 Name: Weblate
 Description: Web-based translation tool with tight version control integration.
 Source Code: https://github.com/WeblateOrg/weblate
@@ -10,10 +10,10 @@ Languages:
 - Python
 C: Software Development
 Tags:
-- Software Dev
-- Localiztion
+- Software Development
+- Localization
 MD: '- [Weblate](https://weblate.org) - Web-based translation tool with tight version
   control integration. ([Demo](https://demo.weblate.org), [Source Code](https://github.com/WeblateOrg/weblate))
   `GPL-3.0` `Python`'
 SourceType: Github
-Line: 1335
+Line: 1366

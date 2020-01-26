@@ -1,4 +1,4 @@
-ID: 525
+ID: 490
 Name: GraphHopper
 Description: Fast routing library and server using OpenStreetMap.
 Source Code: https://github.com/graphhopper/graphhopper
@@ -9,10 +9,9 @@ Languages:
 - Java
 C: Maps and Global Positioning System (GPS)
 Tags:
-- Maps
-- GPS
+- Maps and Global Positioning System (GPS)
 MD: '- [GraphHopper](https://graphhopper.com/) - Fast routing library and server using
   OpenStreetMap. ([Source Code](https://github.com/graphhopper/graphhopper)) `Apache-2.0`
   `Java`'
 SourceType: Github
-Line: 879
+Line: 898

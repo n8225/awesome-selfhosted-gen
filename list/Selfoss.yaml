@@ -1,4 +1,4 @@
-ID: 381
+ID: 482
 Name: Selfoss
 Description: New multipurpose rss reader, live stream, mashup, aggregation web application.
 Source Code: https://github.com/SSilence/selfoss
@@ -9,10 +9,9 @@ Languages:
 - PHP
 C: Feed Readers
 Tags:
-- RSS
-- Feed Reader
+- Feed Readers
 MD: '- [Selfoss](http://selfoss.aditu.de/) - New multipurpose rss reader, live stream,
   mashup, aggregation web application. ([Source Code](https://github.com/SSilence/selfoss))
   `AGPL-3.0` `PHP`'
 SourceType: Github
-Line: 657
+Line: 669

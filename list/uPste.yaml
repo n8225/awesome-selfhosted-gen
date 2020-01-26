@@ -1,4 +1,4 @@
-ID: 447
+ID: 162
 Name: uPste
 Description: Private file hosting application with an emphasis on serving technology
   communities.
@@ -10,11 +10,10 @@ Languages:
 - PHP
 C: File Sharing and Synchronization
 Tags:
-- File Sharing
-- Single-Click Upload
-- Drag-n-Drop Upload
+- File Sharing and Synchronization
+- Single-click/drag-n-drop upload
 MD: '- [uPste](https://u.pste.pw) - Private file hosting application with an emphasis
   on serving technology communities. ([Source Code](https://github.com/TheReverend403/uPste))
   `AGPL-3.0` `PHP`'
 SourceType: Github
-Line: 751
+Line: 765

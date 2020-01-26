@@ -1,4 +1,4 @@
-ID: 572
+ID: 616
 Name: Polaris
 Description: Music browsing and streaming application optimized for large music collections,
   ease of use and high performance.
@@ -9,11 +9,10 @@ Languages:
 - Rust
 C: Media Streaming
 Tags:
-- Media
-- Streaming
-- Audio
+- Media Streaming
+- Audio Streaming
 MD: '- [Polaris](https://github.com/agersant/polaris) - Music browsing and streaming
   application optimized for large music collections, ease of use and high performance.
   `MIT` `Rust`'
 SourceType: Github
-Line: 939
+Line: 960

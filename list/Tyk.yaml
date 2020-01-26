@@ -1,4 +1,4 @@
-ID: 836
+ID: 799
 Name: Tyk
 Description: Fast and scalable open source API Gateway. Out of the box, Tyk offers
   an API Management Platform with an API Gateway, API Analytics, Developer Portal
@@ -11,11 +11,11 @@ Languages:
 - Go
 C: Software Development
 Tags:
-- Software Dev
-- API Mgmnt
+- Software Development
+- API Management
 MD: '- [Tyk](https://tyk.io) - Fast and scalable open source API Gateway. Out of the
   box, Tyk offers an API Management Platform with an API Gateway, API Analytics, Developer
   Portal and API Management Dashboard. ([Source Code](https://github.com/TykTechnologies/tyk))
   `MPL-2.0` `Go`'
 SourceType: Github
-Line: 1320
+Line: 1351

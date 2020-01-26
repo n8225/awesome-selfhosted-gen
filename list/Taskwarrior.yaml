@@ -1,4 +1,4 @@
-ID: 856
+ID: 526
 Name: Taskwarrior
 Description: Taskwarrior is Free and Open Source Software that manages your TODO list
   from your command line. It is flexible, fast, efficient, and unobtrusive. It does
@@ -11,10 +11,9 @@ Languages:
 - C++
 C: Task management/To-do lists
 Tags:
-- To-Do
-- Task Mgmnt
+- Task management/To-do lists
 MD: '- [Taskwarrior](https://taskwarrior.org/) - Taskwarrior is Free and Open Source
   Software that manages your TODO list from your command line. It is flexible, fast,
   efficient, and unobtrusive. It does its job then gets out of your way. ([Source
   Code](https://taskwarrior.org/download/#git)) `MIT` `C++`'
-Line: 1361
+Line: 1392

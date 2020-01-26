@@ -1,4 +1,4 @@
-ID: 277
+ID: 311
 Name: Apostrophe
 Description: Node.js CMS with a focus on extensible in-context editing tools.
 Source Code: https://github.com/punkave/apostrophe
@@ -10,9 +10,9 @@ Languages:
 - Nodejs
 C: Content Management Systems (CMS)
 Tags:
-- CMS
+- Content Management Systems (CMS)
 MD: '- [Apostrophe](http://apostrophecms.org/) - Node.js CMS with a focus on extensible
   in-context editing tools. ([Demo](http://demo.apostrophecms.org/), [Source Code](https://github.com/punkave/apostrophe))
   `MIT` `Nodejs`'
 SourceType: Github
-Line: 509
+Line: 516

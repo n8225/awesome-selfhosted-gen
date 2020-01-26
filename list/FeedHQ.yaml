@@ -1,4 +1,4 @@
-ID: 367
+ID: 502
 Name: FeedHQ
 Description: FeedHQ is a web-based feed reader.
 Source Code: https://github.com/feedhq/feedhq
@@ -9,9 +9,8 @@ Languages:
 - Python
 C: Feed Readers
 Tags:
-- RSS
-- Feed Reader
+- Feed Readers
 MD: '- [FeedHQ](https://feedhq.org/) - FeedHQ is a web-based feed reader. ([Source
   Code](https://github.com/feedhq/feedhq)) `BSD-3-Clause` `Python`'
 SourceType: Github
-Line: 643
+Line: 655

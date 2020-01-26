@@ -1,17 +1,16 @@
-ID: 242
+ID: 626
 Name: PPnet
 Description: Create and host your own social network.
 Source Code: https://github.com/pixelpark/ppnet
 License:
 - MIT
 Languages:
-- HTML5
+- Javascript
 C: Communication systems
 Tags:
-- Communications
-- Social Network
-- Forum
+- Communication systems
+- Social Networks and Forums
 MD: '- [PPnet](https://github.com/pixelpark/ppnet) - Create and host your own social
   network. `MIT` `Javascript`'
 SourceType: Github
-Line: 450
+Line: 458

@@ -1,4 +1,4 @@
-ID: 75
+ID: 921
 Name: PluXml
 Description: XML-based blog/CMS platform.
 Source Code: https://github.com/pluxml/PluXml
@@ -9,8 +9,8 @@ Languages:
 - PHP
 C: Blogging Platforms
 Tags:
-- Blog
+- Blogging Platforms
 MD: '- [PluXml](http://www.pluxml.org/) - XML-based blog/CMS platform. ([Source Code](https://github.com/pluxml/PluXml))
   `GPL-1.0` `PHP`'
 SourceType: Github
-Line: 210
+Line: 214

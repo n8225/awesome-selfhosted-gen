@@ -1,0 +1,22 @@
+ID: 895
+Name: Rudder
+Description: Customer Data Infrastructure software for collecting, storing, processing
+  and routing event data from apps and websites to dozens of marketing tools & analytics
+  platforms (open-source alternative to Segment et al.).
+Source Code: https://github.com/rudderlabs/rudder-server/
+Website: https://rudderlabs.com/
+License:
+- SSPL-1.0
+Languages:
+- Go
+C: Analytics
+Tags:
+- Analytics
+- Web Analytics
+MD: '- [Rudder](https://rudderlabs.com/) - Customer Data Infrastructure software for
+  collecting, storing, processing and routing event data from apps and websites to
+  dozens of marketing tools & analytics platforms (open-source alternative to Segment
+  et al.). ([Source Code](https://github.com/rudderlabs/rudder-server/)) `SSPL-1.0`
+  `Go`'
+SourceType: Github
+Line: 125

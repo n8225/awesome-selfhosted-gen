@@ -1,4 +1,4 @@
-ID: 62
+ID: 198
 Name: Bludit
 Description: Simple application to build a site or blog in seconds. Bludit uses flat-files
   (text files in JSON format) to store posts and pages.
@@ -11,11 +11,11 @@ Languages:
 - PHP
 C: Blogging Platforms
 Tags:
-- Blog
+- Blogging Platforms
 ProprietaryDependency: true
 MD: '- [Bludit](https://www.bludit.com/) `⚠` - Simple application to build a site
   or blog in seconds. Bludit uses flat-files (text files in JSON format) to store
   posts and pages. ([Demo](https://demo.bludit.com/), [Source Code](https://github.com/dignajar/bludit))
   `MIT` `PHP`'
 SourceType: Github
-Line: 197
+Line: 200

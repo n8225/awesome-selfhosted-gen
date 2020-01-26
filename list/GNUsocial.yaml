@@ -1,4 +1,4 @@
-ID: 224
+ID: 851
 Name: GNU social
 Description: Social communication software for both public and private communications.
 Source Code: https://git.gnu.io/gnu/gnu-social
@@ -9,10 +9,9 @@ Languages:
 - PHP
 C: Communication systems
 Tags:
-- Communications
-- Social Network
-- Forum
+- Communication systems
+- Social Networks and Forums
 MD: '- [GNU social](https://gnu.io/social/) - Social communication software for both
   public and private communications. ([Source Code](https://git.gnu.io/gnu/gnu-social))
   `AGPL-3.0` `PHP`'
-Line: 432
+Line: 439

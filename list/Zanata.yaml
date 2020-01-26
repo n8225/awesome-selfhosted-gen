@@ -1,4 +1,4 @@
-ID: 844
+ID: 72
 Name: Zanata
 Description: Web-based translation platform for translators, content creators and
   developers to manage localisation projects.
@@ -10,10 +10,10 @@ Languages:
 - Java
 C: Software Development
 Tags:
-- Software Dev
-- Localiztion
+- Software Development
+- Localization
 MD: '- [Zanata](http://zanata.org) - Web-based translation platform for translators,
   content creators and developers to manage localisation projects. ([Source Code](https://github.com/zanata/zanata-platform))
   `GPL-2.0` `Java`'
 SourceType: Github
-Line: 1336
+Line: 1367

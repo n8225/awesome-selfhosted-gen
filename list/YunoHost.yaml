@@ -1,4 +1,4 @@
-ID: 940
+ID: 536
 Name: YunoHost
 Description: Server operating system aiming to make self-hosting accessible to everyone.
 Source Code: https://github.com/YunoHost
@@ -8,11 +8,12 @@ License:
 - AGPL-3.0
 Languages:
 - Python
+- Other
 C: Self-hosting Solutions
 Tags:
-- Self-hosting Solution
+- Self-hosting Solutions
 MD: '- [YunoHost](https://yunohost.org/) - Server operating system aiming to make
   self-hosting accessible to everyone. ([Demo](https://yunohost.org/#/try), [Source
   Code](https://github.com/YunoHost)) `AGPL-3.0` `Python/Other`'
 SourceType: Github
-Line: 1481
+Line: 1512

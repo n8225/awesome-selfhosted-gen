@@ -1,4 +1,4 @@
-ID: 256
+ID: 248
 Name: Metronome IM
 Description: Fork of Prosody IM.
 Source Code: https://github.com/maranda/metronome
@@ -9,10 +9,9 @@ Languages:
 - Lua
 C: Communication systems
 Tags:
-- Communications
-- XMPP
-- XMPP Server
+- Communication systems
+- XMPP Servers
 MD: '- [Metronome IM](https://metronome.im/) - Fork of Prosody IM. ([Source Code](https://github.com/maranda/metronome))
   `MIT` `Lua`'
 SourceType: Github
-Line: 473
+Line: 480

@@ -1,4 +1,4 @@
-ID: 360
+ID: 134
 Name: DSpace
 Description: Turnkey repository application providing durable access to digital resources.
 Source Code: https://github.com/DSpace/DSpace
@@ -9,10 +9,10 @@ Languages:
 - Java
 C: E-books and Integrated Library Systems (ILS)
 Tags:
-- E-book
-- ILS
+- E-books and Integrated Library Systems (ILS)
+- Institutional repository and digital library software.
 MD: '- [DSpace](http://dspace.org/) - Turnkey repository application providing durable
   access to digital resources. ([Source Code](https://github.com/DSpace/DSpace)) `BSD-3-Clause`
   `Java`'
 SourceType: Github
-Line: 625
+Line: 637

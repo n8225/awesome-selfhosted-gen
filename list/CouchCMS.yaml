@@ -1,4 +1,4 @@
-ID: 286
+ID: 277
 Name: CouchCMS
 Description: Simple Open-Source CMS for designers.
 Source Code: https://github.com/CouchCMS/CouchCMS
@@ -9,8 +9,8 @@ Languages:
 - PHP
 C: Content Management Systems (CMS)
 Tags:
-- CMS
+- Content Management Systems (CMS)
 MD: '- [CouchCMS](http://www.couchcms.com/) - Simple Open-Source CMS for designers.
   ([Source Code](https://github.com/CouchCMS/CouchCMS)) `CPAL-1.0` `PHP`'
 SourceType: Github
-Line: 518
+Line: 525

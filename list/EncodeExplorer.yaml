@@ -1,4 +1,4 @@
-ID: 454
+ID: 858
 Name: Encode Explorer
 Description: Encode Explorer is a single page file browser, it is simple and functional.
 Source Code: https://github.com/marekrei/encode-explorer
@@ -10,10 +10,10 @@ Languages:
 - PHP
 C: File Sharing and Synchronization
 Tags:
-- File Sharing
-- Web File MGR
+- File Sharing and Synchronization
+- Web based file managers
 MD: '- [Encode Explorer](http://encode-explorer.siineiolekala.net/) - Encode Explorer
   is a single page file browser, it is simple and functional. ([Demo](http://encode-explorer.siineiolekala.net/explorer/index.php),
   [Source Code](https://github.com/marekrei/encode-explorer)) `MIT` `PHP`'
 SourceType: Github
-Line: 764
+Line: 778

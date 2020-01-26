@@ -1,4 +1,4 @@
-ID: 787
+ID: 387
 Name: Gitblit
 Description: Pure Java stack for managing, viewing, and serving Git repositories.
 Source Code: https://github.com/gitblit/gitblit
@@ -9,10 +9,12 @@ Languages:
 - Java
 C: Software Development
 Tags:
-- Software Dev
-- Project Mgmnt
+- Software Development
+- Project Management
+- See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managementto-do-lists),
+  [awesome-sysadmin/Code Review](https://github.com/n1trux/awesome-sysadmin#code-review)
 MD: '- [Gitblit](http://gitblit.com/) - Pure Java stack for managing, viewing, and
   serving Git repositories. ([Source Code](https://github.com/gitblit/gitblit)) `Apache-2.0`
   `Java`'
 SourceType: Github
-Line: 1249
+Line: 1275

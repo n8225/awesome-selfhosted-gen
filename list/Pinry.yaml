@@ -1,4 +1,4 @@
-ID: 87
+ID: 856
 Name: Pinry
 Description: The tiling image board system for people who want to save, tag, and share
   images, videos, and webpages.
@@ -10,10 +10,9 @@ Languages:
 - Python
 C: Bookmarks and Link Sharing
 Tags:
-- Bookmarks
-- Links
+- Bookmarks and Link Sharing
 MD: '- [Pinry](http://getpinry.com/) - The tiling image board system for people who
   want to save, tag, and share images, videos, and webpages. ([Source Code](https://github.com/pinry/pinry))
   `BSD-2-Clause` `Python`'
 SourceType: Github
-Line: 228
+Line: 231

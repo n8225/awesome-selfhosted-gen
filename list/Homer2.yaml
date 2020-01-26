@@ -1,4 +1,4 @@
-ID: 712
+ID: 919
 Name: Homer
 Description: A dead simple static homepage to expose your server services, with an
   easy yaml configuration and connectivity check.
@@ -9,9 +9,9 @@ Languages:
 - HTML5
 C: Personal Dashboards
 Tags:
-- Dashboard
+- Personal Dashboards
 MD: '- [Homer](https://github.com/bastienwirtz/homer) - A dead simple static homepage
   to expose your server services, with an easy yaml configuration and connectivity
   check. `Apache-2.0` `HTML5`'
 SourceType: Github
-Line: 1129
+Line: 1152

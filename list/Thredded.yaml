@@ -1,4 +1,4 @@
-ID: 251
+ID: 602
 Name: Thredded
 Description: Forums, feature-rich and simple.
 Source Code: https://github.com/thredded/thredded
@@ -10,10 +10,9 @@ Languages:
 - Ruby
 C: Communication systems
 Tags:
-- Communications
-- Social Network
-- Forum
+- Communication systems
+- Social Networks and Forums
 MD: '- [Thredded](https://thredded.org) - Forums, feature-rich and simple. ([Demo](https://thredded.org/thredded),
   [Source Code](https://github.com/thredded/thredded)) `MIT` `Ruby`'
 SourceType: Github
-Line: 459
+Line: 466

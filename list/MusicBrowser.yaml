@@ -1,4 +1,4 @@
-ID: 570
+ID: 913
 Name: Music Browser
 Description: Browser and streamer for your music collection. It is runs on most operating
   systems, and is light enough to run flawlessly on NAS devices.
@@ -9,11 +9,10 @@ Languages:
 - PHP
 C: Media Streaming
 Tags:
-- Media
-- Streaming
-- Audio
+- Media Streaming
+- Audio Streaming
 MD: '- [Music Browser](https://github.com/henrik242/musicbrowser) - Browser and streamer
   for your music collection. It is runs on most operating systems, and is light enough
   to run flawlessly on NAS devices. `GPL-3.0` `PHP`'
 SourceType: Github
-Line: 937
+Line: 958

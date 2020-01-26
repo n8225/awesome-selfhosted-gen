@@ -1,4 +1,4 @@
-ID: 157
+ID: 321
 Name: MailHog
 Description: Small Golang executable which runs an SMTP MTA gateway that accepts all
   mail and displays in web interface. Useful for debugging or development.
@@ -9,12 +9,11 @@ Languages:
 - Go
 C: Communication systems
 Tags:
-- Communications
-- Email
-- MTA
-- SMTP
+- Communication systems
+- Mail Transfer Agents
+- MTAs / SMTP servers
 MD: '- [MailHog](https://github.com/mailhog/MailHog) - Small Golang executable which
   runs an SMTP MTA gateway that accepts all mail and displays in web interface. Useful
   for debugging or development. `MIT` `Go`'
 SourceType: Github
-Line: 333
+Line: 338

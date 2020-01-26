@@ -1,4 +1,4 @@
-ID: 3
+ID: 629
 Name: Countly
 Description: Real time mobile and web analytics, crash reporting and push notifications
   platform.
@@ -7,7 +7,7 @@ Website: https://count.ly
 License:
 - AGPL-3.0
 Languages:
-- HTML5
+- Javascript
 C: Analytics
 Tags:
 - Analytics

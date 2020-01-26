@@ -1,4 +1,4 @@
-ID: 95
+ID: 48
 Name: calypso
 Description: Python-based CalDAV and CardDAV server, forked from Radicale.
 Source Code: https://keithp.com/git/calypso.git
@@ -9,11 +9,9 @@ Languages:
 - Python
 C: Calendaring and Contacts Management
 Tags:
-- Calendar
-- Contacts
-- CalDAV
-- CardDav
+- Calendaring and Contacts Management
+- CalDAV or CardDAV servers
 MD: '- [calypso](https://keithp.com/calypso/) - Python-based CalDAV and CardDAV server,
   forked from Radicale. ([Source Code](https://keithp.com/git/calypso.git)) `GPL-3.0`
   `Python`'
-Line: 247
+Line: 250

@@ -1,4 +1,4 @@
-ID: 858
+ID: 356
 Name: todo
 Description: Simple todo list manager.
 Source Code: https://github.com/prologic/todo
@@ -9,9 +9,8 @@ Languages:
 - Go
 C: Task management/To-do lists
 Tags:
-- To-Do
-- Task Mgmnt
+- Task management/To-do lists
 MD: '- [todo](https://github.com/prologic/todo) - Simple todo list manager. ([Demo](https://todo.mills.io))
   `MIT` `Go`'
 SourceType: Github
-Line: 1363
+Line: 1394

@@ -1,4 +1,4 @@
-ID: 518
+ID: 428
 Name: Moodle
 Description: Moodle is a learning and courses platform with one of the largest open
   source communities worldwide.
@@ -11,10 +11,8 @@ Languages:
 - PHP
 C: Learning and Courses
 Tags:
-- Learning
-- Courses
-- LMS
+- Learning and Courses
 MD: '- [Moodle](https://moodle.org/) - Moodle is a learning and courses platform with
   one of the largest open source communities worldwide. ([Demo](https://moodle.org/demo/),
   [Source Code](https://git.moodle.org/gw)) `GPL-3.0` `PHP`'
-Line: 865
+Line: 885

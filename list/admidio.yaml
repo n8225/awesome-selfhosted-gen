@@ -1,4 +1,4 @@
-ID: 500
+ID: 666
 Name: admidio
 Description: Admidio is a free open source user management system for websites of
   organizations and groups. The system has a flexible role model so that it’s possible
@@ -12,12 +12,11 @@ Languages:
 - PHP
 C: Human Resources Management (HRM)
 Tags:
-- HRM
-- Human Resources MGMNT
+- Human Resources Management (HRM)
 MD: '- [admidio](https://www.admidio.org/) - Admidio is a free open source user management
   system for websites of organizations and groups. The system has a flexible role
   model so that it’s possible to reflect the structure and permissions of your organization.
   ([Demo](https://www.admidio.org/demo/), [Source Code](https://github.com/Admidio/admidio))
   `GPL-2.0` `PHP`'
 SourceType: Github
-Line: 832
+Line: 847

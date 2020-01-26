@@ -1,4 +1,4 @@
-ID: 366
+ID: 226
 Name: Feedbin
 Description: Simple, fast and nice looking RSS reader.
 Source Code: https://github.com/feedbin/feedbin
@@ -9,9 +9,8 @@ Languages:
 - Ruby
 C: Feed Readers
 Tags:
-- RSS
-- Feed Reader
+- Feed Readers
 MD: '- [Feedbin](https://feedbin.com/) - Simple, fast and nice looking RSS reader.
   ([Source Code](https://github.com/feedbin/feedbin)) `MIT` `Ruby`'
 SourceType: Github
-Line: 642
+Line: 654

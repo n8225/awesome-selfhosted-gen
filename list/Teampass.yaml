@@ -1,4 +1,4 @@
-ID: 681
+ID: 826
 Name: Teampass
 Description: Password manager dedicated for managing passwords in a collaborative
   way. One symmetric key is used to encrypt all shared/team passwords and stored server
@@ -11,11 +11,11 @@ Languages:
 - PHP
 C: Password Managers
 Tags:
-- Password Manager
+- Password Managers
 MD: '- [Teampass](http://teampass.net/) - Password manager dedicated for managing
   passwords in a collaborative way. One symmetric key is used to encrypt all shared/team
   passwords and stored server side in a file and the database. works on any server
   Apache, MySQL and PHP. ([Source Code](https://github.com/nilsteampassnet/TeamPass))
   `GPL-3.0` `PHP`'
 SourceType: Github
-Line: 1086
+Line: 1113

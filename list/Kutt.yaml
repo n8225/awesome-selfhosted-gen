@@ -1,4 +1,4 @@
-ID: 883
+ID: 543
 Name: Kutt
 Description: A modern URL shortener with support for custom domains.
 Source Code: https://github.com/thedevs-network/kutt
@@ -9,8 +9,8 @@ Languages:
 - Nodejs
 C: URL Shorteners
 Tags:
-- URL Shortener
+- URL Shorteners
 MD: '- [Kutt](https://kutt.it) - A modern URL shortener with support for custom domains.
   ([Source Code](https://github.com/thedevs-network/kutt)) `MIT` `Nodejs`'
 SourceType: Github
-Line: 1400
+Line: 1432

@@ -1,4 +1,4 @@
-ID: 290
+ID: 135
 Name: Expressa
 Description: Content Management System for powering database driven websites using
   JSON schemas. Provides permission management and automatic REST APIs.
@@ -9,9 +9,9 @@ Languages:
 - Nodejs
 C: Content Management Systems (CMS)
 Tags:
-- CMS
+- Content Management Systems (CMS)
 MD: '- [Expressa](https://github.com/thomas4019/expressa) - Content Management System
   for powering database driven websites using JSON schemas. Provides permission management
   and automatic REST APIs. `MIT` `Nodejs`'
 SourceType: Github
-Line: 522
+Line: 529

@@ -1,4 +1,4 @@
-ID: 517
+ID: 905
 Name: Mahara
 Description: Open Source fully featured web application to build students electronic
   portfolio.
@@ -10,11 +10,9 @@ Languages:
 - PHP
 C: Learning and Courses
 Tags:
-- Learning
-- Courses
-- LMS
+- Learning and Courses
 MD: '- [Mahara](https://mahara.org/) - Open Source fully featured web application
   to build students electronic portfolio. ([Source Code](https://github.com/MaharaProject/mahara))
   `GPL-3.0` `PHP`'
 SourceType: Github
-Line: 864
+Line: 884

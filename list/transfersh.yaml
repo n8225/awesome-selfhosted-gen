@@ -1,4 +1,4 @@
-ID: 451
+ID: 499
 Name: transfer.sh
 Description: Easy file sharing from the command line.
 Source Code: https://github.com/dutchcoders/transfer.sh
@@ -9,11 +9,10 @@ Languages:
 - Go
 C: File Sharing and Synchronization
 Tags:
-- File Sharing
-- Single-Click Upload
-- Drag-n-Drop Upload
-- CMD line upload
+- File Sharing and Synchronization
+- Single-click/drag-n-drop upload
+- Command-line file upload
 MD: '- [transfer.sh](https://transfer.sh) - Easy file sharing from the command line.
   ([Source Code](https://github.com/dutchcoders/transfer.sh)) `MIT` `Go`'
 SourceType: Github
-Line: 758
+Line: 772

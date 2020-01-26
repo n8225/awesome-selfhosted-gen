@@ -1,4 +1,4 @@
-ID: 253
+ID: 929
 Name: Vanilla Forums
 Description: Simple and flexible forum software.
 Source Code: https://github.com/vanilla/vanilla
@@ -9,10 +9,9 @@ Languages:
 - PHP
 C: Communication systems
 Tags:
-- Communications
-- Social Network
-- Forum
+- Communication systems
+- Social Networks and Forums
 MD: '- [Vanilla Forums](https://vanillaforums.org/) - Simple and flexible forum software.
   ([Source Code](https://github.com/vanilla/vanilla)) `GPL-2.0` `PHP`'
 SourceType: Github
-Line: 461
+Line: 468

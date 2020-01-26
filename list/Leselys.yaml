@@ -1,4 +1,4 @@
-ID: 372
+ID: 260
 Name: Leselys
 Description: Your very elegant RSS reader.
 Source Code: https://github.com/socketubs/leselys
@@ -8,9 +8,8 @@ Languages:
 - Python
 C: Feed Readers
 Tags:
-- RSS
-- Feed Reader
+- Feed Readers
 MD: '- [Leselys](https://github.com/socketubs/leselys) - Your very elegant RSS reader.
   `AGPL-3.0` `Python`'
 SourceType: Github
-Line: 648
+Line: 660

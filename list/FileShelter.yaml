@@ -1,4 +1,4 @@
-ID: 429
+ID: 638
 Name: FileShelter
 Description: FileShelter is a self-hosted software that allows you to easily share
   files over the Internet.
@@ -10,11 +10,10 @@ Languages:
 - C++
 C: File Sharing and Synchronization
 Tags:
-- File Sharing
-- Single-Click Upload
-- Drag-n-Drop Upload
+- File Sharing and Synchronization
+- Single-click/drag-n-drop upload
 MD: '- [FileShelter](https://github.com/epoupon/fileshelter) - FileShelter is a self-hosted
   software that allows you to easily share files over the Internet. ([Demo](http://fileshelter.demo.poupon.io/))
   `GPL-3.0` `C++`'
 SourceType: Github
-Line: 733
+Line: 747

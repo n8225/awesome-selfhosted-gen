@@ -1,4 +1,4 @@
-ID: 469
+ID: 424
 Name: battlecraft
 Description: Fully distributed multiplayer browser game.
 Source Code: https://github.com/jbreindel/battlecraft
@@ -8,8 +8,9 @@ Languages:
 - Erlang
 C: Games
 Tags:
-- Game
+- Games
+- Games, game servers and control panels.
 MD: '- [battlecraft](https://github.com/jbreindel/battlecraft) - Fully distributed
   multiplayer browser game. `Apache-2.0` `Erlang`'
 SourceType: Github
-Line: 786
+Line: 800

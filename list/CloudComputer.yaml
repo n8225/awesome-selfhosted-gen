@@ -1,4 +1,4 @@
-ID: 924
+ID: 334
 Name: Cloud Computer
 Description: A computer in the cloud that deploys with one click and makes applications
   accessible through a web browser.
@@ -10,9 +10,9 @@ Languages:
 - Docker
 C: Self-hosting Solutions
 Tags:
-- Self-hosting Solution
+- Self-hosting Solutions
 MD: '- [Cloud Computer](https://cloud-computer.dev) - A computer in the cloud that
   deploys with one click and makes applications accessible through a web browser.
   ([Source Code](https://github.com/cloud-computer/cloud-computer)) `MIT` `Docker`'
 SourceType: Github
-Line: 1465
+Line: 1496

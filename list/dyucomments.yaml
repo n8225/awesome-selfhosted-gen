@@ -1,4 +1,4 @@
-ID: 218
+ID: 625
 Name: dyu/comments
 Description: Real-time, markdown-enabled comment engine powered by leveldb.
 Source Code: https://github.com/dyu/comments
@@ -9,11 +9,10 @@ Languages:
 - Java
 C: Communication systems
 Tags:
-- Communications
-- Social Network
-- Forum
+- Communication systems
+- Social Networks and Forums
 MD: '- [dyu/comments](https://github.com/dyu/comments) - Real-time, markdown-enabled
   comment engine powered by leveldb. ([Demo](https://dyu.github.io/comments/real-time/))
   `Apache-2.0` `Java`'
 SourceType: Github
-Line: 426
+Line: 433

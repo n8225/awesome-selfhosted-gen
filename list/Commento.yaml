@@ -1,19 +1,18 @@
-ID: 215
+ID: 896
 Name: Commento
 Description: Commento is a discussion platform that you can embed on your blog, news
   articles, and any place where you want your readers to add comments.
-Source Code: https://gitlab.com/commento/commento-ce
+Source Code: https://gitlab.com/commento/commento
 License:
 - MIT
 Languages:
-- Go
+- GO
 C: Communication systems
 Tags:
-- Communications
-- Social Network
-- Forum
-MD: '- [Commento](https://gitlab.com/commento/commento-ce) - Commento is a discussion
+- Communication systems
+- Social Networks and Forums
+MD: '- [Commento](https://gitlab.com/commento/commento) - Commento is a discussion
   platform that you can embed on your blog, news articles, and any place where you
   want your readers to add comments. `MIT` `GO`'
 SourceType: Gitlab
-Line: 423
+Line: 429

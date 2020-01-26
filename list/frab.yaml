@@ -1,4 +1,4 @@
-ID: 269
+ID: 630
 Name: frab
 Description: web-based conference planning and management system. It helps to collect
   submissions, to manage talks and speakers and to create a schedule.
@@ -10,9 +10,9 @@ Languages:
 - Ruby
 C: Conference Management
 Tags:
-- Conference Mgmnt
+- Conference Management
 MD: '- [frab](https://frab.github.io/frab/) - web-based conference planning and management
   system. It helps to collect submissions, to manage talks and speakers and to create
   a schedule. ([Source Code](https://github.com/frab/frab)) `MIT` `Ruby`'
 SourceType: Github
-Line: 494
+Line: 501

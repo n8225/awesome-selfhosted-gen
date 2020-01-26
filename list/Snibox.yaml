@@ -1,4 +1,4 @@
-ID: 702
+ID: 354
 Name: Snibox
 Description: Code snippets manager with attractive tag-oriented interface.
 Source Code: https://github.com/snibox/snibox
@@ -10,9 +10,9 @@ Languages:
 - Ruby
 C: Pastebins
 Tags:
-- Pastebin
+- Pastebins
 MD: '- [Snibox](https://snibox.github.io/) - Code snippets manager with attractive
   tag-oriented interface. ([Demo](https://snibox-demo.herokuapp.com/), [Source Code](https://github.com/snibox/snibox))
   `MIT` `Ruby`'
 SourceType: Github
-Line: 1112
+Line: 1136

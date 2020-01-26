@@ -1,4 +1,4 @@
-ID: 556
+ID: 930
 Name: FriendsRadio
 Description: Share music with your friends from Youtube and Soundcloud.
 Source Code: https://github.com/xouabita/friends-radio
@@ -9,12 +9,11 @@ Languages:
 - Nodejs
 C: Media Streaming
 Tags:
-- Media
-- Streaming
-- Audio
+- Media Streaming
+- Audio Streaming
 ProprietaryDependency: true
 MD: '- [FriendsRadio](https://github.com/xouabita/friends-radio) `⚠` - Share music
   with your friends from Youtube and Soundcloud. ([Demo](https://friends-radio.herokuapp.com/))
   `MIT` `Nodejs`'
 SourceType: Github
-Line: 923
+Line: 943

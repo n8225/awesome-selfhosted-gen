@@ -1,4 +1,4 @@
-ID: 519
+ID: 891
 Name: Open eClass
 Description: Open eClass is an advanced e-learning solution that can enhance the teaching
   and learning process.
@@ -11,11 +11,9 @@ Languages:
 - PHP
 C: Learning and Courses
 Tags:
-- Learning
-- Courses
-- LMS
+- Learning and Courses
 MD: '- [Open eClass](http://www.openeclass.org/) - Open eClass is an advanced e-learning
   solution that can enhance the teaching and learning process. ([Demo](http://demo.openeclass.org/),
   [Source Code](https://github.com/gunet/openeclass)) `GPL-2.0` `PHP`'
 SourceType: Github
-Line: 866
+Line: 886

@@ -1,4 +1,4 @@
-ID: 408
+ID: 804
 Name: Z-Push
 Description: Implementation of Microsoft’s [ActiveSync](https://en.wikipedia.org/wiki/ActiveSync)
   protocol.
@@ -10,10 +10,9 @@ Languages:
 - PHP
 C: File Sharing and Synchronization
 Tags:
-- File Sharing
-- File Transfer
-- File Sync
+- File Sharing and Synchronization
+- File transfer/synchronization
 MD: '- [Z-Push](http://z-push.org/) - Implementation of Microsoft’s [ActiveSync](https://en.wikipedia.org/wiki/ActiveSync)
   protocol. ([Source Code](https://stash.z-hub.io/projects/ZP/repos/z-push)) `AGPL-3.0`
   `PHP`'
-Line: 703
+Line: 716

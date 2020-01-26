@@ -1,4 +1,4 @@
-ID: 411
+ID: 476
 Name: Dat Project
 Description: Powerful decentralized file sharing applications built from a large ecosystem
   of modules.
@@ -10,10 +10,10 @@ Languages:
 - Nodejs
 C: File Sharing and Synchronization
 Tags:
-- File Sharing
-- P2P
+- File Sharing and Synchronization
+- Peer-to-peer filesharing
 MD: '- [Dat Project](https://datproject.org) - Powerful decentralized file sharing
   applications built from a large ecosystem of modules. ([Source Code](https://github.com/datproject))
   `MIT` `Nodejs`'
 SourceType: Github
-Line: 709
+Line: 722

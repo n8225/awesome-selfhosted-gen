@@ -1,4 +1,4 @@
-ID: 315
+ID: 716
 Name: Textpattern
 Description: Flexible, elegant and easy-to-use CMS.
 Source Code: https://github.com/textpattern/textpattern
@@ -10,9 +10,9 @@ Languages:
 - PHP
 C: Content Management Systems (CMS)
 Tags:
-- CMS
+- Content Management Systems (CMS)
 MD: '- [Textpattern](http://textpattern.com/) - Flexible, elegant and easy-to-use
   CMS. ([Demo](http://textpattern.co/demo), [Source Code](https://github.com/textpattern/textpattern))
   `GPL-2.0` `PHP`'
 SourceType: Github
-Line: 547
+Line: 554

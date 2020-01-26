@@ -1,4 +1,4 @@
-ID: 164
+ID: 839
 Name: Dovecot
 Description: IMAP and POP3 server written primarily with security in mind.
 Source Code: https://github.com/dovecot/core
@@ -10,13 +10,11 @@ Languages:
 - C
 C: Communication systems
 Tags:
-- Communications
-- Email
-- MDA
-- IMAP
-- POP3
+- Communication systems
+- Mail Delivery Agents
+- MDAs - IMAP/POP3 software
 MD: '- [Dovecot](http://www.dovecot.org/) - IMAP and POP3 server written primarily
   with security in mind. ([Source Code](https://github.com/dovecot/core)) `MIT/LGPL-2.1`
   `C`'
 SourceType: Github
-Line: 345
+Line: 350

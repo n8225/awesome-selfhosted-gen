@@ -1,4 +1,4 @@
-ID: 937
+ID: 357
 Name: Syncloud
 Description: Your own online file storage, social network or email server.
 Source Code: https://github.com/syncloud/platform
@@ -7,11 +7,12 @@ License:
 - GPL-3.0
 Languages:
 - Python
+- Other
 C: Self-hosting Solutions
 Tags:
-- Self-hosting Solution
+- Self-hosting Solutions
 MD: '- [Syncloud](https://syncloud.org/) - Your own online file storage, social network
   or email server. ([Source Code](https://github.com/syncloud/platform)) `GPL-3.0`
   `Python/Other`'
 SourceType: Github
-Line: 1478
+Line: 1509

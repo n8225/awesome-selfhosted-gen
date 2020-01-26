@@ -1,4 +1,4 @@
-ID: 258
+ID: 575
 Name: Openfire
 Description: Real time collaboration (RTC) server.
 Source Code: https://github.com/igniterealtime/Openfire
@@ -9,11 +9,10 @@ Languages:
 - Java
 C: Communication systems
 Tags:
-- Communications
-- XMPP
-- XMPP Server
+- Communication systems
+- XMPP Servers
 MD: '- [Openfire](http://www.igniterealtime.org/projects/openfire/) - Real time collaboration
   (RTC) server. ([Source Code](https://github.com/igniterealtime/Openfire)) `Apache-2.0`
   `Java`'
 SourceType: Github
-Line: 475
+Line: 482

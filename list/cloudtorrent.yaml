@@ -1,4 +1,4 @@
-ID: 410
+ID: 844
 Name: cloud-torrent
 Description: Torrent Web Client with HTTP retrievable or streamable downloaded files.
 Source Code: https://github.com/jpillora/cloud-torrent
@@ -8,9 +8,9 @@ Languages:
 - Go
 C: File Sharing and Synchronization
 Tags:
-- File Sharing
-- P2P
+- File Sharing and Synchronization
+- Peer-to-peer filesharing
 MD: '- [cloud-torrent](https://github.com/jpillora/cloud-torrent) - Torrent Web Client
   with HTTP retrievable or streamable downloaded files. `AGPL-3.0` `Go`'
 SourceType: Github
-Line: 708
+Line: 721

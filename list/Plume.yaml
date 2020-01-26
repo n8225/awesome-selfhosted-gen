@@ -1,4 +1,4 @@
-ID: 74
+ID: 25
 Name: Plume
 Description: Federated blogging engine, based on ActivityPub.
 Source Code: https://github.com/Plume-org/Plume
@@ -9,8 +9,8 @@ Languages:
 - Rust
 C: Blogging Platforms
 Tags:
-- Blog
+- Blogging Platforms
 MD: '- [Plume](https://joinplu.me/) - Federated blogging engine, based on ActivityPub.
   ([Source Code](https://github.com/Plume-org/Plume)) `AGPL-3.0` `Rust`'
 SourceType: Github
-Line: 209
+Line: 213

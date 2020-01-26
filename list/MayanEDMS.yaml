@@ -1,4 +1,4 @@
-ID: 350
+ID: 210
 Name: Mayan EDMS
 Description: Free Open Source Electronic Document Management System. An electronic
   vault for your documents with preview generation, OCR, and automatic categorization
@@ -11,10 +11,10 @@ Languages:
 - Python
 C: Document Management
 Tags:
-- Doc Mgmnt
+- Document Management
 MD: '- [Mayan EDMS](http://www.mayan-edms.com) - Free Open Source Electronic Document
   Management System. An electronic vault for your documents with preview generation,
   OCR, and automatic categorization among other features. ([Source Code](https://gitlab.com/mayan-edms/mayan-edms))
   `Apache-2.0` `Python`'
 SourceType: Gitlab
-Line: 600
+Line: 610

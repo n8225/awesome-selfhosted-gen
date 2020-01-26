@@ -1,4 +1,4 @@
-ID: 389
+ID: 412
 Name: Winds
 Description: Open source and beautiful RSS reader built using React/Redux/Sails/Node
   and Stream. It showcases personalized feeds powered by the Stream API.
@@ -11,12 +11,11 @@ Languages:
 - Nodejs
 C: Feed Readers
 Tags:
-- RSS
-- Feed Reader
+- Feed Readers
 ProprietaryDependency: true
 MD: '- [Winds](https://getstream.io/winds/) `⚠` - Open source and beautiful RSS reader
   built using React/Redux/Sails/Node and Stream. It showcases personalized feeds powered
   by the Stream API. ([Demo](https://winds.getstream.io/), [Source Code](https://github.com/GetStream/Winds))
   `BSD-3-Clause` `Nodejs`'
 SourceType: Github
-Line: 665
+Line: 677

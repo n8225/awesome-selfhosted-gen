@@ -1,4 +1,4 @@
-ID: 549
+ID: 315
 Name: Ampache
 Description: Web based audio/video streaming application.
 Source Code: https://github.com/ampache/ampache
@@ -10,11 +10,10 @@ Languages:
 - PHP
 C: Media Streaming
 Tags:
-- Media
-- Streaming
-- Audio
+- Media Streaming
+- Audio Streaming
 MD: '- [Ampache](http://ampache.org/) - Web based audio/video streaming application.
   ([Demo](http://play.dogmazic.net/), [Source Code](https://github.com/ampache/ampache))
   `AGPL-3.0` `PHP`'
 SourceType: Github
-Line: 916
+Line: 936

@@ -1,0 +1,19 @@
+ID: 701
+Name: Komga
+Description: Media server for comics/mangas/BDs with API and OPDS support, a modern
+  web interface for exploring your libraries, as well as a web reader.
+Source Code: https://github.com/gotson/komga
+License:
+- MIT
+Languages:
+- Java
+- Docker
+C: E-books and Integrated Library Systems (ILS)
+Tags:
+- E-books and Integrated Library Systems (ILS)
+- Personal e-book management software.
+MD: '- [Komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs
+  with API and OPDS support, a modern web interface for exploring your libraries,
+  as well as a web reader. `MIT` `Java/Docker`'
+SourceType: Github
+Line: 627

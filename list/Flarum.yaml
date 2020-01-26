@@ -1,4 +1,4 @@
-ID: 220
+ID: 416
 Name: Flarum
 Description: Delightfully simple forums. Flarum is the next-generation forum software
   that makes online discussion fun again.
@@ -10,11 +10,10 @@ Languages:
 - PHP
 C: Communication systems
 Tags:
-- Communications
-- Social Network
-- Forum
+- Communication systems
+- Social Networks and Forums
 MD: '- [Flarum](http://flarum.org) - Delightfully simple forums. Flarum is the next-generation
   forum software that makes online discussion fun again. ([Source Code](https://github.com/flarum/flarum))
   `MIT` `PHP`'
 SourceType: Github
-Line: 428
+Line: 435

@@ -1,4 +1,4 @@
-ID: 401
+ID: 870
 Name: Pydio
 Description: Turn any web server into a powerful file management system and an alternative
   to mainstream cloud storage providers.
@@ -10,11 +10,10 @@ Languages:
 - PHP
 C: File Sharing and Synchronization
 Tags:
-- File Sharing
-- File Transfer
-- File Sync
+- File Sharing and Synchronization
+- File transfer/synchronization
 MD: '- [Pydio](https://pydio.com/) - Turn any web server into a powerful file management
   system and an alternative to mainstream cloud storage providers. ([Source Code](https://github.com/pydio/pydio-core))
   `AGPL-3.0` `PHP`'
 SourceType: Github
-Line: 696
+Line: 709

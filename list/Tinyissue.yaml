@@ -1,4 +1,4 @@
-ID: 857
+ID: 868
 Name: Tinyissue
 Description: Simple Issue Tracking for Teams.
 Source Code: https://github.com/satrun77/tinyissue
@@ -8,9 +8,8 @@ Languages:
 - PHP
 C: Task management/To-do lists
 Tags:
-- To-Do
-- Task Mgmnt
+- Task management/To-do lists
 MD: '- [Tinyissue](https://github.com/satrun77/tinyissue) - Simple Issue Tracking
   for Teams. `MIT` `PHP`'
 SourceType: Github
-Line: 1362
+Line: 1393

@@ -1,4 +1,4 @@
-ID: 805
+ID: 149
 Name: RhodeCode
 Description: RhodeCode is an open source platform for software development teams.
   It unifies and simplifies repository management for Git, Subversion, and Mercurial.
@@ -11,10 +11,12 @@ Languages:
 - Python
 C: Software Development
 Tags:
-- Software Dev
-- Project Mgmnt
+- Software Development
+- Project Management
+- See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managementto-do-lists),
+  [awesome-sysadmin/Code Review](https://github.com/n1trux/awesome-sysadmin#code-review)
 MD: '- [RhodeCode](https://rhodecode.com/) - RhodeCode is an open source platform
   for software development teams. It unifies and simplifies repository management
   for Git, Subversion, and Mercurial. ([Demo](https://try.rhodecode.com/), [Source
   Code](https://code.rhodecode.com/)) `AGPL-3.0` `Python`'
-Line: 1267
+Line: 1295

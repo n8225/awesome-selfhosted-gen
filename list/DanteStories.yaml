@@ -1,4 +1,4 @@
-ID: 65
+ID: 886
 Name: Dante Stories
 Description: Self hosted Medium platform built with Ruby on Rails.
 Source Code: https://github.com/michelson/dante-stories
@@ -9,9 +9,9 @@ Languages:
 - Ruby
 C: Blogging Platforms
 Tags:
-- Blog
+- Blogging Platforms
 MD: '- [Dante Stories](https://dante-stories.herokuapp.com/) - Self hosted Medium
   platform built with Ruby on Rails. ([Source Code](https://github.com/michelson/dante-stories))
   `MIT` `Ruby`'
 SourceType: Github
-Line: 200
+Line: 204

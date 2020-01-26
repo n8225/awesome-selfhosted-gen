@@ -1,4 +1,4 @@
-ID: 225
+ID: 539
 Name: Hubzilla
 Description: Decentralized identity, privacy, publishing, sharing, cloud storage,
   and communications/social platform.
@@ -10,10 +10,9 @@ Languages:
 - PHP
 C: Communication systems
 Tags:
-- Communications
-- Social Network
-- Forum
+- Communication systems
+- Social Networks and Forums
 MD: '- [Hubzilla](https://hubzilla.org) - Decentralized identity, privacy, publishing,
   sharing, cloud storage, and communications/social platform. ([Source Code](https://framagit.org/hubzilla/core))
   `MIT` `PHP`'
-Line: 433
+Line: 440

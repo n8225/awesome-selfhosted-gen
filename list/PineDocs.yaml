@@ -1,4 +1,4 @@
-ID: 912
+ID: 458
 Name: PineDocs
 Description: Simple, fast, customizable and lightweight site for browsing files.
 Source Code: https://github.com/xy2z/PineDocs
@@ -8,8 +8,8 @@ Languages:
 - PHP
 C: Wikis
 Tags:
-- Wiki
+- Wikis
 MD: '- [PineDocs](https://github.com/xy2z/PineDocs) - Simple, fast, customizable and
   lightweight site for browsing files. `GPL-3.0` `PHP`'
 SourceType: Github
-Line: 1448
+Line: 1478

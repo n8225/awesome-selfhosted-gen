@@ -1,4 +1,4 @@
-ID: 268
+ID: 166
 Name: Conference Organizing Distribution (COD)
 Description: Create conference and event websites built on top of Drupal.
 Source Code: http://cgit.drupalcode.org/cod
@@ -9,8 +9,8 @@ Languages:
 - PHP
 C: Conference Management
 Tags:
-- Conference Mgmnt
+- Conference Management
 MD: '- [Conference Organizing Distribution (COD)](http://usecod.com/) - Create conference
   and event websites built on top of Drupal. ([Source Code](http://cgit.drupalcode.org/cod))
   `GPL-1.0` `PHP`'
-Line: 493
+Line: 500

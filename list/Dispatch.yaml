@@ -1,4 +1,4 @@
-ID: 188
+ID: 592
 Name: Dispatch
 Description: Self-hosted web IRC client written in Go.
 Source Code: https://github.com/khlieng/dispatch
@@ -9,9 +9,9 @@ Languages:
 - Go
 C: Communication systems
 Tags:
-- Communications
+- Communication systems
 - IRC
 MD: '- [Dispatch](https://github.com/khlieng/dispatch) - Self-hosted web IRC client
   written in Go. ([Demo](https://dispatch.khlieng.com/connect)) `MIT` `Go`'
 SourceType: Github
-Line: 384
+Line: 388

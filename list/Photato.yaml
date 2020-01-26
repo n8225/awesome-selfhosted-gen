@@ -1,4 +1,4 @@
-ID: 727
+ID: 920
 Name: Photato
 Description: Self-hosted photo gallery, accessible through a responsive WebUI. Directly
   uses and indexes a specific folder in the filesystem.
@@ -9,9 +9,9 @@ Languages:
 - Java
 C: Photo and Video Galleries
 Tags:
-- Photo and Video Gallery
+- Photo and Video Galleries
 MD: '- [Photato](https://github.com/trebonius0/Photato) - Self-hosted photo gallery,
   accessible through a responsive WebUI. Directly uses and indexes a specific folder
   in the filesystem. `AGPL-3.0` `Java`'
 SourceType: Github
-Line: 1149
+Line: 1172

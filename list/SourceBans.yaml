@@ -1,4 +1,4 @@
-ID: 477
+ID: 56
 Name: SourceBans++
 Description: Admin, ban, and communication management system for games running on
   the Source engine.
@@ -10,9 +10,10 @@ Languages:
 - PHP
 C: Games
 Tags:
-- Game
+- Games
+- Games, game servers and control panels.
 MD: '- [SourceBans++](https://sbpp.github.io) - Admin, ban, and communication management
   system for games running on the Source engine. ([Source Code](https://github.com/sbpp/sourcebans-pp))
   `CC-BY-SA-4.0` `PHP`'
 SourceType: Github
-Line: 794
+Line: 810

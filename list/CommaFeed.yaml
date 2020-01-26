@@ -1,4 +1,4 @@
-ID: 365
+ID: 310
 Name: CommaFeed
 Description: Google Reader inspired self-hosted RSS reader.
 Source Code: https://github.com/Athou/commafeed
@@ -9,9 +9,8 @@ Languages:
 - Java
 C: Feed Readers
 Tags:
-- RSS
-- Feed Reader
+- Feed Readers
 MD: '- [CommaFeed](https://www.commafeed.com/) - Google Reader inspired self-hosted
   RSS reader. ([Source Code](https://github.com/Athou/commafeed)) `Apache-2.0` `Java`'
 SourceType: Github
-Line: 641
+Line: 653

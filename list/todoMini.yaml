@@ -1,4 +1,4 @@
-ID: 859
+ID: 776
 Name: todoMini
 Description: Mobile friendly zero-feature TODO list web app. Unix philosophy.
 Source Code: https://github.com/appMini/todoMini
@@ -11,10 +11,9 @@ Languages:
 - Clojure
 C: Task management/To-do lists
 Tags:
-- To-Do
-- Task Mgmnt
+- Task management/To-do lists
 MD: '- [todoMini](https://www.todomini.app/) - Mobile friendly zero-feature TODO list
   web app. Unix philosophy. ([Demo](https://appmini.github.io/todoMini/?demo), [Source
   Code](https://github.com/appMini/todoMini)) `GPL-3.0` `PHP/Clojure`'
 SourceType: Github
-Line: 1364
+Line: 1395

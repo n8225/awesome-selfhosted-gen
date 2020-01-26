@@ -1,4 +1,4 @@
-ID: 516
+ID: 853
 Name: ILIAS
 Description: ILIAS is the Learning Management System that can cope with anything you
   throw at it.
@@ -11,11 +11,9 @@ Languages:
 - PHP
 C: Learning and Courses
 Tags:
-- Learning
-- Courses
-- LMS
+- Learning and Courses
 MD: '- [ILIAS](http://www.ilias.de) - ILIAS is the Learning Management System that
   can cope with anything you throw at it. ([Demo](http://demo.ilias.de), [Source Code](https://github.com/ILIAS-eLearning/ILIAS))
   `GPL-3.0` `PHP`'
 SourceType: Github
-Line: 863
+Line: 883

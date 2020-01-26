@@ -1,4 +1,4 @@
-ID: 18
+ID: 253
 Name: Superset
 Description: Modern, enterprise-ready business intelligence web application.
 Source Code: https://github.com/apache/incubator-superset
@@ -10,8 +10,9 @@ Languages:
 C: Analytics
 Tags:
 - Analytics
+- Business Intelligence
 MD: '- [Superset](http://superset.apache.org/) - Modern, enterprise-ready business
   intelligence web application. ([Source Code](https://github.com/apache/incubator-superset))
   `Apache-2.0` `Python`'
 SourceType: Github
-Line: 131
+Line: 133

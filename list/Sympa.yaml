@@ -1,4 +1,4 @@
-ID: 176
+ID: 599
 Name: Sympa
 Description: Mailing list manager.
 Source Code: https://www.sympa.org/
@@ -8,10 +8,8 @@ Languages:
 - Perl
 C: Communication systems
 Tags:
-- Communications
-- Email
-- Mailng List
-- Newsletters
-- Mass mail
+- Communication systems
+- Mailing lists and Newsletters
+- Mailing lists servers and mass mailing software - one message to many recipients.
 MD: '- [Sympa](https://www.sympa.org/) - Mailing list manager. `GPL-2.0` `Perl`'
-Line: 362
+Line: 367

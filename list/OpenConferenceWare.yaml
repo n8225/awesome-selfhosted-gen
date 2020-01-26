@@ -1,4 +1,4 @@
-ID: 273
+ID: 620
 Name: OpenConferenceWare
 Description: An open source web application for supporting conference-like events.
   This customizable, general-purpose platform provides proposals, sessions, schedules,
@@ -11,10 +11,10 @@ Languages:
 - Ruby
 C: Conference Management
 Tags:
-- Conference Mgmnt
+- Conference Management
 MD: '- [OpenConferenceWare](http://openconferenceware.org/) - An open source web application
   for supporting conference-like events. This customizable, general-purpose platform
   provides proposals, sessions, schedules, tracks, user profiles. ([Source Code](https://github.com/osbridge/openconferenceware))
   `MIT` `Ruby`'
 SourceType: Github
-Line: 498
+Line: 505

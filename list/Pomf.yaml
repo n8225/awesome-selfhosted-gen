@@ -1,4 +1,4 @@
-ID: 441
+ID: 140
 Name: Pomf
 Description: Simple file uploading and sharing, source for the now shut down site
   Pomf.se.
@@ -9,10 +9,9 @@ Languages:
 - PHP
 C: File Sharing and Synchronization
 Tags:
-- File Sharing
-- Single-Click Upload
-- Drag-n-Drop Upload
+- File Sharing and Synchronization
+- Single-click/drag-n-drop upload
 MD: '- [Pomf](https://github.com/Pomf/Pomf) - Simple file uploading and sharing, source
   for the now shut down site Pomf.se. `MIT` `PHP`'
 SourceType: Github
-Line: 745
+Line: 759

@@ -1,0 +1,18 @@
+ID: 723
+Name: WriteFreely
+Description: Writing software for starting a minimalist, federated blog — or an entire
+  community.
+Source Code: https://github.com/writeas/writefreely
+Website: https://writefreely.org
+License:
+- AGPL 3.0
+Languages:
+- Go
+C: Content Management Systems (CMS)
+Tags:
+- Content Management Systems (CMS)
+MD: '- [WriteFreely](https://writefreely.org) - Writing software for starting a minimalist,
+  federated blog — or an entire community. ([Source Code](https://github.com/writeas/writefreely))
+  `AGPL 3.0` `Go`'
+SourceType: Github
+Line: 560

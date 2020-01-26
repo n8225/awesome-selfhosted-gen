@@ -1,4 +1,4 @@
-ID: 725
+ID: 769
 Name: MinigalNano
 Description: 'MinigalNano is a very simple image gallery. It adheres to the KISS principle
   and is very easy to install. MinigalNano does not have a web admin interface: You
@@ -10,10 +10,10 @@ Languages:
 - PHP
 C: Photo and Video Galleries
 Tags:
-- Photo and Video Gallery
+- Photo and Video Galleries
 MD: '- [MinigalNano](https://github.com/sebsauvage/MinigalNano) - MinigalNano is a
   very simple image gallery. It adheres to the KISS principle and is very easy to
   install. MinigalNano does not have a web admin interface: You just upload your images
   in the photo folder on your server (using FTP, SFTP). `AGPL-3.0` `PHP`'
 SourceType: Github
-Line: 1147
+Line: 1170

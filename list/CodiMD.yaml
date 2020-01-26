@@ -1,4 +1,4 @@
-ID: 647
+ID: 760
 Name: CodiMD
 Description: Realtime collaborative markdown notes on all platforms, formerly HackMD
   CE.
@@ -7,13 +7,12 @@ Website: https://demo.codimd.org/
 License:
 - AGPL-3.0
 Languages:
-- Nodejs
+- Node.js
 C: Note-taking and Editors
 Tags:
-- Note-taking
-- Editor
+- Note-taking and Editors
 MD: '- [CodiMD](https://demo.codimd.org/) - Realtime collaborative markdown notes
   on all platforms, formerly HackMD CE. ([Source Code](https://github.com/hackmdio/codimd))
   `AGPL-3.0` `Node.js`'
 SourceType: Github
-Line: 1042
+Line: 1066

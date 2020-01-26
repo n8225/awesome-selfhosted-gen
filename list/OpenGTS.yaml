@@ -1,4 +1,4 @@
-ID: 530
+ID: 156
 Name: OpenGTS
 Description: Entry-level fleet tracking system. Supports variety of tracking devices
   and protocols. Comes with rich web-interface and reporting features.
@@ -11,10 +11,9 @@ Languages:
 - Java
 C: Maps and Global Positioning System (GPS)
 Tags:
-- Maps
-- GPS
+- Maps and Global Positioning System (GPS)
 MD: '- [OpenGTS](http://www.opengts.org/) - Entry-level fleet tracking system. Supports
   variety of tracking devices and protocols. Comes with rich web-interface and reporting
   features. ([Demo](http://track.opengts.org/track/Track), [Source Code](https://sourceforge.net/projects/opengts/files/server-base/))
   `Apache-2.0` `Java`'
-Line: 884
+Line: 903

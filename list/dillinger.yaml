@@ -1,4 +1,4 @@
-ID: 648
+ID: 52
 Name: dillinger
 Description: The last Markdown editor, ever.
 Source Code: https://github.com/joemccann/dillinger
@@ -9,9 +9,8 @@ Languages:
 - Nodejs
 C: Note-taking and Editors
 Tags:
-- Note-taking
-- Editor
+- Note-taking and Editors
 MD: '- [dillinger](http://dillinger.io/) - The last Markdown editor, ever. ([Source
   Code](https://github.com/joemccann/dillinger)) `MIT` `Nodejs`'
 SourceType: Github
-Line: 1043
+Line: 1067

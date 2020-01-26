@@ -1,4 +1,4 @@
-ID: 142
+ID: 44
 Name: Inboxen
 Description: Inboxen is a service that provides you with an infinite number of unique
   inboxes.
@@ -10,11 +10,11 @@ Languages:
 - Python
 C: Communication systems
 Tags:
-- Communications
-- Email
-- Complete Email
+- Communication systems
+- Complete solutions
+- Simple deployment of a mail server, e.g. for inexperienced or impatient admins.
 MD: '- [Inboxen](https://inboxen.org) - Inboxen is a service that provides you with
   an infinite number of unique inboxes. ([Source Code](https://github.com/Inboxen/Inboxen))
   `GPL-3.0` `Python`'
 SourceType: Github
-Line: 313
+Line: 317

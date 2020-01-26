@@ -1,4 +1,4 @@
-ID: 291
+ID: 331
 Name: GetSimple CMS
 Description: The Simplest Content Management System. Ever.
 Source Code: https://github.com/GetSimpleCMS/GetSimpleCMS
@@ -9,9 +9,9 @@ Languages:
 - PHP
 C: Content Management Systems (CMS)
 Tags:
-- CMS
+- Content Management Systems (CMS)
 MD: '- [GetSimple CMS](http://get-simple.info/) - The Simplest Content Management
   System. Ever. ([Source Code](https://github.com/GetSimpleCMS/GetSimpleCMS)) `GPL-3.0`
   `PHP`'
 SourceType: Github
-Line: 523
+Line: 530

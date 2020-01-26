@@ -1,4 +1,4 @@
-ID: 511
+ID: 805
 Name: TagTool
 Description: Collaborative knowledge management tool. Create word clouds and link
   the elements.
@@ -11,9 +11,9 @@ Languages:
 - Python
 C: Knowledge Management Tools
 Tags:
-- Knowledge Mgmnt
+- Knowledge Management Tools
 MD: '- [TagTool](https://letstag.it) - Collaborative knowledge management tool. Create
   word clouds and link the elements. ([Demo](https://demo.letstag.it), [Source Code](https://gitlab.com/tagtool/tagtool))
   `MIT` `Python`'
 SourceType: Gitlab
-Line: 853
+Line: 873

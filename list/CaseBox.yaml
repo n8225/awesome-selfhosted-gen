@@ -1,4 +1,4 @@
-ID: 347
+ID: 420
 Name: CaseBox
 Description: Manage all your organization's information in one system.
 Source Code: https://github.com/KETSE/casebox
@@ -10,8 +10,8 @@ Languages:
 - Java
 C: Document Management
 Tags:
-- Doc Mgmnt
+- Document Management
 MD: '- [CaseBox](https://www.casebox.org) - Manage all your organization''s information
   in one system. ([Source Code](https://github.com/KETSE/casebox)) `AGPL-3.0` `PHP/Java`'
 SourceType: Github
-Line: 597
+Line: 606

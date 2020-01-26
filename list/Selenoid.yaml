@@ -1,4 +1,4 @@
-ID: 824
+ID: 229
 Name: Selenoid
 Description: Lightweight Selenium hub implementation launching browsers within Docker
   containers.
@@ -10,9 +10,10 @@ Languages:
 - Go
 C: Software Development
 Tags:
-- Software Dev
+- Software Development
+- UX testing
 MD: '- [Selenoid](http://aerokube.com/selenoid/latest/) - Lightweight Selenium hub
   implementation launching browsers within Docker containers. ([Source Code](https://github.com/aerokube/selenoid))
   `Apache-2.0` `Go`'
 SourceType: Github
-Line: 1300
+Line: 1330

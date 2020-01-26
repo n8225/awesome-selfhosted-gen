@@ -1,4 +1,4 @@
-ID: 852
+ID: 300
 Name: Taskfreak
 Description: Simple but efficient web based task manager written in PHP.
 Source Code: http://www.taskfreak.com/original
@@ -8,8 +8,7 @@ Languages:
 - PHP
 C: Task management/To-do lists
 Tags:
-- To-Do
-- Task Mgmnt
+- Task management/To-do lists
 MD: '- [Taskfreak](http://www.taskfreak.com/original) - Simple but efficient web based
   task manager written in PHP. `GPL-3.0` `PHP`'
-Line: 1357
+Line: 1388

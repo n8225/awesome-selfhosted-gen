@@ -1,4 +1,4 @@
-ID: 255
+ID: 27
 Name: Kontalk
 Description: Kontalk is an Open Source Messenger, similar to WhatsApp (app for android
   only currently), including end-to-end encryption, server is based on Tigase XMPP
@@ -11,12 +11,11 @@ Languages:
 - Java
 C: Communication systems
 Tags:
-- Communications
-- XMPP
-- XMPP Server
+- Communication systems
+- XMPP Servers
 MD: '- [Kontalk](http://kontalk.org/) - Kontalk is an Open Source Messenger, similar
   to WhatsApp (app for android only currently), including end-to-end encryption, server
   is based on Tigase XMPP Server. ([Source Code](https://github.com/kontalk)) `GPL-3.0`
   `Java`'
 SourceType: Github
-Line: 472
+Line: 479

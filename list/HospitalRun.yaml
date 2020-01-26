@@ -1,4 +1,4 @@
-ID: 636
+ID: 830
 Name: Hospital Run
 Description: Hospital Run is offline enabled hospital management software.
 Source Code: https://github.com/HospitalRun/hospitalrun-server
@@ -10,10 +10,9 @@ Languages:
 - Nodejs
 C: Money, Budgeting and Management
 Tags:
-- Money
-- Budget
+- Money, Budgeting and Management
 MD: '- [Hospital Run](http://hospitalrun.io/) - Hospital Run is offline enabled hospital
   management software. ([Source Code](https://github.com/HospitalRun/hospitalrun-server),
   [Demo](http://hospitalrun.io/demo/)) `GPL-3.0` `Nodejs`'
 SourceType: Github
-Line: 1018
+Line: 1041

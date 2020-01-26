@@ -1,4 +1,4 @@
-ID: 47
+ID: 174
 Name: Lidarr
 Description: Lidarr is a music collection manager for Usenet and BitTorrent users.
 Source Code: https://github.com/Lidarr/Lidarr
@@ -14,4 +14,4 @@ MD: '- [Lidarr](https://lidarr.audio/) - Lidarr is a music collection manager fo
   Usenet and BitTorrent users. ([Source Code](https://github.com/Lidarr/Lidarr)) `GPL-3.0`
   `C#`'
 SourceType: Github
-Line: 175
+Line: 178

@@ -1,4 +1,4 @@
-ID: 394
+ID: 36
 Name: RSS2EMail
 Description: Fetches RSS/Atom-feeds and pushes new Content to any email-receiver,
   supports OPML.
@@ -10,10 +10,10 @@ Languages:
 - Python
 C: Feed Readers
 Tags:
-- RSS
-- Feed Reader
+- Feed Readers
+- RSS/Atom automation
 MD: '- [RSS2EMail](http://www.allthingsrss.com/rss2email/) - Fetches RSS/Atom-feeds
   and pushes new Content to any email-receiver, supports OPML. ([Source Code](https://github.com/wking/rss2email))
   `GPL-2.0` `Python`'
 SourceType: Github
-Line: 673
+Line: 686

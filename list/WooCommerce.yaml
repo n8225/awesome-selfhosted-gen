@@ -1,4 +1,4 @@
-ID: 343
+ID: 304
 Name: WooCommerce
 Description: WordPress based e-commerce solution.
 Source Code: https://github.com/woothemes/woocommerce
@@ -9,9 +9,9 @@ Languages:
 - PHP
 C: Content Management Systems (CMS)
 Tags:
-- CMS
+- Content Management Systems (CMS)
 - E-commerce
 MD: '- [WooCommerce](https://www.woothemes.com/woocommerce/) - WordPress based e-commerce
   solution. ([Source Code](https://github.com/woothemes/woocommerce)) `GPL-3.0` `PHP`'
 SourceType: Github
-Line: 581
+Line: 590

@@ -1,4 +1,4 @@
-ID: 592
+ID: 837
 Name: asciiflow
 Description: Flow Diagram Drawing Tool.
 Source Code: https://github.com/lewish/asciiflow2
@@ -7,12 +7,11 @@ License:
 - GPL-3.0
 Languages:
 - Java
-- HTML5
+- JavaScript
 C: Misc/Other
 Tags:
-- Misc
-- Other
+- Misc/Other
 MD: '- [asciiflow](http://asciiflow.com/) - Flow Diagram Drawing Tool. ([Source Code](https://github.com/lewish/asciiflow2))
   `GPL-3.0` `Java/JavaScript`'
 SourceType: Github
-Line: 967
+Line: 989

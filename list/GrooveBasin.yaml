@@ -1,4 +1,4 @@
-ID: 559
+ID: 455
 Name: Groove Basin
 Description: Music player server with a web-based user interface inspired by Amarok
   1.4.
@@ -9,10 +9,9 @@ Languages:
 - Nodejs
 C: Media Streaming
 Tags:
-- Media
-- Streaming
-- Audio
+- Media Streaming
+- Audio Streaming
 MD: '- [Groove Basin](https://github.com/andrewrk/groovebasin) - Music player server
   with a web-based user interface inspired by Amarok 1.4. `MIT` `Nodejs`'
 SourceType: Github
-Line: 926
+Line: 947

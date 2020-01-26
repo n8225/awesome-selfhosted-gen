@@ -1,4 +1,4 @@
-ID: 649
+ID: 116
 Name: Dnote
 Description: A simple and encrypted notebook for developers. Protect your privacy
   and stay focused.
@@ -10,10 +10,9 @@ Languages:
 - Go
 C: Note-taking and Editors
 Tags:
-- Note-taking
-- Editor
+- Note-taking and Editors
 MD: '- [Dnote](https://dnote.io) - A simple and encrypted notebook for developers.
   Protect your privacy and stay focused. ([Source Code](https://github.com/dnote/dnote))
   `AGPL-3.0` `Go`'
 SourceType: Github
-Line: 1044
+Line: 1068

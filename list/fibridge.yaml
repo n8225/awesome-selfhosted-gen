@@ -1,4 +1,4 @@
-ID: 428
+ID: 378
 Name: fibridge
 Description: Stream huge files out of your browser without having to upload.
 Source Code: https://github.com/anderspitman/fibridge-proxy-rs
@@ -9,11 +9,10 @@ Languages:
 - Rust
 C: File Sharing and Synchronization
 Tags:
-- File Sharing
-- Single-Click Upload
-- Drag-n-Drop Upload
+- File Sharing and Synchronization
+- Single-click/drag-n-drop upload
 MD: '- [fibridge](https://github.com/anderspitman/fibridge-proxy-rs) - Stream huge
   files out of your browser without having to upload. ([Demo](https://fbrg.xyz/))
   `MIT` `Rust`'
 SourceType: Github
-Line: 732
+Line: 746

@@ -1,4 +1,4 @@
-ID: 728
+ID: 188
 Name: Photofloat
 Description: Web 2.0 Photo Gallery Done Right via Static JSON and Dynamic Javascript.
 Source Code: http://blog.zx2c4.com/567
@@ -9,8 +9,8 @@ Languages:
 - Python
 C: Photo and Video Galleries
 Tags:
-- Photo and Video Gallery
+- Photo and Video Galleries
 MD: '- [Photofloat](http://blog.zx2c4.com/567) - Web 2.0 Photo Gallery Done Right
   via Static JSON and Dynamic Javascript. ([Demo](http://photos.jasondonenfeld.com/))
   `GPL-2.0` `Python`'
-Line: 1150
+Line: 1173

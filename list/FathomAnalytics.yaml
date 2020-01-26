@@ -1,8 +1,7 @@
-ID: 5
+ID: 907
 Name: Fathom Analytics
 Description: Simple & trustworthy website analytics.
 Source Code: https://github.com/usefathom/fathom
-Website: https://usefathom.com
 License:
 - MIT
 Languages:
@@ -11,7 +10,7 @@ C: Analytics
 Tags:
 - Analytics
 - Web Analytics
-MD: '- [Fathom Analytics](https://usefathom.com) - Simple & trustworthy website analytics.
-  ([Source Code](https://github.com/usefathom/fathom)) `MIT` `Go`'
+MD: '- [Fathom Analytics](https://github.com/usefathom/fathom) - Simple & trustworthy
+  website analytics. `MIT` `Go`'
 SourceType: Github
 Line: 115

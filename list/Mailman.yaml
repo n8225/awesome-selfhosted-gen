@@ -1,4 +1,4 @@
-ID: 169
+ID: 756
 Name: Mailman
 Description: The Gnu mailing list server.
 Source Code: https://www.gnu.org/software/mailman/
@@ -8,11 +8,9 @@ Languages:
 - Python
 C: Communication systems
 Tags:
-- Communications
-- Email
-- Mailng List
-- Newsletters
-- Mass mail
+- Communication systems
+- Mailing lists and Newsletters
+- Mailing lists servers and mass mailing software - one message to many recipients.
 MD: '- [Mailman](https://www.gnu.org/software/mailman/) - The Gnu mailing list server.
   `GPL-3.0` `Python`'
-Line: 355
+Line: 360

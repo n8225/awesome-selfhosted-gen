@@ -1,4 +1,4 @@
-ID: 237
+ID: 802
 Name: Oxwall
 Description: Oxwall is used for a wide range of projects starting from family sites
   and custom social networks to collaboration tools and enterprise community solutions.
@@ -10,11 +10,10 @@ Languages:
 - PHP
 C: Communication systems
 Tags:
-- Communications
-- Social Network
-- Forum
+- Communication systems
+- Social Networks and Forums
 MD: '- [Oxwall](http://www.oxwall.org/) - Oxwall is used for a wide range of projects
   starting from family sites and custom social networks to collaboration tools and
   enterprise community solutions. ([Source Code](https://bitbucket.org/oxwall/public))
   `CPAL-1.0` `PHP`'
-Line: 445
+Line: 453

@@ -1,4 +1,4 @@
-ID: 475
+ID: 340
 Name: Posio
 Description: Geography multiplayer game.
 Source Code: https://github.com/abrenaut/posio
@@ -8,8 +8,9 @@ Languages:
 - Python
 C: Games
 Tags:
-- Game
+- Games
+- Games, game servers and control panels.
 MD: '- [Posio](https://github.com/abrenaut/posio) - Geography multiplayer game. `MIT`
   `Python`'
 SourceType: Github
-Line: 792
+Line: 807

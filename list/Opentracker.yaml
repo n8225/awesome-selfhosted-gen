@@ -1,4 +1,4 @@
-ID: 417
+ID: 366
 Name: Opentracker
 Description: Open and free bittorrent tracker. It aims for minimal resource usage
   and is intended to run at your wlan router.
@@ -10,10 +10,10 @@ Languages:
 - C
 C: File Sharing and Synchronization
 Tags:
-- File Sharing
-- P2P
+- File Sharing and Synchronization
+- Peer-to-peer filesharing
 MD: '- [Opentracker](http://erdgeist.org/arts/software/opentracker/) - Open and free
   bittorrent tracker. It aims for minimal resource usage and is intended to run at
   your wlan router. ([Source Code](http://erdgeist.org/gitweb/opentracker/)) `Beerware`
   `C`'
-Line: 715
+Line: 728

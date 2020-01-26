@@ -1,4 +1,4 @@
-ID: 726
+ID: 884
 Name: OwnPhotos
 Description: Self hosted wannabe Google Photos clone, with a slight focus on cool
   graphs.
@@ -9,8 +9,8 @@ Languages:
 - Python
 C: Photo and Video Galleries
 Tags:
-- Photo and Video Gallery
+- Photo and Video Galleries
 MD: '- [OwnPhotos](https://github.com/hooram/ownphotos) - Self hosted wannabe Google
   Photos clone, with a slight focus on cool graphs. `MIT` `Python`'
 SourceType: Github
-Line: 1148
+Line: 1171

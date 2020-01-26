@@ -1,4 +1,4 @@
-ID: 160
+ID: 381
 Name: Qmail
 Description: Secure Sendmail replacement.
 Source Code: https://sources.debian.net/src/netqmail/1.06-5/
@@ -9,10 +9,9 @@ Languages:
 - C
 C: Communication systems
 Tags:
-- Communications
-- Email
-- MTA
-- SMTP
+- Communication systems
+- Mail Transfer Agents
+- MTAs / SMTP servers
 MD: '- [Qmail](https://cr.yp.to/qmail.html) - Secure Sendmail replacement. ([Source
   Code](https://sources.debian.net/src/netqmail/1.06-5/)) `CC0-1.0` `C`'
-Line: 336
+Line: 341

@@ -1,4 +1,4 @@
-ID: 560
+ID: 163
 Name: koel
 Description: Personal music streaming server that works.
 Source Code: https://github.com/phanan/koel
@@ -9,10 +9,9 @@ Languages:
 - PHP
 C: Media Streaming
 Tags:
-- Media
-- Streaming
-- Audio
+- Media Streaming
+- Audio Streaming
 MD: '- [koel](http://koel.phanan.net/) - Personal music streaming server that works.
   ([Source Code](https://github.com/phanan/koel)) `MIT` `PHP`'
 SourceType: Github
-Line: 927
+Line: 948

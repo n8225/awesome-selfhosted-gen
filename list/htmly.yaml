@@ -1,4 +1,4 @@
-ID: 71
+ID: 0
 Name: htmly
 Description: Databaseless Blogging Platform (Flat-File Blog).
 Source Code: https://github.com/danpros/htmly
@@ -10,9 +10,9 @@ Languages:
 - PHP
 C: Blogging Platforms
 Tags:
-- Blog
+- Blogging Platforms
 MD: '- [htmly](https://www.htmly.com/) - Databaseless Blogging Platform (Flat-File
   Blog). ([Demo](https://www.htmly.com/demo/), [Source Code](https://github.com/danpros/htmly))
   `GPL-2.0` `PHP`'
 SourceType: Github
-Line: 206
+Line: 210

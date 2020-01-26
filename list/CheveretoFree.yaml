@@ -1,4 +1,4 @@
-ID: 718
+ID: 726
 Name: Chevereto Free
 Description: Powerful and fast image hosting script that allows you to create your
   very own full featured image hosting website in just minutes.
@@ -10,10 +10,10 @@ Languages:
 - PHP
 C: Photo and Video Galleries
 Tags:
-- Photo and Video Gallery
+- Photo and Video Galleries
 MD: '- [Chevereto Free](https://chevereto.com/free) - Powerful and fast image hosting
   script that allows you to create your very own full featured image hosting website
   in just minutes. ([Source Code](https://github.com/Chevereto/Chevereto-Free)) `AGPL-3.0`
   `PHP`'
 SourceType: Github
-Line: 1140
+Line: 1163

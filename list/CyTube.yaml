@@ -1,4 +1,4 @@
-ID: 576
+ID: 717
 Name: CyTube
 Description: CyTube is a web application providing media synchronization, chat, and
   more for an arbitrary number of channels.
@@ -10,11 +10,10 @@ Languages:
 - Nodejs
 C: Media Streaming
 Tags:
-- Media
-- Streaming
-- Video
+- Media Streaming
+- Video Streaming
 MD: '- [CyTube](https://github.com/calzoneman/sync) - CyTube is a web application
   providing media synchronization, chat, and more for an arbitrary number of channels.
   ([Demo](http://cytu.be)) `MIT` `Nodejs`'
 SourceType: Github
-Line: 946
+Line: 968

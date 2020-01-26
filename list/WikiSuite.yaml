@@ -1,17 +1,17 @@
-ID: 939
+ID: 176
 Name: WikiSuite
-Description: The most comprehensive and integrated Free / Libre / Open Source software
-  suite ever developed.
-Source Code: http://wikisuite.org/Source-Code
-Website: http://WikiSuite.org
+Description: The most comprehensive and integrated Free / Libre / Open Source enterprise
+  software suite.
+Source Code: https://wikisuite.org/Source-Code
+Website: https://wikisuite.org
 License:
 - Multiple
 Languages:
-- PHP
+- ClearOS
 C: Self-hosting Solutions
 Tags:
-- Self-hosting Solution
-MD: '- [WikiSuite](http://WikiSuite.org) - The most comprehensive and integrated Free
-  / Libre / Open Source software suite ever developed. ([Source Code](http://wikisuite.org/Source-Code))
+- Self-hosting Solutions
+MD: '- [WikiSuite](https://wikisuite.org) - The most comprehensive and integrated
+  Free / Libre / Open Source enterprise software suite. ([Source Code](https://wikisuite.org/Source-Code))
   `Multiple` `ClearOS`'
-Line: 1480
+Line: 1511

@@ -1,4 +1,4 @@
-ID: 230
+ID: 186
 Name: Mastodon
 Description: Federated microblogging server, an alternative to GNU social.
 Source Code: https://github.com/tootsuite/mastodon
@@ -9,11 +9,10 @@ Languages:
 - Ruby
 C: Communication systems
 Tags:
-- Communications
-- Social Network
-- Forum
+- Communication systems
+- Social Networks and Forums
 MD: '- [Mastodon](https://joinmastodon.org/) - Federated microblogging server, an
   alternative to GNU social. ([Source Code](https://github.com/tootsuite/mastodon))
   `AGPL-3.0` `Ruby`'
 SourceType: Github
-Line: 438
+Line: 445

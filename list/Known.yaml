@@ -1,4 +1,4 @@
-ID: 72
+ID: 320
 Name: Known
 Description: Single website for all your content.
 Source Code: https://github.com/idno/idno
@@ -9,8 +9,8 @@ Languages:
 - PHP
 C: Blogging Platforms
 Tags:
-- Blog
+- Blogging Platforms
 MD: '- [Known](https://withknown.com/) - Single website for all your content. ([Source
   Code](https://github.com/idno/idno)) `Apache-2.0` `PHP`'
 SourceType: Github
-Line: 207
+Line: 211

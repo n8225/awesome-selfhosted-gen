@@ -1,4 +1,4 @@
-ID: 333
+ID: 60
 Name: Open Food Network
 Description: Online marketplace for local food. It enables a network of independent
   online food stores that connect farmers and food hubs with individuals and local
@@ -11,11 +11,11 @@ Languages:
 - Ruby
 C: Content Management Systems (CMS)
 Tags:
-- CMS
+- Content Management Systems (CMS)
 - E-commerce
 MD: '- [Open Food Network](https://openfoodnetwork.org/) - Online marketplace for
   local food. It enables a network of independent online food stores that connect
   farmers and food hubs with individuals and local businesses. ([Source Code](https://github.com/openfoodfoundation/openfoodnetwork))
   `AGPL-3.0` `Ruby`'
 SourceType: Github
-Line: 571
+Line: 579

@@ -1,4 +1,4 @@
-ID: 707
+ID: 307
 Name: Baby Buddy
 Description: Helps caregivers track baby sleep, feedings, diaper changes, and tummy
   time.
@@ -10,9 +10,9 @@ Languages:
 - Python
 C: Personal Dashboards
 Tags:
-- Dashboard
+- Personal Dashboards
 MD: '- [Baby Buddy](https://github.com/cdubz/babybuddy) - Helps caregivers track baby
   sleep, feedings, diaper changes, and tummy time. ([Demo](https://babybuddy.herokuapp.com/))
   `BSD-2-Clause` `Python`'
 SourceType: Github
-Line: 1124
+Line: 1147

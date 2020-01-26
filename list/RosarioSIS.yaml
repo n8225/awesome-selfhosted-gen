@@ -1,4 +1,4 @@
-ID: 522
+ID: 12
 Name: RosarioSIS
 Description: RosarioSIS, free Student Information System for school management.
 Source Code: https://gitlab.com/francoisjacquet/rosariosis/
@@ -10,11 +10,9 @@ Languages:
 - PHP
 C: Learning and Courses
 Tags:
-- Learning
-- Courses
-- LMS
+- Learning and Courses
 MD: '- [RosarioSIS](https://www.rosariosis.org/) - RosarioSIS, free Student Information
   System for school management. ([Demo](https://www.rosariosis.org/demo/), [Source
   Code](https://gitlab.com/francoisjacquet/rosariosis/)) `GPL-2.0` `PHP`'
 SourceType: Gitlab
-Line: 869
+Line: 889

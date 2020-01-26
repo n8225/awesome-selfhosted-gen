@@ -1,4 +1,4 @@
-ID: 846
+ID: 390
 Name: Kanboard
 Description: Simple and open source visual task board.
 Source Code: https://github.com/kanboard/kanboard
@@ -9,9 +9,8 @@ Languages:
 - PHP
 C: Task management/To-do lists
 Tags:
-- To-Do
-- Task Mgmnt
+- Task management/To-do lists
 MD: '- [Kanboard](http://kanboard.net/) - Simple and open source visual task board.
   ([Source Code](https://github.com/kanboard/kanboard)) `MIT` `PHP`'
 SourceType: Github
-Line: 1351
+Line: 1382

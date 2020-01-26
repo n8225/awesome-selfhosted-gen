@@ -1,4 +1,4 @@
-ID: 896
+ID: 317
 Name: url-shortener
 Description: Shitty url shortener, emoji and AI powered.
 Source Code: https://github.com/cagataycali/url-shortener
@@ -8,9 +8,9 @@ Languages:
 - Nodejs
 C: URL Shorteners
 Tags:
-- URL Shortener
+- URL Shorteners
 ProprietaryDependency: true
 MD: '- [url-shortener](https://github.com/cagataycali/url-shortener) `⚠` - Shitty
   url shortener, emoji and AI powered. `MIT` `Nodejs`'
 SourceType: Github
-Line: 1413
+Line: 1443

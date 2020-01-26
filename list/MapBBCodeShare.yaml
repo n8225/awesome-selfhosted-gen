@@ -1,4 +1,4 @@
-ID: 527
+ID: 179
 Name: MapBBCodeShare
 Description: Tool for sharing custom OSM maps. Support for annotated markers, polygons,
   lines, multi-format import/export, multiple layers, shortlinks.
@@ -11,11 +11,10 @@ Languages:
 - PHP
 C: Maps and Global Positioning System (GPS)
 Tags:
-- Maps
-- GPS
+- Maps and Global Positioning System (GPS)
 MD: '- [MapBBCodeShare](https://github.com/MapBBCode/share.mapbbcode.org) - Tool for
   sharing custom OSM maps. Support for annotated markers, polygons, lines, multi-format
   import/export, multiple layers, shortlinks. ([Demo](http://share.mapbbcode.org/))
   `WTFPL/Other` `PHP`'
 SourceType: Github
-Line: 881
+Line: 900

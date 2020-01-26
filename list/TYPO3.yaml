@@ -1,4 +1,4 @@
-ID: 316
+ID: 803
 Name: TYPO3
 Description: Powerful and advanced CMS with a large community.
 Source Code: https://github.com/TYPO3/TYPO3.CMS
@@ -9,8 +9,8 @@ Languages:
 - PHP
 C: Content Management Systems (CMS)
 Tags:
-- CMS
+- Content Management Systems (CMS)
 MD: '- [TYPO3](https://typo3.org/) - Powerful and advanced CMS with a large community.
   ([Source Code](https://github.com/TYPO3/TYPO3.CMS)) `GPL-2.0` `PHP`'
 SourceType: Github
-Line: 548
+Line: 555

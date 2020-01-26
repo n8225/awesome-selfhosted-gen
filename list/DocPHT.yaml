@@ -1,4 +1,4 @@
-ID: 650
+ID: 590
 Name: DocPHT
 Description: With DocPHT you can take notes and quickly document anything and without
   the use of any database.
@@ -11,10 +11,9 @@ Languages:
 - PHP
 C: Note-taking and Editors
 Tags:
-- Note-taking
-- Editor
+- Note-taking and Editors
 MD: '- [DocPHT](https://docpht.org/) - With DocPHT you can take notes and quickly
   document anything and without the use of any database. ([Demo](https://demo.docpht.org/),
   [Source Code](https://github.com/kenlog/docpht)) `MIT` `PHP`'
 SourceType: Github
-Line: 1045
+Line: 1069

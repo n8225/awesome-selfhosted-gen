@@ -1,4 +1,4 @@
-ID: 100
+ID: 669
 Name: SabreDAV
 Description: Open source CardDAV, CalDAV, and WebDAV framework and server.
 Source Code: https://github.com/sabre-io/dav
@@ -9,11 +9,9 @@ Languages:
 - PHP
 C: Calendaring and Contacts Management
 Tags:
-- Calendar
-- Contacts
-- CalDAV
-- CardDav
+- Calendaring and Contacts Management
+- CalDAV or CardDAV servers
 MD: '- [SabreDAV](http://sabre.io/) - Open source CardDAV, CalDAV, and WebDAV framework
   and server. ([Source Code](https://github.com/sabre-io/dav)) `MIT` `PHP`'
 SourceType: Github
-Line: 252
+Line: 256

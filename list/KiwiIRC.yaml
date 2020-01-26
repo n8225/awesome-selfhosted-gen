@@ -1,4 +1,4 @@
-ID: 189
+ID: 235
 Name: Kiwi IRC
 Description: Responsive web IRC client with theming support.
 Source Code: https://github.com/kiwiirc/kiwiirc
@@ -10,10 +10,10 @@ Languages:
 - Nodejs
 C: Communication systems
 Tags:
-- Communications
+- Communication systems
 - IRC
 MD: '- [Kiwi IRC](https://kiwiirc.com/) - Responsive web IRC client with theming support.
   ([Demo](https://kiwiirc.com/nextclient/)), ([Source Code](https://github.com/kiwiirc/kiwiirc))
   `Apache-2.0` `Nodejs`'
 SourceType: Github
-Line: 385
+Line: 389

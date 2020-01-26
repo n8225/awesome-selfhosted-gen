@@ -1,4 +1,4 @@
-ID: 97
+ID: 828
 Name: DecSync CC
 Description: Serverless contacts, calendar synchronization using your own file syncing
   method i.e Syncthing, Nextcloud etc.
@@ -10,12 +10,10 @@ Languages:
 - Kotlin
 C: Calendaring and Contacts Management
 Tags:
-- Calendar
-- Contacts
-- CalDAV
-- CardDav
+- Calendaring and Contacts Management
+- CalDAV or CardDAV servers
 MD: '- [DecSync CC](https://f-droid.org/packages/org.decsync.cc/) - Serverless contacts,
   calendar synchronization using your own file syncing method i.e Syncthing, Nextcloud
   etc. ([Source Code](https://github.com/39aldo39/DecSyncCC)) `GPL-3.0` `Kotlin`'
 SourceType: Github
-Line: 249
+Line: 253

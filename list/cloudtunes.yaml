@@ -1,4 +1,4 @@
-ID: 554
+ID: 87
 Name: cloudtunes
 Description: Web-based music player for the cloud.
 Source Code: https://github.com/jkbrzt/cloudtunes
@@ -8,11 +8,10 @@ Languages:
 - Python
 C: Media Streaming
 Tags:
-- Media
-- Streaming
-- Audio
+- Media Streaming
+- Audio Streaming
 ProprietaryDependency: true
 MD: '- [cloudtunes](https://github.com/jkbrzt/cloudtunes) `⚠` - Web-based music player
   for the cloud. `MIT` `Python`'
 SourceType: Github
-Line: 921
+Line: 941

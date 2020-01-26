@@ -1,4 +1,4 @@
-ID: 406
+ID: 215
 Name: Syncthing
 Description: Syncthing is an open source peer-to-peer file synchronisation tool.
 Source Code: https://github.com/syncthing/syncthing
@@ -9,11 +9,10 @@ Languages:
 - Go
 C: File Sharing and Synchronization
 Tags:
-- File Sharing
-- File Transfer
-- File Sync
+- File Sharing and Synchronization
+- File transfer/synchronization
 MD: '- [Syncthing](https://syncthing.net/) - Syncthing is an open source peer-to-peer
   file synchronisation tool. ([Source Code](https://github.com/syncthing/syncthing))
   `MPL-2.0` `Go`'
 SourceType: Github
-Line: 701
+Line: 714

@@ -1,4 +1,4 @@
-ID: 533
+ID: 584
 Name: Orion
 Description: Powerful OwnTracks API-compliant location data visualization frontend
   for the web.
@@ -11,10 +11,9 @@ Languages:
 - Nodejs
 C: Maps and Global Positioning System (GPS)
 Tags:
-- Maps
-- GPS
+- Maps and Global Positioning System (GPS)
 MD: '- [Orion](https://github.com/LINKIWI/orion-web) - Powerful OwnTracks API-compliant
   location data visualization frontend for the web. ([Demo](https://linkiwi.github.io/orion-web/))
   `MIT` `Python/Nodejs`'
 SourceType: Github
-Line: 887
+Line: 906

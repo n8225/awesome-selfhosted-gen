@@ -1,4 +1,4 @@
-ID: 111
+ID: 943
 Name: Gotify
 Description: Self-hosted notification server with Android and CLI clients, similar
   to PushBullet.
@@ -12,9 +12,10 @@ Languages:
 - Go
 C: Communication systems
 Tags:
-- Communications
+- Communication systems
+- Custom communication systems
 MD: '- [Gotify](https://gotify.net/) - Self-hosted notification server with Android
   and CLI clients, similar to PushBullet. ([Source Code](https://github.com/gotify/server),
   [Clients](https://github.com/gotify/android)) `MIT` `Go`'
 SourceType: Github
-Line: 273
+Line: 277

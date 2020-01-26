@@ -1,18 +1,18 @@
-ID: 882
+ID: 819
 Name: devShort
 Description: A simple and privacy-friendly URL shortener for web developers, admins
   and all professionals.
 Source Code: https://github.com/flokX/devShort
-Demo: https://devshort.florian-kaldowski.de
+Demo: https://devshort.flokx.dev
 License:
 - MIT
 Languages:
 - PHP
 C: URL Shorteners
 Tags:
-- URL Shortener
+- URL Shorteners
 MD: '- [devShort](https://github.com/flokX/devShort) - A simple and privacy-friendly
-  URL shortener for web developers, admins and all professionals. ([Demo](https://devshort.florian-kaldowski.de))
+  URL shortener for web developers, admins and all professionals. ([Demo](https://devshort.flokx.dev))
   `MIT` `PHP`'
 SourceType: Github
-Line: 1399
+Line: 1430

@@ -1,4 +1,4 @@
-ID: 826
+ID: 882
 Name: fx
 Description: fx is a tool to help you do Function as a Service with painless on your
   own servers.
@@ -9,10 +9,9 @@ Languages:
 - Go
 C: Software Development
 Tags:
-- Software Dev
-- FAAS
-- Severless
+- Software Development
+- FaaS/Serverless
 MD: '- [fx](https://github.com/metrue/fx) - fx is a tool to help you do Function as
   a Service with painless on your own servers. `MIT` `Go`'
 SourceType: Github
-Line: 1307
+Line: 1337

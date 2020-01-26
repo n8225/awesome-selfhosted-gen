@@ -1,4 +1,4 @@
-ID: 661
+ID: 678
 Name: ShareLaTex
 Description: Web-based collaborative LaTeX editor.
 Source Code: https://github.com/sharelatex/sharelatex
@@ -9,9 +9,8 @@ Languages:
 - Ruby
 C: Note-taking and Editors
 Tags:
-- Note-taking
-- Editor
+- Note-taking and Editors
 MD: '- [ShareLaTex](https://www.sharelatex.com/) - Web-based collaborative LaTeX editor.
   ([Source Code](https://github.com/sharelatex/sharelatex)) `AGPL-3.0` `Ruby`'
 SourceType: Github
-Line: 1056
+Line: 1080

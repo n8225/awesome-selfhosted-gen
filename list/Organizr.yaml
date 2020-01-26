@@ -1,4 +1,4 @@
-ID: 714
+ID: 442
 Name: Organizr
 Description: Organizr aims to be your one stop shop for your Servers Frontend.
 Source Code: https://github.com/causefx/Organizr
@@ -8,8 +8,8 @@ Languages:
 - PHP
 C: Personal Dashboards
 Tags:
-- Dashboard
+- Personal Dashboards
 MD: '- [Organizr](https://github.com/causefx/Organizr) - Organizr aims to be your
   one stop shop for your Servers Frontend. `GPL-3.0` `PHP`'
 SourceType: Github
-Line: 1131
+Line: 1154

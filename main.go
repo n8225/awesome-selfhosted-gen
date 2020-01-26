@@ -5,8 +5,8 @@ import (
 	"log"
 	"path/filepath"
 
-	"github.com/n8225/awesome-selfhosted-gen/pkg/exporter"
-	"github.com/n8225/awesome-selfhosted-gen/pkg/parse"
+	"github.com/n8225/awesome-selfhosted-gen/internal/pkg/exporter"
+	"github.com/n8225/awesome-selfhosted-gen/internal/pkg/parse"
 )
 
 func main() {
@@ -25,6 +25,7 @@ func main() {
 		log.Fatal(err)
 	}
 	e := parse.MdParser(apath, *ghToken)
+	
 	l := new(parse.List)
 	
 	l.Entries = e
@@ -33,5 +34,8 @@ func main() {
 
 	exporter.ToJSON(yl, "list")
 	exporter.ToYAML(yl, "list")
+	exporter.MapToJSON(yl.CatIDs, "catids")
+	exporter.MapToJSON(yl.LangIDs, "langids")
+	exporter.MapToJSON(yl.TagIDs, "tagids")
 
 }

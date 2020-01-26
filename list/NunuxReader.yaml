@@ -1,4 +1,4 @@
-ID: 378
+ID: 566
 Name: Nunux Reader
 Description: Simple, fast and reactive RSS reader.
 Source Code: https://github.com/ncarlier/nunux-reader
@@ -9,9 +9,8 @@ Languages:
 - Nodejs
 C: Feed Readers
 Tags:
-- RSS
-- Feed Reader
+- Feed Readers
 MD: '- [Nunux Reader](http://reader.nunux.org/) - Simple, fast and reactive RSS reader.
   ([Source Code](https://github.com/ncarlier/nunux-reader)) `GPL-3.0` `Nodejs`'
 SourceType: Github
-Line: 654
+Line: 666

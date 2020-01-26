@@ -1,4 +1,4 @@
-ID: 696
+ID: 596
 Name: pastebin
 Description: Simple pastebin service with convenient api and CLI.
 Source Code: https://github.com/prologic/pastebin
@@ -9,8 +9,8 @@ Languages:
 - Go
 C: Pastebins
 Tags:
-- Pastebin
+- Pastebins
 MD: '- [pastebin](https://github.com/prologic/pastebin) - Simple pastebin service
   with convenient api and CLI. ([Demo](https://paste.mills.io)) `MIT` `Go`'
 SourceType: Github
-Line: 1106
+Line: 1131

@@ -1,4 +1,4 @@
-ID: 748
+ID: 272
 Name: Open Event Server
 Description: Enables organizers to manage events from concerts to conferences and
   meet-ups.
@@ -9,10 +9,9 @@ Languages:
 - Python
 C: Polls and Events
 Tags:
-- Polls
-- Events
+- Polls and Events
 MD: '- [Open Event Server](https://github.com/fossasia/open-event-server) - Enables
   organizers to manage events from concerts to conferences and meet-ups. `GPL-3.0`
   `Python`'
 SourceType: Github
-Line: 1175
+Line: 1199

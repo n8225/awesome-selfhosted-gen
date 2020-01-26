@@ -1,4 +1,4 @@
-ID: 231
+ID: 932
 Name: Movim
 Description: Modern, federated social network based on XMPP, with a fully featured
   group-chat, subscriptions and microblogging.
@@ -10,11 +10,10 @@ Languages:
 - PHP
 C: Communication systems
 Tags:
-- Communications
-- Social Network
-- Forum
+- Communication systems
+- Social Networks and Forums
 MD: '- [Movim](https://movim.eu/) - Modern, federated social network based on XMPP,
   with a fully featured group-chat, subscriptions and microblogging. ([Source Code](https://github.com/movim/movim))
   `AGPL-3.0` `PHP`'
 SourceType: Github
-Line: 439
+Line: 447

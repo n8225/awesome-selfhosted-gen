@@ -1,4 +1,4 @@
-ID: 135
+ID: 571
 Name: Syndie
 Description: Syndie is a libre system for operating distributed forums.
 Source Code: https://syndie.de
@@ -8,7 +8,8 @@ Languages:
 - Java
 C: Communication systems
 Tags:
-- Communications
+- Communication systems
+- Custom communication systems
 MD: '- [Syndie](https://syndie.de) - Syndie is a libre system for operating distributed
   forums. `CC0-1.0` `Java`'
-Line: 297
+Line: 301

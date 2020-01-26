@@ -1,4 +1,4 @@
-ID: 109
+ID: 699
 Name: Friends
 Description: P2P chat powered by the web.
 Source Code: https://github.com/moose-team/friends
@@ -9,8 +9,9 @@ Languages:
 - Nodejs
 C: Communication systems
 Tags:
-- Communications
+- Communication systems
+- Custom communication systems
 MD: '- [Friends](http://moose-team.github.io/friends/) - P2P chat powered by the web.
   ([Source Code](https://github.com/moose-team/friends)) `MIT` `Nodejs`'
 SourceType: Github
-Line: 271
+Line: 275

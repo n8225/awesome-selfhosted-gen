@@ -1,4 +1,4 @@
-ID: 289
+ID: 440
 Name: eLabFTW
 Description: Online lab notebook for research labs. Store experiments, use a database
   to find reagents or protocols, use trusted timestamping to legally timestamp an
@@ -12,11 +12,11 @@ Languages:
 - PHP
 C: Content Management Systems (CMS)
 Tags:
-- CMS
+- Content Management Systems (CMS)
 MD: '- [eLabFTW](http://www.elabftw.net) - Online lab notebook for research labs.
   Store experiments, use a database to find reagents or protocols, use trusted timestamping
   to legally timestamp an experiment, export as pdf or zip archive, share with collaborators….
   ([Demo](https://demo.elabftw.net), [Source Code](https://github.com/elabftw/elabftw))
   `AGPL-3.0` `PHP`'
 SourceType: Github
-Line: 521
+Line: 528

@@ -1,4 +1,4 @@
-ID: 471
+ID: 488
 Name: elevatorsaga
 Description: The elevator programming game.
 Source Code: https://github.com/magwo/elevatorsaga
@@ -6,11 +6,12 @@ Website: http://play.elevatorsaga.com/
 License:
 - MIT
 Languages:
-- HTML5
+- Javascript
 C: Games
 Tags:
-- Game
+- Games
+- Games, game servers and control panels.
 MD: '- [elevatorsaga](http://play.elevatorsaga.com/) - The elevator programming game.
   ([Source Code](https://github.com/magwo/elevatorsaga)) `MIT` `Javascript`'
 SourceType: Github
-Line: 788
+Line: 802

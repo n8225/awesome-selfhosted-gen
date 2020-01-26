@@ -1,4 +1,4 @@
-ID: 453
+ID: 191
 Name: DirectoryLister
 Description: Simple PHP based directory lister that lists a directory and all it's
   sub-directories and allows you to navigate there within.
@@ -10,11 +10,11 @@ Languages:
 - PHP
 C: File Sharing and Synchronization
 Tags:
-- File Sharing
-- Web File MGR
+- File Sharing and Synchronization
+- Web based file managers
 MD: '- [DirectoryLister](http://www.directorylister.com/) - Simple PHP based directory
   lister that lists a directory and all it''s sub-directories and allows you to navigate
   there within. ([Source Code](https://github.com/DirectoryLister/DirectoryLister))
   `MIT` `PHP`'
 SourceType: Github
-Line: 763
+Line: 777

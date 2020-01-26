@@ -1,4 +1,4 @@
-ID: 226
+ID: 809
 Name: HumHub
 Description: Flexible kit for private social networks.
 Source Code: https://github.com/humhub/humhub
@@ -9,10 +9,9 @@ Languages:
 - PHP
 C: Communication systems
 Tags:
-- Communications
-- Social Network
-- Forum
+- Communication systems
+- Social Networks and Forums
 MD: '- [HumHub](https://www.humhub.org/) - Flexible kit for private social networks.
   ([Source Code](https://github.com/humhub/humhub)) `AGPL-3.0` `PHP`'
 SourceType: Github
-Line: 434
+Line: 441

@@ -1,4 +1,4 @@
-ID: 439
+ID: 813
 Name: PictShare
 Description: PictShare is a multi lingual, open source image hosting service with
   a simple resizing and upload API.
@@ -10,11 +10,10 @@ Languages:
 - PHP
 C: File Sharing and Synchronization
 Tags:
-- File Sharing
-- Single-Click Upload
-- Drag-n-Drop Upload
+- File Sharing and Synchronization
+- Single-click/drag-n-drop upload
 MD: '- [PictShare](https://www.pictshare.net/) - PictShare is a multi lingual, open
   source image hosting service with a simple resizing and upload API. ([Source Code](https://github.com/chrisiaut/pictshare))
   `Apache-2.0` `PHP`'
 SourceType: Github
-Line: 743
+Line: 757

@@ -1,4 +1,4 @@
-ID: 359
+ID: 671
 Name: Koha
 Description: Enterprise-class ILS with modules for acquisitions, circulation, cataloging,
   label printing, offline circulation for when Internet access is not available, and
@@ -12,11 +12,11 @@ Languages:
 - Perl
 C: E-books and Integrated Library Systems (ILS)
 Tags:
-- E-book
-- ILS
+- E-books and Integrated Library Systems (ILS)
+- Enterprise-class library management software.
 MD: '- [Koha](https://koha-community.org/) - Enterprise-class ILS with modules for
   acquisitions, circulation, cataloging, label printing, offline circulation for when
   Internet access is not available, and much more. ([Demo](https://koha-community.org/demo/),
   [Source Code](https://github.com/Koha-Community/Koha)) `GPL-3.0` `Perl`'
 SourceType: Github
-Line: 621
+Line: 633

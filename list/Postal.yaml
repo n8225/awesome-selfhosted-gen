@@ -1,4 +1,4 @@
-ID: 174
+ID: 470
 Name: Postal
 Description: Fully featured open source mail delivery platform for incoming and outgoing
   e-mail.
@@ -9,12 +9,10 @@ Languages:
 - Ruby
 C: Communication systems
 Tags:
-- Communications
-- Email
-- Mailng List
-- Newsletters
-- Mass mail
+- Communication systems
+- Mailing lists and Newsletters
+- Mailing lists servers and mass mailing software - one message to many recipients.
 MD: '- [Postal](https://github.com/atech/postal) - Fully featured open source mail
   delivery platform for incoming and outgoing e-mail. `MIT` `Ruby`'
 SourceType: Github
-Line: 360
+Line: 365

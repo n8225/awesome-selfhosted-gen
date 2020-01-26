@@ -1,4 +1,4 @@
-ID: 933
+ID: 206
 Name: Piratebox
 Description: DIY anonymous offline file-sharing and communications system built with
   free software and inexpensive off-the-shelf hardware.
@@ -8,11 +8,12 @@ License:
 - GPL-3.0
 Languages:
 - Python
+- Other
 C: Self-hosting Solutions
 Tags:
-- Self-hosting Solution
+- Self-hosting Solutions
 MD: '- [Piratebox](https://piratebox.cc/start) - DIY anonymous offline file-sharing
   and communications system built with free software and inexpensive off-the-shelf
   hardware. ([Source Code](https://github.com/PirateBox-Dev)). `GPL-3.0` `Python/Other`'
 SourceType: Github
-Line: 1474
+Line: 1505

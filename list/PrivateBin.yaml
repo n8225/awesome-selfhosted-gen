@@ -1,4 +1,4 @@
-ID: 700
+ID: 66
 Name: PrivateBin
 Description: PrivateBin is a minimalist, opensource online pastebin/discussion board
   where the server has zero knowledge of hosted data.
@@ -11,10 +11,10 @@ Languages:
 - PHP
 C: Pastebins
 Tags:
-- Pastebin
+- Pastebins
 MD: '- [PrivateBin](https://privatebin.info/) - PrivateBin is a minimalist, opensource
   online pastebin/discussion board where the server has zero knowledge of hosted data.
   ([Demo](https://privatebin.net/), [Source Code](https://github.com/PrivateBin/PrivateBin))
   `Zlib` `PHP`'
 SourceType: Github
-Line: 1110
+Line: 1134

@@ -1,4 +1,4 @@
-ID: 705
+ID: 660
 Name: Sup3rS3cretMes5age
 Description: Very simple (to deploy and to use) secret message service using Hashicorp
   Vault as a secrets storage.
@@ -9,9 +9,9 @@ Languages:
 - Go
 C: Pastebins
 Tags:
-- Pastebin
+- Pastebins
 MD: '- [Sup3rS3cretMes5age](https://github.com/algolia/sup3rS3cretMes5age) - Very
   simple (to deploy and to use) secret message service using Hashicorp Vault as a
   secrets storage. `MIT` `Go`'
 SourceType: Github
-Line: 1115
+Line: 1139

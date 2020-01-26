@@ -1,4 +1,4 @@
-ID: 70
+ID: 426
 Name: Hotglue
 Description: Freehand CMS which allows to construct websites directly in a web-browser.
   It uses flat files for storage and provides an intuitive GUI.
@@ -11,10 +11,10 @@ Languages:
 - PHP
 C: Blogging Platforms
 Tags:
-- Blog
+- Blogging Platforms
 MD: '- [Hotglue](https://hotglue.me/) - Freehand CMS which allows to construct websites
   directly in a web-browser. It uses flat files for storage and provides an intuitive
   GUI. ([Demo](https://hotglue.me/demo/), [Source Code](https://github.com/k0a1a/hotglue2))
   `GPL-3.0` `PHP`'
 SourceType: Github
-Line: 205
+Line: 209

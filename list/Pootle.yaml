@@ -1,4 +1,4 @@
-ID: 842
+ID: 425
 Name: Pootle
 Description: Online translation and localization tool.
 Source Code: https://github.com/translate/pootle
@@ -9,9 +9,9 @@ Languages:
 - Python
 C: Software Development
 Tags:
-- Software Dev
-- Localiztion
+- Software Development
+- Localization
 MD: '- [Pootle](http://pootle.translatehouse.org) - Online translation and localization
   tool. ([Source Code](https://github.com/translate/pootle)) `GPL-3.0` `Python`'
 SourceType: Github
-Line: 1334
+Line: 1365

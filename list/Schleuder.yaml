@@ -1,4 +1,4 @@
-ID: 175
+ID: 234
 Name: Schleuder
 Description: GPG-enabled mailing list manager with resending-capabilities.
 Source Code: https://0xacab.org/schleuder/schleuder/tree/master
@@ -9,12 +9,10 @@ Languages:
 - Ruby
 C: Communication systems
 Tags:
-- Communications
-- Email
-- Mailng List
-- Newsletters
-- Mass mail
+- Communication systems
+- Mailing lists and Newsletters
+- Mailing lists servers and mass mailing software - one message to many recipients.
 MD: '- [Schleuder](https://schleuder.nadir.org/) - GPG-enabled mailing list manager
   with resending-capabilities. ([Source Code](https://0xacab.org/schleuder/schleuder/tree/master))
   `GPL-3.0` `Ruby`'
-Line: 361
+Line: 366

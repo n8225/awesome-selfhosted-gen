@@ -1,4 +1,4 @@
-ID: 791
+ID: 160
 Name: Gitlist
 Description: Web-based git repository browser - GitList allows you to browse repositories
   using your favorite browser, viewing files under different revisions, commit history
@@ -11,11 +11,13 @@ Languages:
 - PHP
 C: Software Development
 Tags:
-- Software Dev
-- Project Mgmnt
+- Software Development
+- Project Management
+- See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managementto-do-lists),
+  [awesome-sysadmin/Code Review](https://github.com/n1trux/awesome-sysadmin#code-review)
 MD: '- [Gitlist](http://gitlist.org/) - Web-based git repository browser - GitList
   allows you to browse repositories using your favorite browser, viewing files under
   different revisions, commit history and diffs. ([Source Code](https://github.com/klaussilveira/gitlist))
   `BSD-3-Clause` `PHP`'
 SourceType: Github
-Line: 1253
+Line: 1279

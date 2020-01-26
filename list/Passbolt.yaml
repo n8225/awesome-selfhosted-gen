@@ -1,4 +1,4 @@
-ID: 677
+ID: 474
 Name: Passbolt
 Description: Password manager dedicated for managing passwords in a collaborative
   way on any Web server, using a MySQL database backend.
@@ -10,9 +10,9 @@ Languages:
 - PHP
 C: Password Managers
 Tags:
-- Password Manager
+- Password Managers
 MD: '- [Passbolt](https://www.passbolt.com/) - Password manager dedicated for managing
   passwords in a collaborative way on any Web server, using a MySQL database backend.
   ([Source Code](https://github.com/passbolt/passbolt_api)) `AGPL-3.0` `PHP`'
 SourceType: Github
-Line: 1082
+Line: 1109

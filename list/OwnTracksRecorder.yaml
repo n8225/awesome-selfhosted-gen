@@ -1,4 +1,4 @@
-ID: 534
+ID: 607
 Name: OwnTracks Recorder
 Description: Store and access data published by [OwnTracks](http://owntracks.org/)
   location tracking apps.
@@ -9,11 +9,10 @@ Languages:
 - C
 C: Maps and Global Positioning System (GPS)
 Tags:
-- Maps
-- GPS
+- Maps and Global Positioning System (GPS)
 ProprietaryDependency: true
 MD: '- [OwnTracks Recorder](https://github.com/owntracks/recorder) `⚠` - Store and
   access data published by [OwnTracks](http://owntracks.org/) location tracking apps.
   `GPL-2.0` `C`/`Lua`'
 SourceType: Github
-Line: 888
+Line: 907

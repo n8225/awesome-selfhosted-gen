@@ -1,4 +1,4 @@
-ID: 371
+ID: 822
 Name: Leed
 Description: Leed (for Light Feed) is a Free and minimalist RSS aggregator.
 Source Code: https://github.com/ldleman/Leed
@@ -9,10 +9,9 @@ Languages:
 - PHP
 C: Feed Readers
 Tags:
-- RSS
-- Feed Reader
+- Feed Readers
 MD: '- [Leed](https://github.com/LeedRSS/Leed) - Leed (for Light Feed) is a Free and
   minimalist RSS aggregator. ([Source Code](https://github.com/ldleman/Leed)) `AGPL-3.0`
   `PHP`'
 SourceType: Github
-Line: 647
+Line: 659

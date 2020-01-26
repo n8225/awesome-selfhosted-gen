@@ -1,4 +1,4 @@
-ID: 159
+ID: 128
 Name: Postfix
 Description: Fast, easy to administer, and secure Sendmail replacement.
 Source Code: http://www.postfix.org/
@@ -8,10 +8,9 @@ Languages:
 - C
 C: Communication systems
 Tags:
-- Communications
-- Email
-- MTA
-- SMTP
+- Communication systems
+- Mail Transfer Agents
+- MTAs / SMTP servers
 MD: '- [Postfix](http://www.postfix.org/) - Fast, easy to administer, and secure Sendmail
   replacement. `IPL-1.0` `C`'
-Line: 335
+Line: 340

@@ -1,4 +1,4 @@
-ID: 244
+ID: 200
 Name: remark42
 Description: A lightweight and simple comment engine, which doesn't spy on users.
   It can be embedded into blogs, articles or any other place where readers add comments.
@@ -11,12 +11,11 @@ Languages:
 - Go
 C: Communication systems
 Tags:
-- Communications
-- Social Network
-- Forum
+- Communication systems
+- Social Networks and Forums
 MD: '- [remark42](https://remark42.com/) - A lightweight and simple comment engine,
   which doesn''t spy on users. It can be embedded into blogs, articles or any other
   place where readers add comments. ([Demo](https://remark42.com/demo/), [Source Code](https://github.com/umputun/remark))
   `MIT` `Go`'
 SourceType: Github
-Line: 452
+Line: 460

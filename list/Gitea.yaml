@@ -1,4 +1,4 @@
-ID: 789
+ID: 430
 Name: Gitea
 Description: Community managed fork of Gogs, lightweight code hosting solution.
 Source Code: https://github.com/go-gitea/gitea
@@ -10,10 +10,12 @@ Languages:
 - Go
 C: Software Development
 Tags:
-- Software Dev
-- Project Mgmnt
+- Software Development
+- Project Management
+- See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managementto-do-lists),
+  [awesome-sysadmin/Code Review](https://github.com/n1trux/awesome-sysadmin#code-review)
 MD: '- [Gitea](https://gitea.io) - Community managed fork of Gogs, lightweight code
   hosting solution. ([Demo](https://try.gitea.io), [Source Code](https://github.com/go-gitea/gitea))
   `MIT` `Go`'
 SourceType: Github
-Line: 1251
+Line: 1277

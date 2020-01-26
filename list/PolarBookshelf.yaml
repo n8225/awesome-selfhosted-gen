@@ -1,4 +1,4 @@
-ID: 357
+ID: 911
 Name: Polar Bookshelf
 Description: Polar is a personal knowledge repository for PDF and web content supporting
   incremental reading and document annotation.
@@ -7,13 +7,13 @@ Website: https://getpolarized.io/
 License:
 - GPL
 Languages:
-- HTML5
+- Javascript
 C: E-books and Integrated Library Systems (ILS)
 Tags:
-- E-book
-- ILS
-MD: '  - [Polar Bookshelf](https://getpolarized.io/) - Polar is a personal knowledge
+- E-books and Integrated Library Systems (ILS)
+- Personal e-book management software.
+MD: '- [Polar Bookshelf](https://getpolarized.io/) - Polar is a personal knowledge
   repository for PDF and web content supporting incremental reading and document annotation.
   ([Source Code](https://github.com/burtonator/polar-bookshelf)) `GPL` `Javascript`'
 SourceType: Github
-Line: 616
+Line: 628

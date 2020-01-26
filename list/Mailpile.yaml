@@ -1,4 +1,4 @@
-ID: 182
+ID: 81
 Name: Mailpile
 Description: Webmail client with search, filtering, encryption features and more.
 Source Code: https://github.com/mailpile/Mailpile
@@ -9,11 +9,10 @@ Languages:
 - Python
 C: Communication systems
 Tags:
-- Communications
-- Email
-- Webmail
+- Communication systems
+- Webmail clients
 MD: '- [Mailpile](https://www.mailpile.is/) - Webmail client with search, filtering,
   encryption features and more. ([Source Code](https://github.com/mailpile/Mailpile))
   `AGPL-3.0` `Python`'
 SourceType: Github
-Line: 371
+Line: 375

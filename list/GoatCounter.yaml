@@ -1,4 +1,4 @@
-ID: 7
+ID: 314
 Name: GoatCounter
 Description: Simple web statistics. No tracking of personal data.
 Source Code: https://github.com/zgoat/goatcounter
@@ -15,4 +15,4 @@ MD: '- [GoatCounter](https://www.goatcounter.com) - Simple web statistics. No tr
   of personal data. ([Source Code](https://github.com/zgoat/goatcounter)) `AGPL-3.0`
   `Go`'
 SourceType: Github
-Line: 117
+Line: 118

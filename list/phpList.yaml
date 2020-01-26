@@ -1,4 +1,4 @@
-ID: 173
+ID: 670
 Name: phpList
 Description: Newsletter and email marketing with advanced management of subscribers,
   bounces, and plugins.
@@ -10,13 +10,11 @@ Languages:
 - PHP
 C: Communication systems
 Tags:
-- Communications
-- Email
-- Mailng List
-- Newsletters
-- Mass mail
+- Communication systems
+- Mailing lists and Newsletters
+- Mailing lists servers and mass mailing software - one message to many recipients.
 MD: '- [phpList](https://phplist.org) - Newsletter and email marketing with advanced
   management of subscribers, bounces, and plugins. ([Source Code](https://github.com/phpList/))
   `AGPL-3.0` `PHP`'
 SourceType: Github
-Line: 359
+Line: 364

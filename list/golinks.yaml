@@ -1,4 +1,4 @@
-ID: 84
+ID: 393
 Name: golinks
 Description: Web application that allows you to create smart bookmarks, commands and
   aliases by pointing your web browser's default search engine at a running instance.
@@ -11,11 +11,10 @@ Languages:
 - Go
 C: Bookmarks and Link Sharing
 Tags:
-- Bookmarks
-- Links
+- Bookmarks and Link Sharing
 MD: '- [golinks](https://github.com/prologic/golinks) - Web application that allows
   you to create smart bookmarks, commands and aliases by pointing your web browser''s
   default search engine at a running instance. Similar to bunny1 or yubnub. ([Demo](https://search.mills.io))
   `MIT` `Go`'
 SourceType: Github
-Line: 225
+Line: 228

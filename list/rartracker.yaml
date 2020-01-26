@@ -1,4 +1,4 @@
-ID: 420
+ID: 567
 Name: rartracker
 Description: Complete private bittorrent tracker.
 Source Code: https://github.com/swetorrentking/rartracker
@@ -8,9 +8,9 @@ Languages:
 - PHP
 C: File Sharing and Synchronization
 Tags:
-- File Sharing
-- P2P
+- File Sharing and Synchronization
+- Peer-to-peer filesharing
 MD: '- [rartracker](https://github.com/swetorrentking/rartracker) - Complete private
   bittorrent tracker. `WTFPL` `PHP`'
 SourceType: Github
-Line: 718
+Line: 731

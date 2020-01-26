@@ -1,4 +1,4 @@
-ID: 102
+ID: 493
 Name: AgenDAV
 Description: Multilanguage CalDAV web client with a rich AJAX interface and shared
   calendars support.
@@ -10,10 +10,10 @@ Languages:
 - PHP
 C: Calendaring and Contacts Management
 Tags:
-- Calendar
-- Contacts
+- Calendaring and Contacts Management
+- CalDAV or CardDAV clients.
 MD: '- [AgenDAV](http://agendav.org/) - Multilanguage CalDAV web client with a rich
   AJAX interface and shared calendars support. ([Source Code](https://github.com/agendav/agendav))
   `GPL-3.0` `PHP`'
 SourceType: Github
-Line: 257
+Line: 261

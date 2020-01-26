@@ -1,4 +1,4 @@
-ID: 336
+ID: 677
 Name: Reaction Commerce
 Description: Customizable, real-time reactive, JavaScript commerce platform.
 Source Code: https://github.com/reactioncommerce/reaction
@@ -9,10 +9,10 @@ Languages:
 - Nodejs
 C: Content Management Systems (CMS)
 Tags:
-- CMS
+- Content Management Systems (CMS)
 - E-commerce
 MD: '- [Reaction Commerce](https://reactioncommerce.com/) - Customizable, real-time
   reactive, JavaScript commerce platform. ([Source Code](https://github.com/reactioncommerce/reaction))
   `GPL-3.0` `Nodejs`'
 SourceType: Github
-Line: 574
+Line: 582

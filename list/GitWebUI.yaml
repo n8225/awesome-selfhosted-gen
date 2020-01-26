@@ -1,4 +1,4 @@
-ID: 794
+ID: 350
 Name: Git WebUI
 Description: Standalone web based user interface for git repositories.
 Source Code: https://github.com/alberthier/git-webui
@@ -8,9 +8,11 @@ Languages:
 - Python
 C: Software Development
 Tags:
-- Software Dev
-- Project Mgmnt
+- Software Development
+- Project Management
+- See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managementto-do-lists),
+  [awesome-sysadmin/Code Review](https://github.com/n1trux/awesome-sysadmin#code-review)
 MD: '- [Git WebUI](https://github.com/alberthier/git-webui) - Standalone web based
   user interface for git repositories. `Apache-2.0` `Python`'
 SourceType: Github
-Line: 1256
+Line: 1282

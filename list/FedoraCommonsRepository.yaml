@@ -1,4 +1,4 @@
-ID: 362
+ID: 834
 Name: Fedora Commons Repository
 Description: Robust and modular repository system for the management and dissemination
   of digital content especially suited for digital libraries and archives, both for
@@ -11,11 +11,11 @@ Languages:
 - Java
 C: E-books and Integrated Library Systems (ILS)
 Tags:
-- E-book
-- ILS
+- E-books and Integrated Library Systems (ILS)
+- Institutional repository and digital library software.
 MD: '- [Fedora Commons Repository](https://fedorarepository.org/) - Robust and modular
   repository system for the management and dissemination of digital content especially
   suited for digital libraries and archives, both for access and preservation. ([Source
   Code](https://github.com/fcrepo4/fcrepo4)) `Apache-2.0` `Java`'
 SourceType: Github
-Line: 627
+Line: 639

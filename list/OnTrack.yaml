@@ -1,0 +1,16 @@
+ID: 279
+Name: OnTrack
+Description: A simple app to track spend and set goals.
+Source Code: https://github.com/inoda/ontrack
+License:
+- MIT
+Languages:
+- Ruby
+- React
+C: Money, Budgeting and Management
+Tags:
+- Money, Budgeting and Management
+MD: '- [OnTrack](https://github.com/inoda/ontrack) - A simple app to track spend and
+  set goals. `MIT` `Ruby/React`'
+SourceType: Github
+Line: 1047

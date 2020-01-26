@@ -1,4 +1,4 @@
-ID: 602
+ID: 513
 Name: google-webfonts-helper
 Description: Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and
   woff2 files + CSS snippets.
@@ -10,12 +10,11 @@ Languages:
 - Nodejs
 C: Misc/Other
 Tags:
-- Misc
-- Other
+- Misc/Other
 ProprietaryDependency: true
 MD: '- [google-webfonts-helper](https://github.com/majodev/google-webfonts-helper)
   `⚠` - Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2
   files + CSS snippets. ([Demo](https://google-webfonts-helper.herokuapp.com/)) `MIT`
   `Nodejs`'
 SourceType: Github
-Line: 977
+Line: 999

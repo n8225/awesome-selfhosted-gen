@@ -1,4 +1,4 @@
-ID: 396
+ID: 897
 Name: Git Annex
 Description: File synchronization between computers, servers, external drives.
 Source Code: https://git.joeyh.name/index.cgi/git-annex.git/
@@ -9,10 +9,9 @@ Languages:
 - Haskell
 C: File Sharing and Synchronization
 Tags:
-- File Sharing
-- File Transfer
-- File Sync
+- File Sharing and Synchronization
+- File transfer/synchronization
 MD: '- [Git Annex](https://git-annex.branchable.com/) - File synchronization between
   computers, servers, external drives. ([Source Code](https://git.joeyh.name/index.cgi/git-annex.git/))
   `GPL-3.0` `Haskell`'
-Line: 691
+Line: 704

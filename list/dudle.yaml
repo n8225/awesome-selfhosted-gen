@@ -1,4 +1,4 @@
-ID: 742
+ID: 730
 Name: dudle
 Description: Online scheduling application.
 Source Code: https://github.com/kellerben/dudle
@@ -10,10 +10,9 @@ Languages:
 - Ruby
 C: Polls and Events
 Tags:
-- Polls
-- Events
+- Polls and Events
 MD: '- [dudle](http://primelife.ercim.eu/results/opensource/63-dudle) - Online scheduling
   application. ([Demo](https://dudle.inf.tu-dresden.de/), [Source Code](https://github.com/kellerben/dudle))
   `AGPL-3.0` `Ruby`'
 SourceType: Github
-Line: 1169
+Line: 1192

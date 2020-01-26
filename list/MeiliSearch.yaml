@@ -1,0 +1,17 @@
+ID: 212
+Name: MeiliSearch
+Description: Ultra relevant, instant and typo-tolerant full-text search API.
+Source Code: https://github.com/meilisearch/MeiliSearch
+Website: https://meilisearch.com
+License:
+- MIT
+Languages:
+- Rust
+C: Search Engines
+Tags:
+- Search Engines
+MD: '- [MeiliSearch](https://meilisearch.com) - Ultra relevant, instant and typo-tolerant
+  full-text search API. ([Source Code](https://github.com/meilisearch/MeiliSearch))
+  `MIT` `Rust`'
+SourceType: Github
+Line: 1260

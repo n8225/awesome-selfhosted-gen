@@ -1,4 +1,4 @@
-ID: 593
+ID: 438
 Name: blynk
 Description: Platform with iOS and Android apps to control Arduino, ESP8266, Raspberry
   Pi and similar microcontroller boards over the Internet.
@@ -10,10 +10,9 @@ Languages:
 - Java
 C: Misc/Other
 Tags:
-- Misc
-- Other
+- Misc/Other
 MD: '- [blynk](http://www.blynk.cc/) - Platform with iOS and Android apps to control
   Arduino, ESP8266, Raspberry Pi and similar microcontroller boards over the Internet.
   ([Source Code](https://github.com/blynkkk/blynk-server)) `AGPL-3.0` `Java`'
 SourceType: Github
-Line: 968
+Line: 990

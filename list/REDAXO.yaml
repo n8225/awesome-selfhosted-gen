@@ -1,4 +1,4 @@
-ID: 307
+ID: 452
 Name: REDAXO
 Description: Simple, flexible and useful content management system (documentation
   only available in German).
@@ -10,9 +10,9 @@ Languages:
 - PHP
 C: Content Management Systems (CMS)
 Tags:
-- CMS
+- Content Management Systems (CMS)
 MD: '- [REDAXO](https://www.redaxo.org) - Simple, flexible and useful content management
   system (documentation only available in German). ([Source Code](https://github.com/redaxo/redaxo))
   `MIT` `PHP`'
 SourceType: Github
-Line: 539
+Line: 546

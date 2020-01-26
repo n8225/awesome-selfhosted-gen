@@ -1,4 +1,4 @@
-ID: 445
+ID: 197
 Name: Uguu
 Description: Stores files and deletes after X amount of time.
 Source Code: https://github.com/nokonoko/uguu
@@ -9,10 +9,9 @@ Languages:
 - PHP
 C: File Sharing and Synchronization
 Tags:
-- File Sharing
-- Single-Click Upload
-- Drag-n-Drop Upload
+- File Sharing and Synchronization
+- Single-click/drag-n-drop upload
 MD: '- [Uguu](https://uguu.se/) - Stores files and deletes after X amount of time.
   ([Source Code](https://github.com/nokonoko/uguu)) `MIT` `PHP`'
 SourceType: Github
-Line: 749
+Line: 763

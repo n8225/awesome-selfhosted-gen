@@ -1,4 +1,4 @@
-ID: 361
+ID: 405
 Name: EPrints
 Description: Digital document management system with a flexible metadata and workflow
   model primarily aimed at academic institutions.
@@ -11,11 +11,11 @@ Languages:
 - Perl
 C: E-books and Integrated Library Systems (ILS)
 Tags:
-- E-book
-- ILS
+- E-books and Integrated Library Systems (ILS)
+- Institutional repository and digital library software.
 MD: '- [EPrints](https://www.eprints.org/) - Digital document management system with
   a flexible metadata and workflow model primarily aimed at academic institutions.
   ([Demo](http://demoprints.eprints.org/), [Source Code](https://github.com/eprints/eprints))
   `GPL-3.0` `Perl`'
 SourceType: Github
-Line: 626
+Line: 638

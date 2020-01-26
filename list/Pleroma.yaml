@@ -1,4 +1,4 @@
-ID: 241
+ID: 77
 Name: Pleroma
 Description: Federated microblogging server, Mastodon, GNU social, & ActivityPub compatible.
 Source Code: https://git.pleroma.social/pleroma/pleroma
@@ -9,10 +9,9 @@ Languages:
 - Elixir
 C: Communication systems
 Tags:
-- Communications
-- Social Network
-- Forum
+- Communication systems
+- Social Networks and Forums
 MD: '- [Pleroma](https://pleroma.social) - Federated microblogging server, Mastodon,
   GNU social, & ActivityPub compatible. ([Source Code](https://git.pleroma.social/pleroma/pleroma))
   `AGPL-3.0` `Elixir`'
-Line: 449
+Line: 457

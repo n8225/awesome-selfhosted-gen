@@ -1,0 +1,16 @@
+ID: 232
+Name: Shaark
+Description: All in one platform for your links, stories, passwords and albums. Built
+  with Laravel and Vue.js.
+Source Code: https://github.com/MarceauKa/shaark
+License:
+- MIT
+Languages:
+- PHP
+C: Password Managers
+Tags:
+- Password Managers
+MD: '- [Shaark](https://github.com/MarceauKa/shaark) - All in one platform for your
+  links, stories, passwords and albums. Built with Laravel and Vue.js. `MIT` `PHP`'
+SourceType: Github
+Line: 1108

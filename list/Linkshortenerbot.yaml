@@ -1,4 +1,4 @@
-ID: 884
+ID: 926
 Name: Link-shortener-bot
 Description: URL shortener using a Telegram Bot.
 Source Code: https://github.com/tommyku/link-shortener-front-end
@@ -9,10 +9,10 @@ Languages:
 - Ruby
 C: URL Shorteners
 Tags:
-- URL Shortener
+- URL Shorteners
 ProprietaryDependency: true
 MD: '- [Link-shortener-bot](https://github.com/tommyku/link-shortener-front-end) `⚠`
   - URL shortener using a Telegram Bot. ([Demo](http://t.me/GiveMeShortLinkBot)) `MIT`
   `Ruby`'
 SourceType: Github
-Line: 1401
+Line: 1433

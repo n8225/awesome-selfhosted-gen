@@ -1,4 +1,4 @@
-ID: 462
+ID: 845
 Name: ResourceSpace
 Description: ResourceSpace open source digital asset management software is the simple,
   fast, and free way to organise your digital assets.
@@ -11,10 +11,10 @@ Languages:
 - PHP
 C: File Sharing and Synchronization
 Tags:
-- File Sharing
-- Web File MGR
+- File Sharing and Synchronization
+- Web based file managers
 MD: '- [ResourceSpace](https://www.resourcespace.com) - ResourceSpace open source
   digital asset management software is the simple, fast, and free way to organise
   your digital assets. ([Demo](https://www.resourcespace.com/trial), [Source Code](https://www.resourcespace.com/svn))
   `Other` `PHP`'
-Line: 772
+Line: 786

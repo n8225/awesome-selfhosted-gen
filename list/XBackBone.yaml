@@ -1,7 +1,7 @@
-ID: 448
+ID: 94
 Name: XBackBone
-Description: A simple, fast, lightweight and powerful ShareX (a free and open-source
-  screenshot utility for Windows) PHP backend.
+Description: A simple, fast and lightweight file manager with instant sharing tools
+  integration, like ShareX (a free and open-source screenshot utility for Windows).
 Source Code: https://github.com/SergiX44/XBackBone
 License:
 - AGPL-3.0
@@ -9,11 +9,10 @@ Languages:
 - PHP
 C: File Sharing and Synchronization
 Tags:
-- File Sharing
-- Single-Click Upload
-- Drag-n-Drop Upload
-MD: '- [XBackBone](https://github.com/SergiX44/XBackBone) - A simple, fast, lightweight
-  and powerful ShareX (a free and open-source screenshot utility for Windows) PHP
-  backend. `AGPL-3.0` `PHP`'
+- File Sharing and Synchronization
+- Single-click/drag-n-drop upload
+MD: '- [XBackBone](https://github.com/SergiX44/XBackBone) - A simple, fast and lightweight
+  file manager with instant sharing tools integration, like ShareX (a free and open-source
+  screenshot utility for Windows). `AGPL-3.0` `PHP`'
 SourceType: Github
-Line: 752
+Line: 766

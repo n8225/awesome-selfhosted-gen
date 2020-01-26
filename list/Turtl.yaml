@@ -1,4 +1,4 @@
-ID: 665
+ID: 261
 Name: Turtl
 Description: Totally private personal database and note taking app.
 Source Code: https://github.com/turtl
@@ -9,9 +9,8 @@ Languages:
 - CommonLisp
 C: Note-taking and Editors
 Tags:
-- Note-taking
-- Editor
+- Note-taking and Editors
 MD: '- [Turtl](https://turtl.it/) - Totally private personal database and note taking
   app. ([Source Code](https://github.com/turtl)) `GPL-3.0` `CommonLisp`'
 SourceType: Github
-Line: 1060
+Line: 1084

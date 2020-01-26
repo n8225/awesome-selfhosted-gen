@@ -1,4 +1,4 @@
-ID: 662
+ID: 151
 Name: Standard Notes
 Description: Simple and private notes app. Protect your privacy while getting more
   done. That's Standard Notes.
@@ -11,10 +11,9 @@ Languages:
 - Ruby
 C: Note-taking and Editors
 Tags:
-- Note-taking
-- Editor
+- Note-taking and Editors
 MD: '- [Standard Notes](https://standardnotes.org) - Simple and private notes app.
   Protect your privacy while getting more done. That''s Standard Notes. ([Demo](https://app.standardnotes.org/),
   [Source Code](https://github.com/standardnotes)) `GPL-3.0` `Ruby`'
 SourceType: Github
-Line: 1057
+Line: 1081

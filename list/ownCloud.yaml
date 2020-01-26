@@ -1,4 +1,4 @@
-ID: 400
+ID: 352
 Name: ownCloud
 Description: All-in-one solution for saving, synchronizing, viewing, editing and sharing
   files, calendars, address books and more.
@@ -12,12 +12,11 @@ Languages:
 - PHP
 C: File Sharing and Synchronization
 Tags:
-- File Sharing
-- File Transfer
-- File Sync
+- File Sharing and Synchronization
+- File transfer/synchronization
 MD: '- [ownCloud](https://owncloud.org/) - All-in-one solution for saving, synchronizing,
   viewing, editing and sharing files, calendars, address books and more. ([Source
   Code](https://github.com/owncloud/core), [Clients](https://github.com/owncloud/core/wiki/Apps))
   `AGPL-3.0` `PHP`'
 SourceType: Github
-Line: 695
+Line: 708

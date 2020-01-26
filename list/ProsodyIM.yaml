@@ -1,4 +1,4 @@
-ID: 259
+ID: 365
 Name: Prosody IM
 Description: Feature-rich and easy to configure XMPP server.
 Source Code: http://hg.prosody.im/
@@ -9,9 +9,8 @@ Languages:
 - Lua
 C: Communication systems
 Tags:
-- Communications
-- XMPP
-- XMPP Server
+- Communication systems
+- XMPP Servers
 MD: '- [Prosody IM](http://prosody.im/) - Feature-rich and easy to configure XMPP
   server. ([Source Code](http://hg.prosody.im/)) `MIT` `Lua`'
-Line: 476
+Line: 483

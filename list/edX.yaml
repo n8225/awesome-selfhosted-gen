@@ -1,4 +1,4 @@
-ID: 515
+ID: 31
 Name: edX
 Description: The Open edX platform is open-source code that powers edX.org.
 Source Code: https://github.com/edx/
@@ -9,10 +9,8 @@ Languages:
 - Python
 C: Learning and Courses
 Tags:
-- Learning
-- Courses
-- LMS
+- Learning and Courses
 MD: '- [edX](https://www.edx.org/) - The Open edX platform is open-source code that
   powers edX.org. ([Source Code](https://github.com/edx/)) `AGPL-3.0` `Python`'
 SourceType: Github
-Line: 862
+Line: 882

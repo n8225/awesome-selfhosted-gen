@@ -1,4 +1,4 @@
-ID: 630
+ID: 667
 Name: Economizzer
 Description: An easy and secure system for you to manage your personal money and achieve
   your goals, and can be accessed by computer, tablet or smartphone.
@@ -11,11 +11,10 @@ Languages:
 - PHP
 C: Money, Budgeting and Management
 Tags:
-- Money
-- Budget
+- Money, Budgeting and Management
 MD: '- [Economizzer](http://www.economizzer.org/) - An easy and secure system for
   you to manage your personal money and achieve your goals, and can be accessed by
   computer, tablet or smartphone. ([Demo](https://github.com/gugoan/economizzer#live-demo),
   [Source Code](https://github.com/gugoan/economizzer)) `MIT` `PHP`'
 SourceType: Github
-Line: 1012
+Line: 1035

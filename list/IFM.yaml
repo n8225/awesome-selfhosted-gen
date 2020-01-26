@@ -1,4 +1,4 @@
-ID: 461
+ID: 518
 Name: IFM
 Description: Single script file manager.
 Source Code: https://github.com/misterunknown/ifm
@@ -8,9 +8,9 @@ Languages:
 - PHP
 C: File Sharing and Synchronization
 Tags:
-- File Sharing
-- Web File MGR
+- File Sharing and Synchronization
+- Web based file managers
 MD: '- [IFM](https://github.com/misterunknown/ifm) - Single script file manager. `MIT`
   `PHP`'
 SourceType: Github
-Line: 771
+Line: 785

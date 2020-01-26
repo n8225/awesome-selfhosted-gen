@@ -1,4 +1,4 @@
-ID: 158
+ID: 580
 Name: OpenSMTPD
 Description: Secure SMTP server implementation from the OpenBSD project.
 Source Code: http://cvsweb.openbsd.org/cgi-bin/cvsweb/src/usr.sbin/smtpd/
@@ -9,11 +9,10 @@ Languages:
 - C
 C: Communication systems
 Tags:
-- Communications
-- Email
-- MTA
-- SMTP
+- Communication systems
+- Mail Transfer Agents
+- MTAs / SMTP servers
 MD: '- [OpenSMTPD](https://opensmtpd.org/) - Secure SMTP server implementation from
   the OpenBSD project. ([Source Code](http://cvsweb.openbsd.org/cgi-bin/cvsweb/src/usr.sbin/smtpd/))
   `ISC` `C`'
-Line: 334
+Line: 339

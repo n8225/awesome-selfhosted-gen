@@ -1,4 +1,4 @@
-ID: 506
+ID: 131
 Name: Domoticz
 Description: 'Home Automation System that lets you monitor and configure various devices
   like: Lights, Switches, various sensors/meters like Temperature, Rain, Wind, UV,
@@ -14,11 +14,10 @@ Languages:
 - C++
 C: Internet Of Things (IoT)
 Tags:
-- Internet Of Things
-- IoT
+- Internet Of Things (IoT)
 MD: '- [Domoticz](https://www.domoticz.com/) - Home Automation System that lets you
   monitor and configure various devices like: Lights, Switches, various sensors/meters
   like Temperature, Rain, Wind, UV, Electra, Gas, Water and much more. ([Source Code](https://github.com/domoticz/domoticz),
   [Clients](https://github.com/domoticz/domoticz-android)) `GPL-3.0` `C/C++`'
 SourceType: Github
-Line: 843
+Line: 858

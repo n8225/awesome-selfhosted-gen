@@ -1,4 +1,4 @@
-ID: 68
+ID: 53
 Name: Ghost
 Description: Just a blogging platform.
 Source Code: https://github.com/TryGhost/Ghost
@@ -9,8 +9,8 @@ Languages:
 - Nodejs
 C: Blogging Platforms
 Tags:
-- Blog
+- Blogging Platforms
 MD: '- [Ghost](https://ghost.org/) - Just a blogging platform. ([Source Code](https://github.com/TryGhost/Ghost))
   `MIT` `Nodejs`'
 SourceType: Github
-Line: 203
+Line: 207

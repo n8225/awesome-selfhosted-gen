@@ -1,4 +1,4 @@
-ID: 264
+ID: 276
 Name: Kaiwa
 Description: Web based chat client in the style of common paid alternatives.
 Source Code: https://github.com/digicoop/kaiwa
@@ -9,10 +9,9 @@ Languages:
 - Nodejs
 C: Communication systems
 Tags:
-- Communications
-- XMPP
-- XMPP Webclient
+- Communication systems
+- XMPP Web Clients
 MD: '- [Kaiwa](http://getkaiwa.com/) - Web based chat client in the style of common
   paid alternatives. ([Source Code](https://github.com/digicoop/kaiwa)) `MIT` `Nodejs`'
 SourceType: Github
-Line: 484
+Line: 491

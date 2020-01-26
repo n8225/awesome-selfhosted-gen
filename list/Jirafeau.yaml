@@ -1,4 +1,4 @@
-ID: 434
+ID: 654
 Name: Jirafeau
 Description: Jirafeau is a web site permitting to upload a file in a simple way and
   give an unique link to it.
@@ -10,11 +10,10 @@ Languages:
 - PHP
 C: File Sharing and Synchronization
 Tags:
-- File Sharing
-- Single-Click Upload
-- Drag-n-Drop Upload
+- File Sharing and Synchronization
+- Single-click/drag-n-drop upload
 MD: '- [Jirafeau](https://gitlab.com/mojo42/Jirafeau) - Jirafeau is a web site permitting
   to upload a file in a simple way and give an unique link to it. ([Demo](http://jirafeau.net/))
   `AGPL-3.0` `PHP`'
 SourceType: Gitlab
-Line: 738
+Line: 752

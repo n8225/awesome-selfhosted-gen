@@ -1,4 +1,4 @@
-ID: 765
+ID: 93
 Name: socks5-proxy-server
 Description: SOCKS5 proxy server with built-in authentication and Telegram-bot for
   user management and user statistics on data spent (handy when you pay per GB of
@@ -7,7 +7,7 @@ Source Code: https://github.com/nskondratev/socks5-proxy-server
 License:
 - Apache-2.0
 Languages:
-- Nodejs
+- NodeJS
 C: Proxy
 Tags:
 - Proxy
@@ -16,4 +16,4 @@ MD: '- [socks5-proxy-server](https://github.com/nskondratev/socks5-proxy-server)
   and user statistics on data spent (handy when you pay per GB of data). It is dockerised
   and simple to install. `Apache-2.0` `NodeJS`'
 SourceType: Github
-Line: 1200
+Line: 1225

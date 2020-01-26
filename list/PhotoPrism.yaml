@@ -1,4 +1,4 @@
-ID: 731
+ID: 142
 Name: PhotoPrism
 Description: Personal photo management powered by Go and Google TensorFlow.  Browse,
   organize, and share your personal photo collection, using the latest technologies
@@ -11,10 +11,10 @@ Languages:
 - Go
 C: Photo and Video Galleries
 Tags:
-- Photo and Video Gallery
+- Photo and Video Galleries
 MD: '- [PhotoPrism](https://photoprism.org) - Personal photo management powered by
   Go and Google TensorFlow.  Browse, organize, and share your personal photo collection,
   using the latest technologies to automatically tag and find pictures. ([Source Code](https://github.com/photoprism/photoprism))
   `MIT` `Go`'
 SourceType: Github
-Line: 1153
+Line: 1176

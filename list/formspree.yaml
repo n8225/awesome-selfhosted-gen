@@ -1,4 +1,4 @@
-ID: 599
+ID: 906
 Name: formspree
 Description: Just send your form to our URL and we'll forward it to your email. No
   PHP, Javascript or sign up required.
@@ -11,11 +11,10 @@ Languages:
 - Python
 C: Misc/Other
 Tags:
-- Misc
-- Other
+- Misc/Other
 ProprietaryDependency: true
 MD: '- [formspree](https://formspree.io/) `⚠` - Just send your form to our URL and
   we''ll forward it to your email. No PHP, Javascript or sign up required. ([Demo](http://test.formspree.io/),
   [Source Code](https://github.com/formspree/formspree)) `AGPL-3.0` `Python`'
 SourceType: Github
-Line: 974
+Line: 996

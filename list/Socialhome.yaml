@@ -1,4 +1,4 @@
-ID: 247
+ID: 749
 Name: Socialhome
 Description: Federated and decentralized profile builder and social network engine.
 Source Code: https://github.com/jaywink/socialhome
@@ -10,11 +10,10 @@ Languages:
 - Python
 C: Communication systems
 Tags:
-- Communications
-- Social Network
-- Forum
+- Communication systems
+- Social Networks and Forums
 MD: '- [Socialhome](https://socialhome.network) - Federated and decentralized profile
   builder and social network engine. ([Demo](https://socialhome.network/), [Source
   Code](https://github.com/jaywink/socialhome)) `AGPL-3.0` `Python`'
 SourceType: Github
-Line: 455
+Line: 463

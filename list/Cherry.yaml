@@ -1,4 +1,4 @@
-ID: 107
+ID: 523
 Name: Cherry
 Description: Tiny webchat server.
 Source Code: https://github.com/rafael-santiago/cherry
@@ -8,8 +8,9 @@ Languages:
 - Go
 C: Communication systems
 Tags:
-- Communications
+- Communication systems
+- Custom communication systems
 MD: '- [Cherry](https://github.com/rafael-santiago/cherry) - Tiny webchat server.
   `GPL-2.0` `Go`'
 SourceType: Github
-Line: 269
+Line: 273

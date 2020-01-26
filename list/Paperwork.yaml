@@ -1,4 +1,4 @@
-ID: 659
+ID: 725
 Name: Paperwork
 Description: OpenSource note-taking and archiving alternative to Evernote, Microsoft
   OneNote and Google Keep.
@@ -10,10 +10,9 @@ Languages:
 - PHP
 C: Note-taking and Editors
 Tags:
-- Note-taking
-- Editor
+- Note-taking and Editors
 MD: '- [Paperwork](https://paperwork.cloud) - OpenSource note-taking and archiving
   alternative to Evernote, Microsoft OneNote and Google Keep. ([Source Code](https://github.com/paperwork/paperwork))
   `MIT` `PHP`'
 SourceType: Github
-Line: 1054
+Line: 1078

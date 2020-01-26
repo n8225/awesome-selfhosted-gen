@@ -1,20 +1,18 @@
-ID: 168
+ID: 562
 Name: Mail For Good
 Description: Open source email campaign management tool for nonprofits.
 Source Code: https://github.com/freeCodeCamp/mail-for-good
 License:
 - BSD-3-Clause
 Languages:
-- HTML5
+- Javascript
 C: Communication systems
 Tags:
-- Communications
-- Email
-- Mailng List
-- Newsletters
-- Mass mail
+- Communication systems
+- Mailing lists and Newsletters
+- Mailing lists servers and mass mailing software - one message to many recipients.
 ProprietaryDependency: true
 MD: '- [Mail For Good](https://github.com/freeCodeCamp/mail-for-good) `⚠` - Open source
   email campaign management tool for nonprofits. `BSD-3-Clause` `Javascript`'
 SourceType: Github
-Line: 354
+Line: 359

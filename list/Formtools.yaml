@@ -1,4 +1,4 @@
-ID: 67
+ID: 651
 Name: Formtools
 Description: Powerful, flexible, free and open source PHP/MySQL script to manage your
   forms and data.
@@ -10,9 +10,9 @@ Languages:
 - PHP
 C: Blogging Platforms
 Tags:
-- Blog
+- Blogging Platforms
 MD: '- [Formtools](https://formtools.org/) - Powerful, flexible, free and open source
   PHP/MySQL script to manage your forms and data. ([Source Code](https://github.com/formtools))
   `GPL-2.0` `PHP`'
 SourceType: Github
-Line: 202
+Line: 206
