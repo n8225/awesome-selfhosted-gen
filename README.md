@@ -14,25 +14,28 @@ Static website generated from the markdown list at
 
 To generate the static files to run this site:
 
-- Install Go
+- install Go
   - https://golang.org/doc/install
-- Get your GitHub API token
+- get your GitHub API token (`your_github_api_token` in the commands below)
   - https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/
-- Run this
+- run this (Linux, macOS)
   ```
-  go run cmd/mdconvert/main.go -path "/path/to/awesome-selfhosted/README.md" -ghtoken {your github api token here}
+  TOKEN=your_github_api_token \
+  go run cmd/mdconvert/main.go -path "/path/to/awesome-selfhosted/README.md" -ghtoken $TOKEN
   ```
-  or that
+  or that (Windows)
   ```
-  go run cmd/mdconvert/main.go -path "C:\path\to\awesome-selfhosted\README.md" -ghtoken {your github api token here}
+  TOKEN=your_github_api_token \
+  go run cmd/mdconvert/main.go -path "C:\path\to\awesome-selfhosted\README.md" -ghtoken $TOKEN
   ```
 
 To add an entry from a yaml file:
 
-- Create a `.yaml` file in the `add` directory.
-- Run this
+- create a `.yaml` file in the `add` directory
+- run this
   ```
-  go run cmd/addtoyaml/main.go -ghtoken {your github api token here}
+  TOKEN=your_github_api_token \
+  go run cmd/addtoyaml/main.go -ghtoken $TOKEN
   ```
 
-The GitHub API token is required to utilize GitHub's graphql API.
+The GitHub API token is required to utilize GitHub's GraphQL API.
