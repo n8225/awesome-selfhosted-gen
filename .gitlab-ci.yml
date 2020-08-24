@@ -18,7 +18,8 @@ build:
   stage: build
   script: 
     - curl -sfL https://git.io/goreleaser | sh -s -- check # check goreleaser config for deprecations
-    - export GITHUB_TOKEN=$GITHUB_TOKEN && curl -sL https://git.io/goreleaser | bash
+    - ECHO $PROTECTED_GITHUB_TOKEN_TEST
+    - curl -sL https://git.io/goreleaser | bash
 
 pages:
   script:
