@@ -38,11 +38,11 @@ build:
       -v $PWD:/go/src/gitlab.com/n8225/awesome-selfhosted-gen \
       -w /go/src/gitlab.com/n8225/awesome-selfhosted-gen \
       -v /var/run/docker.sock:/var/run/docker.sock \
-      -e GITHUB_TOKEN \
+      -e $GITHUB_TOKEN \
       $GORELEASER_IMAGE release --rm-dist
 
 pages:
-  script: |
+  script:
     - chmod +x godownloader.sh
     - ./godownloader.sh -d
     - git clone --depth 1 https://gitlab.com/n8225/awesome-selfhosted.git --branch master --single-branch /tmp/awesome-selfhosted
