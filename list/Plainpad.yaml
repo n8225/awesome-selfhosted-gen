@@ -1,0 +1,21 @@
+ID: 729
+Name: Plainpad
+Description: A modern note taking application for the cloud, utilizing the best features
+  of progressive web apps technology.
+Source Code: https://github.com/alextselegidis/plainpad
+Demo: https://alextselegidis.com/try/plainpad/
+Website: https://alextselegidis.com/get/plainpad/
+License:
+- GPL-3.0
+Languages:
+- PHP
+C: Note-taking and Editors
+Tags:
+- Note-taking
+- Editor
+MD: '- [Plainpad](https://alextselegidis.com/get/plainpad/) - A modern note taking
+  application for the cloud, utilizing the best features of progressive web apps technology.
+  ([Demo](https://alextselegidis.com/try/plainpad/), [Source Code](https://github.com/alextselegidis/plainpad))
+  `GPL-3.0` `PHP`'
+SourceType: Github
+Line: 1128

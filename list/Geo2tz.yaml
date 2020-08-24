@@ -1,0 +1,17 @@
+ID: 576
+Name: Geo2tz
+Description: Get the timezone from geo coordinates (lat, lon).
+Source Code: https://github.com/noandrea/geo2tz
+License:
+- MIT
+Languages:
+- Go
+- Docker
+C: Maps and Global Positioning System (GPS)
+Tags:
+- Maps
+- GPS
+MD: '- [Geo2tz](https://github.com/noandrea/geo2tz) - Get the timezone from geo coordinates
+  (lat, lon). `MIT` `Go/Docker`'
+SourceType: Github
+Line: 934

@@ -1,4 +1,4 @@
-ID: 616
+ID: 683
 Name: Revive Adserver
 Description: World's most popular free, open source ad serving system. Formerly known
   as OpenX Adserver and phpAdsNew.
@@ -17,4 +17,4 @@ MD: '- [Revive Adserver](https://www.revive-adserver.com/) - World''s most popul
   ([Source Code](https://github.com/revive-adserver/revive-adserver)) `GPL-2.0-or-later`
   `PHP`'
 SourceType: Github
-Line: 991
+Line: 1062

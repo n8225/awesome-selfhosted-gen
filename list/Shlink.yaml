@@ -1,4 +1,4 @@
-ID: 892
+ID: 989
 Name: Shlink
 Description: URL shortener with REST API and command line interface. Includes official
   progressive web application and docker images.
@@ -15,7 +15,7 @@ Tags:
 - URL Shortener
 MD: '- [Shlink](https://shlink.io) - URL shortener with REST API and command line
   interface. Includes official progressive web application and docker images. ([Source
-  Code](https://github.com/shlinkio/shlink), [Clients](https://shlink.io/apps))) `MIT`
+  Code](https://github.com/shlinkio/shlink), [Clients](https://shlink.io/apps)) `MIT`
   `PHP`'
 SourceType: Github
-Line: 1409
+Line: 1512

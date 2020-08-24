@@ -1,4 +1,4 @@
-ID: 925
+ID: 1023
 Name: DietPi
 Description: Minimal Debian OS optimized for single-board computers, which allows
   you to easily install and manage several services for selfhosting at home.
@@ -15,4 +15,4 @@ MD: '- [DietPi](http://dietpi.com/) - Minimal Debian OS optimized for single-boa
   computers, which allows you to easily install and manage several services for selfhosting
   at home. ([Source Code](https://github.com/Fourdee/DietPi)) `GPL-2.0` `Shell`'
 SourceType: Github
-Line: 1466
+Line: 1570

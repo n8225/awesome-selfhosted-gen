@@ -1,0 +1,17 @@
+ID: 6
+Name: Freshlytics
+Description: Privacy respecting, cookie free and low resource usage analytics platform.
+Source Code: https://github.com/sheshbabu/freshlytics
+License:
+- MIT
+Languages:
+- Docker
+- Nodejs
+C: Analytics
+Tags:
+- Analytics
+- Web Analytics
+MD: '- [Freshlytics](https://github.com/sheshbabu/freshlytics) - Privacy respecting,
+  cookie free and low resource usage analytics platform. `MIT` `Docker/Nodejs`'
+SourceType: Github
+Line: 116

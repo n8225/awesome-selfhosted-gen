@@ -1,4 +1,4 @@
-ID: 792
+ID: 873
 Name: Gitolite
 Description: Gitolite allows you to setup git hosting on a central server, with fine-grained
   access control and many more powerful features.
@@ -17,4 +17,4 @@ MD: '- [Gitolite](http://gitolite.com/gitolite/index.html) - Gitolite allows you
   more powerful features. ([Source Code](https://github.com/sitaramc/gitolite)) `GPL-2.0`
   `Perl`'
 SourceType: Github
-Line: 1254
+Line: 1339

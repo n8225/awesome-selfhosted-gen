@@ -1,4 +1,4 @@
-ID: 49
+ID: 557
 Name: Node RED
 Description: Browser-based flow editor that helps you wiring hardware devices, APIs
   and online services to create IoT solutions.
@@ -8,11 +8,12 @@ License:
 - Apache-2.0
 Languages:
 - Nodejs
-C: Automation
+C: Internet Of Things (IoT)
 Tags:
-- Automation
+- Internet Of Things
+- IoT
 MD: '- [Node RED](http://nodered.org/) - Browser-based flow editor that helps you
   wiring hardware devices, APIs and online services to create IoT solutions. ([Source
   Code](https://github.com/node-red/node-red)) `Apache-2.0` `Nodejs`'
 SourceType: Github
-Line: 177
+Line: 898

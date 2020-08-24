@@ -1,9 +1,11 @@
-ID: 544
+ID: 596
 Name: Jellyfin
-Description: Streaming audio/video server with a slick UI and robust transcoding capabilities
-  (fork of Emby).
+Description: Media server for audio, video, books, comics, and photos with a sleek
+  interface and robust transcoding capabilities. Almost all modern platforms have
+  clients, including Roku, Android TV, iOS, Xbox, and Kodi.
 Source Code: https://github.com/jellyfin/jellyfin
-Website: https://jellyfin.media
+Demo: https://demo.jellyfin.org/stable
+Website: https://jellyfin.org
 License:
 - GPL-2.0
 Languages:
@@ -13,8 +15,10 @@ Tags:
 - Media
 - Streaming
 - Multimedia
-MD: '- [Jellyfin](https://jellyfin.media) - Streaming audio/video server with a slick
-  UI and robust transcoding capabilities (fork of Emby). ([Source Code](https://github.com/jellyfin/jellyfin))
+MD: '- [Jellyfin](https://jellyfin.org) - Media server for audio, video, books, comics,
+  and photos with a sleek interface and robust transcoding capabilities. Almost all
+  modern platforms have clients, including Roku, Android TV, iOS, Xbox, and Kodi.
+  ([Demo](https://demo.jellyfin.org/stable), [Source Code](https://github.com/jellyfin/jellyfin))
   `GPL-2.0` `C#`'
 SourceType: Github
-Line: 907
+Line: 963

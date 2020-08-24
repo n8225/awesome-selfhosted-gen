@@ -1,4 +1,4 @@
-ID: 28
+ID: 36
 Name: AmIUnique
 Description: Learn how identifiable you are on the Internet (browser fingerprinting
   tool).
@@ -15,4 +15,4 @@ MD: '- [AmIUnique](https://amiunique.org/) - Learn how identifiable you are on t
   Internet (browser fingerprinting tool). ([Source Code](https://github.com/DIVERSIFY-project/amiunique))
   `MIT` `Java`'
 SourceType: Github
-Line: 156
+Line: 166

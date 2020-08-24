@@ -1,0 +1,22 @@
+ID: 13
+Name: Offen
+Description: Offen is a fair and open web analytics tool. Gain insights while your
+  users have full access to their data. Lightweight, self hosted and free.
+Source Code: https://github.com/offen/offen
+Demo: https://www.offen.dev/try-demo/
+Website: https://www.offen.dev/
+License:
+- Apache-2.0
+Languages:
+- Go
+- Docker
+C: Analytics
+Tags:
+- Analytics
+- Web Analytics
+MD: '- [Offen](https://www.offen.dev/) - Offen is a fair and open web analytics tool.
+  Gain insights while your users have full access to their data. Lightweight, self
+  hosted and free. ([Demo](https://www.offen.dev/try-demo/), [Source Code](https://github.com/offen/offen))
+  `Apache-2.0` `Go/Docker`'
+SourceType: Github
+Line: 123

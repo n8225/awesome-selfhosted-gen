@@ -1,4 +1,4 @@
-ID: 688
+ID: 761
 Name: fiche
 Description: Command line pastebin, all you need is netcat.
 Source Code: https://github.com/solusipse/fiche
@@ -13,4 +13,4 @@ Tags:
 MD: '- [fiche](https://github.com/solusipse/fiche) - Command line pastebin, all you
   need is netcat. ([Demo](http://termbin.com/)) `MIT` `C`'
 SourceType: Github
-Line: 1098
+Line: 1175

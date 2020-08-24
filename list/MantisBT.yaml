@@ -1,4 +1,4 @@
-ID: 873
+ID: 971
 Name: MantisBT
 Description: Self hosted bug tracker, fits best for software development.
 Source Code: https://github.com/mantisbt/mantisbt
@@ -12,7 +12,7 @@ C: Ticketing
 Tags:
 - Ticketing
 MD: '- [MantisBT](https://www.mantisbt.org/) - Self hosted bug tracker, fits best
-  for software development. ([Demo](https://www.mantisbt.org/bugs/my_view_page.php)),
-  ([Source Code](https://github.com/mantisbt/mantisbt)) `GPL-2.0` `PHP`'
+  for software development. ([Demo](https://www.mantisbt.org/bugs/my_view_page.php),
+  [Source Code](https://github.com/mantisbt/mantisbt)) `GPL-2.0` `PHP`'
 SourceType: Github
-Line: 1385
+Line: 1487

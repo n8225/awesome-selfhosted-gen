@@ -1,0 +1,20 @@
+ID: 556
+Name: Mozilla Gateway
+Description: Mozilla WebThings is Mozilla’s open source implementation of the Web
+  of Things, including the WebThings Gateway and the WebThings framework.
+Source Code: https://github.com/mozilla-iot/gateway
+Website: https://iot.mozilla.org/gateway/
+License:
+- MPL-2.0
+Languages:
+- Nodejs
+C: Internet Of Things (IoT)
+Tags:
+- Internet Of Things
+- IoT
+MD: '- [Mozilla Gateway](https://iot.mozilla.org/gateway/) - Mozilla WebThings is
+  Mozilla’s open source implementation of the Web of Things, including the WebThings
+  Gateway and the WebThings framework. ([Source Code](https://github.com/mozilla-iot/gateway))
+  `MPL-2.0` `NodeJS`'
+SourceType: Github
+Line: 897

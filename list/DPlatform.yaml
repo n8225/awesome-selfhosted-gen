@@ -1,4 +1,4 @@
-ID: 927
+ID: 1025
 Name: DPlatform
 Description: 'Deploy self-hosted apps easily: simple, bloat-free, independent installation.'
 Source Code: https://github.com/j8r/DPlatform
@@ -14,4 +14,4 @@ MD: '- [DPlatform](https://dfabric.github.io/DPlatform-Shell/) - Deploy self-hos
   apps easily: simple, bloat-free, independent installation. ([Source Code](https://github.com/j8r/DPlatform))
   `MIT` `Shell`'
 SourceType: Github
-Line: 1468
+Line: 1572

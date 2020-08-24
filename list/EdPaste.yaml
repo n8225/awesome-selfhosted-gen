@@ -1,8 +1,7 @@
-ID: 687
+ID: 760
 Name: EdPaste
 Description: Self-hosted pastebin written in Laravel (PHP Framework).
 Source Code: https://github.com/Edraens/EdPaste
-Demo: https://paste.edra.ovh/
 License:
 - MIT
 Languages:
@@ -11,6 +10,6 @@ C: Pastebins
 Tags:
 - Pastebin
 MD: '- [EdPaste](https://github.com/Edraens/EdPaste) - Self-hosted pastebin written
-  in Laravel (PHP Framework). ([Demo](https://paste.edra.ovh/)) `MIT` `PHP`'
+  in Laravel (PHP Framework). `MIT` `PHP`'
 SourceType: Github
-Line: 1097
+Line: 1174

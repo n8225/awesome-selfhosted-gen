@@ -1,0 +1,18 @@
+ID: 164
+Name: wildduck
+Description: Scalable no-SPOF IMAP/POP3 mail server.
+Source Code: https://github.com/nodemailer/wildduck
+Website: https://wildduck.email/
+License:
+- EUPL-1.2
+Languages:
+- Nodejs
+C: Communication systems
+Tags:
+- Communications
+- Email
+- Complete Email
+MD: '- [wildduck](https://wildduck.email/) - Scalable no-SPOF IMAP/POP3 mail server.
+  ([Source Code](https://github.com/nodemailer/wildduck)) `EUPL-1.2` `Node.js`'
+SourceType: Github
+Line: 338

@@ -1,4 +1,4 @@
-ID: 6
+ID: 7
 Name: GoAccess
 Description: Real-time web log analyzer and interactive viewer that runs in a terminal.
 Source Code: https://github.com/allinurl/goaccess
@@ -15,4 +15,4 @@ MD: '- [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interact
   viewer that runs in a terminal. ([Source Code](https://github.com/allinurl/goaccess))
   `GPL-2.0` `C`'
 SourceType: Github
-Line: 116
+Line: 117

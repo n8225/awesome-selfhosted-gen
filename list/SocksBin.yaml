@@ -1,0 +1,18 @@
+ID: 777
+Name: SocksBin
+Description: Simple and fast terminal based pastebin, with optional code highlighting.
+  No specific client required, all you need is netcat. [Demo](https://socksbin.magnum.wtf).
+Source Code: https://github.com/magnumdingusedu/socksbin
+Demo: https://socksbin.magnum.wtf
+License:
+- GPL-3.0
+Languages:
+- Python
+C: Pastebins
+Tags:
+- Pastebin
+MD: '- [SocksBin](https://github.com/magnumdingusedu/socksbin) - Simple and fast terminal
+  based pastebin, with optional code highlighting. No specific client required, all
+  you need is netcat. [Demo](https://socksbin.magnum.wtf). `GPL-3.0` `Python`'
+SourceType: Github
+Line: 1191

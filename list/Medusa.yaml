@@ -1,4 +1,4 @@
-ID: 48
+ID: 53
 Name: Medusa
 Description: Automatic Video Library Manager for TV Shows. It watches for new episodes
   of your favorite shows, and when they are posted it does its magic.
@@ -14,4 +14,4 @@ MD: '- [Medusa](https://github.com/pymedusa/SickRage) - Automatic Video Library 
   for TV Shows. It watches for new episodes of your favorite shows, and when they
   are posted it does its magic. `GPL-3.0` `Python`'
 SourceType: Github
-Line: 176
+Line: 183

@@ -1,4 +1,4 @@
-ID: 64
+ID: 70
 Name: Chyrp Lite
 Description: Extra-awesome, extra-lightweight blog engine.
 Source Code: https://github.com/xenocrat/chyrp-lite
@@ -13,4 +13,4 @@ Tags:
 MD: '- [Chyrp Lite](http://chyrplite.net) - Extra-awesome, extra-lightweight blog
   engine. ([Source Code](https://github.com/xenocrat/chyrp-lite)) `BSD-3-Clause` `PHP`'
 SourceType: Github
-Line: 199
+Line: 208

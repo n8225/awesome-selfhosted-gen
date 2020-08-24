@@ -1,0 +1,19 @@
+ID: 892
+Name: sorcia
+Description: Sorcia is a minimalist web frontend for Git repositories with fine-grained
+  user access controls, multiple themes to choose based on your taste and many more.
+Source Code: https://git.mysticmode.org/r/sorcia
+Website: https://sorcia.org
+License:
+- AGPL-3.0
+Languages:
+- Go
+C: Software Development
+Tags:
+- Software Dev
+- Project Mgmnt
+MD: '- [sorcia](https://sorcia.org) - Sorcia is a minimalist web frontend for Git
+  repositories with fine-grained user access controls, multiple themes to choose based
+  on your taste and many more. ([Source Code](https://git.mysticmode.org/r/sorcia))
+  `AGPL-3.0` `Go`'
+Line: 1358

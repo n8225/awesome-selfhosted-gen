@@ -1,0 +1,22 @@
+ID: 680
+Name: Reactive Resume
+Description: A one-of-a-kind resume builder that keeps your privacy in mind. Completely
+  secure, customizable, portable, open-source and free forever.
+Source Code: https://github.com/AmruthPillai/Reactive-Resume
+Demo: https://rxresu.me/app/dashboard/
+Website: http://rxresu.me/
+License:
+- MIT
+Languages:
+- Docker
+- Nodejs
+C: Misc/Other
+Tags:
+- Misc
+- Other
+MD: '- [Reactive Resume](http://rxresu.me/) - A one-of-a-kind resume builder that
+  keeps your privacy in mind. Completely secure, customizable, portable, open-source
+  and free forever. ([Demo](https://rxresu.me/app/dashboard/), [Source Code](https://github.com/AmruthPillai/Reactive-Resume))
+  `MIT` `Docker/Nodejs`'
+SourceType: Github
+Line: 1059

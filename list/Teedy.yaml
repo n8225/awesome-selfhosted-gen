@@ -1,9 +1,8 @@
-ID: 352
+ID: 383
 Name: Teedy
 Description: (Ex SismicsDocs) Lightweight document management system packed with all
   the features you can expect from big expensive solutions.
 Source Code: https://github.com/sismics/docs
-Demo: https://demo.teedy.io/
 Website: https://teedy.io/
 License:
 - GPL-2.0
@@ -14,7 +13,6 @@ Tags:
 - Doc Mgmnt
 MD: '- [Teedy](https://teedy.io/) - (Ex SismicsDocs) Lightweight document management
   system packed with all the features you can expect from big expensive solutions.
-  ([Source Code](https://github.com/sismics/docs)), ([Demo](https://demo.teedy.io/))
-  `GPL-2.0` `Java`'
+  ([Source Code](https://github.com/sismics/docs)) `GPL-2.0` `Java`'
 SourceType: Github
-Line: 602
+Line: 637

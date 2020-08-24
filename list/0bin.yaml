@@ -1,4 +1,4 @@
-ID: 682
+ID: 756
 Name: 0bin
 Description: Client side encrypted pastebin.
 Source Code: https://github.com/sametmax/0bin
@@ -12,4 +12,4 @@ Tags:
 MD: '- [0bin](https://github.com/sametmax/0bin) - Client side encrypted pastebin.
   `WTFPL` `Python`'
 SourceType: Github
-Line: 1092
+Line: 1170

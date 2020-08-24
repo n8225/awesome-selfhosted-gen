@@ -1,0 +1,16 @@
+ID: 64
+Name: ZeroQueue
+Description: A low-code queue management system that lets you run scheduled jobs for
+  anything.
+Source Code: https://github.com/thezeroqueue/zeroqueue
+License:
+- GPL-3.0
+Languages:
+- Nodejs
+C: Automation
+Tags:
+- Automation
+MD: '- [ZeroQueue](https://github.com/thezeroqueue/zeroqueue) - A low-code queue management
+  system that lets you run scheduled jobs for anything. `GPL-3.0` `Node.js`'
+SourceType: Github
+Line: 194

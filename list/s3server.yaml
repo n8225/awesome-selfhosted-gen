@@ -1,9 +1,8 @@
-ID: 463
+ID: 501
 Name: s3server
 Description: Simple HTTP interface to index and browse files in a public S3 or Google
   Cloud Storage bucket.
 Source Code: https://github.com/jessfraz/s3server
-Demo: https://gifs.jessfraz.com/
 License:
 - MIT
 Languages:
@@ -13,7 +12,6 @@ Tags:
 - File Sharing
 - Web File MGR
 MD: '- [s3server](https://github.com/jessfraz/s3server) - Simple HTTP interface to
-  index and browse files in a public S3 or Google Cloud Storage bucket. ([Demo](https://gifs.jessfraz.com/))
-  `MIT` `Go`'
+  index and browse files in a public S3 or Google Cloud Storage bucket. `MIT` `Go`'
 SourceType: Github
-Line: 773
+Line: 815

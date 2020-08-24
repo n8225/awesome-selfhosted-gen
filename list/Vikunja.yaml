@@ -1,0 +1,17 @@
+ID: 959
+Name: Vikunja
+Description: The to-do app to organize your life.
+Source Code: https://kolaente.dev/vikunja/
+Demo: https://try.vikunja.io/login
+Website: https://vikunja.io/
+License:
+- GPL-3.0
+Languages:
+- Go
+C: Task management/To-do lists
+Tags:
+- To-Do
+- Task Mgmnt
+MD: '- [Vikunja](https://vikunja.io/) - The to-do app to organize your life. ([Demo](https://try.vikunja.io/login),
+  [Source Code](https://kolaente.dev/vikunja/)) `GPL-3.0` `Go`'
+Line: 1468

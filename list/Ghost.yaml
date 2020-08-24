@@ -1,4 +1,4 @@
-ID: 68
+ID: 74
 Name: Ghost
 Description: Just a blogging platform.
 Source Code: https://github.com/TryGhost/Ghost
@@ -13,4 +13,4 @@ Tags:
 MD: '- [Ghost](https://ghost.org/) - Just a blogging platform. ([Source Code](https://github.com/TryGhost/Ghost))
   `MIT` `Nodejs`'
 SourceType: Github
-Line: 203
+Line: 212

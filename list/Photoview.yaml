@@ -1,0 +1,20 @@
+ID: 806
+Name: Photoview
+Description: A simple and user-friendly Photo Gallery for personal servers. It is
+  made for photographers and aims to provide an easy and fast way to navigate directories,
+  with thousands of high resolution photos.
+Source Code: https://github.com/viktorstrate/photoview
+Demo: https://photos.qpqp.dk/
+License:
+- GPL-3.0
+Languages:
+- Go
+C: Photo and Video Galleries
+Tags:
+- Photo and Video Gallery
+MD: '- [Photoview](https://github.com/viktorstrate/photoview) - A simple and user-friendly
+  Photo Gallery for personal servers. It is made for photographers and aims to provide
+  an easy and fast way to navigate directories, with thousands of high resolution
+  photos. ([Demo](https://photos.qpqp.dk/)) `GPL-3.0` `Go`'
+SourceType: Github
+Line: 1232

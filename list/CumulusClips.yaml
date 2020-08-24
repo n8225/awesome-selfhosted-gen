@@ -1,10 +1,10 @@
-ID: 720
+ID: 794
 Name: CumulusClips
 Description: Your own video sharing website with CumulusClips video sharing script.
   You can build a YouTube clone where users can upload, rate, comment on videos, and
   much more.
 Source Code: http://cumulusclips.org/
-Demo: https://tube.devosi.org/
+Demo: http://demo.cumulusclips.org/
 License:
 - GPL-2.0
 Languages:
@@ -14,6 +14,6 @@ Tags:
 - Photo and Video Gallery
 MD: '- [CumulusClips](http://cumulusclips.org/) - Your own video sharing website with
   CumulusClips video sharing script. You can build a YouTube clone where users can
-  upload, rate, comment on videos, and much more. ([Demo](https://tube.devosi.org/))
+  upload, rate, comment on videos, and much more. ([Demo](http://demo.cumulusclips.org/))
   `GPL-2.0` `PHP`'
-Line: 1142
+Line: 1220

@@ -1,4 +1,4 @@
-ID: 631
+ID: 696
 Name: ExMoney
 Description: Self-hosted personal finance app.
 Source Code: https://github.com/gaynetdinov/ex_money
@@ -13,4 +13,4 @@ Tags:
 MD: '- [ExMoney](https://github.com/gaynetdinov/ex_money) - Self-hosted personal finance
   app. `ISC` `Elixir`'
 SourceType: Github
-Line: 1013
+Line: 1082

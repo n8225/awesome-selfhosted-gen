@@ -1,4 +1,4 @@
-ID: 274
+ID: 297
 Name: osem
 Description: Event management tailored to free Software conferences.
 Source Code: https://github.com/openSUSE/osem
@@ -15,4 +15,4 @@ MD: '- [osem](http://osem.io/) - Event management tailored to free Software conf
   ([Demo](http://demo.osem.io/), [Source Code](https://github.com/openSUSE/osem))
   `MIT` `Ruby`'
 SourceType: Github
-Line: 499
+Line: 526

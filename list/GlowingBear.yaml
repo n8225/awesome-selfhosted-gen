@@ -1,4 +1,4 @@
-ID: 195
+ID: 210
 Name: Glowing Bear
 Description: A web frontend for WeeChat.
 Source Code: https://github.com/glowing-bear/glowing-bear/
@@ -14,4 +14,4 @@ Tags:
 MD: '  - [Glowing Bear](https://github.com/glowing-bear/glowing-bear/) - A web frontend
   for WeeChat. ([Demo](https://www.glowing-bear.org)) `GPL-3.0` `JavaScript`'
 SourceType: Github
-Line: 391
+Line: 409

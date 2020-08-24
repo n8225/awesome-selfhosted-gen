@@ -1,4 +1,4 @@
-ID: 578
+ID: 638
 Name: Myflix
 Description: Self-hosted, super lightweight Netflix alternative.
 Source Code: https://github.com/pastapojken/Myflix
@@ -14,4 +14,4 @@ Tags:
 MD: '- [Myflix](https://github.com/pastapojken/Myflix) - Self-hosted, super lightweight
   Netflix alternative. `MIT` `Shell`'
 SourceType: Github
-Line: 948
+Line: 1012

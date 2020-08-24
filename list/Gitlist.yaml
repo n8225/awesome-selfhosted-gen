@@ -1,4 +1,4 @@
-ID: 791
+ID: 872
 Name: Gitlist
 Description: Web-based git repository browser - GitList allows you to browse repositories
   using your favorite browser, viewing files under different revisions, commit history
@@ -18,4 +18,4 @@ MD: '- [Gitlist](http://gitlist.org/) - Web-based git repository browser - GitLi
   different revisions, commit history and diffs. ([Source Code](https://github.com/klaussilveira/gitlist))
   `BSD-3-Clause` `PHP`'
 SourceType: Github
-Line: 1253
+Line: 1338

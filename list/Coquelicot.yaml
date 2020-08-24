@@ -1,4 +1,4 @@
-ID: 425
+ID: 463
 Name: Coquelicot
 Description: Coquelicot is a “one-click” file sharing web application with a focus
   on protecting users’ privacy.
@@ -16,4 +16,4 @@ Tags:
 MD: '- [Coquelicot](https://coquelicot.potager.org/) - Coquelicot is a “one-click”
   file sharing web application with a focus on protecting users’ privacy. ([Source
   Code](https://coquelicot.potager.org/gitweb/?p=coquelicot.git)) `AGPL-3.0` `Ruby`'
-Line: 729
+Line: 771

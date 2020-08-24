@@ -1,0 +1,20 @@
+ID: 252
+Name: Misago
+Description: Misago is fully featured modern forum application that is fast, scalable
+  and responsive.
+Source Code: https://github.com/rafalp/Misago
+Website: https://misago-project.org/
+License:
+- GPL-2.0
+Languages:
+- Python
+C: Communication systems
+Tags:
+- Communications
+- Social Network
+- Forum
+MD: '- [Misago](https://misago-project.org/) - Misago is fully featured modern forum
+  application that is fast, scalable and responsive. ([Source Code](https://github.com/rafalp/Misago))
+  `GPL-2.0` `Python`'
+SourceType: Github
+Line: 463

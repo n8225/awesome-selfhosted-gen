@@ -1,0 +1,15 @@
+ID: 527
+Name: Neko
+Description: A self hosted virtual browser (rabb.it clone) that runs in Docker.
+Source Code: https://github.com/nurdism/neko
+License:
+- Apache-2.0
+Languages:
+- Docker
+- Go
+C: Gateways and terminal sharing
+Tags: []
+MD: '- [Neko](https://github.com/nurdism/neko) - A self hosted virtual browser (rabb.it
+  clone) that runs in Docker. `Apache-2.0` `Docker/Go`'
+SourceType: Github
+Line: 853

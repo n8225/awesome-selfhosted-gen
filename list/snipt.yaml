@@ -1,8 +1,7 @@
-ID: 703
+ID: 776
 Name: snipt
 Description: Long-term memory for coders. Share and store code snippets.
 Source Code: https://github.com/nicksergeant/snipt
-Website: https://snipt.net/
 License:
 - MIT
 Languages:
@@ -10,7 +9,7 @@ Languages:
 C: Pastebins
 Tags:
 - Pastebin
-MD: '- [snipt](https://snipt.net/) - Long-term memory for coders. Share and store
-  code snippets. ([Source Code](https://github.com/nicksergeant/snipt)) `MIT` `Python`'
+MD: '- [snipt](https://github.com/nicksergeant/snipt) - Long-term memory for coders.
+  Share and store code snippets. `MIT` `Python`'
 SourceType: Github
-Line: 1113
+Line: 1190

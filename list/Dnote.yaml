@@ -1,9 +1,8 @@
-ID: 649
+ID: 717
 Name: Dnote
-Description: A simple and encrypted notebook for developers. Protect your privacy
-  and stay focused.
+Description: A simple command line notebook with multi-device sync and web interface.
 Source Code: https://github.com/dnote/dnote
-Website: https://dnote.io
+Website: https://www.getdnote.com
 License:
 - AGPL-3.0
 Languages:
@@ -12,8 +11,8 @@ C: Note-taking and Editors
 Tags:
 - Note-taking
 - Editor
-MD: '- [Dnote](https://dnote.io) - A simple and encrypted notebook for developers.
-  Protect your privacy and stay focused. ([Source Code](https://github.com/dnote/dnote))
-  `AGPL-3.0` `Go`'
+MD: '- [Dnote](https://www.getdnote.com) - A simple command line notebook with multi-device
+  sync and web interface. ([Source Code](https://github.com/dnote/dnote)) `AGPL-3.0`
+  `Go`'
 SourceType: Github
-Line: 1044
+Line: 1116

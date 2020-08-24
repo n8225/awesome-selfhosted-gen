@@ -1,0 +1,18 @@
+ID: 660
+Name: Digital-Currency
+Description: Create your own Self-Hosted Digital Currency.
+Source Code: https://github.com/Icesofty/Digital-Currency
+Demo: https://tonken.glitch.me/
+License:
+- GPL-3.0
+Languages:
+- Nodejs
+C: Misc/Other
+Tags:
+- Misc
+- Other
+MD: '- [Digital-Currency](https://github.com/Icesofty/Digital-Currency) - Create your
+  own Self-Hosted Digital Currency. ([Demo](https://tonken.glitch.me/)) `GPL-3.0`
+  `Nodejs`'
+SourceType: Github
+Line: 1039

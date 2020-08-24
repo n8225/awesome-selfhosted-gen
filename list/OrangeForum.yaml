@@ -1,9 +1,8 @@
-ID: 235
+ID: 257
 Name: Orange Forum
 Description: Orange Forum is an easy to deploy forum that has minimal dependencies
   and uses very little javascript.
 Source Code: https://github.com/s-gv/orangeforum
-Demo: https://groups.goodoldweb.com/
 Website: http://www.goodoldweb.com/
 License:
 - BSD-3-Clause
@@ -15,7 +14,7 @@ Tags:
 - Social Network
 - Forum
 MD: '- [Orange Forum](http://www.goodoldweb.com/) - Orange Forum is an easy to deploy
-  forum that has minimal dependencies and uses very little javascript. ([Demo](https://groups.goodoldweb.com/),
-  [Source Code](https://github.com/s-gv/orangeforum)) `BSD-3-Clause` `Go`'
+  forum that has minimal dependencies and uses very little javascript. ([Source Code](https://github.com/s-gv/orangeforum))
+  `BSD-3-Clause` `Go`'
 SourceType: Github
-Line: 443
+Line: 468

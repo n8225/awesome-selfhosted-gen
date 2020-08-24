@@ -1,4 +1,4 @@
-ID: 555
+ID: 608
 Name: Compactd
 Description: Remote music player that supports adding content.
 Source Code: https://github.com/compactd/compactd
@@ -14,4 +14,4 @@ Tags:
 MD: '- [Compactd](https://github.com/compactd/compactd) - Remote music player that
   supports adding content. `MIT` `Nodejs`'
 SourceType: Github
-Line: 922
+Line: 979

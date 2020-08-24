@@ -1,4 +1,4 @@
-ID: 50
+ID: 558
 Name: openHAB
 Description: Vendor and technology agnostic open source software for home automation.
 Source Code: https://github.com/openhab/openhab
@@ -7,11 +7,12 @@ License:
 - EPL-1.0
 Languages:
 - Java
-C: Automation
+C: Internet Of Things (IoT)
 Tags:
-- Automation
+- Internet Of Things
+- IoT
 MD: '- [openHAB](http://www.openhab.org) - Vendor and technology agnostic open source
   software for home automation. ([Source Code](https://github.com/openhab/openhab))
   `EPL-1.0` `Java`'
 SourceType: Github
-Line: 178
+Line: 899

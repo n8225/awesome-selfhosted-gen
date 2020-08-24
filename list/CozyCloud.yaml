@@ -1,7 +1,7 @@
-ID: 488
+ID: 534
 Name: Cozy Cloud
-Description: Personal cloud where you can read your emails or manage and sync your
-  contact, files or calendars, with an app store full of community contributions.
+Description: Personal cloud where you can manage and sync your contact, files and
+  calendars, and manage your budget with an app store full of community contributions.
 Source Code: https://github.com/cozy
 Website: https://cozy.io
 License:
@@ -11,8 +11,8 @@ Languages:
 C: Groupware
 Tags:
 - Groupware
-MD: '- [Cozy Cloud](https://cozy.io) - Personal cloud where you can read your emails
-  or manage and sync your contact, files or calendars, with an app store full of community
-  contributions. ([Source Code](https://github.com/cozy)) `GPL-3.0` `Nodejs`'
+MD: '- [Cozy Cloud](https://cozy.io) - Personal cloud where you can manage and sync
+  your contact, files and calendars, and manage your budget with an app store full
+  of community contributions. ([Source Code](https://github.com/cozy)) `GPL-3.0` `Nodejs`'
 SourceType: Github
-Line: 815
+Line: 865

@@ -1,4 +1,4 @@
-ID: 354
+ID: 385
 Name: BicBucStriim
 Description: Provides web-based access to your Calibre Library's e-book collection.
 Source Code: https://github.com/rvolz/BicBucStriim
@@ -15,4 +15,4 @@ MD: '  - [BicBucStriim](http://projekte.textmulch.de/bicbucstriim/) - Provides w
   access to your Calibre Library''s e-book collection. ([Source Code](https://github.com/rvolz/BicBucStriim))
   `MIT` `PHP`'
 SourceType: Github
-Line: 613
+Line: 648

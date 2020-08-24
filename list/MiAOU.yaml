@@ -1,8 +1,8 @@
-ID: 122
+ID: 130
 Name: MiAOU
 Description: Multi-room persistent chat server.
 Source Code: https://github.com/Canop/miaou
-Website: https://dystroy.org/miaou/login
+Website: https://miaou.dystroy.org/login
 License:
 - MIT
 Languages:
@@ -10,7 +10,7 @@ Languages:
 C: Communication systems
 Tags:
 - Communications
-MD: '- [MiAOU](https://dystroy.org/miaou/login) - Multi-room persistent chat server.
+MD: '- [MiAOU](https://miaou.dystroy.org/login) - Multi-room persistent chat server.
   ([Source Code](https://github.com/Canop/miaou)) `MIT` `Nodejs`'
 SourceType: Github
-Line: 284
+Line: 295

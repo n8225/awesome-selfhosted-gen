@@ -1,4 +1,4 @@
-ID: 572
+ID: 628
 Name: Polaris
 Description: Music browsing and streaming application optimized for large music collections,
   ease of use and high performance.
@@ -16,4 +16,4 @@ MD: '- [Polaris](https://github.com/agersant/polaris) - Music browsing and strea
   application optimized for large music collections, ease of use and high performance.
   `MIT` `Rust`'
 SourceType: Github
-Line: 939
+Line: 999

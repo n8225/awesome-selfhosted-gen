@@ -1,4 +1,4 @@
-ID: 57
+ID: 61
 Name: WebUI-aria2
 Description: Interface to interact with the aria2 downloader. Very simple to use,
   just download and open index.html in any web browser.
@@ -15,4 +15,4 @@ MD: '- [WebUI-aria2](https://github.com/ziahamza/webui-aria2) - Interface to int
   with the aria2 downloader. Very simple to use, just download and open index.html
   in any web browser. ([Demo](http://ziahamza.github.io/webui-aria2/)) `MIT` `HTML5`'
 SourceType: Github
-Line: 185
+Line: 191

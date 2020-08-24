@@ -1,15 +1,15 @@
-ID: 697
-Name: Pastebin
-Description: Modern self-hosted pastebin service with a restful API.
-Source Code: https://github.com/ewhal/Pastebin
+ID: 770
+Name: pastebin
+Description: Simple, fast, feature-rich, standalone pastebin service.
+Source Code: https://github.com/mkaczanowski/pastebin
 License:
 - MIT
 Languages:
-- Go
+- Rust
 C: Pastebins
 Tags:
 - Pastebin
-MD: '- [Pastebin](https://github.com/ewhal/Pastebin) - Modern self-hosted pastebin
-  service with a restful API. `MIT` `Go`'
+MD: '- [pastebin](https://github.com/mkaczanowski/pastebin) - Simple, fast, feature-rich,
+  standalone pastebin service. `MIT` `Rust`'
 SourceType: Github
-Line: 1107
+Line: 1184

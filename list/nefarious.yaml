@@ -1,0 +1,15 @@
+ID: 55
+Name: nefarious
+Description: Web application that automates downloading Movies and TV Shows.
+Source Code: https://github.com/lardbit/nefarious
+License:
+- GPL-3.0
+Languages:
+- Python
+C: Automation
+Tags:
+- Automation
+MD: '- [nefarious](https://github.com/lardbit/nefarious) - Web application that automates
+  downloading Movies and TV Shows. `GPL-3.0` `Python`'
+SourceType: Github
+Line: 185

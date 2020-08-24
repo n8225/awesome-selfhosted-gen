@@ -1,4 +1,4 @@
-ID: 192
+ID: 206
 Name: Quassel IRC
 Description: distributed IRC client, meaning that one (or multiple) client(s) can
   attach to and detach from a central core.
@@ -16,4 +16,4 @@ MD: '- [Quassel IRC](http://quassel-irc.org/) - distributed IRC client, meaning 
   one (or multiple) client(s) can attach to and detach from a central core. ([Source
   Code](https://github.com/quassel/quassel)) `GPL-2.0` `C++`'
 SourceType: Github
-Line: 388
+Line: 405

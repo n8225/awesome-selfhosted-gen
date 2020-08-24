@@ -1,4 +1,4 @@
-ID: 879
+ID: 977
 Name: SIT
 Description: SCM-agnostic, file-based, offline-first, immutable issue tracker.
 Source Code: https://github.com/sit-fyi/sit
@@ -14,4 +14,4 @@ MD: '- [SIT](https://sit.fyi/) - SCM-agnostic, file-based, offline-first, immuta
   issue tracker. ([Source Code](https://github.com/sit-fyi/sit)) `MIT` `Apache-2.0`
   `Rust`'
 SourceType: Github
-Line: 1391
+Line: 1493

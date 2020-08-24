@@ -1,7 +1,9 @@
-ID: 931
+ID: 1030
 Name: HomelabOS
 Description: Your very own offline-first privacy-centric open-source data-center.
+  Deploy over 100 services with a few commands.
 Source Code: https://gitlab.com/NickBusey/HomelabOS
+Website: https://homelabos.com
 License:
 - MIT
 Languages:
@@ -9,7 +11,8 @@ Languages:
 C: Self-hosting Solutions
 Tags:
 - Self-hosting Solution
-MD: '- [HomelabOS](https://gitlab.com/NickBusey/HomelabOS) - Your very own offline-first
-  privacy-centric open-source data-center. `MIT` `Docker`'
+MD: '- [HomelabOS](https://homelabos.com) - Your very own offline-first privacy-centric
+  open-source data-center. Deploy over 100 services with a few commands. ([Source
+  Code](https://gitlab.com/NickBusey/HomelabOS)) `MIT` `Docker`'
 SourceType: Gitlab
-Line: 1472
+Line: 1577

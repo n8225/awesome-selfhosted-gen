@@ -1,4 +1,4 @@
-ID: 736
+ID: 811
 Name: sigal
 Description: Yet another simple static gallery generator.
 Source Code: https://github.com/saimn/sigal
@@ -12,4 +12,4 @@ Tags:
 MD: '- [sigal](https://github.com/saimn/sigal) - Yet another simple static gallery
   generator. `MIT` `Python`'
 SourceType: Github
-Line: 1158
+Line: 1237

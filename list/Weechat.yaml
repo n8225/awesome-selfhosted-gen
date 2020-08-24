@@ -1,4 +1,4 @@
-ID: 194
+ID: 209
 Name: Weechat
 Description: Fast, light and extensible chat client.
 Source Code: https://weechat.org/
@@ -12,4 +12,4 @@ Tags:
 - IRC
 MD: '- [Weechat](https://weechat.org/) - Fast, light and extensible chat client. `GPL-3.0`
   `C`'
-Line: 390
+Line: 408

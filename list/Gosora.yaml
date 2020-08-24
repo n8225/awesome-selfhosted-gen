@@ -1,0 +1,20 @@
+ID: 245
+Name: Gosora
+Description: Gosora is an ultra-fast and secure forum software written in Go that
+  balances usability with functionality.
+Source Code: https://github.com/Azareal/Gosora
+Website: https://gosora-project.com/
+License:
+- GPL-3.0
+Languages:
+- Go
+C: Communication systems
+Tags:
+- Communications
+- Social Network
+- Forum
+MD: '- [Gosora](https://gosora-project.com/) - Gosora is an ultra-fast and secure
+  forum software written in Go that balances usability with functionality. ([Source
+  Code](https://github.com/Azareal/Gosora)) `GPL-3.0` `Go`'
+SourceType: Github
+Line: 456

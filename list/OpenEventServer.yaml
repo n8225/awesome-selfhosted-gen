@@ -1,4 +1,4 @@
-ID: 748
+ID: 825
 Name: Open Event Server
 Description: Enables organizers to manage events from concerts to conferences and
   meet-ups.
@@ -15,4 +15,4 @@ MD: '- [Open Event Server](https://github.com/fossasia/open-event-server) - Enab
   organizers to manage events from concerts to conferences and meet-ups. `GPL-3.0`
   `Python`'
 SourceType: Github
-Line: 1175
+Line: 1256

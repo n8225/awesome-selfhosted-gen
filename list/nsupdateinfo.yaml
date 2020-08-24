@@ -1,4 +1,4 @@
-ID: 345
+ID: 373
 Name: nsupdate.info
 Description: nsupdate.info is a dynamic DNS service.
 Source Code: https://github.com/nsupdate-info/nsupdate.info
@@ -15,4 +15,4 @@ MD: '- [nsupdate.info](https://www.nsupdate.info/) - nsupdate.info is a dynamic 
   service. ([Demo](https://www.nsupdate.info/account/register/), [Source Code](https://github.com/nsupdate-info/nsupdate.info))
   `BSD-3-Clause` `Python`'
 SourceType: Github
-Line: 590
+Line: 622

@@ -1,0 +1,21 @@
+ID: 817
+Name: Feedka
+Description: Open-source web application that can serve as a platform to get authentic,
+  kindful, and constructive feedback from your friends, family, and co-workers.
+Source Code: https://github.com/drabkirn/feedka
+Demo: https://feedka.herokuapp.com
+License:
+- AGPL-3.0
+Languages:
+- Ruby
+C: Polls and Events
+Tags:
+- Polls
+- Events
+ProprietaryDependency: true
+MD: '- [Feedka](https://github.com/drabkirn/feedka) `⚠` - Open-source web application
+  that can serve as a platform to get authentic, kindful, and constructive feedback
+  from your friends, family, and co-workers. ([Demo](https://feedka.herokuapp.com))
+  `AGPL-3.0` `Ruby`'
+SourceType: Github
+Line: 1248

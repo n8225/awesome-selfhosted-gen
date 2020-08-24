@@ -1,11 +1,11 @@
-ID: 574
+ID: 632
 Name: Volumio
 Description: A free and open source linux distribution, designed and fine-tuned exclusively
   for music playback.
 Source Code: https://github.com/volumio/Volumio2
 Website: https://volumio.org/
 License:
-- GPLv3
+- GPL-3.0
 Languages:
 - Nodejs
 C: Media Streaming
@@ -15,6 +15,6 @@ Tags:
 - Audio
 MD: '- [Volumio](https://volumio.org/) - A free and open source linux distribution,
   designed and fine-tuned exclusively for music playback. ([Source Code](https://github.com/volumio/Volumio2))
-  `GPLv3` `NodeJS`'
+  `GPL-3.0` `NodeJS`'
 SourceType: Github
-Line: 941
+Line: 1003

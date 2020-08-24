@@ -1,4 +1,4 @@
-ID: 617
+ID: 684
 Name: SANE Network Scanning
 Description: Allow remote clients to access image acquisition devices (scanners) available
   on the local host.
@@ -15,4 +15,4 @@ Tags:
 MD: '- [SANE Network Scanning](http://sane-project.org/) - Allow remote clients to
   access image acquisition devices (scanners) available on the local host. ([Source
   Code](http://www.sane-project.org/cvs.html)) `GPL-2.0` `C`'
-Line: 992
+Line: 1063

@@ -1,4 +1,4 @@
-ID: 384
+ID: 419
 Name: Temboz
 Description: Two-column feed reader emphasizing filtering capabilities to manage information
   overload.
@@ -14,4 +14,4 @@ Tags:
 MD: '- [Temboz](https://github.com/fazalmajid/temboz) - Two-column feed reader emphasizing
   filtering capabilities to manage information overload. `MIT` `Python`'
 SourceType: Github
-Line: 660
+Line: 699

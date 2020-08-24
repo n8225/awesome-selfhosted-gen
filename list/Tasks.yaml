@@ -1,4 +1,4 @@
-ID: 853
+ID: 952
 Name: Tasks
 Description: Simple tasks and notes manager written in PHP, jQuery and Bootstrap using
   a custom flat file database.
@@ -15,4 +15,4 @@ MD: '- [Tasks](https://github.com/m1guelpf/tasks) - Simple tasks and notes manag
   written in PHP, jQuery and Bootstrap using a custom flat file database. `MPL-2.0`
   `PHP`'
 SourceType: Github
-Line: 1358
+Line: 1461

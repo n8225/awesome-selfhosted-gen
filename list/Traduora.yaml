@@ -1,0 +1,18 @@
+ID: 939
+Name: Traduora
+Description: Translation management platform for teams.
+Source Code: https://github.com/traduora/traduora
+Website: https://traduora.com
+License:
+- AGPL-3.0
+Languages:
+- Docker
+- Nodejs
+C: Software Development
+Tags:
+- Software Dev
+- Localiztion
+MD: '- [Traduora](https://traduora.com) - Translation management platform for teams.
+  ([Source Code](https://github.com/traduora/traduora)) `AGPL-3.0` `Docker/Nodejs`'
+SourceType: Github
+Line: 1435

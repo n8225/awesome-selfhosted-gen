@@ -1,4 +1,4 @@
-ID: 535
+ID: 587
 Name: TileServer GL
 Description: Vector and raster maps with GL styles. Server side rendering by Mapbox
   GL Native. Map tile server for Mapbox GL JS, Android, iOS, Leaflet, OpenLayers,
@@ -18,4 +18,4 @@ MD: '- [TileServer GL](http://tileserver.readthedocs.io/) - Vector and raster ma
   GL JS, Android, iOS, Leaflet, OpenLayers, GIS via WMTS, etc. ([Source Code](https://github.com/klokantech/tileserver-gl))
   `BSD-2-Clause` `Nodejs`'
 SourceType: Github
-Line: 889
+Line: 945

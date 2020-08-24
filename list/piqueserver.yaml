@@ -1,0 +1,20 @@
+ID: 517
+Name: piqueserver
+Description: Server for openspades, the first-person shooter in a destructible voxel
+  world.
+Source Code: https://github.com/piqueserver/piqueserver
+Clients:
+- https://github.com/yvt/openspades
+License:
+- GPL-3.0
+Languages:
+- Python
+- C++
+C: Games
+Tags:
+- Game
+MD: '- [piqueserver](https://github.com/piqueserver/piqueserver) - Server for openspades,
+  the first-person shooter in a destructible voxel world. ([Clients](https://github.com/yvt/openspades))
+  `GPL-3.0` `Python/C++`'
+SourceType: Github
+Line: 838

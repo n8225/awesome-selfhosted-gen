@@ -1,4 +1,4 @@
-ID: 115
+ID: 123
 Name: Kandan
 Description: Kandan is an Open Source Alternative to HipChat.
 Source Code: https://github.com/kandanapp/kandan
@@ -13,4 +13,4 @@ Tags:
 MD: '- [Kandan](http://getkandan.com/) - Kandan is an Open Source Alternative to HipChat.
   ([Source Code](https://github.com/kandanapp/kandan)) `AGPL-3.0` `Ruby`'
 SourceType: Github
-Line: 277
+Line: 288

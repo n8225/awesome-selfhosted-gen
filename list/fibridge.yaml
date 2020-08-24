@@ -1,4 +1,4 @@
-ID: 428
+ID: 466
 Name: fibridge
 Description: Stream huge files out of your browser without having to upload.
 Source Code: https://github.com/anderspitman/fibridge-proxy-rs
@@ -16,4 +16,4 @@ MD: '- [fibridge](https://github.com/anderspitman/fibridge-proxy-rs) - Stream hu
   files out of your browser without having to upload. ([Demo](https://fbrg.xyz/))
   `MIT` `Rust`'
 SourceType: Github
-Line: 732
+Line: 774

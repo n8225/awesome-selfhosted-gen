@@ -1,4 +1,4 @@
-ID: 679
+ID: 752
 Name: Psono
 Description: A promising password managers fully featured for teams.
 Source Code: https://gitlab.com/psono
@@ -15,4 +15,4 @@ MD: '- [Psono](https://psono.com/) - A promising password managers fully feature
   for teams. ([Demo](https://www.psono.pw), [Source Code](https://gitlab.com/psono))
   `Apache-2.0` `Python`'
 SourceType: Gitlab
-Line: 1084
+Line: 1161

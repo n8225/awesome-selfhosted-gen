@@ -1,4 +1,4 @@
-ID: 453
+ID: 492
 Name: DirectoryLister
 Description: Simple PHP based directory lister that lists a directory and all it's
   sub-directories and allows you to navigate there within.
@@ -17,4 +17,4 @@ MD: '- [DirectoryLister](http://www.directorylister.com/) - Simple PHP based dir
   there within. ([Source Code](https://github.com/DirectoryLister/DirectoryLister))
   `MIT` `PHP`'
 SourceType: Github
-Line: 763
+Line: 806
