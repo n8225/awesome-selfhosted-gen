@@ -13,6 +13,17 @@ import (
 	"time"
 )
 
+// GhEdge edges struct
+type GhEdge struct {
+	Node struct {
+		NameWithOwner string `json:"nameWithOwner"`
+		Name          string `json:"name"`
+		Stargazers    struct {
+			TotalCount int `json:"totalcount"`
+		} `json:"stargazers"`
+	} `json:"node"`
+}
+
 // Gh struct receives Github v4 api data
 type Gh struct {
 	Data struct {
@@ -38,22 +49,22 @@ type Gh struct {
 				} `json:"target"`
 			} `json:"defaultBranchRef"`
 		} `json:"repository"`
-		RepositoryOwner struct {
-			PinnedRepositories struct {
-				Edges []struct {
-					Node struct {
-						Name string `json:"nameWithOwner"`
-					} `json:"node"`
-				} `json:"edges"`
-			} `json:"pinnedRepositories"`
+		User struct {
+			PinnedItems struct {
+				Edges []GhEdge `json:"edges"`
+			} `json:"pinnedItems`
 			Repositories struct {
-				Edges []struct {
-					Node struct {
-						Name string `json:"nameWithOwner"`
-					} `json:"node"`
-				} `json:"edges"`
-			} `json:"Repositories"`
-		} `json:"repositoryOwner"`
+				Edges []GhEdge `json:"edges"`
+			} `json:"repositories"`
+		} `json:"user"`
+		Organization struct {
+			PinnedItems struct {
+				Edges []GhEdge `json:"edges"`
+			} `json:"pinnedItems"`
+			Repositories struct {
+				Edges []GhEdge `json:"edges"`
+			} `json:"repositories"`
+		} `json:"organization"`
 	} `json:"data"`
 	Errors []struct {
 		Message string   `json:"message"`
@@ -61,33 +72,6 @@ type Gh struct {
 		Path    []string `json:"path"`
 	} `json:"errors"`
 }
-
-// //GHnoRepo struct receives Github api data when we are guessing
-// type GHnoRepo struct {
-// 	Data struct {
-// 		RepositoryOwner struct {
-// 			PinnedRepositories struct {
-// 				Edges []struct {
-// 					Node struct {
-// 						Name string `json:"nameWithOwner"`
-// 					} `json:"node"`
-// 				} `json:"edges"`
-// 			} `json:"pinnedRepositories"`
-// 			Repositories struct {
-// 				Edges []struct {
-// 					Node struct {
-// 						Name string `json:"nameWithOwner"`
-// 					} `json:"node"`
-// 				} `json:"edges"`
-// 			} `json:"Repositories"`
-// 		} `json:"repositoryOwner"`
-// 	} `json:"data"`
-// 	Errors []struct {
-// 		Message string   `json:"message"`
-// 		Type    string   `json:"type"`
-// 		Path    []string `json:"path"`
-// 	} `json:"errors"`
-// }
 
 //ghv3 is the struct for the v3 github api
 type ghv3 struct {
@@ -114,15 +98,19 @@ func GetGH(ghURL, ght string, hasErrors []string) (int, string, string, string, 
 		hasErrors = append(hasErrors, "Repo not provided in Source code URL, guessed to be https://www.github.com/"+ownRepo)
 	}
 	r := strings.Split(ownRepo, "/")
-
 	var jsonStr = []byte(`{"query":"{repository(owner:\"` + r[0] + `\",name:\"` + r[1] + `\"){stargazers{totalCount}licenseInfo{spdxId}primaryLanguage{name}defaultBranchRef{target{... on Commit{history(first: 1){edges{node{committedDate}}}}}}}}"}`)
 	gh := &Gh{}
 	err := json.Unmarshal(ghClientv4(ght, jsonStr), &gh)
 	if err != nil {
 		log.Fatal(err)
 	}
+	if gh.Errors != nil {
+		log.Print(gh.Errors)
+	}
+
 	//Fallback to github v3 api on error
-	if gh.Data.Repository.Stargazers.TotalCount == 0 {
+	if len(gh.Data.Repository.DefaultBranchRef.Target.History.Edges) == 0 {
+		fmt.Println("---going github api v3")
 		return ghv3api(r[0], r[1], ght)
 	}
 	return gh.Data.Repository.Stargazers.TotalCount, strings.Split(gh.Data.Repository.DefaultBranchRef.Target.History.Edges[0].Node.CommittedDate, "T")[0], gh.Data.Repository.LicenseInfo.SpdxID, gh.Data.Repository.PrimaryLanguage.Name, hasErrors
@@ -148,46 +136,78 @@ func ghv3api(u, r, ght string) (stars int, commitDate, license, language string,
 
 // chooserepo guesses the missing repo. It doesn't do a very good job.
 func chooseRepo(ur, ght string) (url string, haserr []string) {
-	var jsonStr = []byte(`{"query":"{repositoryOwner(login:\"` + ur + `\"){repositories(first: 100, orderBy: {direction: DESC, field: STARGAZERS}){edges{node{nameWithOwner}}}pinnedRepositories(first: 1, orderBy: {direction: DESC, field: STARGAZERS}){edges{node{nameWithOwner}}}}}"}`)
+	var jsonStr = []byte(`{"query": "{ user(login: \"` + ur + `\") { pinnedItems(first: 6, types: REPOSITORY) { edges { node { ... on Repository { nameWithOwner stargazers { totalCount } } } } } repositories(first: 30, orderBy: {field: STARGAZERS, direction: DESC}) { edges { node { nameWithOwner stargazers { totalCount } } } } } organization(login: \"` + ur + `\") { pinnedItems(first: 6) { edges { node { ... on Repository { nameWithOwner stargazers { totalCount } } } } } repositories(first: 30, orderBy: {field: STARGAZERS, direction: DESC}) { edges { node { nameWithOwner stargazers { totalCount } } } } } }"}`)
 
 	gh := &Gh{}
 	err := json.Unmarshal(ghClientv4(ght, jsonStr), &gh)
 	if err != nil {
 		log.Fatal(err)
 	}
-
-	if len(gh.Data.RepositoryOwner.Repositories.Edges) == 1 {
+	/* 	if len(gh.Data.User.Repositories.Edges) == 1 {
 		return gh.Data.RepositoryOwner.Repositories.Edges[0].Node.Name, nil
+	} */
+	if gh.Errors != nil {
+		log.Print(gh.Errors)
 	}
-	for _, r := range gh.Data.RepositoryOwner.PinnedRepositories.Edges {
-		if r.Node.Name == ur {
-			return r.Node.Name, nil
-		} else if strings.Contains(r.Node.Name, "serve") == true {
-			return r.Node.Name, nil
-		} else if strings.Contains(r.Node.Name, "back") == true {
-			return r.Node.Name, nil
-		} else if strings.Contains(r.Node.Name, "api") == true {
-			return r.Node.Name, nil
-		}
+	switch 1 {
+	case len(gh.Data.User.PinnedItems.Edges):
+		return gh.Data.User.PinnedItems.Edges[0].Node.NameWithOwner, nil
+	case len(gh.Data.Organization.PinnedItems.Edges):
+		return gh.Data.Organization.PinnedItems.Edges[0].Node.NameWithOwner, nil
 	}
-	for _, r := range gh.Data.RepositoryOwner.Repositories.Edges {
-		if r.Node.Name == ur {
-			return r.Node.Name, nil
-		} else if strings.Contains(r.Node.Name, "serve") == true {
-			return r.Node.Name, nil
-		} else if strings.Contains(r.Node.Name, "back") == true {
-			return r.Node.Name, nil
-		} else if strings.Contains(r.Node.Name, "api") == true {
-			return r.Node.Name, nil
-		} else if strings.Contains(r.Node.Name, ur) == true {
-			return r.Node.Name, nil
+
+	fmt.Println("chooserepo: " + ur)
+	//fmt.Println(gh)
+	var res string
+	if len(gh.Data.User.Repositories.Edges) > 0 {
+		if len(gh.Data.User.PinnedItems.Edges) > 0 {
+			res = ghRepoPicker(ur, gh.Data.User.PinnedItems.Edges)
+			if res == "" {
+				res = gh.Data.User.PinnedItems.Edges[0].Node.NameWithOwner
+			}
+		} else {
+			res = ghRepoPicker(ur, gh.Data.User.Repositories.Edges)
+			if res == "" {
+				res = gh.Data.User.Repositories.Edges[0].Node.NameWithOwner
+			}
 		}
+		return res, nil
+	}
+	if len(gh.Data.Organization.Repositories.Edges) > 0 {
+		if len(gh.Data.Organization.PinnedItems.Edges) > 0 {
+			res = ghRepoPicker(ur, gh.Data.Organization.PinnedItems.Edges)
+			if res == "" {
+				res = gh.Data.Organization.PinnedItems.Edges[0].Node.NameWithOwner
+			}
+		} else {
+			res = ghRepoPicker(ur, gh.Data.Organization.Repositories.Edges)
+			if res == "" {
+				res = gh.Data.Organization.Repositories.Edges[0].Node.NameWithOwner
+			}
+		}
+		return res, nil
 	}
 	// if len(gh.Data.RepositoryOwner.PinnedRepositories.Edges) >= 2 {
 	// 	return gh.Data.RepositoryOwner.Repositories.Edges[0].Node.Name
 	// }
 	haserr = append(haserr, ur+" did not match or does not exist.")
 	return "", haserr
+}
+
+func ghRepoPicker(ur string, repos []GhEdge) string {
+	list := [5]string{"server", "serve", "back", "stack", "api"}
+	for _, r := range repos {
+		n := r.Node.NameWithOwner
+		if strings.EqualFold(r.Node.Name, ur) {
+			return n
+		}
+		for _, l := range list {
+			if strings.Contains(strings.ToLower(n), strings.ToLower(l)) {
+				return n
+			}
+		}
+	}
+	return ""
 }
 
 func ghClientv4(ght string, jsonStr []byte) []byte {
@@ -213,6 +233,7 @@ func ghClientv4(ght string, jsonStr []byte) []byte {
 	if err != nil {
 		log.Fatal(err)
 	}
+	//fmt.Println(string(body))
 	return body
 }
 

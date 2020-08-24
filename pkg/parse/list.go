@@ -90,7 +90,7 @@ func MdParser(path, gh string) []Entry {
 					e.Clients = GetClients(e.MD)
 					e.Site = GetSite(e.MD)
 					e.Source, e.SourceType = GetSource(e.MD)
-
+					fmt.Println(e.Name)
 				} else {
 					fmt.Printf("Failed to match pattern, Line: %d : %s", l, scanner.Text())
 				}

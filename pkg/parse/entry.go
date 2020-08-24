@@ -127,7 +127,6 @@ func GetGitdata(e Entry, ght string) *Gitdata {
 	const glp string = "^(http.://)(www.){0,1}(gitlab.com)/(.*)$"
 	const bbp string = "^(http.://)(www.){0,1}(bitbucket.org)/(.*)/(.*)$"
 	const ghp string = "^(http.://)(www.){0,1}(github.com)/(.*)$"
-
 	g := new(Gitdata)
 	switch e.SourceType {
 	case "Gitlab":

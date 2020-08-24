@@ -26,7 +26,7 @@ func main() {
 	}
 	e := parse.MdParser(apath, *ghToken)
 	l := new(parse.List)
-	
+
 	l.Entries = e
 	exporter.ToYamlFiles(*l)
 	yl := exporter.ImportYaml(*ghToken)
