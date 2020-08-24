@@ -16,10 +16,9 @@ build:
   only: 
     - tags
   stage: build
-  script:
-    - export GITHUB_TOKEN=$GITHUB_TOKEN
+  script: 
     - curl -sfL https://git.io/goreleaser | sh -s -- check # check goreleaser config for deprecations
-    - curl -sL https://git.io/goreleaser | bash
+    - export GITHUB_TOKEN=$GITHUB_TOKEN && curl -sL https://git.io/goreleaser | bash
 
 pages:
   script:
