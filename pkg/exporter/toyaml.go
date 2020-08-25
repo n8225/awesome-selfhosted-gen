@@ -6,7 +6,7 @@ import (
 	"os"
 	"regexp"
 
-	"gopkg.in/yaml.v2"
+	"gopkg.in/yaml.v3"
 
 	"github.com/n8225/awesome-selfhosted-gen/pkg/parse"
 )
