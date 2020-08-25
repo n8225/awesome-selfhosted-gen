@@ -20,7 +20,6 @@ build:
   stage: build
   script: 
     - curl -sfL https://git.io/goreleaser | sh -s -- check # check goreleaser config for deprecations
-    - $GITHUB_TOKEN == null
     - curl -sL https://git.io/goreleaser | bash
 
 pages:
