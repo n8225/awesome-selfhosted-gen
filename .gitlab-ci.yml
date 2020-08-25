@@ -13,6 +13,8 @@ test:
   script:
     - go test -v ./...
 build:
+  variables:
+    CI_DEBUG_TRACE: "true"
   only: 
     - tags
   stage: build
