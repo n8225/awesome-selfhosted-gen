@@ -1,0 +1,16 @@
+ID: 13
+Name: Beehive
+Description: Flexible event and agent system, which allows you to create your own agents that perform automated tasks triggered by events and filters.
+Source Code: https://github.com/muesli/beehive
+License:
+    - AGPL-3.0
+Languages:
+    - Go
+C: Automation
+C2: ""
+C3: ""
+Tags:
+    - Automation
+MD: '- [Beehive](https://github.com/muesli/beehive) - Flexible event and agent system, which allows you to create your own agents that perform automated tasks triggered by events and filters. `AGPL-3.0` `Go`'
+SourceType: Github
+Line: 139

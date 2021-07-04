@@ -1,0 +1,17 @@
+ID: 457
+Name: Magnetissimo
+Description: Search engine that indexes all popular torrent sites.
+Source Code: https://github.com/sergiotapia/magnetissimo
+License:
+    - MIT
+Languages:
+    - Elixir
+C: File Sharing and Synchronization
+C2: Peer-to-peer filesharing
+C3: ""
+Tags:
+    - File Sharing
+    - P2P
+MD: '- [Magnetissimo](https://github.com/sergiotapia/magnetissimo) - Search engine that indexes all popular torrent sites. `MIT` `Elixir`'
+SourceType: Github
+Line: 755

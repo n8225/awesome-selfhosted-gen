@@ -1,0 +1,18 @@
+ID: 478
+Name: goploader
+Description: Easy file sharing with server-side encryption, curl/httpie/wget compliant.
+Source Code: https://github.com/Depado/goploader
+License:
+    - MIT
+Languages:
+    - Go
+C: File Sharing and Synchronization
+C2: Single-click/drag-n-drop upload
+C3: ""
+Tags:
+    - File Sharing
+    - Single-Click Upload
+    - Drag-n-Drop Upload
+MD: '- [goploader](https://github.com/Depado/goploader) - Easy file sharing with server-side encryption, curl/httpie/wget compliant. `MIT` `Go`'
+SourceType: Github
+Line: 782

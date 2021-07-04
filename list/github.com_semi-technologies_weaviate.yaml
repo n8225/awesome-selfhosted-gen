@@ -1,0 +1,17 @@
+ID: 584
+Name: Weaviate
+Description: A cloud-native, realtime vector search engine integrating scalable machine learning models (GraphQL and RESTful APIs).
+Source Code: https://github.com/semi-technologies/weaviate
+Demo: https://www.semi.technology/documentation/weaviate/current/
+License:
+    - BSD-3-Clause
+Languages:
+    - Go
+C: Knowledge Management Tools
+C2: ""
+C3: ""
+Tags:
+    - Knowledge Mgmnt
+MD: '- [Weaviate](https://github.com/semi-technologies/weaviate) - A cloud-native, realtime vector search engine integrating scalable machine learning models (GraphQL and RESTful APIs). ([Demo](https://www.semi.technology/documentation/weaviate/current/)) `BSD-3-Clause` `Go`'
+SourceType: Github
+Line: 931

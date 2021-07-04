@@ -1,0 +1,19 @@
+ID: 525
+Name: Minetest
+Description: An open source voxel game engine. Play one of our many games, mod a game to your liking, make your own game, or play on a multiplayer server.
+Source Code: https://github.com/minetest/minetest
+Website: https://www.minetest.net/
+License:
+    - LGPL-2.1
+    - CC-BY-SA-3.0
+    - Other
+Languages:
+    - C++
+C: Games
+C2: ""
+C3: ""
+Tags:
+    - Game
+MD: '- [Minetest](https://www.minetest.net/) - An open source voxel game engine. Play one of our many games, mod a game to your liking, make your own game, or play on a multiplayer server. ([Source Code](https://github.com/minetest/minetest)) `LGPL-2.1/CC-BY-SA-3.0/Other` `C++`'
+SourceType: Github
+Line: 842

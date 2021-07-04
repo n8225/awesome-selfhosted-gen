@@ -1,0 +1,16 @@
+ID: 925
+Name: Fossil
+Description: Distributed version control system featuring wiki and bug tracker.
+Source Code: https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki
+License:
+    - BSD-2-Clause-FreeBSD
+Languages:
+    - C
+C: Software Development
+C2: Project Management
+C3: ""
+Tags:
+    - Software Dev
+    - Project Mgmnt
+MD: '- [Fossil](https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki) - Distributed version control system featuring wiki and bug tracker. `BSD-2-Clause-FreeBSD` `C`'
+Line: 1393

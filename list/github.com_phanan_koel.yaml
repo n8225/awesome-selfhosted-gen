@@ -1,0 +1,19 @@
+ID: 637
+Name: koel
+Description: Personal music streaming server that works.
+Source Code: https://github.com/phanan/koel
+Website: http://koel.phanan.net/
+License:
+    - MIT
+Languages:
+    - PHP
+C: Media Streaming
+C2: Audio Streaming
+C3: ""
+Tags:
+    - Media
+    - Streaming
+    - Audio
+MD: '- [koel](http://koel.phanan.net/) - Personal music streaming server that works. ([Source Code](https://github.com/phanan/koel)) `MIT` `PHP`'
+SourceType: Github
+Line: 1009

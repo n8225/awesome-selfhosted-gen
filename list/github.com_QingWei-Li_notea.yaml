@@ -1,0 +1,18 @@
+ID: 764
+Name: Notea
+Description: Self-hosted note-taking app stored on S3-compatible storage.
+Source Code: https://github.com/QingWei-Li/notea
+Website: https://cinwell.com/notea/
+License:
+    - MIT
+Languages:
+    - Nodejs
+C: Note-taking and Editors
+C2: ""
+C3: ""
+Tags:
+    - Note-taking
+    - Editor
+MD: '- [Notea](https://cinwell.com/notea/) - Self-hosted note-taking app stored on S3-compatible storage. ([Source Code](https://github.com/QingWei-Li/notea)) `MIT` `Nodejs`'
+SourceType: Github
+Line: 1164

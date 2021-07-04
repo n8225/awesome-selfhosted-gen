@@ -1,0 +1,17 @@
+ID: 122
+Name: Rallly
+Description: Rallly is a free collaborative scheduling service.
+Source Code: https://github.com/lukevella/Rallly
+Website: http://rallly.co
+License:
+    - CC-BY-SA-4.0
+Languages:
+    - Nodejs
+C: Communication systems
+C2: Custom communication systems
+C3: ""
+Tags:
+    - Communications
+MD: '- [Rallly](http://rallly.co) - Rallly is a free collaborative scheduling service. ([Source Code](https://github.com/lukevella/Rallly)) `CC-BY-SA-4.0` `Nodejs`'
+SourceType: Github
+Line: 283

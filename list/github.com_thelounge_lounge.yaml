@@ -1,0 +1,19 @@
+ID: 198
+Name: The Lounge
+Description: Self-hosted web IRC client.
+Source Code: https://github.com/thelounge/lounge
+Demo: https://demo.thelounge.chat/
+Website: https://thelounge.github.io/
+License:
+    - MIT
+Languages:
+    - Nodejs
+C: Communication systems
+C2: IRC
+C3: ""
+Tags:
+    - Communications
+    - IRC
+MD: '- [The Lounge](https://thelounge.github.io/) - Self-hosted web IRC client. ([Demo](https://demo.thelounge.chat/), [Source Code](https://github.com/thelounge/lounge)) `MIT` `Nodejs`'
+SourceType: Github
+Line: 393

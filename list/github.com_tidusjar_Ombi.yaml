@@ -1,0 +1,19 @@
+ID: 711
+Name: Ombi
+Description: A content request system for Plex/Emby, connects to SickRage, CouchPotato, Sonarr, with a growing feature set.
+Source Code: https://github.com/tidusjar/Ombi
+Demo: https://app.ombi.io/
+Website: https://ombi.io/
+License:
+    - GPL-2.0
+Languages:
+    - C#
+C: Misc/Other
+C2: ""
+C3: ""
+Tags:
+    - Misc
+    - Other
+MD: '- [Ombi](https://ombi.io/) - A content request system for Plex/Emby, connects to SickRage, CouchPotato, Sonarr, with a growing feature set. ([Demo](https://app.ombi.io/), [Source Code](https://github.com/tidusjar/Ombi)) `GPL-2.0` `C#`'
+SourceType: Github
+Line: 1091

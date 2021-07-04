@@ -1,0 +1,18 @@
+ID: 1025
+Name: Wekan
+Description: Open-source Trello-like kanban.
+Source Code: https://github.com/wekan/wekan
+Website: https://wekan.github.io/
+License:
+    - MIT
+Languages:
+    - Nodejs
+C: Task management/To-do lists
+C2: ""
+C3: ""
+Tags:
+    - To-Do
+    - Task Mgmnt
+MD: '- [Wekan](https://wekan.github.io/) - Open-source Trello-like kanban. ([Source Code](https://github.com/wekan/wekan)) `MIT` `Nodejs`'
+SourceType: Github
+Line: 1536

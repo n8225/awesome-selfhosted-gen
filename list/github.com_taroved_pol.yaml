@@ -1,0 +1,18 @@
+ID: 431
+Name: PolitePol
+Description: Online tool for creation of RSS feeds for any web page.
+Source Code: https://github.com/taroved/pol
+Demo: http://politepol.com
+License:
+    - MIT
+Languages:
+    - Python
+C: Feed Readers
+C2: ""
+C3: ""
+Tags:
+    - RSS
+    - Feed Reader
+MD: '- [PolitePol](https://github.com/taroved/pol) - Online tool for creation of RSS feeds for any web page. ([Demo](http://politepol.com)) `MIT` `Python`'
+SourceType: Github
+Line: 710

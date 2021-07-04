@@ -1,0 +1,17 @@
+ID: 467
+Name: SFTPGo
+Description: Flexible, fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support.
+Source Code: https://github.com/drakkan/sftpgo
+License:
+    - AGPL-3.0
+Languages:
+    - Go
+C: File Sharing and Synchronization
+C2: Object storage/file servers
+C3: ""
+Tags:
+    - File Sharing
+    - Object Storage
+MD: '- [SFTPGo](https://github.com/drakkan/sftpgo) - Flexible, fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. `AGPL-3.0` `Go`'
+SourceType: Github
+Line: 768

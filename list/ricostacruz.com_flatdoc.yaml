@@ -1,0 +1,16 @@
+ID: 997
+Name: Flatdoc
+Description: Small Javascript file that fetches Markdown files and renders them as full pages.
+Source Code: http://ricostacruz.com/flatdoc/
+License:
+    - MIT
+Languages:
+    - HTML5
+C: Software Development
+C2: Documentation Generators
+C3: ""
+Tags:
+    - Software Dev
+    - Documentation Gen
+MD: '- [Flatdoc](http://ricostacruz.com/flatdoc/) - Small Javascript file that fetches Markdown files and renders them as full pages. `MIT` `Javascript`'
+Line: 1492

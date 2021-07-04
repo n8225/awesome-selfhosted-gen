@@ -1,0 +1,18 @@
+ID: 502
+Name: transfer.sh
+Description: Easy file sharing from the command line.
+Source Code: https://github.com/dutchcoders/transfer.sh
+Website: https://transfer.sh
+License:
+    - MIT
+Languages:
+    - Go
+C: File Sharing and Synchronization
+C2: Command-line file upload
+C3: ""
+Tags:
+    - File Sharing
+    - CMD line upload
+MD: '- [transfer.sh](https://transfer.sh) - Easy file sharing from the command line. ([Source Code](https://github.com/dutchcoders/transfer.sh)) `MIT` `Go`'
+SourceType: Github
+Line: 809

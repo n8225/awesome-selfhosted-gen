@@ -1,0 +1,19 @@
+ID: 250
+Name: Misskey
+Description: Decentralized app-like microblogging server/SNS for the Fediverse, using the ActivityPub protocol like GNU social and Mastodon.
+Source Code: https://github.com/syuilo/misskey
+Website: https://misskey.io/
+License:
+    - AGPL-3.0
+Languages:
+    - Nodejs
+C: Communication systems
+C2: Social Networks and Forums
+C3: ""
+Tags:
+    - Communications
+    - Social Network
+    - Forum
+MD: '- [Misskey](https://misskey.io/) - Decentralized app-like microblogging server/SNS for the Fediverse, using the ActivityPub protocol like GNU social and Mastodon. ([Source Code](https://github.com/syuilo/misskey)) `AGPL-3.0` `Nodejs`'
+SourceType: Github
+Line: 457

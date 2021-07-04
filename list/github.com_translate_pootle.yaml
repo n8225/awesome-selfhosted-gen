@@ -1,0 +1,18 @@
+ID: 1002
+Name: Pootle
+Description: Online translation and localization tool.
+Source Code: https://github.com/translate/pootle
+Website: http://pootle.translatehouse.org
+License:
+    - GPL-3.0
+Languages:
+    - Python
+C: Software Development
+C2: Localization
+C3: ""
+Tags:
+    - Software Dev
+    - Localiztion
+MD: '- [Pootle](http://pootle.translatehouse.org) - Online translation and localization tool. ([Source Code](https://github.com/translate/pootle)) `GPL-3.0` `Python`'
+SourceType: Github
+Line: 1500

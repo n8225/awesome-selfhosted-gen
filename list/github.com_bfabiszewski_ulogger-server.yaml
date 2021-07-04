@@ -1,0 +1,18 @@
+ID: 611
+Name: μlogger
+Description: Collect geolocation from users in real-time and display their GPS tracks on a website.
+Source Code: https://github.com/bfabiszewski/ulogger-server
+Demo: http://ulogger.fabiszewski.net/
+License:
+    - GPL-3.0
+Languages:
+    - PHP
+C: Maps and Global Positioning System (GPS)
+C2: ""
+C3: ""
+Tags:
+    - Maps
+    - GPS
+MD: '- [μlogger](https://github.com/bfabiszewski/ulogger-server) - Collect geolocation from users in real-time and display their GPS tracks on a website. ([Demo](http://ulogger.fabiszewski.net/)) `GPL-3.0` `PHP`'
+SourceType: Github
+Line: 970

@@ -1,0 +1,16 @@
+ID: 888
+Name: inlets
+Description: Expose your local endpoints to the Internet - with a Kubernetes integration, Docker image and CLI available.
+Source Code: https://inlets.dev/
+License:
+    - MIT
+Languages:
+    - Go
+    - Docker
+C: Proxy
+C2: ""
+C3: ""
+Tags:
+    - Proxy
+MD: '- [inlets](https://inlets.dev/) - Expose your local endpoints to the Internet - with a Kubernetes integration, Docker image and CLI available. `MIT` `Go/Docker`'
+Line: 1329

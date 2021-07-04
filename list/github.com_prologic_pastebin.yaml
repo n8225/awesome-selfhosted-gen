@@ -1,0 +1,17 @@
+ID: 815
+Name: pastebin
+Description: Simple pastebin service with convenient api and CLI.
+Source Code: https://github.com/prologic/pastebin
+Demo: https://paste.mills.io
+License:
+    - MIT
+Languages:
+    - Go
+C: Pastebins
+C2: ""
+C3: ""
+Tags:
+    - Pastebin
+MD: '- [pastebin](https://github.com/prologic/pastebin) - Simple pastebin service with convenient api and CLI. ([Demo](https://paste.mills.io)) `MIT` `Go`'
+SourceType: Github
+Line: 1231

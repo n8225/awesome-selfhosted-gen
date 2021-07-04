@@ -1,0 +1,17 @@
+ID: 433
+Name: RSS Merger
+Description: PHP script which will take multiple RSS / Atom feeds as input and merge them into a single RSS feed.
+Source Code: https://github.com/taophp/rss-merger
+License:
+    - GPL-2.0
+Languages:
+    - PHP
+C: Feed Readers
+C2: ""
+C3: ""
+Tags:
+    - RSS
+    - Feed Reader
+MD: '- [RSS Merger](https://github.com/taophp/rss-merger) - PHP script which will take multiple RSS / Atom feeds as input and merge them into a single RSS feed. `GPL-2.0` `PHP`'
+SourceType: Github
+Line: 712

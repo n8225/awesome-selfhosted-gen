@@ -1,0 +1,16 @@
+ID: 798
+Name: 0bin
+Description: Client side encrypted pastebin.
+Source Code: https://github.com/sametmax/0bin
+License:
+    - WTFPL
+Languages:
+    - Python
+C: Pastebins
+C2: ""
+C3: ""
+Tags:
+    - Pastebin
+MD: '- [0bin](https://github.com/sametmax/0bin) - Client side encrypted pastebin. `WTFPL` `Python`'
+SourceType: Github
+Line: 1214

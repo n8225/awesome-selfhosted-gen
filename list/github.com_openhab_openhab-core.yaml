@@ -1,0 +1,18 @@
+ID: 577
+Name: openHAB
+Description: Vendor and technology agnostic open source software for home automation.
+Source Code: https://github.com/openhab/openhab-core
+Website: http://www.openhab.org
+License:
+    - EPL-2.0
+Languages:
+    - Java
+C: Internet Of Things (IoT)
+C2: ""
+C3: ""
+Tags:
+    - Internet Of Things
+    - IoT
+MD: '- [openHAB](http://www.openhab.org) - Vendor and technology agnostic open source software for home automation. ([Source Code](https://github.com/openhab/openhab-core)) `EPL-2.0` `Java`'
+SourceType: Github
+Line: 919

@@ -1,0 +1,17 @@
+ID: 328
+Name: REDAXO
+Description: Simple, flexible and useful content management system (documentation only available in German).
+Source Code: https://github.com/redaxo/redaxo
+Website: https://www.redaxo.org
+License:
+    - MIT
+Languages:
+    - PHP
+C: Content Management Systems (CMS)
+C2: ""
+C3: ""
+Tags:
+    - CMS
+MD: '- [REDAXO](https://www.redaxo.org) - Simple, flexible and useful content management system (documentation only available in German). ([Source Code](https://github.com/redaxo/redaxo)) `MIT` `PHP`'
+SourceType: Github
+Line: 559

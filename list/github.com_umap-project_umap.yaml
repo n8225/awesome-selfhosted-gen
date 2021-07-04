@@ -1,0 +1,18 @@
+ID: 612
+Name: uMap
+Description: Create maps with OpenStreetMap layers in a minute and embed them in your site.
+Source Code: https://github.com/umap-project/umap
+Website: https://umap.openstreetmap.fr/en/
+License:
+    - WTFPL
+Languages:
+    - Python
+C: Maps and Global Positioning System (GPS)
+C2: ""
+C3: ""
+Tags:
+    - Maps
+    - GPS
+MD: '- [uMap](https://umap.openstreetmap.fr/en/) - Create maps with OpenStreetMap layers in a minute and embed them in your site. ([Source Code](https://github.com/umap-project/umap)) `WTFPL` `Python`'
+SourceType: Github
+Line: 971

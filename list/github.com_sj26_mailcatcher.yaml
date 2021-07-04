@@ -1,0 +1,19 @@
+ID: 159
+Name: MailCatcher
+Description: Ruby gem that deploys a simply SMTP MTA gateway that accepts all mail and displays in web interface. Useful for debugging or development.
+Source Code: https://github.com/sj26/mailcatcher
+Website: http://mailcatcher.me/
+License:
+    - MIT
+Languages:
+    - Ruby
+C: Communication systems
+C2: Email
+C3: Mail Transfer Agents
+Tags:
+    - Communications
+    - Email
+    - MTA
+MD: '- [MailCatcher](http://mailcatcher.me/) - Ruby gem that deploys a simply SMTP MTA gateway that accepts all mail and displays in web interface. Useful for debugging or development. ([Source Code](https://github.com/sj26/mailcatcher)) `MIT` `Ruby`'
+SourceType: Github
+Line: 334

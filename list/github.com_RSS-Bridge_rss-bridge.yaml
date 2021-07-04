@@ -1,0 +1,17 @@
+ID: 434
+Name: RSS-Bridge
+Description: rss-bridge is a PHP project capable of generating ATOM feeds for websites which don't have one.
+Source Code: https://github.com/RSS-Bridge/rss-bridge
+License:
+    - Unlicense
+Languages:
+    - PHP
+C: Feed Readers
+C2: ""
+C3: ""
+Tags:
+    - RSS
+    - Feed Reader
+MD: '- [RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge) - rss-bridge is a PHP project capable of generating ATOM feeds for websites which don''t have one. `Unlicense` `PHP`'
+SourceType: Github
+Line: 713

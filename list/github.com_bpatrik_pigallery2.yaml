@@ -1,0 +1,18 @@
+ID: 860
+Name: PiGallery 2
+Description: A directory-first photo gallery website, with a rich UI, optimised for running on low resource servers.
+Source Code: https://github.com/bpatrik/pigallery2
+Website: https://bpatrik.github.io/pigallery2/
+License:
+    - MIT
+Languages:
+    - Docker
+    - Nodejs
+C: Photo and Video Galleries
+C2: ""
+C3: ""
+Tags:
+    - Photo and Video Gallery
+MD: '- [PiGallery 2](https://bpatrik.github.io/pigallery2/) - A directory-first photo gallery website, with a rich UI, optimised for running on low resource servers. ([Source Code](https://github.com/bpatrik/pigallery2)) `MIT` `Docker/Nodejs`'
+SourceType: Github
+Line: 1288

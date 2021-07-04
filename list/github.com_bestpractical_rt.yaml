@@ -1,0 +1,17 @@
+ID: 1038
+Name: Request Tracker
+Description: An enterprise-grade issue tracking system.
+Source Code: https://github.com/bestpractical/rt
+Website: https://www.bestpractical.com/rt/
+License:
+    - GPL-2.0
+Languages:
+    - Perl
+C: Ticketing
+C2: ""
+C3: ""
+Tags:
+    - Ticketing
+MD: '- [Request Tracker](https://www.bestpractical.com/rt/) - An enterprise-grade issue tracking system. ([Source Code](https://github.com/bestpractical/rt)) `GPL-2.0` `Perl`'
+SourceType: Github
+Line: 1556

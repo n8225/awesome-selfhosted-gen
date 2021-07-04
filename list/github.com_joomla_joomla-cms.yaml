@@ -1,0 +1,17 @@
+ID: 314
+Name: Joomla!
+Description: Advanced Content Management System (CMS).
+Source Code: https://github.com/joomla/joomla-cms
+Website: https://www.joomla.org/
+License:
+    - GPL-2.0
+Languages:
+    - PHP
+C: Content Management Systems (CMS)
+C2: ""
+C3: ""
+Tags:
+    - CMS
+MD: '- [Joomla!](https://www.joomla.org/) - Advanced Content Management System (CMS). ([Source Code](https://github.com/joomla/joomla-cms)) `GPL-2.0` `PHP`'
+SourceType: Github
+Line: 545

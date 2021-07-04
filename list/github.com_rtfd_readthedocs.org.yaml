@@ -1,0 +1,19 @@
+ID: 999
+Name: Read the Docs
+Description: Host documentation, making it fully searchable and easy to find; import your docs using any major version control system, including Mercurial, Git, Subversion, and Bazaar.
+Source Code: https://github.com/rtfd/readthedocs.org
+Demo: https://readthedocs.org/projects/
+Website: https://docs.readthedocs.org/en/latest/install.html
+License:
+    - MIT
+Languages:
+    - Python
+C: Software Development
+C2: Documentation Generators
+C3: ""
+Tags:
+    - Software Dev
+    - Documentation Gen
+MD: '- [Read the Docs](https://docs.readthedocs.org/en/latest/install.html) - Host documentation, making it fully searchable and easy to find; import your docs using any major version control system, including Mercurial, Git, Subversion, and Bazaar. ([Demo](https://readthedocs.org/projects/), [Source Code](https://github.com/rtfd/readthedocs.org)) `MIT` `Python`'
+SourceType: Github
+Line: 1494

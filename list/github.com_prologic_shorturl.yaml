@@ -1,0 +1,17 @@
+ID: 1054
+Name: shorturl
+Description: Simple URL shortener with very tiny URLs.
+Source Code: https://github.com/prologic/shorturl
+Demo: https://url.mills.io
+License:
+    - MIT
+Languages:
+    - Go
+C: URL Shorteners
+C2: ""
+C3: ""
+Tags:
+    - URL Shortener
+MD: '- [shorturl](https://github.com/prologic/shorturl) - Simple URL shortener with very tiny URLs. ([Demo](https://url.mills.io)) `MIT` `Go`'
+SourceType: Github
+Line: 1579

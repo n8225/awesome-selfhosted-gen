@@ -1,0 +1,16 @@
+ID: 202
+Name: Weechat
+Description: Fast, light and extensible chat client.
+Source Code: https://weechat.org/
+License:
+    - GPL-3.0
+Languages:
+    - C
+C: Communication systems
+C2: IRC
+C3: ""
+Tags:
+    - Communications
+    - IRC
+MD: '- [Weechat](https://weechat.org/) - Fast, light and extensible chat client. `GPL-3.0` `C`'
+Line: 397

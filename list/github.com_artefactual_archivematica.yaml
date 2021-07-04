@@ -1,0 +1,19 @@
+ID: 2
+Name: Archivematica
+Description: Mature digital preservation system designed to maintain standards-based, long-term access to collections of digital objects.
+Source Code: https://github.com/artefactual/archivematica
+Demo: http://sandbox.archivematica.org/administration/accounts/login/
+Website: https://www.archivematica.org/
+License:
+    - AGPL-3.0-only
+Languages:
+    - Python
+C: Archiving and Digital Preservation (DP)
+C2: ""
+C3: ""
+Tags:
+    - archiving
+    - Digital Preservation
+MD: '- [Archivematica](https://www.archivematica.org/) - Mature digital preservation system designed to maintain standards-based, long-term access to collections of digital objects. ([Demo](http://sandbox.archivematica.org/administration/accounts/login/), [Source Code](https://github.com/artefactual/archivematica)) `AGPL-3.0-only` `Python`'
+SourceType: Github
+Line: 121

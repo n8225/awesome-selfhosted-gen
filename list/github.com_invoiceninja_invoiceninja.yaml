@@ -1,0 +1,19 @@
+ID: 740
+Name: Invoice Ninja
+Description: Powerful tool to invoice clients online.
+Source Code: https://github.com/invoiceninja/invoiceninja
+Demo: https://app.invoiceninja.com/invoices/create
+Website: https://www.invoiceninja.org/
+License:
+    - AAL
+Languages:
+    - PHP
+C: Money, Budgeting and Management
+C2: ""
+C3: ""
+Tags:
+    - Money
+    - Budget
+MD: '- [Invoice Ninja](https://www.invoiceninja.org/) - Powerful tool to invoice clients online. ([Demo](https://app.invoiceninja.com/invoices/create), [Source Code](https://github.com/invoiceninja/invoiceninja)) `AAL` `PHP`'
+SourceType: Github
+Line: 1127

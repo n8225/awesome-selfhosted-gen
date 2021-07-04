@@ -1,0 +1,19 @@
+ID: 151
+Name: Qmailtoaster
+Description: Stable, full-featured, easy-to-install mail server based on qmail.
+Source Code: https://github.com/QMailToaster/
+Website: http://www.qmailtoaster.com/
+License:
+    - Multiple
+Languages:
+    - Shell
+C: Communication systems
+C2: Email
+C3: Complete solutions
+Tags:
+    - Communications
+    - Email
+    - Complete Email
+MD: '- [Qmailtoaster](http://www.qmailtoaster.com/) - Stable, full-featured, easy-to-install mail server based on qmail. ([Source Code](https://github.com/QMailToaster/)) `Multiple` `Linux`'
+SourceType: Github
+Line: 321

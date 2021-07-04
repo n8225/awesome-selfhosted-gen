@@ -1,0 +1,19 @@
+ID: 647
+Name: ympd
+Description: Standalone MPD Web GUI written in C, utilizing Websockets and Bootstrap/JS.
+Source Code: https://github.com/notandy/ympd
+Website: http://www.ympd.org/
+License:
+    - GPL-2.0
+Languages:
+    - C
+C: Media Streaming
+C2: Audio Streaming
+C3: ""
+Tags:
+    - Media
+    - Streaming
+    - Audio
+MD: '  - [ympd](http://www.ympd.org/) - Standalone MPD Web GUI written in C, utilizing Websockets and Bootstrap/JS. ([Source Code](https://github.com/notandy/ympd)) `GPL-2.0` `C`'
+SourceType: Github
+Line: 1019

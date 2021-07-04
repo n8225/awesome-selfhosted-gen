@@ -1,0 +1,18 @@
+ID: 201
+Name: Tiny Tiny IRC
+Description: An open source AJAX-powered chat platform with support for IRC ([Source Code](https://git.tt-rss.org/fox/tt-irc)).
+Source Code: https://git.tt-rss.org/fox/tt-irc
+Website: https://tt-rss.org/tt-irc/
+License:
+    - GPL-3.0
+Languages:
+    - PHP
+    - Java
+C: Communication systems
+C2: IRC
+C3: ""
+Tags:
+    - Communications
+    - IRC
+MD: '- [Tiny Tiny IRC](https://tt-rss.org/tt-irc/) - An open source AJAX-powered chat platform with support for IRC ([Source Code](https://git.tt-rss.org/fox/tt-irc)). `GPL-3.0` `PHP/Java`'
+Line: 396

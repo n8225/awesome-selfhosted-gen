@@ -1,0 +1,18 @@
+ID: 825
+Name: Spacebin
+Description: Text-sharing for the final frontier — Reliable Pastebin server in Golang and Fiber.
+Source Code: https://github.com/spacebin-org/spirit
+Demo: https://spaceb.in
+Website: https://docs.spaceb.in
+License:
+    - Apache-2.0
+Languages:
+    - Go
+C: Pastebins
+C2: ""
+C3: ""
+Tags:
+    - Pastebin
+MD: '- [Spacebin](https://docs.spaceb.in) - Text-sharing for the final frontier — Reliable Pastebin server in Golang and Fiber. ([Demo](https://spaceb.in), [Source Code](https://github.com/spacebin-org/spirit)) `Apache-2.0` `Go`'
+SourceType: Github
+Line: 1241

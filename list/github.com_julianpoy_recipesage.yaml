@@ -1,0 +1,17 @@
+ID: 346
+Name: RecipeSage
+Description: A recipe keeper, meal plan organizer, and shopping list manager that can import recipes directly from any URL.
+Source Code: https://github.com/julianpoy/recipesage
+Demo: https://recipesage.com
+License:
+    - AGPL-3.0
+Languages: []
+C: Content Management Systems (CMS)
+C2: Recipe management
+C3: ""
+Tags:
+    - CMS
+    - Recipe Mgmnt
+MD: '- [RecipeSage](https://github.com/julianpoy/recipesage) - A recipe keeper, meal plan organizer, and shopping list manager that can import recipes directly from any URL. ([Demo](https://recipesage.com)) `AGPL-3.0` `Node.JS`'
+SourceType: Github
+Line: 580

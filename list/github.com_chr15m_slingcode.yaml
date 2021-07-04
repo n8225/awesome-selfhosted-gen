@@ -1,0 +1,19 @@
+ID: 974
+Name: Slingcode
+Description: Web app IDE and computing platform in a single static HTML file.
+Source Code: https://github.com/chr15m/slingcode/
+Demo: https://slingcode.net/slingcode.html
+Website: https://slingcode.net/
+License:
+    - MIT
+Languages:
+    - HTML5
+C: Software Development
+C2: IDE/Tools
+C3: ""
+Tags:
+    - Software Dev
+    - IDE
+MD: '- [Slingcode](https://slingcode.net/) - Web app IDE and computing platform in a single static HTML file. ([Demo](https://slingcode.net/slingcode.html), [Source Code](https://github.com/chr15m/slingcode/)) `MIT` `HTML`'
+SourceType: Github
+Line: 1449

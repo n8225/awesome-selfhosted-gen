@@ -1,0 +1,16 @@
+ID: 546
+Name: Sshwifty
+Description: Sshwifty is a SSH and Telnet connector made for the Web.
+Source Code: https://github.com/nirui/sshwifty
+License:
+    - AGPL-3.0
+Languages:
+    - Go
+    - Docker
+C: Gateways and terminal sharing
+C2: ""
+C3: ""
+Tags: []
+MD: '- [Sshwifty](https://github.com/nirui/sshwifty) - Sshwifty is a SSH and Telnet connector made for the Web. `AGPL-3.0` `Go/Docker`'
+SourceType: Github
+Line: 868

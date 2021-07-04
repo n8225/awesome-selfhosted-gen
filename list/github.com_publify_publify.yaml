@@ -1,0 +1,17 @@
+ID: 327
+Name: Publify
+Description: Simple but full featured web publishing software.
+Source Code: https://github.com/publify/publify
+Website: https://publify.github.io/
+License:
+    - MIT
+Languages:
+    - Ruby
+C: Content Management Systems (CMS)
+C2: ""
+C3: ""
+Tags:
+    - CMS
+MD: '- [Publify](https://publify.github.io/) - Simple but full featured web publishing software. ([Source Code](https://github.com/publify/publify)) `MIT` `Ruby`'
+SourceType: Github
+Line: 558

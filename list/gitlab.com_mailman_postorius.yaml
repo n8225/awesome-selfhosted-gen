@@ -1,0 +1,20 @@
+ID: 180
+Name: Postorius
+Description: Web user interface to access GNU Mailman.
+Source Code: https://gitlab.com/mailman/postorius/
+Website: https://docs.mailman3.org/projects/postorius/en/latest/
+License:
+    - GPL-3.0
+Languages:
+    - Python
+C: Communication systems
+C2: Email
+C3: Mailing lists and Newsletters
+Tags:
+    - Communications
+    - Email
+    - Mailng List
+    - Newsletters
+MD: '- [Postorius](https://docs.mailman3.org/projects/postorius/en/latest/) - Web user interface to access GNU Mailman. ([Source Code](https://gitlab.com/mailman/postorius/)) `GPL-3.0` `Python`'
+SourceType: Gitlab
+Line: 365

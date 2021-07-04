@@ -1,0 +1,18 @@
+ID: 355
+Name: OpenBazaar
+Description: Decentralized marketplace using cryptocurrency.
+Source Code: https://github.com/openbazaar/openbazaar-go
+Website: https://www.openbazaar.org
+License:
+    - MIT
+Languages:
+    - Go
+C: Content Management Systems (CMS)
+C2: E-commerce
+C3: ""
+Tags:
+    - CMS
+    - E-commerce
+MD: '- [OpenBazaar](https://www.openbazaar.org) - Decentralized marketplace using cryptocurrency. ([Source Code](https://github.com/openbazaar/openbazaar-go)) `MIT` `Go`'
+SourceType: Github
+Line: 592

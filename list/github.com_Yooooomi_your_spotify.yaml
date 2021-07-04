@@ -1,0 +1,18 @@
+ID: 843
+Name: Your Spotify
+Description: Allows you to record your Spotify listening activity and have statistics about them served through a Web application.
+Source Code: https://github.com/Yooooomi/your_spotify
+License:
+    - MIT
+Languages:
+    - Nodejs
+    - Docker
+C: Personal Dashboards
+C2: ""
+C3: ""
+Tags:
+    - Dashboard
+ProprietaryDependency: true
+MD: '- [Your Spotify](https://github.com/Yooooomi/your_spotify) `⚠` - Allows you to record your Spotify listening activity and have statistics about them served through a Web application. `MIT` `Nodejs/Docker`'
+SourceType: Github
+Line: 1266

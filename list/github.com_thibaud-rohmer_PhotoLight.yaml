@@ -1,0 +1,16 @@
+ID: 855
+Name: PhotoLight
+Description: The easiest photo gallery there is.
+Source Code: https://github.com/thibaud-rohmer/PhotoLight
+License:
+    - GPL-3.0
+Languages:
+    - PHP
+C: Photo and Video Galleries
+C2: ""
+C3: ""
+Tags:
+    - Photo and Video Gallery
+MD: '- [PhotoLight](https://github.com/thibaud-rohmer/PhotoLight) - The easiest photo gallery there is. `GPL-3.0` `PHP`'
+SourceType: Github
+Line: 1283

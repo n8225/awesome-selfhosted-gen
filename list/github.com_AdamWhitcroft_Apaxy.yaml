@@ -1,0 +1,18 @@
+ID: 503
+Name: Apaxy
+Description: Theme built to enhance the experience of browsing web directories, using the mod_autoindex Apache module and some CSS to override the default style of a directory listing.
+Source Code: https://github.com/AdamWhitcroft/Apaxy
+Website: https://oupala.github.io/apaxy/
+License:
+    - Unlicense
+Languages:
+    - HTML5
+C: File Sharing and Synchronization
+C2: Web based file managers
+C3: ""
+Tags:
+    - File Sharing
+    - Web File MGR
+MD: '- [Apaxy](https://oupala.github.io/apaxy/) - Theme built to enhance the experience of browsing web directories, using the mod_autoindex Apache module and some CSS to override the default style of a directory listing. ([Source Code](https://github.com/AdamWhitcroft/Apaxy)) `Unlicense` `HTML`'
+SourceType: Github
+Line: 813

@@ -1,0 +1,18 @@
+ID: 214
+Name: Routr
+Description: A lightweight sip proxy, location server, and registrar for a reliable and scalable SIP infrastructure.
+Source Code: https://github.com/fonoster/routr
+Website: https://routr.io
+License:
+    - MIT
+Languages:
+    - HTML5
+C: Communication systems
+C2: SIP
+C3: ""
+Tags:
+    - Communications
+    - SIP
+MD: '- [Routr](https://routr.io) - A lightweight sip proxy, location server, and registrar for a reliable and scalable SIP infrastructure. ([Source Code](https://github.com/fonoster/routr)) `MIT` `JavaScript`'
+SourceType: Github
+Line: 416

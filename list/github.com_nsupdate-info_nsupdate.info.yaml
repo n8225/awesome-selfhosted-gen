@@ -1,0 +1,18 @@
+ID: 375
+Name: nsupdate.info
+Description: nsupdate.info is a dynamic DNS service.
+Source Code: https://github.com/nsupdate-info/nsupdate.info
+Demo: https://www.nsupdate.info/account/register/
+Website: https://www.nsupdate.info/
+License:
+    - BSD-3-Clause
+Languages:
+    - Python
+C: DNS
+C2: ""
+C3: ""
+Tags:
+    - DNS
+MD: '- [nsupdate.info](https://www.nsupdate.info/) - nsupdate.info is a dynamic DNS service. ([Demo](https://www.nsupdate.info/account/register/), [Source Code](https://github.com/nsupdate-info/nsupdate.info)) `BSD-3-Clause` `Python`'
+SourceType: Github
+Line: 619

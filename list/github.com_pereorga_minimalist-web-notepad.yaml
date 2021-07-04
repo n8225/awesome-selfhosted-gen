@@ -1,0 +1,18 @@
+ID: 762
+Name: minimalist-web-notepad
+Description: Minimalist notepad.cc clone.
+Source Code: https://github.com/pereorga/minimalist-web-notepad
+Demo: https://notes.orga.cat/
+License:
+    - Apache-2.0
+Languages:
+    - PHP
+C: Note-taking and Editors
+C2: ""
+C3: ""
+Tags:
+    - Note-taking
+    - Editor
+MD: '- [minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - Minimalist notepad.cc clone. ([Demo](https://notes.orga.cat/)) `Apache-2.0` `PHP`'
+SourceType: Github
+Line: 1162

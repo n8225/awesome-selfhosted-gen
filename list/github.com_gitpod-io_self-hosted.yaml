@@ -1,0 +1,20 @@
+ID: 963
+Name: Gitpod
+Description: Online IDE for GitHub and GitLab.
+Source Code: https://github.com/gitpod-io/self-hosted
+Demo: https://gitpod.io/#https://github.com/awesome-selfhosted/awesome-selfhosted
+Website: https://gitpod.io/
+License:
+    - EPL-2.0
+Languages:
+    - Go
+    - Docker
+C: Software Development
+C2: IDE/Tools
+C3: ""
+Tags:
+    - Software Dev
+    - IDE
+MD: '- [Gitpod](https://gitpod.io/) - Online IDE for GitHub and GitLab. ([Demo](https://gitpod.io/#https://github.com/awesome-selfhosted/awesome-selfhosted), [Source Code](https://github.com/gitpod-io/self-hosted)) `EPL-2.0` `Go/Docker`'
+SourceType: Github
+Line: 1438

@@ -1,0 +1,19 @@
+ID: 772
+Name: Standard Notes
+Description: Simple and private notes app. Protect your privacy while getting more done. That's Standard Notes.
+Source Code: https://github.com/standardnotes
+Demo: https://app.standardnotes.org/
+Website: https://standardnotes.org
+License:
+    - GPL-3.0
+Languages:
+    - Ruby
+C: Note-taking and Editors
+C2: ""
+C3: ""
+Tags:
+    - Note-taking
+    - Editor
+MD: '- [Standard Notes](https://standardnotes.org) - Simple and private notes app. Protect your privacy while getting more done. That''s Standard Notes. ([Demo](https://app.standardnotes.org/), [Source Code](https://github.com/standardnotes)) `GPL-3.0` `Ruby`'
+SourceType: Github
+Line: 1172

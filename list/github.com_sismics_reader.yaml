@@ -1,0 +1,19 @@
+ID: 420
+Name: Sismics Reader
+Description: Free and open source feeds reader, including all major Google Reader features.
+Source Code: https://github.com/sismics/reader
+Demo: https://www.sismics.com/reader/#!/demo
+Website: http://sismics.com/reader/
+License:
+    - GPL-2.0
+Languages:
+    - Java
+C: Feed Readers
+C2: ""
+C3: ""
+Tags:
+    - RSS
+    - Feed Reader
+MD: '- [Sismics Reader](http://sismics.com/reader/) - Free and open source feeds reader, including all major Google Reader features. ([Demo](https://www.sismics.com/reader/#!/demo), [Source Code](https://github.com/sismics/reader)) `GPL-2.0` `Java`'
+SourceType: Github
+Line: 696

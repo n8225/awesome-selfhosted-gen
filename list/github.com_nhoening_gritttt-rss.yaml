@@ -1,0 +1,18 @@
+ID: 424
+Name: gritttt-rss
+Description: More features for Tiny Tiny RSS.
+Source Code: https://github.com/nhoening/gritttt-rss
+Website: http://gritttt-rss.nicolashoening.de/
+License:
+    - BSD-2-Clause
+Languages:
+    - Python
+C: Feed Readers
+C2: ""
+C3: ""
+Tags:
+    - RSS
+    - Feed Reader
+MD: '  - [gritttt-rss](http://gritttt-rss.nicolashoening.de/) - More features for Tiny Tiny RSS. ([Source Code](https://github.com/nhoening/gritttt-rss)) `BSD-2-Clause` `Python`'
+SourceType: Github
+Line: 700

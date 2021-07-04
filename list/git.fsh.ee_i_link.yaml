@@ -1,0 +1,17 @@
+ID: 1045
+Name: Link
+Description: A minimal, SQLite-backed URL shortener.
+Source Code: https://git.fsh.ee/i/link
+Demo: https://demo.fsh.ee
+Website: https://fsh.ee
+License:
+    - GPL-3.0
+Languages:
+    - Go
+C: URL Shorteners
+C2: ""
+C3: ""
+Tags:
+    - URL Shortener
+MD: '- [Link](https://fsh.ee) - A minimal, SQLite-backed URL shortener. ([Demo](https://demo.fsh.ee), [Source Code](https://git.fsh.ee/i/link)) `GPL-3.0` `Go`'
+Line: 1570

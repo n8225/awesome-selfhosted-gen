@@ -1,0 +1,17 @@
+ID: 907
+Name: farmOS
+Description: Web-based farm record keeping application.
+Source Code: https://github.com/farmOS/farmOS
+Website: http://farmos.org/
+License:
+    - GPL-2.0
+Languages:
+    - PHP
+C: Resource Planning
+C2: ""
+C3: ""
+Tags:
+    - Resource Planning
+MD: '- [farmOS](http://farmos.org/) - Web-based farm record keeping application. ([Source Code](https://github.com/farmOS/farmOS)) `GPL-2.0` `PHP`'
+SourceType: Github
+Line: 1358

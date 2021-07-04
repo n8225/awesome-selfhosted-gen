@@ -1,0 +1,17 @@
+ID: 25
+Name: Kibitzr
+Description: Lightweight personal web assistant with powerful integrations.
+Source Code: https://github.com/kibitzr/kibitzr
+Website: https://kibitzr.github.io
+License:
+    - MIT
+Languages:
+    - Python
+C: Automation
+C2: ""
+C3: ""
+Tags:
+    - Automation
+MD: '- [Kibitzr](https://kibitzr.github.io) - Lightweight personal web assistant with powerful integrations. ([Source Code](https://github.com/kibitzr/kibitzr)) `MIT` `Python`'
+SourceType: Github
+Line: 151

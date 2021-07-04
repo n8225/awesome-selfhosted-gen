@@ -1,0 +1,18 @@
+ID: 70
+Name: Hackershare
+Description: Social bookmarks website for hackers.
+Source Code: https://github.com/hackershare/hackershare
+Demo: https://hackershare.dev
+License:
+    - MIT
+Languages:
+    - Ruby
+C: Bookmarks and Link Sharing
+C2: ""
+C3: ""
+Tags:
+    - Bookmarks
+    - Links
+MD: '- [Hackershare](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers. ([Demo](https://hackershare.dev)) `MIT` `Ruby`'
+SourceType: Github
+Line: 210

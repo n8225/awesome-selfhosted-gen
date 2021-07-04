@@ -1,0 +1,17 @@
+ID: 27
+Name: Leon
+Description: Open-source personal assistant who can live on your server.
+Source Code: https://github.com/leon-ai/leon
+Website: https://getleon.ai
+License:
+    - MIT
+Languages:
+    - Nodejs
+C: Automation
+C2: ""
+C3: ""
+Tags:
+    - Automation
+MD: '- [Leon](https://getleon.ai) - Open-source personal assistant who can live on your server. ([Source Code](https://github.com/leon-ai/leon)) `MIT` `Node.js`'
+SourceType: Github
+Line: 153

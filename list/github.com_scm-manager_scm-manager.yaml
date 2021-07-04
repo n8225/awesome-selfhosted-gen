@@ -1,0 +1,18 @@
+ID: 951
+Name: SCM Manager
+Description: The easiest way to share and manage your Git, Mercurial and Subversion repositories over http.
+Source Code: https://github.com/scm-manager/scm-manager
+Website: https://www.scm-manager.org/
+License:
+    - BSD-3-Clause
+Languages:
+    - Java
+C: Software Development
+C2: Project Management
+C3: ""
+Tags:
+    - Software Dev
+    - Project Mgmnt
+MD: '- [SCM Manager](https://www.scm-manager.org/) - The easiest way to share and manage your Git, Mercurial and Subversion repositories over http. ([Source Code](https://github.com/scm-manager/scm-manager)) `BSD-3-Clause` `Java`'
+SourceType: Github
+Line: 1419

@@ -1,0 +1,20 @@
+ID: 596
+Name: Sakai
+Description: The Sakai project provides a flexible and feature-rich environment for teaching, learning, research and other collaboration.
+Source Code: https://github.com/sakaiproject/sakai
+Demo: https://www.sakaiproject.org/try-sakai
+Website: https://www.sakaiproject.org/
+License:
+    - ECL-2.0
+Languages:
+    - Java
+C: Learning and Courses
+C2: ""
+C3: ""
+Tags:
+    - Learning
+    - Courses
+    - LMS
+MD: '- [Sakai](https://www.sakaiproject.org/) - The Sakai project provides a flexible and feature-rich environment for teaching, learning, research and other collaboration. ([Demo](https://www.sakaiproject.org/try-sakai), [Source Code](https://github.com/sakaiproject/sakai)) `ECL-2.0` `Java`'
+SourceType: Github
+Line: 948

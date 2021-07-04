@@ -1,0 +1,17 @@
+ID: 555
+Name: egroupware
+Description: Software suite including calendars, address books, notepad, project management tools, client relationship management tools (CRM), knowledge management tools, a wiki and a CMS.
+Source Code: https://github.com/EGroupware/egroupware
+Website: http://www.egroupware.org/
+License:
+    - GPL-2.0
+Languages:
+    - PHP
+C: Groupware
+C2: ""
+C3: ""
+Tags:
+    - Groupware
+MD: '- [egroupware](http://www.egroupware.org/) - Software suite including calendars, address books, notepad, project management tools, client relationship management tools (CRM), knowledge management tools, a wiki and a CMS. ([Source Code](https://github.com/EGroupware/egroupware)) `GPL-2.0` `PHP`'
+SourceType: Github
+Line: 887

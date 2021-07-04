@@ -1,0 +1,18 @@
+ID: 345
+Name: OpenEats
+Description: Recipe management site that allows users to create, store, share and rate recipes, create grocery lists, and more.
+Source Code: https://github.com/open-eats/OpenEats
+Demo: https://open-eats.github.io/
+License:
+    - MIT
+Languages:
+    - Python
+C: Content Management Systems (CMS)
+C2: Recipe management
+C3: ""
+Tags:
+    - CMS
+    - Recipe Mgmnt
+MD: '- [OpenEats](https://github.com/open-eats/OpenEats) - Recipe management site that allows users to create, store, share and rate recipes, create grocery lists, and more. ([Demo](https://open-eats.github.io/)) `MIT` `Python`'
+SourceType: Github
+Line: 579

@@ -1,0 +1,16 @@
+ID: 9
+Name: ActiveWorkflow
+Description: An intelligent process and workflow automation platform based on software agents.
+Source Code: https://github.com/automaticmode/active_workflow
+License:
+    - MIT
+Languages:
+    - Ruby
+C: Automation
+C2: ""
+C3: ""
+Tags:
+    - Automation
+MD: '- [ActiveWorkflow](https://github.com/automaticmode/active_workflow) - An intelligent process and workflow automation platform based on software agents. `MIT` `Ruby`'
+SourceType: Github
+Line: 135

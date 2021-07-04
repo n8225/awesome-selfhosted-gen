@@ -1,0 +1,19 @@
+ID: 192
+Name: Convos
+Description: Always online web IRC client.
+Source Code: http://github.com/nordaaker/convos
+Demo: https://convos.chat/#instant-demo
+Website: https://convos.chat/
+License:
+    - Artistic-2.0
+Languages:
+    - Perl
+C: Communication systems
+C2: IRC
+C3: ""
+Tags:
+    - Communications
+    - IRC
+MD: '- [Convos](https://convos.chat/) - Always online web IRC client. ([Demo](https://convos.chat/#instant-demo), [Source Code](http://github.com/nordaaker/convos)) `Artistic-2.0` `Perl`'
+SourceType: Github
+Line: 387

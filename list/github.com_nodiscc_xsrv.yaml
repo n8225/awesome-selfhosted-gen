@@ -1,0 +1,17 @@
+ID: 1099
+Name: xsrv
+Description: Install and manage self-hosted services/applications, on your own server(s).
+Source Code: https://github.com/nodiscc/xsrv
+Website: https://xsrv.readthedocs.io/
+License:
+    - GPL-3.0
+Languages:
+    - Shell
+C: Self-hosting Solutions
+C2: ""
+C3: ""
+Tags:
+    - Self-hosting Solution
+MD: '- [xsrv](https://xsrv.readthedocs.io/) - Install and manage self-hosted services/applications, on your own server(s). ([Source Code](https://github.com/nodiscc/xsrv)) `GPL-3.0` `Shell/Ansible`'
+SourceType: Github
+Line: 1648

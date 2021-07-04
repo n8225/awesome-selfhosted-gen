@@ -1,0 +1,16 @@
+ID: 851
+Name: LibrePhotos
+Description: Self hosted wannabe Google Photos clone, with a slight focus on cool graphs.
+Source Code: https://github.com/LibrePhotos/librephotos
+License:
+    - MIT
+Languages:
+    - Python
+C: Photo and Video Galleries
+C2: ""
+C3: ""
+Tags:
+    - Photo and Video Gallery
+MD: '- [LibrePhotos](https://github.com/LibrePhotos/librephotos) - Self hosted wannabe Google Photos clone, with a slight focus on cool graphs. `MIT` `Python`'
+SourceType: Github
+Line: 1279

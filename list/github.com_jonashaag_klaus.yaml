@@ -1,0 +1,17 @@
+ID: 937
+Name: Klaus
+Description: Simple, easy-to-set-up Git web viewer that Just Works.
+Source Code: https://github.com/jonashaag/klaus
+License:
+    - ISC
+Languages:
+    - Python
+C: Software Development
+C2: Project Management
+C3: ""
+Tags:
+    - Software Dev
+    - Project Mgmnt
+MD: '- [Klaus](https://github.com/jonashaag/klaus) - Simple, easy-to-set-up Git web viewer that Just Works. `ISC` `Python`'
+SourceType: Github
+Line: 1405

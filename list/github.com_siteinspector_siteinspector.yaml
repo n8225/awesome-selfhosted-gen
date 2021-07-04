@@ -1,0 +1,18 @@
+ID: 40
+Name: SiteInspector
+Description: Web-based tool for catching spelling errors, grammatical errors, broken links, and other errors on websites.
+Source Code: https://github.com/siteinspector/siteinspector
+Demo: https://demo.getsiteinspector.com/reports
+Website: https://www.getsiteinspector.com/
+License:
+    - AGPL-3.0
+Languages:
+    - Ruby
+C: Automation
+C2: ""
+C3: ""
+Tags:
+    - Automation
+MD: '- [SiteInspector](https://www.getsiteinspector.com/) - Web-based tool for catching spelling errors, grammatical errors, broken links, and other errors on websites. ([Demo](https://demo.getsiteinspector.com/reports), [Source Code](https://github.com/siteinspector/siteinspector)) `AGPL-3.0` `Ruby`'
+SourceType: Github
+Line: 166

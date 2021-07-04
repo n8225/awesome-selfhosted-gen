@@ -1,0 +1,19 @@
+ID: 882
+Name: PHPBack
+Description: The open source feedback system.
+Source Code: https://github.com/ivandiazwm/phpback
+Demo: http://www.phpback.org/demo/
+Website: http://www.phpback.org
+License:
+    - GPL-3.0
+Languages:
+    - PHP
+C: Polls and Events
+C2: ""
+C3: ""
+Tags:
+    - Polls
+    - Events
+MD: '- [PHPBack](http://www.phpback.org) - The open source feedback system. ([Demo](http://www.phpback.org/demo/), [Source Code](https://github.com/ivandiazwm/phpback)) `GPL-3.0` `PHP`'
+SourceType: Github
+Line: 1315

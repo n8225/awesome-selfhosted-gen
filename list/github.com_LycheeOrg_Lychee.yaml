@@ -1,0 +1,17 @@
+ID: 852
+Name: Lychee
+Description: Open source grid and album based photo-management-system.
+Source Code: https://github.com/LycheeOrg/Lychee
+Website: https://lycheeorg.github.io/
+License:
+    - MIT
+Languages:
+    - PHP
+C: Photo and Video Galleries
+C2: ""
+C3: ""
+Tags:
+    - Photo and Video Gallery
+MD: '- [Lychee](https://lycheeorg.github.io/) - Open source grid and album based photo-management-system. ([Source Code](https://github.com/LycheeOrg/Lychee)) `MIT` `PHP`'
+SourceType: Github
+Line: 1280

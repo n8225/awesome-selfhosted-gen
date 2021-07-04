@@ -1,0 +1,19 @@
+ID: 238
+Name: Friendica
+Description: Social Communication Server.
+Source Code: https://github.com/friendica/friendica
+Website: https://friendi.ca/
+License:
+    - AGPL-3.0
+Languages:
+    - PHP
+C: Communication systems
+C2: Social Networks and Forums
+C3: ""
+Tags:
+    - Communications
+    - Social Network
+    - Forum
+MD: '- [Friendica](https://friendi.ca/) - Social Communication Server. ([Source Code](https://github.com/friendica/friendica)) `AGPL-3.0` `PHP`'
+SourceType: Github
+Line: 445

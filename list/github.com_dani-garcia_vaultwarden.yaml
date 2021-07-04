@@ -1,0 +1,16 @@
+ID: 797
+Name: Vaultwarden
+Description: Lightweight Bitwarden server API implementation written in Rust.
+Source Code: https://github.com/dani-garcia/vaultwarden
+License:
+    - GPL-3.0
+Languages:
+    - Rust
+C: Password Managers
+C2: ""
+C3: ""
+Tags:
+    - Password Manager
+MD: '- [Vaultwarden](https://github.com/dani-garcia/vaultwarden) - Lightweight Bitwarden server API implementation written in Rust. `GPL-3.0` `Rust`'
+SourceType: Github
+Line: 1207

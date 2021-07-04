@@ -1,0 +1,19 @@
+ID: 443
+Name: Pydio
+Description: Turn any web server into a powerful file management system and an alternative to mainstream cloud storage providers.
+Source Code: https://github.com/pydio/pydio-core
+Website: https://pydio.com/
+License:
+    - AGPL-3.0
+Languages:
+    - PHP
+C: File Sharing and Synchronization
+C2: File transfer/synchronization
+C3: ""
+Tags:
+    - File Sharing
+    - File Transfer
+    - File Sync
+MD: '- [Pydio](https://pydio.com/) - Turn any web server into a powerful file management system and an alternative to mainstream cloud storage providers. ([Source Code](https://github.com/pydio/pydio-core)) `AGPL-3.0` `PHP`'
+SourceType: Github
+Line: 738

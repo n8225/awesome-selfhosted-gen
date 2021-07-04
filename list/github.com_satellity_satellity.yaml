@@ -1,0 +1,19 @@
+ID: 263
+Name: Satellity
+Description: Yet another open source forum written in Golang, React and PostgreSQL.
+Source Code: https://github.com/satellity/satellity
+Website: https://satellity.org/
+License:
+    - MIT
+Languages:
+    - Go
+C: Communication systems
+C2: Social Networks and Forums
+C3: ""
+Tags:
+    - Communications
+    - Social Network
+    - Forum
+MD: '- [Satellity](https://satellity.org/) - Yet another open source forum written in Golang, React and PostgreSQL. ([Source Code](https://github.com/satellity/satellity)) `MIT` `Go`'
+SourceType: Github
+Line: 470

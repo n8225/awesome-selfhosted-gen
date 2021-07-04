@@ -1,0 +1,16 @@
+ID: 205
+Name: Asterisk
+Description: Easy to use but advanced IP PBX system, VoIP gateway and conference server.
+Source Code: http://www.asterisk.org/
+License:
+    - GPL-2.0
+Languages:
+    - C
+C: Communication systems
+C2: SIP
+C3: ""
+Tags:
+    - Communications
+    - SIP
+MD: '- [Asterisk](http://www.asterisk.org/) - Easy to use but advanced IP PBX system, VoIP gateway and conference server. `GPL-2.0` `C`'
+Line: 407

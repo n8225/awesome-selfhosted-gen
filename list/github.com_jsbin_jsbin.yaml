@@ -1,0 +1,18 @@
+ID: 967
+Name: JS Bin
+Description: Open source collaborative web development debugging tool.
+Source Code: https://github.com/jsbin/jsbin
+Website: http://jsbin.com/
+License:
+    - MIT
+Languages:
+    - Nodejs
+C: Software Development
+C2: IDE/Tools
+C3: ""
+Tags:
+    - Software Dev
+    - IDE
+MD: '- [JS Bin](http://jsbin.com/) - Open source collaborative web development debugging tool. ([Source Code](https://github.com/jsbin/jsbin)) `MIT` `Nodejs`'
+SourceType: Github
+Line: 1442

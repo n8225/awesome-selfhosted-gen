@@ -3,19 +3,19 @@ package getexternal
 import (
 	"encoding/json"
 	"io/ioutil"
-	"log"
 	"net/http"
 	"net/url"
 	"strings"
+
+	"github.com/rs/zerolog/log"
 )
 
 // CleanURL creates url for bitbucket API server
 func CleanURL(bbu, wp, q string) (rel string) {
 	u, err := url.Parse(bbu)
 	if err != nil {
-		log.Fatal(err)
+		log.Fatal().Stack().Err(err).Stack().Err(err)
 	}
-	//fmt.Println(u.Path)
 	p := strings.Split(u.Path, "/")
 
 	newu := &url.URL{
@@ -41,31 +41,31 @@ func GetBbRepo(url string) (int, string) {
 
 	resw, err := http.Get(CleanURL(url, p, w))
 	if err != nil {
-		log.Fatal(err)
+		log.Fatal().Stack().Err(err)
 	}
 	bodyw, err := ioutil.ReadAll(resw.Body)
 	resw.Body.Close()
 	if err != nil {
-		log.Fatal(err)
+		log.Fatal().Stack().Err(err).Stack().Err(err)
 	}
 	err = json.Unmarshal(bodyw, &thisbb)
 	if err != nil {
-		log.Fatal(err)
+		log.Fatal().Stack().Err(err).Stack().Err(err)
 	}
 
 	res, err := http.Get(CleanURL(url, "", u))
 	if err != nil {
-		log.Fatal(err)
+		log.Fatal().Stack().Err(err).Stack().Err(err)
 	}
 	body, err := ioutil.ReadAll(res.Body)
 	res.Body.Close()
 	if err != nil {
-		log.Fatal(err)
+		log.Fatal().Stack().Err(err).Stack().Err(err)
 	}
 
 	err = json.Unmarshal(body, &thisbb)
 	if err != nil {
-		log.Fatal(err)
+		log.Fatal().Stack().Err(err).Stack().Err(err)
 	}
 
 	return thisbb.Stars, strings.Split(thisbb.Updated, "T")[0]

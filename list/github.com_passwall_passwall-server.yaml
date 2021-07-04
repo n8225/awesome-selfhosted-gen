@@ -1,0 +1,16 @@
+ID: 792
+Name: PassWall
+Description: Open source password manager.
+Source Code: https://github.com/passwall/passwall-server
+License:
+    - AGPL-3.0
+Languages:
+    - Go
+C: Password Managers
+C2: ""
+C3: ""
+Tags:
+    - Password Manager
+MD: '- [PassWall](https://github.com/passwall/passwall-server) - Open source password manager. `AGPL-3.0` `Go`'
+SourceType: Github
+Line: 1202

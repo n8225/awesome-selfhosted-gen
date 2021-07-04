@@ -1,0 +1,20 @@
+ID: 91
+Name: Xandikos
+Description: Open source CardDAV and CalDAV server with minimal administrative overhead, backed by a Git repository.
+Source Code: https://github.com/jelmer/xandikos
+Website: https://www.xandikos.org/
+License:
+    - GPL-3.0
+Languages:
+    - Python
+C: Calendaring and Contacts Management
+C2: CalDAV or CardDAV servers
+C3: ""
+Tags:
+    - Calendar
+    - Contacts
+    - CalDAV
+    - CardDav
+MD: '- [Xandikos](https://www.xandikos.org/) - Open source CardDAV and CalDAV server with minimal administrative overhead, backed by a Git repository. ([Source Code](https://github.com/jelmer/xandikos)) `GPL-3.0` `Python`'
+SourceType: Github
+Line: 242

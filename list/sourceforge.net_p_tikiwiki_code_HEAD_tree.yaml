@@ -1,0 +1,17 @@
+ID: 1076
+Name: Tiki
+Description: Wiki CMS Groupware with the most built-in features.
+Source Code: https://sourceforge.net/p/tikiwiki/code/HEAD/tree/
+Demo: https://tiki.org/Demo
+Website: https://tiki.org
+License:
+    - LGPL-2.1
+Languages:
+    - PHP
+C: Wikis
+C2: ""
+C3: ""
+Tags:
+    - Wiki
+MD: '- [Tiki](https://tiki.org) - Wiki CMS Groupware with the most built-in features. ([Demo](https://tiki.org/Demo), [Source Code](https://sourceforge.net/p/tikiwiki/code/HEAD/tree/)) `LGPL-2.1` `PHP`'
+Line: 1620

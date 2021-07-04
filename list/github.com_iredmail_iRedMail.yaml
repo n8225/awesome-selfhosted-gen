@@ -1,0 +1,19 @@
+ID: 145
+Name: iRedMail
+Description: Full-featured mail server solution based on Postfix and Dovecot.
+Source Code: https://github.com/iredmail/iRedMail
+Website: http://www.iredmail.org/
+License:
+    - GPL-3.0
+Languages:
+    - Shell
+C: Communication systems
+C2: Email
+C3: Complete solutions
+Tags:
+    - Communications
+    - Email
+    - Complete Email
+MD: '- [iRedMail](http://www.iredmail.org/) - Full-featured mail server solution based on Postfix and Dovecot. ([Source Code](https://github.com/iredmail/iRedMail)) `GPL-3.0` `Shell`'
+SourceType: Github
+Line: 315

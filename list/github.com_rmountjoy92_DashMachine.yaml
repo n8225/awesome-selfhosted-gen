@@ -1,0 +1,16 @@
+ID: 830
+Name: DashMachine
+Description: Another web application bookmark dashboard, with fun features.
+Source Code: https://github.com/rmountjoy92/DashMachine
+License:
+    - GPL-3.0
+Languages:
+    - Python
+C: Personal Dashboards
+C2: ""
+C3: ""
+Tags:
+    - Dashboard
+MD: '- [DashMachine](https://github.com/rmountjoy92/DashMachine) - Another web application bookmark dashboard, with fun features. `GPL-3.0` `Python`'
+SourceType: Github
+Line: 1253

@@ -1,0 +1,19 @@
+ID: 462
+Name: Send
+Description: Simple, private, end to end encrypted temporary file sharing, originally built by Mozilla.
+Source Code: https://github.com/timvisee/send
+Clients:
+    - https://github.com/timvisee/send#clients
+License:
+    - MPL-2.0
+Languages:
+    - Nodejs
+C: File Sharing and Synchronization
+C2: Peer-to-peer filesharing
+C3: ""
+Tags:
+    - File Sharing
+    - P2P
+MD: '- [Send](https://github.com/timvisee/send) - Simple, private, end to end encrypted temporary file sharing, originally built by Mozilla. ([Clients](https://github.com/timvisee/send#clients)) `MPL-2.0` `Nodejs`'
+SourceType: Github
+Line: 760

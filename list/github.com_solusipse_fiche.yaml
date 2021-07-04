@@ -1,0 +1,17 @@
+ID: 805
+Name: fiche
+Description: Command line pastebin, all you need is netcat.
+Source Code: https://github.com/solusipse/fiche
+Demo: http://termbin.com/
+License:
+    - MIT
+Languages:
+    - C
+C: Pastebins
+C2: ""
+C3: ""
+Tags:
+    - Pastebin
+MD: '- [fiche](https://github.com/solusipse/fiche) - Command line pastebin, all you need is netcat. ([Demo](http://termbin.com/)) `MIT` `C`'
+SourceType: Github
+Line: 1221

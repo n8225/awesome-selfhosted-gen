@@ -1,0 +1,20 @@
+ID: 527
+Name: Net64+
+Description: Net64 aka SM64O allows playing Super Mario 64 in an online multiplayer mode. Net64+ is the official continuation of the program and features an integrated server list.
+Source Code: https://github.com/Tarnadas/net64plus-server/
+Clients:
+    - https://github.com/Tarnadas/net64plus/
+Website: https://net64-mod.github.io
+License:
+    - MIT
+Languages:
+    - Nodejs
+C: Games
+C2: ""
+C3: ""
+Tags:
+    - Game
+ProprietaryDependency: true
+MD: '- [Net64+](https://net64-mod.github.io) `⚠` - Net64 aka SM64O allows playing Super Mario 64 in an online multiplayer mode. Net64+ is the official continuation of the program and features an integrated server list. ([Source Code](https://github.com/Tarnadas/net64plus-server/), [Clients](https://github.com/Tarnadas/net64plus/)) `MIT` `Nodejs`'
+SourceType: Github
+Line: 844

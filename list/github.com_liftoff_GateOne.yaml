@@ -1,0 +1,16 @@
+ID: 540
+Name: GateOne
+Description: Gate One is an HTML5 web-based terminal emulator and SSH client.
+Source Code: https://github.com/liftoff/GateOne
+Website: http://liftoffsoftware.com/Products/GateOne
+License:
+    - AGPL-3.0
+Languages:
+    - Python
+C: Gateways and terminal sharing
+C2: ""
+C3: ""
+Tags: []
+MD: '- [GateOne](http://liftoffsoftware.com/Products/GateOne) - Gate One is an HTML5 web-based terminal emulator and SSH client. ([Source Code](https://github.com/liftoff/GateOne)) `AGPL-3.0` `Python`'
+SourceType: Github
+Line: 862

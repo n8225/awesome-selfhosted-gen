@@ -1,0 +1,18 @@
+ID: 352
+Name: Drupal Commerce
+Description: Drupal Commerce is a popular e-commerce module for Drupal CMS, with support for dozens of payment, shipping, and shopping related modules.
+Source Code: https://github.com/drupalcommerce/commerce
+Website: https://drupalcommerce.org
+License:
+    - GPL-2.0
+Languages:
+    - PHP
+C: Content Management Systems (CMS)
+C2: E-commerce
+C3: ""
+Tags:
+    - CMS
+    - E-commerce
+MD: '- [Drupal Commerce](https://drupalcommerce.org) - Drupal Commerce is a popular e-commerce module for Drupal CMS, with support for dozens of payment, shipping, and shopping related modules. ([Source Code](https://github.com/drupalcommerce/commerce)) `GPL-2.0` `PHP`'
+SourceType: Github
+Line: 589

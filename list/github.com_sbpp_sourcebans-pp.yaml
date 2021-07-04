@@ -1,0 +1,17 @@
+ID: 534
+Name: SourceBans++
+Description: Admin, ban, and communication management system for games running on the Source engine.
+Source Code: https://github.com/sbpp/sourcebans-pp
+Website: https://sbpp.github.io
+License:
+    - CC-BY-SA-4.0
+Languages:
+    - PHP
+C: Games
+C2: ""
+C3: ""
+Tags:
+    - Game
+MD: '- [SourceBans++](https://sbpp.github.io) - Admin, ban, and communication management system for games running on the Source engine. ([Source Code](https://github.com/sbpp/sourcebans-pp)) `CC-BY-SA-4.0` `PHP`'
+SourceType: Github
+Line: 851

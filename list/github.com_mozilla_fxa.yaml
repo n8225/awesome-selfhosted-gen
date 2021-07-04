@@ -1,0 +1,17 @@
+ID: 66
+Name: Firefox Account Server
+Description: This allows you to host your own Firefox accounts server.
+Source Code: https://github.com/mozilla/fxa
+Website: https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html
+License:
+    - MPL-2.0
+Languages: []
+C: Bookmarks and Link Sharing
+C2: ""
+C3: ""
+Tags:
+    - Bookmarks
+    - Links
+MD: '- [Firefox Account Server](https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html) - This allows you to host your own Firefox accounts server. ([Source Code](https://github.com/mozilla/fxa)) `MPL-2.0` `Nodejs, Java`'
+SourceType: Github
+Line: 206

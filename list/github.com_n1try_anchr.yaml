@@ -1,0 +1,18 @@
+ID: 680
+Name: Anchr
+Description: Anchr is a toolbox for tiny tasks on the internet, including bookmark collections, URL shortening and (encrypted) image uploads.
+Source Code: https://github.com/n1try/anchr
+Website: https://anchr.io
+License:
+    - GPL-3.0
+Languages:
+    - Nodejs
+C: Misc/Other
+C2: ""
+C3: ""
+Tags:
+    - Misc
+    - Other
+MD: '- [Anchr](https://anchr.io) - Anchr is a toolbox for tiny tasks on the internet, including bookmark collections, URL shortening and (encrypted) image uploads. ([Source Code](https://github.com/n1try/anchr)) `GPL-3.0` `Nodejs`'
+SourceType: Github
+Line: 1060

@@ -1,0 +1,18 @@
+ID: 777
+Name: Writing
+Description: Lightweight distraction-free text editor, in the browser (Markdown and LaTeX supported). No lag when writing.
+Source Code: https://github.com/josephernest/writing
+Website: https://josephernest.github.io/writing/
+License:
+    - MIT
+Languages:
+    - HTML5
+C: Note-taking and Editors
+C2: ""
+C3: ""
+Tags:
+    - Note-taking
+    - Editor
+MD: '- [Writing](https://josephernest.github.io/writing/) - Lightweight distraction-free text editor, in the browser (Markdown and LaTeX supported). No lag when writing. ([Source Code](https://github.com/josephernest/writing)) `MIT` `Javascript`'
+SourceType: Github
+Line: 1177

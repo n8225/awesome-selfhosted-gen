@@ -1,0 +1,18 @@
+ID: 672
+Name: Streama
+Description: Self hosted streaming media server.
+Source Code: https://github.com/streamaserver/streama
+License:
+    - MIT
+Languages:
+    - Java
+C: Media Streaming
+C2: Video Streaming
+C3: ""
+Tags:
+    - Media
+    - Streaming
+    - Video
+MD: '- [Streama](https://github.com/streamaserver/streama) - Self hosted streaming media server. `MIT` `Java`'
+SourceType: Github
+Line: 1047

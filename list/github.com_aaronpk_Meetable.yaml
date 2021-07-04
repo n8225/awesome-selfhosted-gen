@@ -1,0 +1,19 @@
+ID: 879
+Name: Meetable
+Description: Event aggregator.
+Source Code: https://github.com/aaronpk/Meetable
+Demo: https://events.indieweb.org
+Website: https://meetable.org
+License:
+    - MIT
+Languages:
+    - PHP
+C: Polls and Events
+C2: ""
+C3: ""
+Tags:
+    - Polls
+    - Events
+MD: '- [Meetable](https://meetable.org) - Event aggregator. ([Demo](https://events.indieweb.org), [Source Code](https://github.com/aaronpk/Meetable)) `MIT` `PHP`'
+SourceType: Github
+Line: 1312

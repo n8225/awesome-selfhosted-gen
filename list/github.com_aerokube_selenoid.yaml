@@ -1,0 +1,17 @@
+ID: 978
+Name: Selenoid
+Description: Lightweight Selenium hub implementation launching browsers within Docker containers.
+Source Code: https://github.com/aerokube/selenoid
+Website: http://aerokube.com/selenoid/latest/
+License:
+    - Apache-2.0
+Languages:
+    - Go
+C: Software Development
+C2: UX testing
+C3: ""
+Tags:
+    - Software Dev
+MD: '- [Selenoid](http://aerokube.com/selenoid/latest/) - Lightweight Selenium hub implementation launching browsers within Docker containers. ([Source Code](https://github.com/aerokube/selenoid)) `Apache-2.0` `Go`'
+SourceType: Github
+Line: 1460

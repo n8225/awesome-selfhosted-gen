@@ -1,0 +1,19 @@
+ID: 655
+Name: Bluecherry
+Description: Closed-circuit television (CCTV) software application which supports IP and Analog cameras.
+Source Code: https://github.com/bluecherrydvr/bluecherry-apps
+Website: https://www.bluecherrydvr.com/
+License:
+    - GPL-2.0
+Languages:
+    - PHP
+C: Media Streaming
+C2: Video Streaming
+C3: ""
+Tags:
+    - Media
+    - Streaming
+    - Video
+MD: '- [Bluecherry](https://www.bluecherrydvr.com/) - Closed-circuit television (CCTV) software application which supports IP and Analog cameras. ([Source Code](https://github.com/bluecherrydvr/bluecherry-apps)) `GPL-2.0` `PHP`'
+SourceType: Github
+Line: 1030

@@ -1,0 +1,18 @@
+ID: 666
+Name: Olaris
+Description: Olaris is an open-source, community driven, media manager and transcoding server.
+Source Code: https://gitlab.com/olaris/olaris-server
+License:
+    - GPL-3.0
+Languages:
+    - Go
+C: Media Streaming
+C2: Video Streaming
+C3: ""
+Tags:
+    - Media
+    - Streaming
+    - Video
+MD: '- [Olaris](https://gitlab.com/olaris/olaris-server) - Olaris is an open-source, community driven, media manager and transcoding server. `GPL-3.0` `Go`'
+SourceType: Gitlab
+Line: 1041

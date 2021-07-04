@@ -1,9 +1,10 @@
 package parse
 
 import (
-	"fmt"
 	"regexp"
 	"strings"
+
+	"github.com/rs/zerolog/log"
 
 	"github.com/n8225/awesome-selfhosted-gen/pkg/getexternal"
 )
@@ -20,6 +21,8 @@ type Entry struct {
 	License    []string `json:"Li" yaml:"License"`
 	Lang       []string `json:"La" yaml:"Languages"`
 	Cat        string   `json:"C,omitempty" yaml:"C"`
+	Cat2       string   `json:"C2,omitempty" yaml:"C2"`
+	Cat3       string   `json:"C3,omitempty" yaml:"C3"`
 	Tags       []string `json:"T" yaml:"Tags"`
 	Pdep       bool     `json:"P,omitempty" yaml:"ProprietaryDependency,omitempty"`
 	MD         string   `json:"-" yaml:"MD"`
@@ -67,10 +70,7 @@ func GetLang(e string) []string {
 
 //GetPdep determines whether an entry has a proprietary dependency.
 func GetPdep(e string) bool {
-	if strings.Contains(regexp.MustCompile(Pattern).FindAllStringSubmatch(e, -1)[0][3], "⚠") == true {
-		return true
-	}
-	return false
+	return strings.Contains(regexp.MustCompile(Pattern).FindAllStringSubmatch(e, -1)[0][3], "⚠")
 }
 
 //GetDemo parses the URL for the Demo site.
@@ -124,6 +124,9 @@ func GetSite(e string) string {
 
 //GetGitdata pulls data from the providers api
 func GetGitdata(e Entry, ght string) *Gitdata {
+	if ght == "" {
+		log.Fatal().Msg("No github api key provided")
+	}
 	const glp string = "^(http.://)(www.){0,1}(gitlab.com)/(.*)$"
 	const bbp string = "^(http.://)(www.){0,1}(bitbucket.org)/(.*)/(.*)$"
 	const ghp string = "^(http.://)(www.){0,1}(github.com)/(.*)$"
@@ -137,7 +140,7 @@ func GetGitdata(e Entry, ght string) *Gitdata {
 	case "Github":
 		g.Stars, g.Updated, g.License, g.Language, g.Errors = getexternal.GetGH(e.Source, ght, nil)
 		if g.Errors != nil {
-			fmt.Printf("Github API errors, Line %d: %v\n", e.Line, g.Errors)
+			log.Info().Msgf("Github API errors, Line %d: %v", e.Line, g.Errors)
 		}
 	default:
 

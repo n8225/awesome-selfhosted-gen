@@ -1,0 +1,17 @@
+ID: 922
+Name: Typesense
+Description: Blazing fast, typo-tolerant open source search engine optimized for developer happiness and ease of use.
+Source Code: https://github.com/typesense/typesense
+Website: https://typesense.org
+License:
+    - GPL-3.0
+Languages:
+    - C++
+C: Search Engines
+C2: ""
+C3: ""
+Tags:
+    - Search Engine
+MD: '- [Typesense](https://typesense.org) - Blazing fast, typo-tolerant open source search engine optimized for developer happiness and ease of use. ([Source Code](https://github.com/typesense/typesense)) `GPL-3.0` `C++`'
+SourceType: Github
+Line: 1381

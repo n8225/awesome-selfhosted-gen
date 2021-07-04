@@ -1,0 +1,18 @@
+ID: 713
+Name: oTranscribe
+Description: Free web app to take the pain out of transcribing recorded interviews.
+Source Code: https://github.com/oTranscribe/oTranscribe
+Demo: https://otranscribe.com/
+License:
+    - MIT
+Languages:
+    - HTML5
+C: Misc/Other
+C2: ""
+C3: ""
+Tags:
+    - Misc
+    - Other
+MD: '- [oTranscribe](https://github.com/oTranscribe/oTranscribe) - Free web app to take the pain out of transcribing recorded interviews. ([Demo](https://otranscribe.com/)) `MIT` `JavaScript`'
+SourceType: Github
+Line: 1093

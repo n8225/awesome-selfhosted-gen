@@ -1,0 +1,17 @@
+ID: 62
+Name: Plume
+Description: Federated blogging engine, based on ActivityPub.
+Source Code: https://github.com/Plume-org/Plume
+Website: https://joinplu.me/
+License:
+    - AGPL-3.0
+Languages:
+    - Rust
+C: Blogging Platforms
+C2: ""
+C3: ""
+Tags:
+    - Blog
+MD: '- [Plume](https://joinplu.me/) - Federated blogging engine, based on ActivityPub. ([Source Code](https://github.com/Plume-org/Plume)) `AGPL-3.0` `Rust`'
+SourceType: Github
+Line: 196

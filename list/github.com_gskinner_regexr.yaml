@@ -1,0 +1,18 @@
+ID: 972
+Name: Regexr
+Description: RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
+Source Code: https://github.com/gskinner/regexr
+Website: http://regexr.com/
+License:
+    - MIT
+Languages:
+    - Nodejs
+C: Software Development
+C2: IDE/Tools
+C3: ""
+Tags:
+    - Software Dev
+    - IDE
+MD: '- [Regexr](http://regexr.com/) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions. ([Source Code](https://github.com/gskinner/regexr)) `MIT` `Nodejs`'
+SourceType: Github
+Line: 1447

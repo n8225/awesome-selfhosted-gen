@@ -1,0 +1,16 @@
+ID: 1050
+Name: reduc.io
+Description: URL shortener service written in Scala, using Akka-Http and Redis.
+Source Code: https://github.com/ziyasal/reducio
+License:
+    - MIT
+Languages:
+    - scala
+C: URL Shorteners
+C2: ""
+C3: ""
+Tags:
+    - URL Shortener
+MD: '- [reduc.io](https://github.com/ziyasal/reducio) - URL shortener service written in Scala, using Akka-Http and Redis. `MIT` `Scala`'
+SourceType: Github
+Line: 1575

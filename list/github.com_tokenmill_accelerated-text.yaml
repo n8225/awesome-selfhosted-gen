@@ -1,0 +1,16 @@
+ID: 7
+Name: Accelerated Text
+Description: Automatically generate multiple natural language descriptions of your data varying in wording and structure.
+Source Code: https://github.com/tokenmill/accelerated-text
+License:
+    - Apache-2.0
+Languages:
+    - Java
+C: Automation
+C2: ""
+C3: ""
+Tags:
+    - Automation
+MD: '- [Accelerated Text](https://github.com/tokenmill/accelerated-text) - Automatically generate multiple natural language descriptions of your data varying in wording and structure. `Apache-2.0` `Java`'
+SourceType: Github
+Line: 133

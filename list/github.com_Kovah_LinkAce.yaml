@@ -1,0 +1,19 @@
+ID: 72
+Name: LinkAce
+Description: A bookmark archive with automatic backups to the Internet Archive, link monitoring, and a full REST API. Installation is done via Docker, or as a simple PHP application.
+Source Code: https://github.com/Kovah/LinkAce/
+Demo: https://demo.linkace.org/
+Website: https://www.linkace.org/
+License:
+    - GPL-3.0
+Languages:
+    - PHP
+C: Bookmarks and Link Sharing
+C2: ""
+C3: ""
+Tags:
+    - Bookmarks
+    - Links
+MD: '- [LinkAce](https://www.linkace.org/) - A bookmark archive with automatic backups to the Internet Archive, link monitoring, and a full REST API. Installation is done via Docker, or as a simple PHP application. ([Demo](https://demo.linkace.org/), [Source Code](https://github.com/Kovah/LinkAce/)) `GPL-3.0` `PHP`'
+SourceType: Github
+Line: 212

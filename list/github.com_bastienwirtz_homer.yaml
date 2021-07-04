@@ -1,0 +1,16 @@
+ID: 836
+Name: Homer
+Description: A dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check.
+Source Code: https://github.com/bastienwirtz/homer
+License:
+    - Apache-2.0
+Languages:
+    - HTML5
+C: Personal Dashboards
+C2: ""
+C3: ""
+Tags:
+    - Dashboard
+MD: '- [Homer](https://github.com/bastienwirtz/homer) - A dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check. `Apache-2.0` `HTML5`'
+SourceType: Github
+Line: 1259

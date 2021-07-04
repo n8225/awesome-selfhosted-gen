@@ -1,0 +1,19 @@
+ID: 681
+Name: Anuko
+Description: Anuko provides simple time and project tracking on a selfhosted basis.
+Source Code: https://github.com/anuko/timetracker
+Demo: https://timetracker.anuko.com/
+Website: https://www.anuko.com/time_tracker/index.htm
+License:
+    - Other
+Languages:
+    - PHP
+C: Misc/Other
+C2: ""
+C3: ""
+Tags:
+    - Misc
+    - Other
+MD: '- [Anuko](https://www.anuko.com/time_tracker/index.htm) - Anuko provides simple time and project tracking on a selfhosted basis. ([Demo](https://timetracker.anuko.com/), [Source Code](https://github.com/anuko/timetracker)) `Other` `PHP`'
+SourceType: Github
+Line: 1061

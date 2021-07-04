@@ -1,0 +1,18 @@
+ID: 809
+Name: Hastebin
+Description: Open source pastebin written in Node.js (This is a fork with extended maintenance).
+Source Code: https://github.com/zneix/haste-server
+Demo: https://haste.zneix.eu
+Website: https://haste.zneix.eu/about.md
+License:
+    - MIT
+Languages:
+    - Nodejs
+C: Pastebins
+C2: ""
+C3: ""
+Tags:
+    - Pastebin
+MD: '- [Hastebin](https://haste.zneix.eu/about.md) - Open source pastebin written in Node.js (This is a fork with extended maintenance). ([Demo](https://haste.zneix.eu), [Source Code](https://github.com/zneix/haste-server)) `MIT` `Node.js`'
+SourceType: Github
+Line: 1225

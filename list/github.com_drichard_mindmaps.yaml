@@ -1,0 +1,17 @@
+ID: 582
+Name: Mindmaps
+Description: Open source, offline capable, mind mapping application.
+Source Code: https://github.com/drichard/mindmaps
+Demo: http://drichard.org/mindmaps/
+License:
+    - AGPL-3.0
+Languages:
+    - HTML5
+C: Knowledge Management Tools
+C2: ""
+C3: ""
+Tags:
+    - Knowledge Mgmnt
+MD: '- [Mindmaps](https://github.com/drichard/mindmaps) - Open source, offline capable, mind mapping application. ([Demo](http://drichard.org/mindmaps/)) `AGPL-3.0` `HTML5`'
+SourceType: Github
+Line: 929

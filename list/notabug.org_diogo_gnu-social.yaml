@@ -1,0 +1,18 @@
+ID: 240
+Name: GNU social
+Description: Social communication software for both public and private communications.
+Source Code: https://notabug.org/diogo/gnu-social
+Website: https://gnu.io/social/
+License:
+    - AGPL-3.0
+Languages:
+    - PHP
+C: Communication systems
+C2: Social Networks and Forums
+C3: ""
+Tags:
+    - Communications
+    - Social Network
+    - Forum
+MD: '- [GNU social](https://gnu.io/social/) - Social communication software for both public and private communications. ([Source Code](https://notabug.org/diogo/gnu-social)) `AGPL-3.0` `PHP`'
+Line: 447

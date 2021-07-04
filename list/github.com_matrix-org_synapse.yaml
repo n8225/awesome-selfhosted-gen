@@ -1,0 +1,17 @@
+ID: 128
+Name: Synapse
+Description: Server for [Matrix](https://matrix.org/), an open standard for decentralized persistent communication.
+Source Code: https://github.com/matrix-org/synapse
+Website: http://matrix.org/docs/projects/server/synapse.html
+License:
+    - Apache-2.0
+Languages:
+    - Python
+C: Communication systems
+C2: Custom communication systems
+C3: ""
+Tags:
+    - Communications
+MD: '- [Synapse](http://matrix.org/docs/projects/server/synapse.html) - Server for [Matrix](https://matrix.org/), an open standard for decentralized persistent communication. ([Source Code](https://github.com/matrix-org/synapse)) `Apache-2.0` `Python`'
+SourceType: Github
+Line: 289

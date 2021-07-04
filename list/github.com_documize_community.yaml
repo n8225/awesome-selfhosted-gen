@@ -1,0 +1,17 @@
+ID: 1063
+Name: Documize
+Description: Modern Docs + Wiki software with built-in workflow, single binary executable, just bring MySQL/Percona.
+Source Code: https://github.com/documize/community
+Website: https://documize.com
+License:
+    - AGPL-3.0
+Languages:
+    - Go
+C: Wikis
+C2: ""
+C3: ""
+Tags:
+    - Wiki
+MD: '- [Documize](https://documize.com) - Modern Docs + Wiki software with built-in workflow, single binary executable, just bring MySQL/Percona. ([Source Code](https://github.com/documize/community)) `AGPL-3.0` `Go`'
+SourceType: Github
+Line: 1607

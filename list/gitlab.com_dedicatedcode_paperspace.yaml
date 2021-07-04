@@ -1,0 +1,17 @@
+ID: 385
+Name: paper{s}pace
+Description: a small web application to manage all your offline documents. Provides a searchable storage for your documents and reminds you of upcoming tasks.
+Source Code: https://gitlab.com/dedicatedcode/paperspace
+Website: https://dedicatedcode.com/projects/
+License:
+    - MIT
+Languages:
+    - Java
+C: Document Management
+C2: ""
+C3: ""
+Tags:
+    - Doc Mgmnt
+MD: '- [paper{s}pace](https://dedicatedcode.com/projects/) - a small web application to manage all your offline documents. Provides a searchable storage for your documents and reminds you of upcoming tasks. ([Source Code](https://gitlab.com/dedicatedcode/paperspace)) `MIT` `Java`'
+SourceType: Gitlab
+Line: 634

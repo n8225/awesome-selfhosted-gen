@@ -1,0 +1,19 @@
+ID: 639
+Name: LibreTime
+Description: Simple, open source platform that lets you broadcast streaming radio on the web (fork of [Airtime](https://github.com/sourcefabric/Airtime)).
+Source Code: https://github.com/LibreTime/libretime
+Website: http://libretime.org
+License:
+    - AGPL-3.0
+Languages:
+    - PHP
+C: Media Streaming
+C2: Audio Streaming
+C3: ""
+Tags:
+    - Media
+    - Streaming
+    - Audio
+MD: '- [LibreTime](http://libretime.org) - Simple, open source platform that lets you broadcast streaming radio on the web (fork of [Airtime](https://github.com/sourcefabric/Airtime)). ([Source Code](https://github.com/LibreTime/libretime)) `AGPL-3.0` `PHP`'
+SourceType: Github
+Line: 1011

@@ -1,0 +1,17 @@
+ID: 165
+Name: Sendmail
+Description: Message transfer agent (MTA).
+Source Code: http://www.sendmail.com/sm/open_source/
+License:
+    - Sendmail
+Languages:
+    - C
+C: Communication systems
+C2: Email
+C3: Mail Transfer Agents
+Tags:
+    - Communications
+    - Email
+    - MTA
+MD: '- [Sendmail](http://www.sendmail.com/sm/open_source/) - Message transfer agent (MTA). `Sendmail` `C`'
+Line: 340

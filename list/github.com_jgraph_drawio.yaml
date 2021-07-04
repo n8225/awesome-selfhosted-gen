@@ -1,0 +1,18 @@
+ID: 756
+Name: draw.io
+Description: Diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams.
+Source Code: https://github.com/jgraph/drawio
+Website: https://draw.io
+License:
+    - Apache-2.0
+Languages:
+    - HTML5
+C: Note-taking and Editors
+C2: ""
+C3: ""
+Tags:
+    - Note-taking
+    - Editor
+MD: '- [draw.io](https://draw.io) - Diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. ([Source Code](https://github.com/jgraph/drawio)) `Apache-2.0` `JavaScript`'
+SourceType: Github
+Line: 1156

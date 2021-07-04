@@ -1,0 +1,17 @@
+ID: 1062
+Name: django-wiki
+Description: 'Wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models.'
+Source Code: https://github.com/django-wiki/django-wiki
+Demo: https://demo.django-wiki.org/
+License:
+    - GPL-3.0
+Languages:
+    - Python
+C: Wikis
+C2: ""
+C3: ""
+Tags:
+    - Wiki
+MD: '- [django-wiki](https://github.com/django-wiki/django-wiki) - Wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models. ([Demo](https://demo.django-wiki.org/)) `GPL-3.0` `Python`'
+SourceType: Github
+Line: 1606

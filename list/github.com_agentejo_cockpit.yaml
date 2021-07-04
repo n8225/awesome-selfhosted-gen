@@ -1,0 +1,17 @@
+ID: 304
+Name: Cockpit
+Description: Simple Content Platform to manage any structured content.
+Source Code: https://github.com/agentejo/cockpit
+Website: http://getcockpit.com
+License:
+    - MIT
+Languages:
+    - PHP
+C: Content Management Systems (CMS)
+C2: ""
+C3: ""
+Tags:
+    - CMS
+MD: '- [Cockpit](http://getcockpit.com) - Simple Content Platform to manage any structured content. ([Source Code](https://github.com/agentejo/cockpit)) `MIT` `PHP`'
+SourceType: Github
+Line: 535

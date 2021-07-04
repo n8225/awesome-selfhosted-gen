@@ -1,0 +1,17 @@
+ID: 802
+Name: dpaste
+Description: simple pastebin with multiple text and code option, with short url result easy to remember.
+Source Code: https://github.com/bartTC/dpaste
+Website: https://dpaste.org/
+License:
+    - MIT
+Languages:
+    - Docker
+C: Pastebins
+C2: ""
+C3: ""
+Tags:
+    - Pastebin
+MD: '- [dpaste](https://dpaste.org/) - simple pastebin with multiple text and code option, with short url result easy to remember. ([Source Code](https://github.com/bartTC/dpaste)) `MIT` `Docker`'
+SourceType: Github
+Line: 1218

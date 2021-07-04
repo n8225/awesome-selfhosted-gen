@@ -1,0 +1,18 @@
+ID: 388
+Name: BicBucStriim
+Description: Provides web-based access to your Calibre Library's e-book collection.
+Source Code: https://github.com/rvolz/BicBucStriim
+Website: http://projekte.textmulch.de/bicbucstriim/
+License:
+    - MIT
+Languages:
+    - PHP
+C: E-books and Integrated Library Systems (ILS)
+C2: Personal e-book management software.
+C3: ""
+Tags:
+    - E-book
+    - ILS
+MD: '  - [BicBucStriim](http://projekte.textmulch.de/bicbucstriim/) - Provides web-based access to your Calibre Library''s e-book collection. ([Source Code](https://github.com/rvolz/BicBucStriim)) `MIT` `PHP`'
+SourceType: Github
+Line: 646

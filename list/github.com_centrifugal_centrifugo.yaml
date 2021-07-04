@@ -1,0 +1,17 @@
+ID: 96
+Name: Centrifugo
+Description: Language-agnostic real-time messaging (Websocket or SockJS) server.
+Source Code: https://github.com/centrifugal/centrifugo
+Demo: https://github.com/centrifugal/centrifugo#demo
+License:
+    - MIT
+Languages:
+    - Go
+C: Communication systems
+C2: Custom communication systems
+C3: ""
+Tags:
+    - Communications
+MD: '- [Centrifugo](https://github.com/centrifugal/centrifugo) - Language-agnostic real-time messaging (Websocket or SockJS) server. ([Demo](https://github.com/centrifugal/centrifugo#demo)) `MIT` `Go`'
+SourceType: Github
+Line: 257

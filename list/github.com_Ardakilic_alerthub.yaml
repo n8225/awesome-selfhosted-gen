@@ -1,0 +1,18 @@
+ID: 679
+Name: AlertHub
+Description: AlertHub is a simple tool to get alerted from GitHub releases.
+Source Code: https://github.com/Ardakilic/alerthub
+License:
+    - MIT
+Languages:
+    - Nodejs
+C: Misc/Other
+C2: ""
+C3: ""
+Tags:
+    - Misc
+    - Other
+ProprietaryDependency: true
+MD: '- [AlertHub](https://github.com/Ardakilic/alerthub) `⚠` - AlertHub is a simple tool to get alerted from GitHub releases. `MIT` `Nodejs`'
+SourceType: Github
+Line: 1059

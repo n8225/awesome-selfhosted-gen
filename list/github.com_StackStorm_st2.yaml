@@ -1,0 +1,17 @@
+ID: 38
+Name: StackStorm
+Description: StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs with 6000+ actions and ChatOps.
+Source Code: https://github.com/StackStorm/st2
+Website: https://stackstorm.com
+License:
+    - Apache-2.0
+Languages:
+    - Python
+C: Automation
+C2: ""
+C3: ""
+Tags:
+    - Automation
+MD: '- [StackStorm](https://stackstorm.com) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, security responses, troubleshooting, deployments, and more. Includes rules engine, workflow, 160 integration packs with 6000+ actions and ChatOps. ([Source Code](https://github.com/StackStorm/st2)) `Apache-2.0` `Python`'
+SourceType: Github
+Line: 164

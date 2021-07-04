@@ -1,0 +1,18 @@
+ID: 30
+Name: MeTube
+Description: Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites.
+Source Code: https://github.com/alexta69/metube
+License:
+    - AGPL-3.0
+Languages:
+    - Python
+    - Nodejs
+    - Docker
+C: Automation
+C2: ""
+C3: ""
+Tags:
+    - Automation
+MD: '- [MeTube](https://github.com/alexta69/metube) - Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites. `AGPL-3.0` `Python/Nodejs/Docker`'
+SourceType: Github
+Line: 156

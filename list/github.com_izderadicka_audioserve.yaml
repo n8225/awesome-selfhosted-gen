@@ -1,0 +1,18 @@
+ID: 628
+Name: Audioserve
+Description: Simple personal server to serve audio files from directories (audiobooks, music, podcasts...). Focused on simplicity and supports sync of play position between clients.
+Source Code: https://github.com/izderadicka/audioserve
+License:
+    - MIT
+Languages:
+    - Rust
+C: Media Streaming
+C2: Audio Streaming
+C3: ""
+Tags:
+    - Media
+    - Streaming
+    - Audio
+MD: '- [Audioserve](https://github.com/izderadicka/audioserve) - Simple personal server to serve audio files from directories (audiobooks, music, podcasts...). Focused on simplicity and supports sync of play position between clients. `MIT` `Rust`'
+SourceType: Github
+Line: 1000

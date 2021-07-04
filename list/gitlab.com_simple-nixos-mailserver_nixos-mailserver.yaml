@@ -1,0 +1,18 @@
+ID: 153
+Name: Simple NixOS Mailserver
+Description: Complete mailserver solution leveraging the Nix Ecosystem.
+Source Code: https://gitlab.com/simple-nixos-mailserver/nixos-mailserver
+License:
+    - GPL-3.0
+Languages:
+    - Nix
+C: Communication systems
+C2: Email
+C3: Complete solutions
+Tags:
+    - Communications
+    - Email
+    - Complete Email
+MD: '- [Simple NixOS Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - Complete mailserver solution leveraging the Nix Ecosystem. `GPL-3.0` `Nix`'
+SourceType: Gitlab
+Line: 323

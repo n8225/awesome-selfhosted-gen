@@ -1,0 +1,20 @@
+ID: 686
+Name: CapRover
+Description: Build your own PaaS in a few minutes.
+Source Code: https://github.com/caprover/caprover
+Demo: https://captain.server.demo.caprover.com/#/login
+Website: https://caprover.com/
+License:
+    - Apache-2.0
+Languages:
+    - Docker
+    - Nodejs
+C: Misc/Other
+C2: ""
+C3: ""
+Tags:
+    - Misc
+    - Other
+MD: '- [CapRover](https://caprover.com/) - Build your own PaaS in a few minutes. ([Demo](https://captain.server.demo.caprover.com/#/login), [Source Code](https://github.com/caprover/caprover)) `Apache-2.0` `Docker/Nodejs`'
+SourceType: Github
+Line: 1066

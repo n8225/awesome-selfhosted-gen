@@ -1,0 +1,18 @@
+ID: 144
+Name: homebox
+Description: Suite of Ansible scripts to deploy a fully functional mail server on Debian. Unobtrusive and automatic as much as possible, focusing on stability and security.
+Source Code: https://github.com/progmaticltd/homebox
+License:
+    - GPL-3.0
+Languages:
+    - Shell
+C: Communication systems
+C2: Email
+C3: Complete solutions
+Tags:
+    - Communications
+    - Email
+    - Complete Email
+MD: '- [homebox](https://github.com/progmaticltd/homebox) - Suite of Ansible scripts to deploy a fully functional mail server on Debian. Unobtrusive and automatic as much as possible, focusing on stability and security. `GPL-3.0` `Shell`'
+SourceType: Github
+Line: 314

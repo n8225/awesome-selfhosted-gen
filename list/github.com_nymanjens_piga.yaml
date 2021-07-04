@@ -1,0 +1,17 @@
+ID: 1014
+Name: Task Keeper
+Description: List editor for power users, backed by a self-hosted server.
+Source Code: https://github.com/nymanjens/piga
+License:
+    - Apache-2.0
+Languages:
+    - scala
+C: Task management/To-do lists
+C2: ""
+C3: ""
+Tags:
+    - To-Do
+    - Task Mgmnt
+MD: '- [Task Keeper](https://github.com/nymanjens/piga) - List editor for power users, backed by a self-hosted server. `Apache-2.0` `Scala`'
+SourceType: Github
+Line: 1525

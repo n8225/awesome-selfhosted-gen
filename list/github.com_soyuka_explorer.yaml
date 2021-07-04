@@ -1,0 +1,18 @@
+ID: 505
+Name: explorer
+Description: Highly-configurable directory listing made with nodejs.
+Source Code: https://github.com/soyuka/explorer
+Website: https://soyuka.github.io/explorer/
+License:
+    - MIT
+Languages:
+    - Nodejs
+C: File Sharing and Synchronization
+C2: Web based file managers
+C3: ""
+Tags:
+    - File Sharing
+    - Web File MGR
+MD: '- [explorer](https://soyuka.github.io/explorer/) - Highly-configurable directory listing made with nodejs. ([Source Code](https://github.com/soyuka/explorer)) `MIT` `Nodejs`'
+SourceType: Github
+Line: 815

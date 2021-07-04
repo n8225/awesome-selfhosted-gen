@@ -1,0 +1,17 @@
+ID: 901
+Name: Swiperproxy
+Description: Lightning-fast, open source web proxy that is easy for you to run and customize.
+Source Code: https://github.com/swiperproxy/swiperproxy
+Website: https://swiperproxy.github.io/
+License:
+    - MIT
+Languages:
+    - Python
+C: Proxy
+C2: ""
+C3: ""
+Tags:
+    - Proxy
+MD: '- [Swiperproxy](https://swiperproxy.github.io/) - Lightning-fast, open source web proxy that is easy for you to run and customize. ([Source Code](https://github.com/swiperproxy/swiperproxy)) `MIT` `Python`'
+SourceType: Github
+Line: 1342

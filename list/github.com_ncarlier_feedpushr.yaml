@@ -1,0 +1,17 @@
+ID: 428
+Name: Feedpushr
+Description: Powerful RSS aggregator, able to transform and send articles to many outputs. Single binary, extensible with plugins.
+Source Code: https://github.com/ncarlier/feedpushr
+License:
+    - GPL-3.0
+Languages:
+    - Go
+C: Feed Readers
+C2: ""
+C3: ""
+Tags:
+    - RSS
+    - Feed Reader
+MD: '- [Feedpushr](https://github.com/ncarlier/feedpushr) - Powerful RSS aggregator, able to transform and send articles to many outputs. Single binary, extensible with plugins. `GPL-3.0` `Go`'
+SourceType: Github
+Line: 707

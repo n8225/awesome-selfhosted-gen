@@ -1,0 +1,19 @@
+ID: 187
+Name: MailCare
+Description: Open source disposable email address service.
+Source Code: https://github.com/mailcare/mailcare
+Website: https://mailcare.io
+License:
+    - MIT
+Languages:
+    - PHP
+C: Communication systems
+C2: Email
+C3: Webmail clients
+Tags:
+    - Communications
+    - Email
+    - Webmail
+MD: '- [MailCare](https://mailcare.io) - Open source disposable email address service. ([Source Code](https://github.com/mailcare/mailcare)) `MIT` `PHP`'
+SourceType: Github
+Line: 375

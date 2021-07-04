@@ -1,0 +1,18 @@
+ID: 867
+Name: Calagator
+Description: Event aggregator.
+Source Code: https://github.com/calagator/calagator
+Website: http://calagator.org/
+License:
+    - MIT
+Languages:
+    - Ruby
+C: Polls and Events
+C2: ""
+C3: ""
+Tags:
+    - Polls
+    - Events
+MD: '- [Calagator](http://calagator.org/) - Event aggregator. ([Source Code](https://github.com/calagator/calagator)) `MIT` `Ruby`'
+SourceType: Github
+Line: 1300

@@ -1,0 +1,18 @@
+ID: 634
+Name: GNU FM
+Description: Running music community websites, alternative to last.fm.
+Source Code: http://git.savannah.gnu.org/cgit/librefm.git/
+Website: https://gnu.io/fm/
+License:
+    - AGPL-3.0
+Languages:
+    - PHP
+C: Media Streaming
+C2: Audio Streaming
+C3: ""
+Tags:
+    - Media
+    - Streaming
+    - Audio
+MD: '- [GNU FM](https://gnu.io/fm/) - Running music community websites, alternative to last.fm. ([Source Code](http://git.savannah.gnu.org/cgit/librefm.git/)) `AGPL-3.0` `PHP`'
+Line: 1006

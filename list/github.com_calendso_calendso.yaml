@@ -1,0 +1,19 @@
+ID: 884
+Name: Calendso
+Description: The open-source online appointment scheduling system.
+Source Code: https://github.com/calendso/calendso
+Demo: https://app.calendso.com/bailey
+Website: https://calendso.com/
+License:
+    - MIT
+Languages:
+    - Nodejs
+C: Polls and Events
+C2: Booking and Scheduling
+C3: ""
+Tags:
+    - Polls
+    - Events
+MD: '- [Calendso](https://calendso.com/) - The open-source online appointment scheduling system. ([Demo](https://app.calendso.com/bailey), [Source Code](https://github.com/calendso/calendso)) `MIT` `Nodejs`'
+SourceType: Github
+Line: 1320

@@ -1,0 +1,17 @@
+ID: 881
+Name: Open Event Server
+Description: Enables organizers to manage events from concerts to conferences and meet-ups.
+Source Code: https://github.com/fossasia/open-event-server
+License:
+    - GPL-3.0
+Languages:
+    - Python
+C: Polls and Events
+C2: ""
+C3: ""
+Tags:
+    - Polls
+    - Events
+MD: '- [Open Event Server](https://github.com/fossasia/open-event-server) - Enables organizers to manage events from concerts to conferences and meet-ups. `GPL-3.0` `Python`'
+SourceType: Github
+Line: 1314

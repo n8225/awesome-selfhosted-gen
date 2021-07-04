@@ -1,0 +1,17 @@
+ID: 100
+Name: Conduit
+Description: A simple, fast, and reliable chat server powered by Matrix.
+Source Code: https://gitlab.com/famedly/conduit
+Website: https://conduit.rs/
+License:
+    - Apache-2.0
+Languages:
+    - Rust
+C: Communication systems
+C2: Custom communication systems
+C3: ""
+Tags:
+    - Communications
+MD: '- [Conduit](https://conduit.rs/) - A simple, fast, and reliable chat server powered by Matrix. ([Source Code](https://gitlab.com/famedly/conduit)) `Apache-2.0` `Rust`'
+SourceType: Gitlab
+Line: 261

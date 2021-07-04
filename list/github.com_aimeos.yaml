@@ -1,0 +1,20 @@
+ID: 348
+Name: Aimeos
+Description: Ultra fast, Open Source e-commerce framework for building custom online shops, market places and complex B2B applications scaling to billions of items with Laravel.
+Source Code: https://github.com/aimeos
+Demo: https://demo.aimeos.org/
+Website: https://aimeos.org/
+License:
+    - LGPL-3.0
+    - MIT
+Languages:
+    - PHP
+C: Content Management Systems (CMS)
+C2: E-commerce
+C3: ""
+Tags:
+    - CMS
+    - E-commerce
+MD: '- [Aimeos](https://aimeos.org/) - Ultra fast, Open Source e-commerce framework for building custom online shops, market places and complex B2B applications scaling to billions of items with Laravel. ([Demo](https://demo.aimeos.org/), [Source Code](https://github.com/aimeos)) `LGPL-3.0/MIT` `PHP`'
+SourceType: Github
+Line: 585

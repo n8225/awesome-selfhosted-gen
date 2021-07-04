@@ -1,0 +1,19 @@
+ID: 256
+Name: OSSN
+Description: Open Source Social Network (OSSN) is a social networking software written in PHP. It allows you to make a social networking website and helps your members build social relationships, with people who share similar professional or personal interests.
+Source Code: https://github.com/opensource-socialnetwork/opensource-socialnetwork
+Website: https://www.opensource-socialnetwork.org/
+License:
+    - GPL-2.0
+Languages:
+    - PHP
+C: Communication systems
+C2: Social Networks and Forums
+C3: ""
+Tags:
+    - Communications
+    - Social Network
+    - Forum
+MD: '- [OSSN](https://www.opensource-socialnetwork.org/) - Open Source Social Network (OSSN) is a social networking software written in PHP. It allows you to make a social networking website and helps your members build social relationships, with people who share similar professional or personal interests. ([Source Code](https://github.com/opensource-socialnetwork/opensource-socialnetwork)) `GPL-2.0` `PHP`'
+SourceType: Github
+Line: 463

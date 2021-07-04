@@ -1,0 +1,19 @@
+ID: 930
+Name: GitLab
+Description: Self Hosted Git repository management, code reviews, issue tracking, activity feeds and wikis.
+Source Code: https://gitlab.com/gitlab-org/gitlab-foss
+Demo: https://gitlab.com/
+Website: http://gitlab.org/
+License:
+    - MIT
+Languages:
+    - Ruby
+C: Software Development
+C2: Project Management
+C3: ""
+Tags:
+    - Software Dev
+    - Project Mgmnt
+MD: '- [GitLab](http://gitlab.org/) - Self Hosted Git repository management, code reviews, issue tracking, activity feeds and wikis. ([Demo](https://gitlab.com/), [Source Code](https://gitlab.com/gitlab-org/gitlab-foss)) `MIT` `Ruby`'
+SourceType: Gitlab
+Line: 1398

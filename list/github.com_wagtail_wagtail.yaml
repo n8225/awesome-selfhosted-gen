@@ -1,0 +1,17 @@
+ID: 339
+Name: Wagtail
+Description: Django content management system focused on flexibility and user experience.
+Source Code: https://github.com/wagtail/wagtail
+Website: https://wagtail.io/
+License:
+    - BSD-3-Clause
+Languages:
+    - Python
+C: Content Management Systems (CMS)
+C2: ""
+C3: ""
+Tags:
+    - CMS
+MD: '- [Wagtail](https://wagtail.io/) - Django content management system focused on flexibility and user experience. ([Source Code](https://github.com/wagtail/wagtail)) `BSD-3-Clause` `Python`'
+SourceType: Github
+Line: 570

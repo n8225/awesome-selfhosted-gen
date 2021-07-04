@@ -1,0 +1,18 @@
+ID: 136
+Name: ZeroNet
+Description: Open, free, and uncensorable websites, using Bitcoin cryptography and BitTorrent network.
+Source Code: https://github.com/HelloZeroNet/ZeroNet
+Website: https://zeronet.io/
+License:
+    - GPL-2.0
+Languages:
+    - Python
+C: Communication systems
+C2: Custom communication systems
+C3: ""
+Tags:
+    - Communications
+ProprietaryDependency: true
+MD: '- [ZeroNet](https://zeronet.io/) `⚠` - Open, free, and uncensorable websites, using Bitcoin cryptography and BitTorrent network. ([Source Code](https://github.com/HelloZeroNet/ZeroNet)) `GPL-2.0` `Python`'
+SourceType: Github
+Line: 297

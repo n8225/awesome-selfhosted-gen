@@ -1,0 +1,18 @@
+ID: 233
+Name: EpochTalk
+Description: Next Generation Forum Software.
+Source Code: https://github.com/epochtalk/epochtalk
+License:
+    - MIT
+Languages:
+    - Nodejs
+C: Communication systems
+C2: Social Networks and Forums
+C3: ""
+Tags:
+    - Communications
+    - Social Network
+    - Forum
+MD: '- [EpochTalk](https://github.com/epochtalk/epochtalk) - Next Generation Forum Software. `MIT` `Nodejs`'
+SourceType: Github
+Line: 440

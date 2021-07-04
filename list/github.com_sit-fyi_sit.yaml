@@ -1,0 +1,17 @@
+ID: 1040
+Name: SIT
+Description: SCM-agnostic, file-based, offline-first, immutable issue tracker.
+Source Code: https://github.com/sit-fyi/sit
+Website: https://sit.fyi/
+License:
+    - Apache-2.0
+Languages:
+    - Rust
+C: Ticketing
+C2: ""
+C3: ""
+Tags:
+    - Ticketing
+MD: '- [SIT](https://sit.fyi/) - SCM-agnostic, file-based, offline-first, immutable issue tracker. ([Source Code](https://github.com/sit-fyi/sit)) `MIT` `Apache-2.0` `Rust`'
+SourceType: Github
+Line: 1558

@@ -1,0 +1,19 @@
+ID: 166
+Name: Slimta
+Description: Mail Transfer Library built on Python.
+Source Code: https://github.com/slimta/python-slimta
+Website: http://slimta.org
+License:
+    - MIT
+Languages:
+    - Python
+C: Communication systems
+C2: Email
+C3: Mail Transfer Agents
+Tags:
+    - Communications
+    - Email
+    - MTA
+MD: '- [Slimta](http://slimta.org) - Mail Transfer Library built on Python. ([Source Code](https://github.com/slimta/python-slimta)) `MIT` `Python`'
+SourceType: Github
+Line: 341

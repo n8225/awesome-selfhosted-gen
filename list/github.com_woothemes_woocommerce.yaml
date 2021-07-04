@@ -1,0 +1,18 @@
+ID: 371
+Name: WooCommerce
+Description: WordPress based e-commerce solution.
+Source Code: https://github.com/woothemes/woocommerce
+Website: https://www.woothemes.com/woocommerce/
+License:
+    - GPL-3.0
+Languages:
+    - PHP
+C: Content Management Systems (CMS)
+C2: E-commerce
+C3: ""
+Tags:
+    - CMS
+    - E-commerce
+MD: '- [WooCommerce](https://www.woothemes.com/woocommerce/) - WordPress based e-commerce solution. ([Source Code](https://github.com/woothemes/woocommerce)) `GPL-3.0` `PHP`'
+SourceType: Github
+Line: 608

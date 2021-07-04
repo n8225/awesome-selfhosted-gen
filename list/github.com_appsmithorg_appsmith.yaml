@@ -1,0 +1,19 @@
+ID: 958
+Name: Appsmith
+Description: Cloud or self-hosted open-source platform to build admin panels, CRUD apps and workflows. Build everything you need, 10x faster.
+Source Code: https://github.com/appsmithorg/appsmith
+Website: https://www.appsmith.com/
+License:
+    - Apache-2.0
+Languages:
+    - Java
+    - Docker
+C: Software Development
+C2: IDE/Tools
+C3: ""
+Tags:
+    - Software Dev
+    - IDE
+MD: '- [Appsmith](https://www.appsmith.com/) - Cloud or self-hosted open-source platform to build admin panels, CRUD apps and workflows. Build everything you need, 10x faster. ([Source Code](https://github.com/appsmithorg/appsmith)) `Apache-2.0` `Java/Docker`'
+SourceType: Github
+Line: 1433

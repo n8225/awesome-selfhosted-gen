@@ -1,0 +1,18 @@
+ID: 765
+Name: Notes'n'Todos
+Description: Write notes and todos online in markdown with tag filtering and date sorting.
+Source Code: https://github.com/larspontoppidan/notesntodos
+Demo: https://lpss.dk/nnt-playground/
+License:
+    - MIT
+Languages:
+    - Python
+C: Note-taking and Editors
+C2: ""
+C3: ""
+Tags:
+    - Note-taking
+    - Editor
+MD: '- [Notes''n''Todos](https://github.com/larspontoppidan/notesntodos) - Write notes and todos online in markdown with tag filtering and date sorting. ([Demo](https://lpss.dk/nnt-playground/)) `MIT` `Python`'
+SourceType: Github
+Line: 1165

@@ -1,0 +1,19 @@
+ID: 484
+Name: lufi
+Description: Let's Upload that FIle, client-side encrypted.
+Source Code: https://framagit.org/fiat-tux/hat-softwares/lufi/tree/master
+Demo: https://demo.lufi.io
+Website: https://framagit.org/fiat-tux/hat-softwares/lufi
+License:
+    - AGPL-3.0
+Languages:
+    - Perl
+C: File Sharing and Synchronization
+C2: Single-click/drag-n-drop upload
+C3: ""
+Tags:
+    - File Sharing
+    - Single-Click Upload
+    - Drag-n-Drop Upload
+MD: '- [lufi](https://framagit.org/fiat-tux/hat-softwares/lufi) - Let''s Upload that FIle, client-side encrypted. ([Demo](https://demo.lufi.io), [Source Code](https://framagit.org/fiat-tux/hat-softwares/lufi/tree/master)) `AGPL-3.0` `Perl`'
+Line: 788

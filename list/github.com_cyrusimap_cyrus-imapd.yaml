@@ -1,0 +1,19 @@
+ID: 167
+Name: Cyrus IMAP/POP3
+Description: Intended to be run on sealed servers, where normal users are not permitted to log in.
+Source Code: https://github.com/cyrusimap/cyrus-imapd
+Website: https://www.cyrusimap.org/
+License:
+    - BSD-3-Clause-Attribution
+Languages:
+    - C
+C: Communication systems
+C2: Email
+C3: Mail Delivery Agents
+Tags:
+    - Communications
+    - Email
+    - MDA
+MD: '- [Cyrus IMAP/POP3](https://www.cyrusimap.org/) - Intended to be run on sealed servers, where normal users are not permitted to log in. ([Source Code](https://github.com/cyrusimap/cyrus-imapd )) `BSD-3-Clause-Attribution` `C`'
+SourceType: Github
+Line: 347

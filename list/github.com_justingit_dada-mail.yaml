@@ -1,0 +1,20 @@
+ID: 170
+Name: Dada Mail
+Description: Web-based list management system that can be used for announcement lists and/or discussion lists.
+Source Code: https://github.com/justingit/dada-mail
+Website: http://dadamailproject.com/
+License:
+    - GPL-2.0
+Languages:
+    - Perl
+C: Communication systems
+C2: Email
+C3: Mailing lists and Newsletters
+Tags:
+    - Communications
+    - Email
+    - Mailng List
+    - Newsletters
+MD: '- [Dada Mail](http://dadamailproject.com/) - Web-based list management system that can be used for announcement lists and/or discussion lists. ([Source Code](https://github.com/justingit/dada-mail)) `GPL-2.0` `Perl`'
+SourceType: Github
+Line: 355

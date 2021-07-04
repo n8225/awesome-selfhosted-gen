@@ -1,0 +1,18 @@
+ID: 1039
+Name: Sentry On-Premise
+Description: A powerful error tracking platform with wide language support and a robust API.
+Source Code: https://github.com/getsentry/sentry
+Website: https://github.com/getsentry/onpremise
+License:
+    - BSD-3-Clause
+Languages:
+    - Python
+    - Python
+C: Ticketing
+C2: ""
+C3: ""
+Tags:
+    - Ticketing
+MD: '- [Sentry On-Premise](https://github.com/getsentry/onpremise) - A powerful error tracking platform with wide language support and a robust API. ([Source Code](https://github.com/getsentry/sentry)) `BSD-3-Clause` `Python/Django`'
+SourceType: Github
+Line: 1557

@@ -1,0 +1,19 @@
+ID: 942
+Name: Octobox
+Description: Take back control of your GitHub Notifications.
+Source Code: https://github.com/octobox/octobox
+Website: https://octobox.io/
+License:
+    - AGPL-3.0
+Languages:
+    - Ruby
+C: Software Development
+C2: Project Management
+C3: ""
+Tags:
+    - Software Dev
+    - Project Mgmnt
+ProprietaryDependency: true
+MD: '- [Octobox](https://octobox.io/) `⚠` - Take back control of your GitHub Notifications. ([Source Code](https://github.com/octobox/octobox)) `AGPL-3.0` `Ruby`'
+SourceType: Github
+Line: 1410

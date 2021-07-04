@@ -1,0 +1,17 @@
+ID: 10
+Name: Alltube
+Description: Web interface for [youtube-dl](https://github.com/rg3/youtube-dl), a program to download videos and audio from [more than 100 websites](https://rg3.github.io/youtube-dl/supportedsites.html).
+Source Code: https://github.com/Rudloff/alltube
+Website: http://www.alltubedownload.net
+License:
+    - GPL-3.0
+Languages:
+    - PHP
+C: Automation
+C2: ""
+C3: ""
+Tags:
+    - Automation
+MD: '- [Alltube](http://www.alltubedownload.net) - Web interface for [youtube-dl](https://github.com/rg3/youtube-dl), a program to download videos and audio from [more than 100 websites](https://rg3.github.io/youtube-dl/supportedsites.html). ([Source Code](https://github.com/Rudloff/alltube)) `GPL-3.0` `PHP`'
+SourceType: Github
+Line: 136

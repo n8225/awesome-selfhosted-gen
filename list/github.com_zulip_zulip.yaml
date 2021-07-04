@@ -1,0 +1,18 @@
+ID: 137
+Name: Zulip
+Description: Zulip is a powerful, open source group chat application.
+Source Code: https://github.com/zulip/zulip
+Website: https://zulip.org
+License:
+    - Apache-2.0
+    - Other
+Languages:
+    - Python
+C: Communication systems
+C2: Custom communication systems
+C3: ""
+Tags:
+    - Communications
+MD: '- [Zulip](https://zulip.org) - Zulip is a powerful, open source group chat application. ([Source Code](https://github.com/zulip/zulip)) `Apache-2.0/Other` `Python`'
+SourceType: Github
+Line: 298

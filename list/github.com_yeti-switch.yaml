@@ -1,0 +1,20 @@
+ID: 218
+Name: Yeti-Switch
+Description: Transit class4 softswitch(SBC) with integrated billing and routing engine and REST API.
+Source Code: https://github.com/yeti-switch
+Demo: https://yeti-switch.org/demo.html
+Website: https://yeti-switch.org/
+License:
+    - GPL-2.0
+Languages:
+    - C++
+    - Ruby
+C: Communication systems
+C2: SIP
+C3: ""
+Tags:
+    - Communications
+    - SIP
+MD: '- [Yeti-Switch](https://yeti-switch.org/) - Transit class4 softswitch(SBC) with integrated billing and routing engine and REST API. ([Demo](https://yeti-switch.org/demo.html), [Source Code](https://github.com/yeti-switch)) `GPL-2.0` `C++/Ruby`'
+SourceType: Github
+Line: 420

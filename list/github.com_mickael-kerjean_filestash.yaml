@@ -1,0 +1,19 @@
+ID: 508
+Name: Filestash
+Description: 'A web file manager that lets you manage your data anywhere it is located: FTP, SFTP, WebDAV, Git, S3, Minio, Dropbox, or Google Drive .'
+Source Code: https://github.com/mickael-kerjean/filestash
+Demo: https://demo.filestash.app/
+Website: https://www.filestash.app/
+License:
+    - AGPL-3.0
+Languages:
+    - Go
+C: File Sharing and Synchronization
+C2: Web based file managers
+C3: ""
+Tags:
+    - File Sharing
+    - Web File MGR
+MD: '- [Filestash](https://www.filestash.app/) - A web file manager that lets you manage your data anywhere it is located: FTP, SFTP, WebDAV, Git, S3, Minio, Dropbox, or Google Drive . ([Demo](https://demo.filestash.app/), [Source Code](https://github.com/mickael-kerjean/filestash)) `AGPL-3.0` `Go`'
+SourceType: Github
+Line: 818

@@ -4,9 +4,10 @@ import (
 	"bufio"
 	"regexp"
 
-	"fmt"
 	"os"
 	"strings"
+
+	"github.com/rs/zerolog/log"
 )
 
 // List is the total struct
@@ -16,69 +17,47 @@ type List struct {
 	CatList  []Cats  `json:"Cats" yaml:"-"`
 	TagList  []Tags  `json:"Tags" yaml:"-"`
 }
+type parseState struct {
+	i       int
+	l       int
+	lasts   [3]int
+	lastCat int
+	section string
+}
 
-// GetHighestID function to get last ID from entry struct
-// func GetHighestID(entries []Entry) int {
-// 	max := entries[0]
-// 	for _, entries := range entries {
-// 		if entries.ID > max.ID {
-// 			max = entries
-// 		}
-// 	}
-// 	return max.ID
-// }
-
-//MdParser reads README.md and parses data from it.
-func MdParser(path, gh string) []Entry {
-	fmt.Println("Parsing:", path)
+//MdParser parses entries and categories from README.me
+func MdParser(path string) []Entry {
+	log.Info().Msgf("Parsing: %s", path)
 	inputFile, _ := os.Open(path)
 	defer inputFile.Close()
 	scanner := bufio.NewScanner(inputFile)
 	scanner.Split(bufio.ScanLines)
-	list := false
-	var tag2, tag3, tag4, tagi string
-	var l, i = 0, 0
+	var i = 0
+
 	entries := []Entry{}
+	state := parseState{}
+	cats := []CatList{}
+	//header := make([]string, 0)
+	//catLookup := make(map[int]int)
 
 	for scanner.Scan() {
-		l++
-		if strings.HasPrefix(scanner.Text(), "<!-- BEGIN SOFTWARE LIST -->") {
-			list = true
-		} else if strings.HasPrefix(scanner.Text(), "<!-- END SOFTWARE LIST -->") {
-			list = false
-		}
-		if list == true {
-			if strings.HasPrefix(scanner.Text(), "## ") {
-				tag2, tag3, tag4, tagi = strings.Trim(scanner.Text(), "## "), "", "", ""
-			}
-			if strings.HasPrefix(scanner.Text(), "### ") {
-				tag4, tagi, tag3 = "", "", strings.Trim(scanner.Text(), "### ")
-			}
-			if strings.HasPrefix(scanner.Text(), "#### ") {
-				tagi, tag4 = "", strings.Trim(scanner.Text(), "#### ")
-			}
-			if strings.HasPrefix(scanner.Text(), "_") {
-				tagi = strings.Trim(scanner.Text(), "_")
-			}
-			if strings.HasPrefix(scanner.Text(), "- [") || strings.HasPrefix(scanner.Text(), "  - [") {
-				e := new(Entry)
-				e.Cat = tag2
+		state.section = findSection(scanner.Text(), state.section)
+		state.l++
+		if state.section == "list" {
 
-				if tag2 != "" {
-					e.Tags = append(e.Tags, Tagmap[tag2]...)
-				}
-				if tag3 != "" {
-					e.Tags = append(e.Tags, Tagmap[tag3]...)
-				}
-				if tag4 != "" {
-					e.Tags = append(e.Tags, Tagmap[tag4]...)
-				}
-				if tagi != "" {
-					e.Tags = append(e.Tags, Tagmap[tagi]...)
-				}
+			if strings.HasPrefix(scanner.Text(), "#") || strings.HasPrefix(scanner.Text(), "_") {
+				state, cats = parseCategory(scanner.Text(), state, cats)
+			}
+
+			if strings.HasPrefix(scanner.Text(), "- [") || strings.HasPrefix(scanner.Text(), "  - [") {
 				if regexp.MustCompile(Pattern).MatchString(scanner.Text()) {
 					i++
-					e.Line = l
+					e := new(Entry)
+					cat, catEntries := getCat(i, state, cats)
+					for k, v := range catEntries {
+						cats[k].Entries = append(cats[k].Entries, v)
+					}
+					e.Line = state.l
 					e.ID = i
 					e.MD = scanner.Text()
 					e.Name = GetName(e.MD)
@@ -90,14 +69,44 @@ func MdParser(path, gh string) []Entry {
 					e.Clients = GetClients(e.MD)
 					e.Site = GetSite(e.MD)
 					e.Source, e.SourceType = GetSource(e.MD)
-					fmt.Println(e.Name)
+					e.Cat, e.Cat2, e.Cat3 = setCats(cat)
+					e.Tags = getTags(cat)
+					entries = append(entries, *e)
 				} else {
-					fmt.Printf("Failed to match pattern, Line: %d : %s", l, scanner.Text())
+					log.Error().Msgf("Failed to match pattern, Line: %d : %s", state.l, scanner.Text())
 				}
-				entries = append(entries, *e)
+
 			}
-		}
+		} else if state.section == "licenseList" {
+			cats = closeCats(state, cats)
+		} //else if state.section == "header" {
+		//header = append(header, getHeader(i, scanner.Text()))
+		//} //else {
+		// 	licenses =
+		// 	extLinks = append(extLinks, getExtLinks(i, scanner.Text()))
+		// 	footer = append(footer, getExtLinks(i, scanner.Text()))
+		// }
+
 	}
-	fmt.Printf("Found %d entries\n", len(entries))
+	toCategories(cats)
 	return entries
+}
+
+func findSection(line string, section string) string {
+	switch true {
+	case strings.HasPrefix(line, "# Awesome-Selfhosted"):
+		return "header"
+	case strings.HasPrefix(line, "- List of Software"):
+		return "toc"
+	case strings.HasPrefix(line, "<!-- BEGIN SOFTWARE LIST -->"):
+		return "list"
+	case strings.HasPrefix(line, "- List of Licenses"):
+		return "licenseList"
+	case strings.HasPrefix(line, "## External links"):
+		return "extLinks"
+	case strings.HasPrefix(line, "## Contributing"):
+		return "footer"
+	default:
+		return section
+	}
 }

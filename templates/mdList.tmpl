@@ -1,0 +1,40 @@
+{{$cats := .Cats }}{{ $entries := .Entries -}}
+--------------------
+
+- List of Software
+  {{ range $c1,$c2 := $cats }}- {{ mdLink $c1 }}
+    {{ range $c2,$c3 := $cats.Subcat}}- {{ mdLink $c2 }}
+      {{ range $c3,$c4 := .Subcat}}- {{ mdLink $c3 }}
+{{ end }}{{ end }}{{ end }}
+--------------------
+
+<!-- BEGIN SOFTWARE LIST -->
+
+{{range $c1,$c2 := $cats}}## {{$c1}}
+
+**[`^        back to top        ^`](#)**
+
+{{range $c1,$comment := .Comment}}_{{$comment}}_
+{{end}}
+{{range $c1,$entryID := .Entries}}{{mdEntry (index $entries $entryID)}}
+{{end}}
+
+{{range $c2,$c3 := .Subcat}}### {{$c2}}
+
+**[`^        back to top        ^`](#)**
+
+{{range $c2,$comment := .Comment}}_{{$comment}}_
+{{end}}
+{{range $c2,$entryID := .Entries}}{{mdEntry (index $entries $entryID)}}
+{{end}}
+
+{{range $c3,$c4 := .Subcat}}#### {{$c3}}
+
+**[`^        back to top        ^`](#)**
+
+{{range $c3,$comment := .Comment}}_{{$comment}}_
+{{end}}
+{{range $c3,$entryID := .Entries}}{{mdEntry (index $entries $entryID)}}
+{{end}}
+
+{{end}}{{end}}{{end}}

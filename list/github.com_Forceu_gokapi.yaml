@@ -1,0 +1,18 @@
+ID: 477
+Name: Gokapi
+Description: Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files.
+Source Code: https://github.com/Forceu/gokapi
+License:
+    - GPL-3.0
+Languages:
+    - Go
+C: File Sharing and Synchronization
+C2: Single-click/drag-n-drop upload
+C3: ""
+Tags:
+    - File Sharing
+    - Single-Click Upload
+    - Drag-n-Drop Upload
+MD: '- [Gokapi](https://github.com/Forceu/gokapi) - Lightweight server to share files, which expire after a set amount of downloads or days. Similar to the discontinued Firefox Send, with the difference that only the admin is allowed to upload files. `GPL-3.0` `Go`'
+SourceType: Github
+Line: 781

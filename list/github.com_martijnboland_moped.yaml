@@ -1,0 +1,18 @@
+ID: 643
+Name: Moped
+Description: Responsive HTML5 + Javascript client for the Mopidy music server.
+Source Code: https://github.com/martijnboland/moped
+License:
+    - MIT
+Languages:
+    - HTML5
+C: Media Streaming
+C2: Audio Streaming
+C3: ""
+Tags:
+    - Media
+    - Streaming
+    - Audio
+MD: '  - [Moped](https://github.com/martijnboland/moped) - Responsive HTML5 + Javascript client for the Mopidy music server. `MIT` `HTML5`'
+SourceType: Github
+Line: 1015

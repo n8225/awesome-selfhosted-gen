@@ -1,0 +1,17 @@
+ID: 57
+Name: Ghost
+Description: Just a blogging platform.
+Source Code: https://github.com/TryGhost/Ghost
+Website: https://ghost.org/
+License:
+    - MIT
+Languages:
+    - Nodejs
+C: Blogging Platforms
+C2: ""
+C3: ""
+Tags:
+    - Blog
+MD: '- [Ghost](https://ghost.org/) - Just a blogging platform. ([Source Code](https://github.com/TryGhost/Ghost)) `MIT` `Nodejs`'
+SourceType: Github
+Line: 191

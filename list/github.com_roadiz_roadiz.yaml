@@ -1,0 +1,17 @@
+ID: 330
+Name: Roadiz
+Description: Modern CMS based on a node system which can handle many types of services.
+Source Code: https://github.com/roadiz/roadiz
+Website: https://www.roadiz.io/
+License:
+    - MIT
+Languages:
+    - PHP
+C: Content Management Systems (CMS)
+C2: ""
+C3: ""
+Tags:
+    - CMS
+MD: '- [Roadiz](https://www.roadiz.io/) -  Modern CMS based on a node system which can handle many types of services. ([Source Code](https://github.com/roadiz/roadiz)) `MIT` `PHP`'
+SourceType: Github
+Line: 561

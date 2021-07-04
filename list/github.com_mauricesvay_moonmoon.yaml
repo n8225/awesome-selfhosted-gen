@@ -1,0 +1,18 @@
+ID: 412
+Name: Moonmoon
+Description: 'simple feed aggregator (planet like): it only aggregates feeds and spits them out in one single page.'
+Source Code: https://github.com/mauricesvay/moonmoon
+Website: http://moonmoon.org/
+License:
+    - BSD-3-Clause
+Languages:
+    - PHP
+C: Feed Readers
+C2: ""
+C3: ""
+Tags:
+    - RSS
+    - Feed Reader
+MD: '- [Moonmoon](http://moonmoon.org/) - simple feed aggregator (planet like): it only aggregates feeds and spits them out in one single page. ([Source Code](https://github.com/mauricesvay/moonmoon)) `BSD-3-Clause` `PHP`'
+SourceType: Github
+Line: 688

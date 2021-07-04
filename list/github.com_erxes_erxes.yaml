@@ -1,0 +1,18 @@
+ID: 1029
+Name: Erxes
+Description: Marketing, sales, and customer service platform designed to help businesses attract more engaged customers.
+Source Code: https://github.com/erxes/erxes
+Demo: https://demo.erxes.io/
+Website: https://erxes.io/install/
+License:
+    - GPL-3.0
+Languages:
+    - HTML5
+C: Ticketing
+C2: ""
+C3: ""
+Tags:
+    - Ticketing
+MD: '- [Erxes](https://erxes.io/install/) - Marketing, sales, and customer service platform designed to help businesses attract more engaged customers. ([Demo](https://demo.erxes.io/), [Source Code](https://github.com/erxes/erxes)) `GPL-3.0` `Javascript`'
+SourceType: Github
+Line: 1547

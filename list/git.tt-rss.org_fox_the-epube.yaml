@@ -1,0 +1,17 @@
+ID: 391
+Name: The Epube
+Description: Self-hosted web EPUB reader using EPUB.js, Bootstrap, and Calibre.
+Source Code: https://git.tt-rss.org/fox/the-epube
+Website: https://tt-rss.org/the-epube
+License:
+    - GPL-3.0
+Languages:
+    - PHP
+C: E-books and Integrated Library Systems (ILS)
+C2: Personal e-book management software.
+C3: ""
+Tags:
+    - E-book
+    - ILS
+MD: '  - [The Epube](https://tt-rss.org/the-epube) - Self-hosted web EPUB reader using EPUB.js, Bootstrap, and Calibre. ([Source Code](https://git.tt-rss.org/fox/the-epube)) `GPL-3.0` `PHP`'
+Line: 649

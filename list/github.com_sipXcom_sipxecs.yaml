@@ -1,0 +1,18 @@
+ID: 215
+Name: SipXcom
+Description: Open source unified communications system.
+Source Code: https://github.com/sipXcom/sipxecs
+Website: http://sipxcom.org/
+License:
+    - AGPL-3.0
+Languages:
+    - Java
+C: Communication systems
+C2: SIP
+C3: ""
+Tags:
+    - Communications
+    - SIP
+MD: '- [SipXcom](http://sipxcom.org/) - Open source unified communications system. ([Source Code](https://github.com/sipXcom/sipxecs)) `AGPL-3.0` `Java`'
+SourceType: Github
+Line: 417

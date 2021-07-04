@@ -1,0 +1,18 @@
+ID: 607
+Name: OwnTracks Recorder
+Description: Store and access data published by [OwnTracks](http://owntracks.org/) location tracking apps.
+Source Code: https://github.com/owntracks/recorder
+License:
+    - GPL-2.0
+Languages:
+    - C
+C: Maps and Global Positioning System (GPS)
+C2: ""
+C3: ""
+Tags:
+    - Maps
+    - GPS
+ProprietaryDependency: true
+MD: '- [OwnTracks Recorder](https://github.com/owntracks/recorder) `⚠` - Store and access data published by [OwnTracks](http://owntracks.org/) location tracking apps. `GPL-2.0` `C`/`Lua`'
+SourceType: Github
+Line: 966

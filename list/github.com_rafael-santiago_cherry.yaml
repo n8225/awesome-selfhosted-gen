@@ -1,0 +1,16 @@
+ID: 99
+Name: Cherry
+Description: Tiny webchat server.
+Source Code: https://github.com/rafael-santiago/cherry
+License:
+    - GPL-2.0
+Languages:
+    - Go
+C: Communication systems
+C2: Custom communication systems
+C3: ""
+Tags:
+    - Communications
+MD: '- [Cherry](https://github.com/rafael-santiago/cherry) - Tiny webchat server. `GPL-2.0` `Go`'
+SourceType: Github
+Line: 260

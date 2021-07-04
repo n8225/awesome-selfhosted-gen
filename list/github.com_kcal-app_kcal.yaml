@@ -1,0 +1,18 @@
+ID: 344
+Name: kcal
+Description: Track nutritional information about foods and recipes, set goals, and record a food journal to help along the way. Kcal is a personal system that focuses on direct control of inputs and a minimal, easy to use recipe presentation for preparing meals.
+Source Code: https://github.com/kcal-app/kcal
+Demo: http://demo.kcal.cooking/login
+License:
+    - MPL-2.0
+Languages:
+    - PHP
+C: Content Management Systems (CMS)
+C2: Recipe management
+C3: ""
+Tags:
+    - CMS
+    - Recipe Mgmnt
+MD: '- [kcal](https://github.com/kcal-app/kcal) - Track nutritional information about foods and recipes, set goals, and record a food journal to help along the way. Kcal is a personal system that focuses on direct control of inputs and a minimal, easy to use recipe presentation for preparing meals. ([Demo](http://demo.kcal.cooking/login)) `MPL-2.0` `PHP`'
+SourceType: Github
+Line: 578

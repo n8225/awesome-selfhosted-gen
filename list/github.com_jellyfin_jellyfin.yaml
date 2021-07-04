@@ -1,0 +1,20 @@
+ID: 616
+Name: Jellyfin
+Description: Media server for audio, video, books, comics, and photos with a sleek interface and robust transcoding capabilities. Almost all modern platforms have clients, including Roku, Android TV, iOS, and Kodi.
+Source Code: https://github.com/jellyfin/jellyfin
+Demo: https://demo.jellyfin.org/stable
+Website: https://jellyfin.org
+License:
+    - GPL-2.0
+Languages:
+    - C#
+C: Media Streaming
+C2: Multimedia Streaming
+C3: ""
+Tags:
+    - Media
+    - Streaming
+    - Multimedia
+MD: '- [Jellyfin](https://jellyfin.org) - Media server for audio, video, books, comics, and photos with a sleek interface and robust transcoding capabilities. Almost all modern platforms have clients, including Roku, Android TV, iOS, and Kodi. ([Demo](https://demo.jellyfin.org/stable), [Source Code](https://github.com/jellyfin/jellyfin)) `GPL-2.0` `C#`'
+SourceType: Github
+Line: 984

@@ -1,0 +1,17 @@
+ID: 1096
+Name: Syncloud
+Description: Your own online file storage, social network or email server.
+Source Code: https://github.com/syncloud/platform
+Website: https://syncloud.org/
+License:
+    - GPL-3.0
+Languages:
+    - Python
+C: Self-hosting Solutions
+C2: ""
+C3: ""
+Tags:
+    - Self-hosting Solution
+MD: '- [Syncloud](https://syncloud.org/) - Your own online file storage, social network or email server. ([Source Code](https://github.com/syncloud/platform)) `GPL-3.0` `Python/Other`'
+SourceType: Github
+Line: 1645

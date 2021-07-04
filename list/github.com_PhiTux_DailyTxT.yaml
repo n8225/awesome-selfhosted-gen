@@ -1,0 +1,17 @@
+ID: 691
+Name: DailyTxT
+Description: Encrypted Diary Web-App to save your personal memories of each day. Includes a search-function and encrypted file-upload.
+Source Code: https://github.com/PhiTux/DailyTxT
+License:
+    - MIT
+Languages:
+    - Python
+C: Misc/Other
+C2: ""
+C3: ""
+Tags:
+    - Misc
+    - Other
+MD: '- [DailyTxT](https://github.com/PhiTux/DailyTxT) - Encrypted Diary Web-App to save your personal memories of each day. Includes a search-function and encrypted file-upload. `MIT` `Python`'
+SourceType: Github
+Line: 1071

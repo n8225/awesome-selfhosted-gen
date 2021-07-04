@@ -1,0 +1,19 @@
+ID: 580
+Name: Thingspeak
+Description: Open source “Internet of Things” application and API to store and retrieve data from things using HTTP.
+Source Code: https://github.com/iobridge/thingspeak
+Demo: https://thingspeak.com/channels/public
+Website: https://thingspeak.com/
+License:
+    - GPL-3.0
+Languages:
+    - Ruby
+C: Internet Of Things (IoT)
+C2: ""
+C3: ""
+Tags:
+    - Internet Of Things
+    - IoT
+MD: '- [Thingspeak](https://thingspeak.com/) - Open source “Internet of Things” application and API to store and retrieve data from things using HTTP. ([Demo](https://thingspeak.com/channels/public), [Source Code](https://github.com/iobridge/thingspeak)) `GPL-3.0` `Ruby`'
+SourceType: Github
+Line: 922

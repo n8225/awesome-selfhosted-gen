@@ -1,0 +1,16 @@
+ID: 377
+Name: DOCAT
+Description: Host your docs. Simple. Versioned. Fancy.
+Source Code: https://github.com/randombenj/docat
+License:
+    - MIT
+Languages:
+    - Python
+C: Document Management
+C2: ""
+C3: ""
+Tags:
+    - Doc Mgmnt
+MD: '- [DOCAT](https://github.com/randombenj/docat) - Host your docs. Simple. Versioned. Fancy. `MIT` `Python/docker`'
+SourceType: Github
+Line: 626

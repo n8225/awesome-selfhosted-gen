@@ -1,0 +1,18 @@
+ID: 652
+Name: Snapcast
+Description: Synchronous multiroom audio server.
+Source Code: https://github.com/badaix/snapcast
+License:
+    - GPL-3.0
+Languages:
+    - C++
+C: Media Streaming
+C2: Audio Streaming
+C3: ""
+Tags:
+    - Media
+    - Streaming
+    - Audio
+MD: '- [Snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio server. `GPL-3.0` `C++`'
+SourceType: Github
+Line: 1024

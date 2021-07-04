@@ -1,0 +1,17 @@
+ID: 921
+Name: sist2
+Description: Lightning-fast file system indexer and search tool.
+Source Code: https://github.com/simon987/sist2
+Demo: https://sist2.simon987.net/
+License:
+    - GPL-3.0
+Languages:
+    - C
+C: Search Engines
+C2: ""
+C3: ""
+Tags:
+    - Search Engine
+MD: '- [sist2](https://github.com/simon987/sist2) - Lightning-fast file system indexer and search tool. ([Demo](https://sist2.simon987.net/)) `GPL-3.0` `C`'
+SourceType: Github
+Line: 1380

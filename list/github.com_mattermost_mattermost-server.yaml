@@ -1,0 +1,18 @@
+ID: 115
+Name: Mattermost
+Description: Open-source, on-prem Slack-alternative. It can be integrated with Gitlab.
+Source Code: https://github.com/mattermost/mattermost-server
+Website: http://www.mattermost.org/
+License:
+    - AGPL-3.0
+    - Apache-2.0
+Languages:
+    - Go
+C: Communication systems
+C2: Custom communication systems
+C3: ""
+Tags:
+    - Communications
+MD: '- [Mattermost](http://www.mattermost.org/) - Open-source, on-prem Slack-alternative. It can be integrated with Gitlab. ([Source Code](https://github.com/mattermost/mattermost-server)) `AGPL-3.0/Apache-2.0` `Go`'
+SourceType: Github
+Line: 276

@@ -1,0 +1,17 @@
+ID: 523
+Name: Lila
+Description: The forever free, adless and open source chess server powering lichess.org, with official iOS and Android client apps.
+Source Code: https://github.com/ornicar/lila
+Website: https://lichess.org/
+License:
+    - AGPL-3.0
+Languages:
+    - scala
+C: Games
+C2: ""
+C3: ""
+Tags:
+    - Game
+MD: '- [Lila](https://lichess.org/) - The forever free, adless and open source chess server powering lichess.org, with official iOS and Android client apps. ([Source Code](https://github.com/ornicar/lila)) `AGPL-3.0` `Scala`'
+SourceType: Github
+Line: 840

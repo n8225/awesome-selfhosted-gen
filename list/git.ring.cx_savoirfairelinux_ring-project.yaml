@@ -1,0 +1,16 @@
+ID: 107
+Name: Jami
+Description: Free and universal communication platform which preserves the user's privacy and freedoms (formerly GNU Ring).
+Source Code: https://git.ring.cx/savoirfairelinux/ring-project
+Website: https://jami.net/
+License:
+    - GPL-3.0
+Languages:
+    - C++
+C: Communication systems
+C2: Custom communication systems
+C3: ""
+Tags:
+    - Communications
+MD: '- [Jami](https://jami.net/) - Free and universal communication platform which preserves the user''s privacy and freedoms (formerly GNU Ring). ([Source Code](https://git.ring.cx/savoirfairelinux/ring-project)) `GPL-3.0` `C++`'
+Line: 268

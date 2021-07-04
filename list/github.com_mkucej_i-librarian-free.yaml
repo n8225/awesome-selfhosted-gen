@@ -1,0 +1,18 @@
+ID: 380
+Name: I, Librarian
+Description: I, Librarian can organize PDF papers and office documents. It provides a lot of extra features for students and research groups both in industry and academia.
+Source Code: https://github.com/mkucej/i-librarian-free
+Demo: https://i-librarian.net/demo/
+Website: https://i-librarian.net
+License:
+    - GPL-3.0
+Languages:
+    - PHP
+C: Document Management
+C2: ""
+C3: ""
+Tags:
+    - Doc Mgmnt
+MD: '- [I, Librarian](https://i-librarian.net) - I, Librarian can organize PDF papers and office documents. It provides a lot of extra features for students and research groups both in industry and academia. ([Demo](https://i-librarian.net/demo/), [Source Code](https://github.com/mkucej/i-librarian-free)) `GPL-3.0` `PHP`'
+SourceType: Github
+Line: 629

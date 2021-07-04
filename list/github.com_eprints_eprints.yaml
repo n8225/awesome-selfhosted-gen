@@ -1,0 +1,19 @@
+ID: 400
+Name: EPrints
+Description: Digital document management system with a flexible metadata and workflow model primarily aimed at academic institutions.
+Source Code: https://github.com/eprints/eprints
+Demo: http://demoprints.eprints.org/
+Website: https://www.eprints.org/
+License:
+    - GPL-3.0
+Languages:
+    - Perl
+C: E-books and Integrated Library Systems (ILS)
+C2: Institutional repository and digital library software.
+C3: ""
+Tags:
+    - E-book
+    - ILS
+MD: '- [EPrints](https://www.eprints.org/) - Digital document management system with a flexible metadata and workflow model primarily aimed at academic institutions. ([Demo](http://demoprints.eprints.org/), [Source Code](https://github.com/eprints/eprints)) `GPL-3.0` `Perl`'
+SourceType: Github
+Line: 665

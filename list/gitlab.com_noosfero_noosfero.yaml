@@ -1,0 +1,16 @@
+ID: 318
+Name: Noosfero
+Description: Noosfero is a web platform for social and solidarity economy networks with blog, e-Portfolios, CMS, RSS, thematic discussion, events agenda and collective intelligence for solidarity economy in the same system.
+Source Code: https://gitlab.com/noosfero/noosfero
+License:
+    - AGPL-3.0
+Languages:
+    - Ruby
+C: Content Management Systems (CMS)
+C2: ""
+C3: ""
+Tags:
+    - CMS
+MD: '- [Noosfero](https://gitlab.com/noosfero/noosfero) - Noosfero is a web platform for social and solidarity economy networks with blog, e-Portfolios, CMS, RSS, thematic discussion, events agenda and collective intelligence for solidarity economy in the same system. `AGPL-3.0` `Ruby`'
+SourceType: Gitlab
+Line: 549

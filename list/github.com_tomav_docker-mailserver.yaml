@@ -1,0 +1,18 @@
+ID: 140
+Name: docker-mailserver
+Description: Fullstack but simple mail server (smtp, imap, antispam, antivirus, etc.). Only configuration files, no SQL database. Keep it simple and versioned. Easy to deploy and upgrade.
+Source Code: https://github.com/tomav/docker-mailserver
+License:
+    - MIT
+Languages:
+    - Docker
+C: Communication systems
+C2: Email
+C3: Complete solutions
+Tags:
+    - Communications
+    - Email
+    - Complete Email
+MD: '- [docker-mailserver](https://github.com/tomav/docker-mailserver) - Fullstack but simple mail server (smtp, imap, antispam, antivirus, etc.). Only configuration files, no SQL database. Keep it simple and versioned. Easy to deploy and upgrade. `MIT` `Docker`'
+SourceType: Github
+Line: 310

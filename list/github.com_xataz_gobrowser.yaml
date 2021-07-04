@@ -1,0 +1,17 @@
+ID: 509
+Name: goBrowser
+Description: Simple http file browser.
+Source Code: https://github.com/xataz/gobrowser
+License:
+    - GPL-3.0
+Languages:
+    - Go
+C: File Sharing and Synchronization
+C2: Web based file managers
+C3: ""
+Tags:
+    - File Sharing
+    - Web File MGR
+MD: '- [goBrowser](https://github.com/xataz/gobrowser) - Simple http file browser. `GPL-3.0` `Go`'
+SourceType: Github
+Line: 819

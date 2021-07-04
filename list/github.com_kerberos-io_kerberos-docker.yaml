@@ -1,0 +1,20 @@
+ID: 660
+Name: Kerberos.io
+Description: Kerberos.io is a video surveillance solution, which works with any camera and on every Linux based machine (Raspberry Pi, Docker, Kubernetes cluster).
+Source Code: https://github.com/kerberos-io/kerberos-docker
+Demo: https://demo.kerberos.io/
+Website: https://kerberos.io
+License:
+    - MIT
+Languages:
+    - C++
+C: Media Streaming
+C2: Video Streaming
+C3: ""
+Tags:
+    - Media
+    - Streaming
+    - Video
+MD: '- [Kerberos.io](https://kerberos.io) - Kerberos.io is a video surveillance solution, which works with any camera and on every Linux based machine (Raspberry Pi, Docker, Kubernetes cluster). ([Demo](https://demo.kerberos.io/), [Source Code](https://github.com/kerberos-io/kerberos-docker)) `MIT` `C++`'
+SourceType: Github
+Line: 1035

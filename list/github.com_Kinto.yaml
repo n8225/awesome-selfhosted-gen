@@ -1,0 +1,19 @@
+ID: 438
+Name: Kinto
+Description: Kinto is a minimalist JSON storage service with synchronisation and sharing abilities.
+Source Code: https://github.com/Kinto
+Website: https://kinto.readthedocs.org
+License:
+    - Apache-2.0
+Languages:
+    - Python
+C: File Sharing and Synchronization
+C2: File transfer/synchronization
+C3: ""
+Tags:
+    - File Sharing
+    - File Transfer
+    - File Sync
+MD: '- [Kinto](https://kinto.readthedocs.org) - Kinto is a minimalist JSON storage service with synchronisation and sharing abilities. ([Source Code](https://github.com/Kinto)) `Apache-2.0` `Python`'
+SourceType: Github
+Line: 733

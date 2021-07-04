@@ -1,0 +1,16 @@
+ID: 394
+Name: Mango
+Description: Manga server and web reader with a built-in MangaDex downloader.
+Source Code: https://github.com/hkalexling/Mango
+License:
+    - MIT
+Languages: []
+C: E-books and Integrated Library Systems (ILS)
+C2: Personal e-book management software.
+C3: ""
+Tags:
+    - E-book
+    - ILS
+MD: '- [Mango](https://github.com/hkalexling/Mango) - Manga server and web reader with a built-in MangaDex downloader. `MIT` `Crystal`'
+SourceType: Github
+Line: 652
