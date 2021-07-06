@@ -1,4 +1,14 @@
 {{$cats := .Cats }}{{ $entries := .Entries -}}
+# Awesome-Selfhosted
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![](https://img.shields.io/travis/awesome-selfhosted/awesome-selfhosted/master?label=link%20checks)](https://github.com/awesome-selfhosted/awesome-selfhosted/issues/2266)
+
+Self-hosting is the practice of locally hosting and managing applications instead of renting from [SaaSS](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html) providers.
+
+This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software [network services](https://en.wikipedia.org/wiki/Network_service) and [web applications](https://en.wikipedia.org/wiki/Web_application) which can be hosted locally. Non-Free software is listed on the [Non-Free](non-free.md) page.
+
+See [Contributing](.github/CONTRIBUTING.md).
+
 --------------------
 
 - List of Software
@@ -11,30 +21,115 @@
 <!-- BEGIN SOFTWARE LIST -->
 
 {{range $c1,$c2 := $cats}}## {{$c1}}
-
 **[`^        back to top        ^`](#)**
 
 {{range $c1,$comment := .Comment}}_{{$comment}}_
-{{end}}
+{{end -}}
 {{range $c1,$entryID := .Entries}}{{mdEntry (index $entries $entryID)}}
 {{end}}
-
 {{range $c2,$c3 := .Subcat}}### {{$c2}}
-
 **[`^        back to top        ^`](#)**
 
 {{range $c2,$comment := .Comment}}_{{$comment}}_
-{{end}}
+{{end -}}
 {{range $c2,$entryID := .Entries}}{{mdEntry (index $entries $entryID)}}
 {{end}}
-
 {{range $c3,$c4 := .Subcat}}#### {{$c3}}
-
 **[`^        back to top        ^`](#)**
 
 {{range $c3,$comment := .Comment}}_{{$comment}}_
-{{end}}
+{{end -}}
 {{range $c3,$entryID := .Entries}}{{mdEntry (index $entries $entryID)}}
 {{end}}
-
 {{end}}{{end}}{{end}}
+
+<!-- END SOFTWARE LIST -->
+
+--------------------
+
+## List of Licenses
+
+**[`^        back to top        ^`](#)**
+
+- `⚠ ` - Depends on a proprietary service outside the user's control
+- `0BSD` - [BSD Zero-Clause Licence](https://opensource.org/licenses/0BSD)
+- `AAL` - [Attribution Assurance License](https://opensource.org/licenses/AAL)
+- `AGPL-3.0` - [GNU Affero General Public License 3.0](https://www.gnu.org/licenses/agpl-3.0)
+- `AGPL-3.0-only` - [GNU Affero General Public License 3.0 only](https://spdx.org/licenses/AGPL-3.0-only.html)
+- `Apache-2.0` - [Apache, Version 2.0](http://www.apache.org/licenses/)
+- `APSL-2.0` - [Apple Public Source License, Version 2.0](https://opensource.org/licenses/APSL-2.0)
+- `Artistic-2.0` - [Artistic License Version 2.0](http://opensource.org/licenses/Artistic-2.0)
+- `Beerware` - [Beerware License](https://spdx.org/licenses/Beerware.html)
+- `BSD-2-Clause` - [BSD 2-clause "Simplified"](https://opensource.org/licenses/BSD-2-Clause)
+- `BSD-2-Clause-FreeBSD` - [BSD 2-Clause FreeBSD License](https://www.freebsd.org/copyright/freebsd-license.html)
+- `BSD-3-Clause` - [BSD 3-Clause "New" or "Revised"](https://opensource.org/licenses/BSD-3-Clause)
+- `BSD-3-Clause-Attribution` - [BSD with attribution](https://fedoraproject.org/wiki/Licensing/BSD_with_Attribution)
+- `CC-BY-NC-SA-3.0` - [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 International License](https://creativecommons.org/licenses/by-nc-sa/3.0/)
+- `CC-BY-SA-3.0` - [Creative Commons Attribution-ShareAlike 3.0 International License](https://creativecommons.org/licenses/by-sa/3.0/)
+- `CC-BY-SA-4.0` - [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)
+- `CC0-1.0` - [Public Domain](https://creativecommons.org/about/cc0/)
+- `CDDL-1.0` - [Common Development and Distribution License](https://opensource.org/licenses/CDDL-1.0)
+- `CECILL-B` - [CEA CNRS INRIA Logiciel Libre](https://spdx.org/licenses/CECILL-B.html)
+- `CPAL-1.0` - [Common Public Attribution License Version 1.0](http://opensource.org/licenses/CPAL-1.0)
+- `DPL` - [Devblocks Public License 1.0](https://cerb.ai/license/)
+- `ECL-2.0` - [Educational Community License, Version 2.0 ](http://opensource.org/licenses/ECL-2.0)
+- `EPL-1.0` - [Eclipse Public License, Version 1.0](https://www.eclipse.org/legal/epl-v10.html)
+- `EPL-2.0` - [Eclipse Public License, Version 2.0](https://www.eclipse.org/legal/epl-v20.html)
+- `EUPL-1.2` - [European Union Public License 1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-11-12)
+- `GFDL-1.1-only` - [GNU Free Documentation License v1.1](https://spdx.org/licenses/GFDL-1.1-only.html)
+- `GFDL-1.1-or-later` - [GNU Free Documentation License v1.1](https://spdx.org/licenses/GFDL-1.1-or-later.html)
+- `GFDL-1.2-only` - [GNU Free Documentation License v1.2](https://spdx.org/licenses/GFDL-1.2-only.html)
+- `GFDL-1.2-or-later` - [GNU Free Documentation License v1.2](https://spdx.org/licenses/GFDL-1.2-or-later.html)
+- `GFDL-1.3-only` - [GNU Free Documentation License v1.3](https://spdx.org/licenses/GFDL-1.3-only.html)
+- `GFDL-1.3-or-later` - [GNU Free Documentation License v1.3](https://spdx.org/licenses/GFDL-1.3-or-later.html)
+- `GPL-1.0` - [GNU General Public License](https://www.gnu.org/licenses/gpl-1.0)
+- `GPL-2.0` - [GNU General Public License 2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+- `GPL-2.0-or-later` - [GNU General Public License v2.0 or later](https://spdx.org/licenses/GPL-2.0-or-later.html)
+- `GPL-3.0-only` - [GNU General Public License v3.0 only](https://spdx.org/licenses/GPL-3.0-only.html)
+- `GPL-3.0-or-later` - [GNU General Public License v3.0 or later](https://spdx.org/licenses/GPL-3.0-or-later.html)
+- `GPL-3.0` - [GNU General Public License 3.0](http://www.gnu.org/licenses/gpl-3.0.en.html)
+- `IPL-1.0` - [IBM Public License](https://opensource.org/licenses/IPL-1.0)
+- `ISC` - [Internet Systems Consortium License](https://www.isc.org/downloads/software-support-policy/isc-license/)
+- `LGPL-2.1` - [Lesser General Public License 2.1](http://opensource.org/licenses/LGPL-2.1)
+- `LGPL-3.0` - [Lesser General Public License 3.0](http://opensource.org/licenses/LGPL-3.0)
+- `MIT` - [MIT License](http://opensource.org/licenses/MIT)
+- `MPL-1.1` - [Mozilla Public License Version 1.1](https://www.mozilla.org/media/MPL/1.1/index.txt)
+- `MPL-2.0` - [Mozilla Public License](https://www.mozilla.org/MPL/2.0/index.txt)
+- `Multiple` - Various different licenses, for different components of the project's software.
+- `OSL-3.0` - [Open Software License 3.0](https://opensource.org/licenses/osl-3.0.php)
+- `Other` - Non-standard license, usually unique to the project itself.
+- `Sendmail` - [Sendmail License](https://www.sendmail.com/pdfs/open_source/sendmail_license.pdf)
+- `SSPL-1.0` - [Server Side Public License](https://spdx.org/licenses/SSPL-1.0.html)
+- `Unlicense` - [The Unlicense](http://unlicense.org/)
+- `WTFPL` - [Do What the Fuck You Want to Public License](http://www.wtfpl.net/about/)
+- `Zlib` - [Zlib/libpng License](https://opensource.org/licenses/Zlib)
+- `ZPL-1.2` - [Zope Public License 1.2](http://zpl.pub/page/zplv12)
+- `ZPL-2.0` - [Zope Public License 2.0](http://opensource.org/licenses/ZPL-2.0)
+
+--------------------
+
+## External links
+
+**[`^        back to top        ^`](#)**
+
+- [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata) - Curated list of awesome big data frameworks, resources and other awesomeness.
+- [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - List of high quality, topic-centric public data sources.
+- [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - Curated list of amazingly awesome open source sysadmin resources.
+- Lists of software aimed at privacy and decentralization in some form: [PRISM Break](https://prism-break.org/en/), [privacytools.io](https://www.privacytools.io/), [Alternative Internet](https://redecentralize.github.io/alternative-internet/), [Libre Projects](http://libreprojects.net/)
+- Dynamic Domain Name services: [Afraid.org](https://freedns.afraid.org/domain/registry/), [Pagekite](https://pagekite.net/)
+- Communities/forums: [/r/selfhosted](https://www.reddit.com/r/selfhosted), [IndieWeb](https://indieweb.org/)
+- Mirrors: [GitHub.com](https://github.com/awesome-selfhosted/awesome-selfhosted), [Gitlab.com](https://gitlab.com/awesome-selfhosted/awesome-selfhosted)
+
+--------------------
+
+## Contributing
+
+Contributing guidelines can be found in [.github/CONTRIBUTING.md](.github/CONTRIBUTING.md).
+
+## Authors
+
+The list of authors can be found in [AUTHORS.md](AUTHORS.md).
+
+## License
+
+This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LICENSE) License.

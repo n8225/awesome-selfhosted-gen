@@ -1,4 +1,4 @@
-ID: 113
+ID: 115
 Name: LibreNews
 Description: Decentralized and secure breaking news notification system.
 Source Code: https://github.com/milesmcc/LibreNews-Server/
@@ -14,4 +14,4 @@ Tags:
     - Communications
 MD: '- [LibreNews](https://librenews.io/) - Decentralized and secure breaking news notification system. ([Source Code](https://github.com/milesmcc/LibreNews-Server/)) `GPL-3.0` `Python`'
 SourceType: Github
-Line: 274
+Line: 275

@@ -1,4 +1,4 @@
-ID: 114
+ID: 116
 Name: Live Helper Chat
 Description: Live Support chat for your website.
 Source Code: https://github.com/LiveHelperChat/livehelperchat
@@ -14,4 +14,4 @@ Tags:
     - Communications
 MD: '- [Live Helper Chat](http://livehelperchat.com/) - Live Support chat for your website. ([Source Code](https://github.com/LiveHelperChat/livehelperchat)) `Apache-2.0` `PHP`'
 SourceType: Github
-Line: 275
+Line: 276

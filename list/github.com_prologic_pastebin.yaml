@@ -1,5 +1,5 @@
-ID: 815
-Name: pastebin
+ID: 820
+Name: prologic pastebin
 Description: Simple pastebin service with convenient api and CLI.
 Source Code: https://github.com/prologic/pastebin
 Demo: https://paste.mills.io
@@ -12,6 +12,6 @@ C2: ""
 C3: ""
 Tags:
     - Pastebin
-MD: '- [pastebin](https://github.com/prologic/pastebin) - Simple pastebin service with convenient api and CLI. ([Demo](https://paste.mills.io)) `MIT` `Go`'
+MD: '- [prologic pastebin](https://github.com/prologic/pastebin) - Simple pastebin service with convenient api and CLI. ([Demo](https://paste.mills.io)) `MIT` `Go`'
 SourceType: Github
-Line: 1231
+Line: 1235

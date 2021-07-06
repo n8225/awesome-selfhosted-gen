@@ -1,4 +1,4 @@
-ID: 1054
+ID: 1060
 Name: shorturl
 Description: Simple URL shortener with very tiny URLs.
 Source Code: https://github.com/prologic/shorturl
@@ -14,4 +14,4 @@ Tags:
     - URL Shortener
 MD: '- [shorturl](https://github.com/prologic/shorturl) - Simple URL shortener with very tiny URLs. ([Demo](https://url.mills.io)) `MIT` `Go`'
 SourceType: Github
-Line: 1579
+Line: 1584

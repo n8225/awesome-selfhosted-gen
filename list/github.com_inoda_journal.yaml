@@ -1,4 +1,4 @@
-ID: 700
+ID: 703
 Name: Journal
 Description: Simple journaling with encrypted entries and sharing capabilities.
 Source Code: https://github.com/inoda/journal
@@ -14,4 +14,4 @@ Tags:
     - Other
 MD: '- [Journal](https://github.com/inoda/journal) - Simple journaling with encrypted entries and sharing capabilities. `MIT` `Ruby`'
 SourceType: Github
-Line: 1080
+Line: 1082

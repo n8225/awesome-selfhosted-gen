@@ -1,6 +1,6 @@
-ID: 167
-Name: Cyrus IMAP/POP3
-Description: Intended to be run on sealed servers, where normal users are not permitted to log in.
+ID: 169
+Name: Cyrus IMAP
+Description: Email (IMAP/POP3), contacts and calendar server.
 Source Code: https://github.com/cyrusimap/cyrus-imapd
 Website: https://www.cyrusimap.org/
 License:
@@ -14,6 +14,6 @@ Tags:
     - Communications
     - Email
     - MDA
-MD: '- [Cyrus IMAP/POP3](https://www.cyrusimap.org/) - Intended to be run on sealed servers, where normal users are not permitted to log in. ([Source Code](https://github.com/cyrusimap/cyrus-imapd )) `BSD-3-Clause-Attribution` `C`'
+MD: '- [Cyrus IMAP](https://www.cyrusimap.org/) - Email (IMAP/POP3), contacts and calendar server. ([Source Code](https://github.com/cyrusimap/cyrus-imapd )) `BSD-3-Clause-Attribution` `C`'
 SourceType: Github
-Line: 347
+Line: 348

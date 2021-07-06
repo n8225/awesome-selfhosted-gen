@@ -1,4 +1,4 @@
-ID: 548
+ID: 551
 Name: Genea.app
 Description: Genea is a privacy by design and open source tool anyone can use to author or edit their family tree. Data is stored in the GEDCOM format and all processing is done in the browser.
 Source Code: https://github.com/genea-app/genea-app
@@ -13,4 +13,4 @@ C3: ""
 Tags: []
 MD: '- [Genea.app](https://genea.app/) - Genea is a privacy by design and open source tool anyone can use to author or edit their family tree. Data is stored in the GEDCOM format and all processing is done in the browser. ([Source Code](https://github.com/genea-app/genea-app)) `MIT` `Javascript`'
 SourceType: Github
-Line: 875
+Line: 877

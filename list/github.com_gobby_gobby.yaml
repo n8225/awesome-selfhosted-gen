@@ -1,4 +1,4 @@
-ID: 782
+ID: 787
 Name: Infinoted
 Description: Server for [Gobby](https://github.com/gobby/gobby/wiki), a multi-platform collaborative text editor.
 Source Code: https://github.com/gobby/gobby
@@ -14,4 +14,4 @@ Tags:
     - Office Suites
 MD: '- [Infinoted](https://github.com/gobby/gobby/wiki/Dedicated%20Server) - Server for [Gobby](https://github.com/gobby/gobby/wiki), a multi-platform collaborative text editor. ([Source Code](https://github.com/gobby/gobby)) `MIT` `C++`'
 SourceType: Github
-Line: 1187
+Line: 1191

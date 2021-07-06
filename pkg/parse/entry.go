@@ -11,27 +11,40 @@ import (
 
 //Entry is the structure of each entry
 type Entry struct {
-	ID         int      `json:"ID" yaml:"ID"`
-	Name       string   `json:"N" yaml:"Name"`
-	Descrip    string   `json:"D" yaml:"Description,flow"`
-	Source     string   `json:"Sr" yaml:"Source Code"`
-	Demo       string   `json:"Dem,omitempty" yaml:"Demo,omitempty"`
-	Clients    []string `json:"CL,omitempty" yaml:"Clients,omitempty"`
-	Site       string   `json:"Si,omitempty" yaml:"Website,omitempty"`
-	License    []string `json:"Li" yaml:"License"`
-	Lang       []string `json:"La" yaml:"Languages"`
-	Cat        string   `json:"C,omitempty" yaml:"C"`
-	Cat2       string   `json:"C2,omitempty" yaml:"C2"`
-	Cat3       string   `json:"C3,omitempty" yaml:"C3"`
-	Tags       []string `json:"T" yaml:"Tags"`
-	Pdep       bool     `json:"P,omitempty" yaml:"ProprietaryDependency,omitempty"`
-	MD         string   `json:"-" yaml:"MD"`
-	SourceType string   `json:"SourceType" yaml:"SourceType,omitempty"`
-	Line       int      `json:"Line" yaml:"Line"`
-	Stars      int      `json:"stars,omitempty" yaml:"stars,omitempty"`
-	Updated    string   `json:"update,omitempty" yaml:"update,omitempty"`
-	NonFree    bool     `json:"NF,omitempty" yaml:"NonFree,omitempty"`
-	Gitdata    Gitdata  `json:"-" yaml:"Gitdata,omitempty"`
+	ID         int        `json:"ID" yaml:"ID"`
+	Name       string     `json:"N" yaml:"Name"`
+	Descrip    string     `json:"D" yaml:"Description,flow"`
+	Source     string     `json:"Sr" yaml:"Source Code"`
+	Demo       string     `json:"Dem,omitempty" yaml:"Demo,omitempty"`
+	Clients    []string   `json:"CL,omitempty" yaml:"Clients,omitempty"`
+	Site       string     `json:"Si,omitempty" yaml:"Website,omitempty"`
+	License    []string   `json:"Li" yaml:"License"`
+	Lang       []string   `json:"La" yaml:"Languages"`
+	Cat        string     `json:"C,omitempty" yaml:"C"`
+	Cat2       string     `json:"C2,omitempty" yaml:"C2"`
+	Cat3       string     `json:"C3,omitempty" yaml:"C3"`
+	Tags       []string   `json:"T" yaml:"Tags"`
+	Pdep       bool       `json:"P,omitempty" yaml:"ProprietaryDependency,omitempty"`
+	MD         string     `json:"-" yaml:"MD"`
+	SourceType string     `json:"SourceType" yaml:"SourceType,omitempty"`
+	Line       int        `json:"Line" yaml:"Line"`
+	Stars      int        `json:"stars,omitempty" yaml:"stars,omitempty"`
+	Updated    string     `json:"update,omitempty" yaml:"update,omitempty"`
+	NonFree    bool       `json:"NF,omitempty" yaml:"NonFree,omitempty"`
+	Githubdata GithubRepo `json:"-" yaml:"Gitdata,omitempty"`
+}
+
+//GithubRepo holds data from the Github api
+type GithubRepo struct {
+	Name          string
+	Repo          string
+	Stars         int
+	NameWithOwner string
+	Lang          string
+	Spdx          string
+	PushedAt      string
+	Archived      bool
+	Disabled      bool
 }
 
 //Gitdata holds data retrieved from provider apis.

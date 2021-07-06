@@ -1,4 +1,4 @@
-ID: 89
+ID: 91
 Name: Radicale
 Description: Simple calendar and contact server with extremely low administrative overhead.
 Source Code: https://github.com/Kozea/Radicale
@@ -17,4 +17,4 @@ Tags:
     - CardDav
 MD: '- [Radicale](http://radicale.org/) - Simple calendar and contact server with extremely low administrative overhead. ([Source Code](https://github.com/Kozea/Radicale)) `GPL-3.0` `Python`'
 SourceType: Github
-Line: 240
+Line: 241

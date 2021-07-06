@@ -12,10 +12,14 @@ import (
 
 // List is the total struct
 type List struct {
-	Entries  []Entry `json:"Entries" yaml:"Entries"`
-	LangList []Langs `json:"Langs" yaml:"-"`
-	CatList  []Cats  `json:"Cats" yaml:"-"`
-	TagList  []Tags  `json:"Tags" yaml:"-"`
+	Entries  []Entry  `json:"Entries" yaml:"Entries"`
+	LangList []Langs  `json:"Langs" yaml:"-"`
+	CatList  []Cats   `json:"Cats" yaml:"-"`
+	TagList  []Tags   `json:"Tags" yaml:"-"`
+	Header   []string `json:"Header" yaml:"-"`
+	Licenses []string `json:"Licenses" yaml:"-"`
+	ExtLinks []string `json:"ExtLinks" yaml:"-"`
+	Footer   []string `json:"Footer" yaml:"-"`
 }
 type parseState struct {
 	i       int
@@ -26,7 +30,8 @@ type parseState struct {
 }
 
 //MdParser parses entries and categories from README.me
-func MdParser(path string) []Entry {
+func MdParser(path string) *List {
+	list := List{}
 	log.Info().Msgf("Parsing: %s", path)
 	inputFile, _ := os.Open(path)
 	defer inputFile.Close()
@@ -34,10 +39,9 @@ func MdParser(path string) []Entry {
 	scanner.Split(bufio.ScanLines)
 	var i = 0
 
-	entries := []Entry{}
 	state := parseState{}
 	cats := []CatList{}
-	//header := make([]string, 0)
+
 	//catLookup := make(map[int]int)
 
 	for scanner.Scan() {
@@ -71,7 +75,7 @@ func MdParser(path string) []Entry {
 					e.Source, e.SourceType = GetSource(e.MD)
 					e.Cat, e.Cat2, e.Cat3 = setCats(cat)
 					e.Tags = getTags(cat)
-					entries = append(entries, *e)
+					list.Entries = append(list.Entries, *e)
 				} else {
 					log.Error().Msgf("Failed to match pattern, Line: %d : %s", state.l, scanner.Text())
 				}
@@ -79,17 +83,11 @@ func MdParser(path string) []Entry {
 			}
 		} else if state.section == "licenseList" {
 			cats = closeCats(state, cats)
-		} //else if state.section == "header" {
-		//header = append(header, getHeader(i, scanner.Text()))
-		//} //else {
-		// 	licenses =
-		// 	extLinks = append(extLinks, getExtLinks(i, scanner.Text()))
-		// 	footer = append(footer, getExtLinks(i, scanner.Text()))
-		// }
+		}
 
 	}
 	toCategories(cats)
-	return entries
+	return &list
 }
 
 func findSection(line string, section string) string {

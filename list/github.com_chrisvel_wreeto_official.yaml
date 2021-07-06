@@ -1,4 +1,4 @@
-ID: 776
+ID: 781
 Name: Wreeto
 Description: Wreeto is an open source note-taking, knowledge management and wiki system built on top of Ruby on Rails framework.
 Source Code: https://github.com/chrisvel/wreeto_official
@@ -15,4 +15,4 @@ Tags:
     - Editor
 MD: '- [Wreeto](https://wreeto.com) - Wreeto is an open source note-taking, knowledge management and wiki system built on top of Ruby on Rails framework. ([Source Code](https://github.com/chrisvel/wreeto_official)) `AGPL-3.0` `Ruby`'
 SourceType: Github
-Line: 1176
+Line: 1180

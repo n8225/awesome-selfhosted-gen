@@ -1,4 +1,4 @@
-ID: 758
+ID: 763
 Name: Joplin
 Description: Joplin is a note taking application with Markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through self hosted Nextcloud or similar. Consider it like open source alternative to Evernote.
 Source Code: https://github.com/laurent22/joplin
@@ -15,4 +15,4 @@ Tags:
     - Editor
 MD: '- [Joplin](https://joplinapp.org/) - Joplin is a note taking application with Markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through self hosted Nextcloud or similar. Consider it like open source alternative to Evernote. ([Source Code](https://github.com/laurent22/joplin)) `MIT` `Nodejs`'
 SourceType: Github
-Line: 1158
+Line: 1162

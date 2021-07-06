@@ -1,4 +1,4 @@
-ID: 912
+ID: 918
 Name: LedgerSMB
 Description: Integrated accounting and ERP system for small and midsize businesses, with double entry accounting, budgeting, invoicing, quotations, projects, orders and inventory management, shipping and more.
 Source Code: https://github.com/ledgersmb/LedgerSMB
@@ -16,4 +16,4 @@ Tags:
     - Enterprise rsrc planning
 MD: '- [LedgerSMB](https://ledgersmb.org/) - Integrated accounting and ERP system for small and midsize businesses, with double entry accounting, budgeting, invoicing, quotations, projects, orders and inventory management, shipping and more. ([Demo](https://demo.cloud.efficito.com/erp/1.5/login.pl), [Source Code](https://github.com/ledgersmb/LedgerSMB)) `GPL-2.0` `Perl`'
 SourceType: Github
-Line: 1366
+Line: 1371

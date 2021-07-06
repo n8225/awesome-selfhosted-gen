@@ -1,4 +1,4 @@
-ID: 579
+ID: 582
 Name: Thingsboard
 Description: Open-source IoT Platform - Device management, data collection, processing and visualization.
 Source Code: https://github.com/thingsboard/thingsboard
@@ -16,4 +16,4 @@ Tags:
     - IoT
 MD: '- [Thingsboard](https://thingsboard.io/) - Open-source IoT Platform - Device management, data collection, processing and visualization. ([Demo](https://demo.thingsboard.io/signup), [Source Code](https://github.com/thingsboard/thingsboard)) `Apache-2.0` `Java`'
 SourceType: Github
-Line: 921
+Line: 923

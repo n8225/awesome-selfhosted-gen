@@ -1,4 +1,4 @@
-ID: 197
+ID: 200
 Name: Ergo
 Description: Modern IRCv3 server written in Go, combining the features of an ircd, a services framework, and a bouncer.
 Source Code: https://github.com/ergochat/ergo
@@ -15,4 +15,4 @@ Tags:
     - IRC
 MD: '- [Ergo](https://ergo.chat/) - Modern IRCv3 server written in Go, combining the features of an ircd, a services framework, and a bouncer. ([Source Code](https://github.com/ergochat/ergo)) `MIT` `Go`'
 SourceType: Github
-Line: 392
+Line: 394

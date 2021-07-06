@@ -1,4 +1,4 @@
-ID: 111
+ID: 113
 Name: LeapChat
 Description: Ephemeral, encrypted, in-browser chat rooms.
 Source Code: https://github.com/cryptag/leapchat
@@ -11,6 +11,6 @@ C2: Custom communication systems
 C3: ""
 Tags:
     - Communications
-MD: '- [LeapChat](https://github.com/cryptag/leapchat) - Ephemeral, encrypted, in-browser chat rooms. `AGPL-3.0` `JavaScript`'
+MD: '- [LeapChat](https://github.com/cryptag/leapchat) - Ephemeral, encrypted, in-browser chat rooms. `AGPL-3.0` `Javascript`'
 SourceType: Github
-Line: 272
+Line: 273

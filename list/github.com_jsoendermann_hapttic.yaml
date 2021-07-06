@@ -1,4 +1,4 @@
-ID: 988
+ID: 994
 Name: Hapttic
 Description: Simple HTTP server that forwards all requests to a shell script to handle webhooks you receive.
 Source Code: https://github.com/jsoendermann/hapttic
@@ -14,4 +14,4 @@ Tags:
     - API Mgmnt
 MD: '- [Hapttic](https://github.com/jsoendermann/hapttic) - Simple HTTP server that forwards all requests to a shell script to handle webhooks you receive. `Apache-2.0` `Go`'
 SourceType: Github
-Line: 1478
+Line: 1483

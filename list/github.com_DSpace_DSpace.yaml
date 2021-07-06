@@ -1,4 +1,4 @@
-ID: 399
+ID: 402
 Name: DSpace
 Description: Turnkey repository application providing durable access to digital resources.
 Source Code: https://github.com/DSpace/DSpace
@@ -15,4 +15,4 @@ Tags:
     - ILS
 MD: '- [DSpace](http://dspace.org/) - Turnkey repository application providing durable access to digital resources. ([Source Code](https://github.com/DSpace/DSpace)) `BSD-3-Clause` `Java`'
 SourceType: Github
-Line: 664
+Line: 666

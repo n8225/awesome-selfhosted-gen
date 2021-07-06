@@ -1,4 +1,4 @@
-ID: 747
+ID: 752
 Name: SilverStrike
 Description: Personal finance management made easy.
 Source Code: https://github.com/agstrike/silverstrike
@@ -17,4 +17,4 @@ Tags:
     - Budget
 MD: '- [SilverStrike](https://silverstrike.org/) - Personal finance management made easy. ([Demo](https://demo.silverstrike.org/), [Source Code](https://github.com/agstrike/silverstrike)) `MIT` `Python/Django`'
 SourceType: Github
-Line: 1134
+Line: 1138

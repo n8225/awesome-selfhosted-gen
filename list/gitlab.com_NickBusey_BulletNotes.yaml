@@ -1,4 +1,4 @@
-ID: 750
+ID: 755
 Name: BulletNotes
 Description: Workflowy / Dynalist clone with Kanban (Trello) and Calendar functionality. Organize everything.
 Source Code: https://gitlab.com/NickBusey/BulletNotes
@@ -15,4 +15,4 @@ Tags:
     - Editor
 MD: '- [BulletNotes](https://bulletnotes.io/) - Workflowy / Dynalist clone with Kanban (Trello) and Calendar functionality. Organize everything. ([Source Code](https://gitlab.com/NickBusey/BulletNotes)) `MIT` `Nodejs`'
 SourceType: Gitlab
-Line: 1150
+Line: 1154

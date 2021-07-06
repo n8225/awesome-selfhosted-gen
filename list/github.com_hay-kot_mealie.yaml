@@ -1,4 +1,4 @@
-ID: 343
+ID: 346
 Name: Mealie
 Description: Material design inspired recipe manager with category and tag management, shopping-lists, meal-planner, and site customizations. Mealie is focused on simple user interactions to keep the whole family using the app.
 Source Code: https://github.com/hay-kot/mealie
@@ -15,4 +15,4 @@ Tags:
     - Recipe Mgmnt
 MD: '- [Mealie](https://hay-kot.github.io/mealie/) - Material design inspired recipe manager with category and tag management, shopping-lists, meal-planner, and site customizations. Mealie is focused on simple user interactions to keep the whole family using the app. ([Source Code](https://github.com/hay-kot/mealie)) `MIT` `Python`'
 SourceType: Github
-Line: 577
+Line: 579

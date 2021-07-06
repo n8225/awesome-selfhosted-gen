@@ -1,4 +1,4 @@
-ID: 870
+ID: 876
 Name: dudle
 Description: Online scheduling application.
 Source Code: https://github.com/kellerben/dudle
@@ -16,4 +16,4 @@ Tags:
     - Events
 MD: '- [dudle](http://primelife.ercim.eu/results/opensource/63-dudle) - Online scheduling application. ([Demo](https://dudle.inf.tu-dresden.de/), [Source Code](https://github.com/kellerben/dudle)) `AGPL-3.0` `Ruby`'
 SourceType: Github
-Line: 1303
+Line: 1308

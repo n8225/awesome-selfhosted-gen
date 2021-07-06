@@ -1,0 +1,20 @@
+ID: 706
+Name: Lancache
+Description: LAN Party game caching made easy.
+Source Code: https://github.com/lancachenet/monolithic
+Website: https://lancache.net
+License:
+    - MIT
+Languages:
+    - Docker
+    - Shell
+C: Misc/Other
+C2: ""
+C3: ""
+Tags:
+    - Misc
+    - Other
+ProprietaryDependency: true
+MD: '- [Lancache](https://lancache.net) `⚠` - LAN Party game caching made easy. ([Source Code](https://github.com/lancachenet/monolithic)) `MIT` `Docker/Shell`'
+SourceType: Github
+Line: 1085

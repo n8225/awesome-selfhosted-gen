@@ -1,4 +1,4 @@
-ID: 732
+ID: 737
 Name: Firefly III
 Description: Firefly III is a modern financial manager. It helps you to keep track of your money and make budget forecasts. It supports credit cards, has an advanced rule engine and can import data from many banks.
 Source Code: https://github.com/firefly-iii/firefly-iii
@@ -16,4 +16,4 @@ Tags:
     - Budget
 MD: '- [Firefly III](https://firefly-iii.org/) - Firefly III is a modern financial manager. It helps you to keep track of your money and make budget forecasts. It supports credit cards, has an advanced rule engine and can import data from many banks. ([Demo](https://demo.firefly-iii.org/), [Source Code](https://github.com/firefly-iii/firefly-iii)) `AGPL-3.0` `PHP`'
 SourceType: Github
-Line: 1119
+Line: 1123

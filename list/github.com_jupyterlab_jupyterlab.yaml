@@ -1,4 +1,4 @@
-ID: 969
+ID: 975
 Name: JupyterLab
 Description: Web-based environment for interactive and reproducible computing.
 Source Code: https://github.com/jupyterlab/jupyterlab/
@@ -17,4 +17,4 @@ Tags:
     - IDE
 MD: '- [JupyterLab](http://jupyterlab.github.io/jupyterlab/) - Web-based environment for interactive and reproducible computing. ([Demo](https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/try.jupyter.org?urlpath=lab), [Source Code](https://github.com/jupyterlab/jupyterlab/)) `BSD-3-Clause` `Python/Docker`'
 SourceType: Github
-Line: 1444
+Line: 1449

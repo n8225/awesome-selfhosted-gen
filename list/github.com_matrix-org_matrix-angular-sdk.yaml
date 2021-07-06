@@ -1,4 +1,4 @@
-ID: 129
+ID: 131
 Name: Matrix Console Web
 Description: Web client meant to be a showcase of Matrix capabilities, and reference implementation of the Matrix standard.
 Source Code: https://github.com/matrix-org/matrix-angular-sdk
@@ -14,4 +14,4 @@ Tags:
     - Communications
 MD: '  - [Matrix Console Web](https://matrix.org/docs/projects/client/matrix-console-web) - Web client meant to be a showcase of Matrix capabilities, and reference implementation of the Matrix standard. ([Source Code](https://github.com/matrix-org/matrix-angular-sdk)) `Apache-2.0` `Javascript`'
 SourceType: Github
-Line: 290
+Line: 291

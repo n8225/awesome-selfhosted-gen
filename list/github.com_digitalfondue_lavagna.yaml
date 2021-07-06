@@ -1,4 +1,4 @@
-ID: 938
+ID: 944
 Name: Lavagna
 Description: Lavagna is an open-source issue/project management tool designed for small teams. Lightweight, pure Java, easy to install, easy to use.
 Source Code: https://github.com/digitalfondue/lavagna
@@ -15,4 +15,4 @@ Tags:
     - Project Mgmnt
 MD: '- [Lavagna](http://lavagna.io) - Lavagna is an open-source issue/project management tool designed for small teams. Lightweight, pure Java, easy to install, easy to use. ([Source Code](https://github.com/digitalfondue/lavagna)) `GPL-3.0` `Java`'
 SourceType: Github
-Line: 1406
+Line: 1411

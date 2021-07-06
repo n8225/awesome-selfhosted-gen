@@ -1,4 +1,4 @@
-ID: 772
+ID: 777
 Name: Standard Notes
 Description: Simple and private notes app. Protect your privacy while getting more done. That's Standard Notes.
 Source Code: https://github.com/standardnotes
@@ -16,4 +16,4 @@ Tags:
     - Editor
 MD: '- [Standard Notes](https://standardnotes.org) - Simple and private notes app. Protect your privacy while getting more done. That''s Standard Notes. ([Demo](https://app.standardnotes.org/), [Source Code](https://github.com/standardnotes)) `GPL-3.0` `Ruby`'
 SourceType: Github
-Line: 1172
+Line: 1176

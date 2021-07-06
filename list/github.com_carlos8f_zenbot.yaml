@@ -1,4 +1,4 @@
-ID: 46
+ID: 47
 Name: Zenbot 3
 Description: Zenbot is a lightweight, extendable, artificially intelligent trading bot for Bitcoin, Ether, Litecoin, and more.
 Source Code: https://github.com/carlos8f/zenbot
@@ -11,6 +11,6 @@ C2: ""
 C3: ""
 Tags:
     - Automation
-MD: '- [Zenbot 3](https://github.com/carlos8f/zenbot) - Zenbot is a lightweight, extendable, artificially intelligent trading bot for Bitcoin, Ether, Litecoin, and more. `MIT` `Node.js`'
+MD: '- [Zenbot 3](https://github.com/carlos8f/zenbot) - Zenbot is a lightweight, extendable, artificially intelligent trading bot for Bitcoin, Ether, Litecoin, and more. `MIT` `Nodejs`'
 SourceType: Github
-Line: 172
+Line: 173

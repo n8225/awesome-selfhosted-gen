@@ -1,4 +1,4 @@
-ID: 1024
+ID: 1030
 Name: Vikunja
 Description: The to-do app to organize your life.
 Source Code: https://kolaente.dev/vikunja/
@@ -15,4 +15,4 @@ Tags:
     - To-Do
     - Task Mgmnt
 MD: '- [Vikunja](https://vikunja.io/) - The to-do app to organize your life. ([Demo](https://try.vikunja.io/login), [Source Code](https://kolaente.dev/vikunja/)) `GPL-3.0` `Go`'
-Line: 1535
+Line: 1540

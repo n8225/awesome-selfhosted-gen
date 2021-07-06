@@ -1,4 +1,4 @@
-ID: 398
+ID: 401
 Name: RERO ILS
 Description: Large-scale ILS that can be run as a service with consortial features, intended primarily for library networks. Includes most standard modules (circulation, acquisitions, cataloging,...) and a web-based public and professional interface.
 Source Code: https://github.com/rero/rero-ils
@@ -16,4 +16,4 @@ Tags:
     - ILS
 MD: '- [RERO ILS](https://rero21.ch/) - Large-scale ILS that can be run as a service with consortial features, intended primarily for library networks. Includes most standard modules (circulation, acquisitions, cataloging,...) and a web-based public and professional interface. ([Demo](https://ils.test.rero.ch/), [Source Code](https://github.com/rero/rero-ils)) `AGPL-3.0` `Python/Other`'
 SourceType: Github
-Line: 660
+Line: 662

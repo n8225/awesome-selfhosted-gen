@@ -1,4 +1,4 @@
-ID: 1065
+ID: 1070
 Name: Gitit
 Description: Wiki program that stores pages and uploaded files in a git repository, which can then be modified using the VCS command line tools or the wiki's web interface.
 Source Code: https://github.com/jgm/gitit
@@ -13,4 +13,4 @@ Tags:
     - Wiki
 MD: '- [Gitit](https://github.com/jgm/gitit) - Wiki program that stores pages and uploaded files in a git repository, which can then be modified using the VCS command line tools or the wiki''s web interface. `GPL-2.0` `Haskell`'
 SourceType: Github
-Line: 1609
+Line: 1613

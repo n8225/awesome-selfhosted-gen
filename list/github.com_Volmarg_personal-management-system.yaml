@@ -1,4 +1,4 @@
-ID: 839
+ID: 845
 Name: Personal management system
 Description: Central point for managing personal data (billings, payments, job holidays, notes etc.).
 Source Code: https://github.com/Volmarg/personal-management-system
@@ -14,4 +14,4 @@ Tags:
     - Dashboard
 MD: '- [Personal management system](https://github.com/Volmarg/personal-management-system) - Central point for managing personal data (billings, payments, job holidays, notes etc.). ([Demo](http://personal-management-system.pl/)) `MIT` `PHP`'
 SourceType: Github
-Line: 1262
+Line: 1267

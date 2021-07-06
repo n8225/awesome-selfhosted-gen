@@ -1,4 +1,4 @@
-ID: 71
+ID: 73
 Name: linkding
 Description: Minimal bookmark management with a fast and clean UI. Simple installation through Docker and can run on your Raspberry Pi.
 Source Code: https://github.com/sissbruecker/linkding
@@ -17,4 +17,4 @@ Tags:
     - Links
 MD: '- [linkding](https://github.com/sissbruecker/linkding) - Minimal bookmark management with a fast and clean UI. Simple installation through Docker and can run on your Raspberry Pi. ([Demo](https://demo.linkding.link/)) `MIT` `Docker/Python/Nodejs`'
 SourceType: Github
-Line: 211
+Line: 212

@@ -1,4 +1,4 @@
-ID: 479
+ID: 482
 Name: image-uploader
 Description: A shareX compatible image uploader built for speed with a web interface and REST API.
 Source Code: https://github.com/daggy1234/image-uploader
@@ -15,4 +15,4 @@ Tags:
     - Drag-n-Drop Upload
 MD: '- [image-uploader](https://github.com/daggy1234/image-uploader) - A shareX compatible image uploader built for speed with a web interface and REST API. `AGPL-3.0` `Rust`'
 SourceType: Github
-Line: 783
+Line: 785

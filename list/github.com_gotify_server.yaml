@@ -1,4 +1,4 @@
-ID: 105
+ID: 107
 Name: Gotify
 Description: Self-hosted notification server with Android and CLI clients, similar to PushBullet.
 Source Code: https://github.com/gotify/server
@@ -16,4 +16,4 @@ Tags:
     - Communications
 MD: '- [Gotify](https://gotify.net/) - Self-hosted notification server with Android and CLI clients, similar to PushBullet. ([Source Code](https://github.com/gotify/server), [Clients](https://github.com/gotify/android)) `MIT` `Go`'
 SourceType: Github
-Line: 266
+Line: 267

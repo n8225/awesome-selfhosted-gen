@@ -1,4 +1,4 @@
-ID: 976
+ID: 982
 Name: Wakapi
 Description: Tracking tool for coding statistics, compatible with WakaTime.
 Source Code: https://github.com/n1try/wakapi
@@ -14,4 +14,4 @@ Tags:
     - IDE
 MD: '- [Wakapi](https://github.com/n1try/wakapi) - Tracking tool for coding statistics, compatible with WakaTime. `GPL-3.0` `Go`'
 SourceType: Github
-Line: 1451
+Line: 1456

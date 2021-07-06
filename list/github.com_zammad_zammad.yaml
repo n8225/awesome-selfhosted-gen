@@ -1,4 +1,4 @@
-ID: 1042
+ID: 1048
 Name: Zammad
 Description: Easy to use but powerful open-source support and ticketing system.
 Source Code: https://github.com/zammad/zammad
@@ -14,4 +14,4 @@ Tags:
     - Ticketing
 MD: '- [Zammad](https://zammad.org/) - Easy to use but powerful open-source support and ticketing system. ([Source Code](https://github.com/zammad/zammad)) `AGPL-3.0` `Ruby`'
 SourceType: Github
-Line: 1560
+Line: 1565

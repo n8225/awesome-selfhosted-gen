@@ -1,4 +1,4 @@
-ID: 394
+ID: 397
 Name: Mango
 Description: Manga server and web reader with a built-in MangaDex downloader.
 Source Code: https://github.com/hkalexling/Mango
@@ -13,4 +13,4 @@ Tags:
     - ILS
 MD: '- [Mango](https://github.com/hkalexling/Mango) - Manga server and web reader with a built-in MangaDex downloader. `MIT` `Crystal`'
 SourceType: Github
-Line: 652
+Line: 654

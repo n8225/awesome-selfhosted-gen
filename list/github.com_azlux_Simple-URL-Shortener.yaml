@@ -1,4 +1,4 @@
-ID: 1055
+ID: 1061
 Name: Simple-URL-Shortener
 Description: KISS URL shortener, public or private (with account). Minimalist and lightweight. No dependencies.
 Source Code: https://github.com/azlux/Simple-URL-Shortener
@@ -14,4 +14,4 @@ Tags:
     - URL Shortener
 MD: '- [Simple-URL-Shortener](https://github.com/azlux/Simple-URL-Shortener) - KISS URL shortener, public or private (with account). Minimalist and lightweight. No dependencies. ([Demo](https://u.azlux.fr)) `MIT` `PHP`'
 SourceType: Github
-Line: 1580
+Line: 1585

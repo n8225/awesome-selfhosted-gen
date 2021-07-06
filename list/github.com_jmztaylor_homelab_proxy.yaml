@@ -1,4 +1,4 @@
-ID: 837
+ID: 843
 Name: Jmz HomeProxy
 Description: A simple and clean dashboard for self hosted services.
 Source Code: https://github.com/jmztaylor/homelab_proxy
@@ -13,4 +13,4 @@ Tags:
     - Dashboard
 MD: '- [Jmz HomeProxy](https://github.com/jmztaylor/homelab_proxy) - A simple and clean dashboard for self hosted services. `GPL-3.0` `PHP`'
 SourceType: Github
-Line: 1260
+Line: 1265

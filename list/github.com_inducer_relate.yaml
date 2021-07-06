@@ -1,4 +1,4 @@
-ID: 594
+ID: 597
 Name: RELATE
 Description: 'RELATE is a web-based courseware package, includes features such as: flexible rules, statistics, multi-course support, class calendar.'
 Source Code: https://github.com/inducer/relate
@@ -16,4 +16,4 @@ Tags:
     - LMS
 MD: '- [RELATE](https://documen.tician.de/relate/) - RELATE is a web-based courseware package, includes features such as: flexible rules, statistics, multi-course support, class calendar. ([Source Code](https://github.com/inducer/relate)) `MIT` `Python`'
 SourceType: Github
-Line: 946
+Line: 948

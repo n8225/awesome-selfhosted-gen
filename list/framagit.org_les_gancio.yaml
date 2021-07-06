@@ -1,4 +1,4 @@
-ID: 874
+ID: 880
 Name: Gancio
 Description: A shared agenda for local communities.
 Source Code: https://framagit.org/les/gancio
@@ -15,4 +15,4 @@ Tags:
     - Polls
     - Events
 MD: '- [Gancio](https://gancio.org/) - A shared agenda for local communities. ([Demo](https://demo.gancio.org/), [Source Code](https://framagit.org/les/gancio)) `AGPL-3.0` `Nodejs`'
-Line: 1307
+Line: 1312

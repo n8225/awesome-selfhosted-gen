@@ -1,4 +1,4 @@
-ID: 754
+ID: 759
 Name: Dnote
 Description: A simple command line notebook with multi-device sync and web interface.
 Source Code: https://github.com/dnote/dnote
@@ -15,4 +15,4 @@ Tags:
     - Editor
 MD: '- [Dnote](https://www.getdnote.com) - A simple command line notebook with multi-device sync and web interface. ([Source Code](https://github.com/dnote/dnote)) `AGPL-3.0` `Go`'
 SourceType: Github
-Line: 1154
+Line: 1158

@@ -1,4 +1,4 @@
-ID: 11
+ID: 12
 Name: AmIUnique
 Description: Learn how identifiable you are on the Internet (browser fingerprinting tool).
 Source Code: https://github.com/DIVERSIFY-project/amiunique
@@ -14,4 +14,4 @@ Tags:
     - Automation
 MD: '- [AmIUnique](https://amiunique.org/) - Learn how identifiable you are on the Internet (browser fingerprinting tool). ([Source Code](https://github.com/DIVERSIFY-project/amiunique)) `MIT` `Java`'
 SourceType: Github
-Line: 137
+Line: 138

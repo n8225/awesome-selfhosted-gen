@@ -1,4 +1,4 @@
-ID: 800
+ID: 805
 Name: bin
 Description: a paste bin.
 Source Code: https://github.com/w4/bin
@@ -14,4 +14,4 @@ Tags:
     - Pastebin
 MD: '- [bin](https://github.com/w4/bin) - a paste bin. `WTFPL/0BSD` `Rust`'
 SourceType: Github
-Line: 1216
+Line: 1220

@@ -1,4 +1,4 @@
-ID: 318
+ID: 321
 Name: Noosfero
 Description: Noosfero is a web platform for social and solidarity economy networks with blog, e-Portfolios, CMS, RSS, thematic discussion, events agenda and collective intelligence for solidarity economy in the same system.
 Source Code: https://gitlab.com/noosfero/noosfero
@@ -13,4 +13,4 @@ Tags:
     - CMS
 MD: '- [Noosfero](https://gitlab.com/noosfero/noosfero) - Noosfero is a web platform for social and solidarity economy networks with blog, e-Portfolios, CMS, RSS, thematic discussion, events agenda and collective intelligence for solidarity economy in the same system. `AGPL-3.0` `Ruby`'
 SourceType: Gitlab
-Line: 549
+Line: 551

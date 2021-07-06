@@ -1,4 +1,4 @@
-ID: 418
+ID: 421
 Name: RSS Monster
 Description: RSS Monster is an easy to use web-based RSS aggregator and reader compatible with the Fever API, created as an alternative for Google Reader.
 Source Code: https://github.com/pietheinstrengholt/rssmonster
@@ -14,4 +14,4 @@ Tags:
     - Feed Reader
 MD: '- [RSS Monster](https://github.com/pietheinstrengholt/rssmonster) - RSS Monster is an easy to use web-based RSS aggregator and reader compatible with the Fever API, created as an alternative for Google Reader. `MIT` `PHP`'
 SourceType: Github
-Line: 694
+Line: 696

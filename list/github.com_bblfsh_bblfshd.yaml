@@ -1,4 +1,4 @@
-ID: 960
+ID: 966
 Name: Babelfish
 Description: Self-hosted server for source code parsing. It can parse any file, in any supported language, extract an Abstract Syntax Tree from it, and convert it to a Universal Abstract Syntax Tree which can enable further analysis and transformation.
 Source Code: https://github.com/bblfsh/bblfshd
@@ -14,4 +14,4 @@ Tags:
     - IDE
 MD: '- [Babelfish](https://github.com/bblfsh/bblfshd) - Self-hosted server for source code parsing. It can parse any file, in any supported language, extract an Abstract Syntax Tree from it, and convert it to a Universal Abstract Syntax Tree which can enable further analysis and transformation. `GPL-3.0` `Go`'
 SourceType: Github
-Line: 1435
+Line: 1440

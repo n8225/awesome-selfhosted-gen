@@ -1,4 +1,4 @@
-ID: 244
+ID: 247
 Name: Isso
 Description: Lightweight commenting server written in Python and Javascript. It aims to be a drop-in replacement for Disqus.
 Source Code: https://github.com/posativ/isso
@@ -16,4 +16,4 @@ Tags:
     - Forum
 MD: '- [Isso](http://posativ.org/isso/) - Lightweight commenting server written in Python and Javascript. It aims to be a drop-in replacement for Disqus. ([Source Code](https://github.com/posativ/isso)) `MIT` `Python`'
 SourceType: Github
-Line: 451
+Line: 453

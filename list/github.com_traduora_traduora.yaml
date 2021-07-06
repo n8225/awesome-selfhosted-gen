@@ -1,4 +1,4 @@
-ID: 1003
+ID: 1009
 Name: Traduora
 Description: Translation management platform for teams.
 Source Code: https://github.com/traduora/traduora
@@ -16,4 +16,4 @@ Tags:
     - Localiztion
 MD: '- [Traduora](https://traduora.com) - Translation management platform for teams. ([Source Code](https://github.com/traduora/traduora)) `AGPL-3.0` `Docker/Nodejs`'
 SourceType: Github
-Line: 1501
+Line: 1506

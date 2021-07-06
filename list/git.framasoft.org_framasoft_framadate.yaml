@@ -1,4 +1,4 @@
-ID: 873
+ID: 879
 Name: Framadate
 Description: 'Online service for planning an appointment or make a decision quickly and easily: Make a poll, Define dates or subjects to choose, Send the poll link to your friends or colleagues, Discuss and make a decision.'
 Source Code: https://git.framasoft.org/framasoft/framadate
@@ -15,4 +15,4 @@ Tags:
     - Polls
     - Events
 MD: '- [Framadate](https://framadate.org/) - Online service for planning an appointment or make a decision quickly and easily: Make a poll, Define dates or subjects to choose, Send the poll link to your friends or colleagues, Discuss and make a decision. ([Demo](https://framadate.org/aqg259dth55iuhwm), [Source Code](https://git.framasoft.org/framasoft/framadate)) `CECILL-B` `PHP`'
-Line: 1306
+Line: 1311

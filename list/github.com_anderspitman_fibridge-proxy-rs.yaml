@@ -1,4 +1,4 @@
-ID: 473
+ID: 476
 Name: fibridge
 Description: Stream huge files out of your browser without having to upload.
 Source Code: https://github.com/anderspitman/fibridge-proxy-rs
@@ -15,4 +15,4 @@ Tags:
     - Drag-n-Drop Upload
 MD: '- [fibridge](https://github.com/anderspitman/fibridge-proxy-rs) - Stream huge files out of your browser without having to upload. `MIT` `Rust`'
 SourceType: Github
-Line: 777
+Line: 779

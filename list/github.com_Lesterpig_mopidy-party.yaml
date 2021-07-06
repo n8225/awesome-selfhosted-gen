@@ -1,4 +1,4 @@
-ID: 645
+ID: 648
 Name: Mopidy-Party
 Description: Mopidy web extension designed for party! Let your guests manage the sound.
 Source Code: https://github.com/Lesterpig/mopidy-party
@@ -15,4 +15,4 @@ Tags:
     - Audio
 MD: '  - [Mopidy-Party](https://github.com/Lesterpig/mopidy-party) - Mopidy web extension designed for party! Let your guests manage the sound. `Apache-2.0` `Python`'
 SourceType: Github
-Line: 1017
+Line: 1019

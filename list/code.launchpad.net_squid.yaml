@@ -1,4 +1,4 @@
-ID: 900
+ID: 906
 Name: Squid
 Description: Caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It reduces bandwidth and improves response times by caching and reusing frequently-requested web pages.
 Source Code: https://code.launchpad.net/squid
@@ -13,4 +13,4 @@ C3: ""
 Tags:
     - Proxy
 MD: '- [Squid](http://www.squid-cache.org/) - Caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It reduces bandwidth and improves response times by caching and reusing frequently-requested web pages. ([Source Code](https://code.launchpad.net/squid)) `GPL-2.0` `C`'
-Line: 1341
+Line: 1346

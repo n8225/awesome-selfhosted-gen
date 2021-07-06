@@ -1,4 +1,4 @@
-ID: 1061
+ID: 1066
 Name: Cowyo
 Description: Cowyo is a feature-rich wiki for minimalists.
 Source Code: https://github.com/schollz/cowyo
@@ -14,4 +14,4 @@ Tags:
     - Wiki
 MD: '- [Cowyo](https://github.com/schollz/cowyo) - Cowyo is a feature-rich wiki for minimalists. ([Demo](https://cowyo.com)) `MIT` `Go`'
 SourceType: Github
-Line: 1605
+Line: 1609

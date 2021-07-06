@@ -1,4 +1,4 @@
-ID: 152
+ID: 154
 Name: SimpleLogin
 Description: Open source email alias solution to protect your email address. Comes with browser extensions and mobile apps.
 Source Code: https://github.com/simple-login/app
@@ -17,4 +17,4 @@ Tags:
     - Complete Email
 MD: '- [SimpleLogin](https://simplelogin.io) - Open source email alias solution to protect your email address. Comes with browser extensions and mobile apps. ([Source Code](https://github.com/simple-login/app)) `MIT` `Docker/Python`'
 SourceType: Github
-Line: 322
+Line: 323

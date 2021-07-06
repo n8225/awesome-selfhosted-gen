@@ -1,4 +1,4 @@
-ID: 634
+ID: 637
 Name: GNU FM
 Description: Running music community websites, alternative to last.fm.
 Source Code: http://git.savannah.gnu.org/cgit/librefm.git/
@@ -15,4 +15,4 @@ Tags:
     - Streaming
     - Audio
 MD: '- [GNU FM](https://gnu.io/fm/) - Running music community websites, alternative to last.fm. ([Source Code](http://git.savannah.gnu.org/cgit/librefm.git/)) `AGPL-3.0` `PHP`'
-Line: 1006
+Line: 1008

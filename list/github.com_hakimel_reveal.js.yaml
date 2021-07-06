@@ -1,4 +1,4 @@
-ID: 717
+ID: 721
 Name: revealjs
 Description: Framework for easily creating beautiful presentations using HTML.
 Source Code: https://github.com/hakimel/reveal.js
@@ -14,6 +14,6 @@ C3: ""
 Tags:
     - Misc
     - Other
-MD: '- [revealjs](https://revealjs.com) - Framework for easily creating beautiful presentations using HTML. ([Demo](https://revealjs.com/), [Source Code](https://github.com/hakimel/reveal.js)) `MIT` `JavaScript`'
+MD: '- [revealjs](https://revealjs.com) - Framework for easily creating beautiful presentations using HTML. ([Demo](https://revealjs.com/), [Source Code](https://github.com/hakimel/reveal.js)) `MIT` `Javascript`'
 SourceType: Github
-Line: 1097
+Line: 1100

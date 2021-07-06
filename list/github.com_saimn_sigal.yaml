@@ -1,4 +1,4 @@
-ID: 864
+ID: 870
 Name: sigal
 Description: Yet another simple static gallery generator.
 Source Code: https://github.com/saimn/sigal
@@ -13,4 +13,4 @@ Tags:
     - Photo and Video Gallery
 MD: '- [sigal](https://github.com/saimn/sigal) - Yet another simple static gallery generator. `MIT` `Python`'
 SourceType: Github
-Line: 1292
+Line: 1297

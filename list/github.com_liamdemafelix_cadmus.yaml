@@ -1,4 +1,4 @@
-ID: 51
+ID: 53
 Name: Cadmus
 Description: Cadmus is an extremely lightweight, flat-file blogging platform powered by Markdown.
 Source Code: https://github.com/liamdemafelix/cadmus
@@ -13,4 +13,4 @@ Tags:
     - Blog
 MD: '- [Cadmus](https://github.com/liamdemafelix/cadmus) - Cadmus is an extremely lightweight, flat-file blogging platform powered by Markdown. `MIT` `PHP`'
 SourceType: Github
-Line: 185
+Line: 186

@@ -1,4 +1,4 @@
-ID: 25
+ID: 26
 Name: Kibitzr
 Description: Lightweight personal web assistant with powerful integrations.
 Source Code: https://github.com/kibitzr/kibitzr
@@ -14,4 +14,4 @@ Tags:
     - Automation
 MD: '- [Kibitzr](https://kibitzr.github.io) - Lightweight personal web assistant with powerful integrations. ([Source Code](https://github.com/kibitzr/kibitzr)) `MIT` `Python`'
 SourceType: Github
-Line: 151
+Line: 152

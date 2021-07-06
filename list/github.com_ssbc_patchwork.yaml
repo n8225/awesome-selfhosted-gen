@@ -1,4 +1,4 @@
-ID: 257
+ID: 260
 Name: Patchwork
 Description: Decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB).
 Source Code: https://github.com/ssbc/patchwork
@@ -13,6 +13,6 @@ Tags:
     - Communications
     - Social Network
     - Forum
-MD: '- [Patchwork](https://github.com/ssbc/patchwork) - Decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB). `AGPL-3.0-only` `NodeJS`'
+MD: '- [Patchwork](https://github.com/ssbc/patchwork) - Decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB). `AGPL-3.0-only` `Nodejs`'
 SourceType: Github
-Line: 464
+Line: 466

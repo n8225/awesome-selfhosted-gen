@@ -1,4 +1,4 @@
-ID: 926
+ID: 932
 Name: Goodwork
 Description: Self hosted project management and collaboration tool powered by Laravel & VueJS.
 Source Code: https://github.com/iluminar/goodwork
@@ -16,4 +16,4 @@ Tags:
     - Project Mgmnt
 MD: '- [Goodwork](https://usegood.work/) - Self hosted project management and collaboration tool powered by Laravel & VueJS. ([Demo](https://github.com/iluminar/goodwork#demo), [Source Code](https://github.com/iluminar/goodwork)) `MIT` `PHP`'
 SourceType: Github
-Line: 1394
+Line: 1399

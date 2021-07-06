@@ -1,4 +1,4 @@
-ID: 919
+ID: 925
 Name: MeiliSearch
 Description: Ultra relevant, instant and typo-tolerant full-text search API.
 Source Code: https://github.com/meilisearch/MeiliSearch
@@ -14,4 +14,4 @@ Tags:
     - Search Engine
 MD: '- [MeiliSearch](https://meilisearch.com) - Ultra relevant, instant and typo-tolerant full-text search API. ([Source Code](https://github.com/meilisearch/MeiliSearch)) `MIT` `Rust`'
 SourceType: Github
-Line: 1378
+Line: 1383

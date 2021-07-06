@@ -85,6 +85,17 @@ type ghv3 struct {
 	Language string `json:"language"`
 }
 
+func GetGH2(ght string, jsonStr []byte) {
+	gh := &Gh{}
+	err := json.Unmarshal(GhClientv4(ght, jsonStr), &gh)
+	if err != nil {
+		log.Fatal().Stack().Err(err).Stack().Err(err)
+	}
+	if gh.Errors != nil {
+		log.Print(gh.Errors)
+	}
+}
+
 //GetGH uses the github APIv4 (GRAPHQL) to retrieve star count, last commit, license, and language info. If the repository has moved or there is an error it will fall back to APIv3.
 func GetGH(ghURL, ght string, hasErrors []string) (int, string, string, string, []string) {
 
@@ -102,7 +113,7 @@ func GetGH(ghURL, ght string, hasErrors []string) (int, string, string, string, 
 	var jsonStr = []byte(`{"query":"{repository(owner:\"` + r[0] + `\",name:\"` + r[1] + `\"){stargazers{totalCount}defaultBranchRef{target{... on Commit{history(first: 1){edges{node{committedDate}}}}}}}}"}`)
 
 	gh := &Gh{}
-	err := json.Unmarshal(ghClientv4(ght, jsonStr), &gh)
+	err := json.Unmarshal(GhClientv4(ght, jsonStr), &gh)
 	if err != nil {
 		log.Fatal().Stack().Err(err).Stack().Err(err)
 	}
@@ -141,7 +152,7 @@ func chooseRepo(ur, ght string) (url string, haserr []string) {
 	var jsonStr = []byte(`{"query": "{ user(login: \"` + ur + `\") { pinnedItems(first: 6, types: REPOSITORY) { edges { node { ... on Repository { nameWithOwner stargazers { totalCount } } } } } repositories(first: 30, orderBy: {field: STARGAZERS, direction: DESC}) { edges { node { nameWithOwner stargazers { totalCount } } } } } organization(login: \"` + ur + `\") { pinnedItems(first: 6) { edges { node { ... on Repository { nameWithOwner stargazers { totalCount } } } } } repositories(first: 30, orderBy: {field: STARGAZERS, direction: DESC}) { edges { node { nameWithOwner stargazers { totalCount } } } } } }"}`)
 
 	gh := &Gh{}
-	err := json.Unmarshal(ghClientv4(ght, jsonStr), &gh)
+	err := json.Unmarshal(GhClientv4(ght, jsonStr), &gh)
 	if err != nil {
 		log.Fatal().Stack().Err(err).Stack().Err(err)
 	}
@@ -211,7 +222,7 @@ func ghRepoPicker(ur string, repos []GhEdge) string {
 	return ""
 }
 
-func ghClientv4(ght string, jsonStr []byte) []byte {
+func GhClientv4(ght string, jsonStr []byte) []byte {
 	req, err := http.NewRequest("POST", "https://api.github.com/graphql", bytes.NewBuffer(jsonStr))
 	if err != nil {
 		log.Fatal().Stack().Err(err).Stack().Err(err)

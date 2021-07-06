@@ -1,4 +1,4 @@
-ID: 642
+ID: 645
 Name: Mopidy
 Description: Extensible music server. Offers a superset of the mpd API, as well as integration with 3rd party services like Spotify, SoundCloud etc.
 Source Code: https://github.com/mopidy/mopidy
@@ -16,4 +16,4 @@ Tags:
     - Audio
 MD: '- [Mopidy](http://mopidy.readthedocs.org/) - Extensible music server. Offers a superset of the mpd API, as well as integration with 3rd party services like Spotify, SoundCloud etc. ([Source Code](https://github.com/mopidy/mopidy)) `Apache-2.0` `Python`'
 SourceType: Github
-Line: 1014
+Line: 1016

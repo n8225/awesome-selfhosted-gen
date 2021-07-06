@@ -1,4 +1,4 @@
-ID: 571
+ID: 574
 Name: DeviceHive
 Description: Open Source IoT Platform with a wide range of integration options.
 Source Code: https://github.com/devicehive/devicehive-java-server
@@ -16,4 +16,4 @@ Tags:
     - IoT
 MD: '- [DeviceHive](https://www.devicehive.com/) - Open Source IoT Platform with a wide range of integration options. ([Demo](https://playground.devicehive.com/), [Source Code](https://github.com/devicehive/devicehive-java-server)) `Apache-2.0` `Java`'
 SourceType: Github
-Line: 913
+Line: 915

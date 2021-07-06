@@ -1,4 +1,4 @@
-ID: 738
+ID: 743
 Name: Inventaire
 Description: Collaborative resources mapper project, while yet only focused on exploring books mapping with wikidata and ISBNs.
 Source Code: https://github.com/inventaire/inventaire
@@ -15,4 +15,4 @@ Tags:
     - Budget
 MD: '- [Inventaire](https://inventaire.io/welcome) - Collaborative resources mapper project, while yet only focused on exploring books mapping with wikidata and ISBNs. ([Source Code](https://github.com/inventaire/inventaire)) `AGPL-3.0` `Nodejs`'
 SourceType: Github
-Line: 1125
+Line: 1129

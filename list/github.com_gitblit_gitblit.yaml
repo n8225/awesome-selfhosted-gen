@@ -1,4 +1,4 @@
-ID: 927
+ID: 933
 Name: Gitblit
 Description: Pure Java stack for managing, viewing, and serving Git repositories.
 Source Code: https://github.com/gitblit/gitblit
@@ -15,4 +15,4 @@ Tags:
     - Project Mgmnt
 MD: '- [Gitblit](http://gitblit.com/) - Pure Java stack for managing, viewing, and serving Git repositories. ([Source Code](https://github.com/gitblit/gitblit)) `Apache-2.0` `Java`'
 SourceType: Github
-Line: 1395
+Line: 1400

@@ -1,4 +1,4 @@
-ID: 909
+ID: 915
 Name: Tania
 Description: Tania is a free and open source farming management system for everyone. You can manage your areas, reservoirs, farm tasks, inventories, and the crop growing progress.
 Source Code: https://github.com/Tanibox/tania-core
@@ -13,4 +13,4 @@ Tags:
     - Resource Planning
 MD: '- [Tania](https://github.com/Tanibox/tania-core) - Tania is a free and open source farming management system for everyone. You can manage your areas, reservoirs, farm tasks, inventories, and the crop growing progress. `Apache-2.0` `Go`'
 SourceType: Github
-Line: 1360
+Line: 1365

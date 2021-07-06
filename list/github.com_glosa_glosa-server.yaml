@@ -1,4 +1,4 @@
-ID: 239
+ID: 242
 Name: Glosa
 Description: Open source commentary system easy to integrate with static pages. You can import from Disqus.
 Source Code: https://github.com/glosa/glosa-server
@@ -15,4 +15,4 @@ Tags:
     - Forum
 MD: '- [Glosa](https://github.com/glosa/glosa-server) - Open source commentary system easy to integrate with static pages. You can import from Disqus. `GPL-3.0` `Java`'
 SourceType: Github
-Line: 446
+Line: 448

@@ -1,4 +1,4 @@
-ID: 82
+ID: 84
 Name: Baïkal
 Description: Lightweight CalDAV and CardDAV server based on sabre/dav.
 Source Code: https://github.com/sabre-io/Baikal
@@ -17,4 +17,4 @@ Tags:
     - CardDav
 MD: '- [Baïkal](http://sabre.io/baikal/) - Lightweight CalDAV and CardDAV server based on sabre/dav. ([Source Code](https://github.com/sabre-io/Baikal)) `GPL-3.0` `PHP`'
 SourceType: Github
-Line: 233
+Line: 234

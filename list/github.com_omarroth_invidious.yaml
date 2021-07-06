@@ -1,4 +1,4 @@
-ID: 659
+ID: 662
 Name: Invidious
 Description: '`⚠` Invidious is an alternative front-end to YouTube.'
 Source Code: https://github.com/omarroth/invidious/
@@ -15,4 +15,4 @@ Tags:
     - Video
 MD: '- [Invidious](https://github.com/omarroth/invidious/) - `⚠` Invidious is an alternative front-end to YouTube. ([Demo](https://invidio.us/)) `AGPL-3.0` `Crystal`'
 SourceType: Github
-Line: 1034
+Line: 1036

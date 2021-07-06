@@ -1,4 +1,4 @@
-ID: 1035
+ID: 1041
 Name: OpenSupports
 Description: Multi language ticket system with FAQ, role management, metrics and canned response features.
 Source Code: https://github.com/opensupports/opensupports
@@ -15,4 +15,4 @@ Tags:
     - Ticketing
 MD: '- [OpenSupports](https://www.opensupports.com/) - Multi language ticket system with FAQ, role management, metrics and canned response features. ([Demo](https://www.opensupports.com/demo/), [Source Code](https://github.com/opensupports/opensupports)) `GPL-3.0` `PHP`'
 SourceType: Github
-Line: 1553
+Line: 1558

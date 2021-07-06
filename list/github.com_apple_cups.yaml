@@ -1,4 +1,4 @@
-ID: 689
+ID: 692
 Name: CUPS
 Description: The Common Unix Print System uses Internet Printing Protocol (IPP) to support printing to local and network printers.
 Source Code: https://github.com/apple/cups
@@ -15,4 +15,4 @@ Tags:
     - Other
 MD: '- [CUPS](https://www.cups.org/) - The Common Unix Print System uses Internet Printing Protocol (IPP) to support printing to local and network printers. ([Source Code](https://github.com/apple/cups)) `GPL-2.0` `C`'
 SourceType: Github
-Line: 1069
+Line: 1071

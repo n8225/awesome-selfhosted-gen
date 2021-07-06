@@ -1,4 +1,4 @@
-ID: 366
+ID: 369
 Name: Shopware Community Edition
 Description: PHP based open source e-commerce software made in Germany.
 Source Code: https://github.com/shopware/platform
@@ -16,4 +16,4 @@ Tags:
     - E-commerce
 MD: '- [Shopware Community Edition](https://shopware.com/community/) - PHP based open source e-commerce software made in Germany. ([Demo](https://www.shopware.com/en/test-demo/), [Source Code](https://github.com/shopware/platform)) `MIT` `PHP`'
 SourceType: Github
-Line: 603
+Line: 605

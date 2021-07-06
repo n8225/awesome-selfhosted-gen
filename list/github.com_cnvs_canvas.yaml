@@ -1,4 +1,4 @@
-ID: 52
+ID: 54
 Name: Canvas
 Description: A Laravel publishing platform.
 Source Code: https://github.com/cnvs/canvas
@@ -14,4 +14,4 @@ Tags:
     - Blog
 MD: '- [Canvas](https://trycanvas.app/) - A Laravel publishing platform. ([Source Code](https://github.com/cnvs/canvas)) `MIT` `PHP`'
 SourceType: Github
-Line: 186
+Line: 187

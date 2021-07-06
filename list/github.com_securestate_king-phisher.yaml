@@ -1,4 +1,4 @@
-ID: 702
+ID: 705
 Name: King Phisher
 Description: King Phisher is a tool for testing and promoting user awareness by simulating real world phishing attacks.
 Source Code: https://github.com/securestate/king-phisher
@@ -14,4 +14,4 @@ Tags:
     - Other
 MD: '- [King Phisher](https://github.com/securestate/king-phisher) - King Phisher is a tool for testing and promoting user awareness by simulating real world phishing attacks. `BSD-3-Clause` `Python`'
 SourceType: Github
-Line: 1082
+Line: 1084

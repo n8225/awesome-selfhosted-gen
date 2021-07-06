@@ -1,4 +1,4 @@
-ID: 55
+ID: 57
 Name: Dotclear
 Description: Take control over your blog.
 Source Code: https://hg.dotclear.org/dotclear
@@ -13,4 +13,4 @@ C3: ""
 Tags:
     - Blog
 MD: '- [Dotclear](http://dotclear.org/) - Take control over your blog. ([Source Code](https://hg.dotclear.org/dotclear)) `GPL-2.0` `PHP`'
-Line: 189
+Line: 190

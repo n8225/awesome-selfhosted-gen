@@ -1,4 +1,4 @@
-ID: 284
+ID: 287
 Name: Candy
 Description: Multi user XMPP client written in Javascript.
 Source Code: https://github.com/candy-chat/candy
@@ -16,4 +16,4 @@ Tags:
     - XMPP Webclient
 MD: '- [Candy](http://candy-chat.github.io/candy/) - Multi user XMPP client written in Javascript. ([Source Code](https://github.com/candy-chat/candy)) `MIT` `Javascript`'
 SourceType: Github
-Line: 503
+Line: 505

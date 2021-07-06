@@ -87,3 +87,10 @@ func fileExists(filename string) bool {
 	}
 	return !info.IsDir()
 }
+
+func UpdateExtData(entries *[]parse.Entry, ghData map[int]parse.GithubRepo) {
+	for i, e := range *entries {
+		(*entries)[i].Stars = ghData[e.ID].Stars
+		(*entries)[i].Updated = ghData[e.ID].PushedAt
+	}
+}

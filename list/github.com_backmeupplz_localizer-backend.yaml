@@ -1,4 +1,4 @@
-ID: 1001
+ID: 1007
 Name: Localizer
 Description: Free self-hosted open-source crowd-translating service for your product.
 Source Code: https://github.com/backmeupplz/localizer-backend
@@ -17,4 +17,4 @@ Tags:
     - Localiztion
 MD: '- [Localizer](https://localizer.dev) - Free self-hosted open-source crowd-translating service for your product. ([Demo](https://localize.todorant.com), [Source Code](https://github.com/backmeupplz/localizer-backend)) `MIT` `Nodejs/Docker`'
 SourceType: Github
-Line: 1499
+Line: 1504

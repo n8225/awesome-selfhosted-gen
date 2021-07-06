@@ -1,4 +1,4 @@
-ID: 171
+ID: 174
 Name: Listmonk
 Description: High performance, self-hosted newsletter and mailing list manager with a modern dashboard.
 Source Code: https://github.com/knadh/listmonk
@@ -17,4 +17,4 @@ Tags:
     - Newsletters
 MD: '- [Listmonk](https://listmonk.app/) - High performance, self-hosted newsletter and mailing list manager with a modern dashboard. ([Source Code](https://github.com/knadh/listmonk)) `AGPL-3.0` `Go`'
 SourceType: Github
-Line: 356
+Line: 358

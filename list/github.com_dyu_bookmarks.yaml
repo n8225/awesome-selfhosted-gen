@@ -1,5 +1,5 @@
-ID: 64
-Name: dyu/bookmarks
+ID: 66
+Name: dyu bookmarks
 Description: Single-threaded/process bookmark app powered by leveldb and uWebSockets. Supports importing from Delicious and Chrome.
 Source Code: https://github.com/dyu/bookmarks
 Demo: https://dyuproject.com/bookmarks/
@@ -13,6 +13,6 @@ C3: ""
 Tags:
     - Bookmarks
     - Links
-MD: '- [dyu/bookmarks](https://github.com/dyu/bookmarks) - Single-threaded/process bookmark app powered by leveldb and uWebSockets. Supports importing from Delicious and Chrome. ([Demo](https://dyuproject.com/bookmarks/)) `Apache-2.0` `Java`'
+MD: '- [dyu bookmarks](https://github.com/dyu/bookmarks) - Single-threaded/process bookmark app powered by leveldb and uWebSockets. Supports importing from Delicious and Chrome. ([Demo](https://dyuproject.com/bookmarks/)) `Apache-2.0` `Java`'
 SourceType: Github
-Line: 204
+Line: 205

@@ -1,4 +1,4 @@
-ID: 687
+ID: 690
 Name: changedetection.io
 Description: Self-hosted tool for staying up-to-date with web-site content changes.
 Source Code: https://github.com/dgtlmoon/changedetection.io
@@ -15,4 +15,4 @@ Tags:
     - Other
 MD: '- [changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Self-hosted tool for staying up-to-date with web-site content changes. `Apache-2.0` `Python/Docker`'
 SourceType: Github
-Line: 1067
+Line: 1069

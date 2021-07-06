@@ -1,4 +1,4 @@
-ID: 1033
+ID: 1039
 Name: HuBoard
 Description: Instant project management for your GitHub issues (Connects directly GitHub API).
 Source Code: https://github.com/huboard/huboard
@@ -14,4 +14,4 @@ Tags:
 ProprietaryDependency: true
 MD: '- [HuBoard](https://github.com/huboard/huboard) `⚠` - Instant project management for your GitHub issues (Connects directly GitHub API). `MIT` `Ruby`'
 SourceType: Github
-Line: 1551
+Line: 1556

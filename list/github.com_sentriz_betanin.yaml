@@ -1,4 +1,4 @@
-ID: 14
+ID: 15
 Name: betanin
 Description: Music organization man-in-the-middle of your torrent client and music player. Based on beets.io, similar to Sonarr and Radarr.
 Source Code: https://github.com/sentriz/betanin/
@@ -13,4 +13,4 @@ Tags:
     - Automation
 MD: '- [betanin](https://github.com/sentriz/betanin/) - Music organization man-in-the-middle of your torrent client and music player. Based on beets.io, similar to Sonarr and Radarr. `GPL-3.0` `Python`'
 SourceType: Github
-Line: 140
+Line: 141

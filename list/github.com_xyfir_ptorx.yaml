@@ -1,4 +1,4 @@
-ID: 150
+ID: 152
 Name: Ptorx
 Description: Email privacy. Anonymously send and receive with alias forwarding.
 Source Code: https://github.com/xyfir/ptorx
@@ -13,6 +13,6 @@ Tags:
     - Communications
     - Email
     - Complete Email
-MD: '- [Ptorx](https://github.com/xyfir/ptorx) - Email privacy. Anonymously send and receive with alias forwarding. `GPL-3.0` `Node.js`'
+MD: '- [Ptorx](https://github.com/xyfir/ptorx) - Email privacy. Anonymously send and receive with alias forwarding. `GPL-3.0` `Nodejs`'
 SourceType: Github
-Line: 320
+Line: 321

@@ -1,4 +1,4 @@
-ID: 679
+ID: 682
 Name: AlertHub
 Description: AlertHub is a simple tool to get alerted from GitHub releases.
 Source Code: https://github.com/Ardakilic/alerthub
@@ -15,4 +15,4 @@ Tags:
 ProprietaryDependency: true
 MD: '- [AlertHub](https://github.com/Ardakilic/alerthub) `⚠` - AlertHub is a simple tool to get alerted from GitHub releases. `MIT` `Nodejs`'
 SourceType: Github
-Line: 1059
+Line: 1061

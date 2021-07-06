@@ -1,4 +1,4 @@
-ID: 843
+ID: 849
 Name: Your Spotify
 Description: Allows you to record your Spotify listening activity and have statistics about them served through a Web application.
 Source Code: https://github.com/Yooooomi/your_spotify
@@ -15,4 +15,4 @@ Tags:
 ProprietaryDependency: true
 MD: '- [Your Spotify](https://github.com/Yooooomi/your_spotify) `⚠` - Allows you to record your Spotify listening activity and have statistics about them served through a Web application. `MIT` `Nodejs/Docker`'
 SourceType: Github
-Line: 1266
+Line: 1271

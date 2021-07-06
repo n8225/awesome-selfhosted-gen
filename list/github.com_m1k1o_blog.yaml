@@ -1,4 +1,4 @@
-ID: 49
+ID: 50
 Name: Blog
 Description: Facebook-styled blog. Free, extremely lightweight, single-user and easy to install.
 Source Code: https://github.com/m1k1o/blog
@@ -14,4 +14,4 @@ Tags:
     - Blog
 MD: '- [Blog](https://github.com/m1k1o/blog) - Facebook-styled blog. Free, extremely lightweight, single-user and easy to install. ([Demo](https://blog.m1k1o.net/)) `GPL-3.0` `PHP`'
 SourceType: Github
-Line: 182
+Line: 183

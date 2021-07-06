@@ -1,4 +1,4 @@
-ID: 132
+ID: 134
 Name: TextBelt
 Description: Outgoing SMS API that uses carrier-specific gateways to deliver your text messages for free, and without ads.
 Source Code: https://github.com/typpo/textbelt
@@ -14,4 +14,4 @@ Tags:
 ProprietaryDependency: true
 MD: '- [TextBelt](https://github.com/typpo/textbelt) `⚠` - Outgoing SMS API that uses carrier-specific gateways to deliver your text messages for free, and without ads. `MIT` `Javascript`'
 SourceType: Github
-Line: 293
+Line: 294

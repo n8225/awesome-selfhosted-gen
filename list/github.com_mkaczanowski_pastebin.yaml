@@ -1,5 +1,5 @@
-ID: 816
-Name: pastebin
+ID: 821
+Name: mkaczanowski pastebin
 Description: Simple, fast, feature-rich, standalone pastebin service.
 Source Code: https://github.com/mkaczanowski/pastebin
 License:
@@ -11,6 +11,6 @@ C2: ""
 C3: ""
 Tags:
     - Pastebin
-MD: '- [pastebin](https://github.com/mkaczanowski/pastebin) - Simple, fast, feature-rich, standalone pastebin service. `MIT` `Rust`'
+MD: '- [mkaczanowski pastebin](https://github.com/mkaczanowski/pastebin) - Simple, fast, feature-rich, standalone pastebin service. `MIT` `Rust`'
 SourceType: Github
-Line: 1232
+Line: 1236

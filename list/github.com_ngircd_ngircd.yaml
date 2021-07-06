@@ -1,4 +1,4 @@
-ID: 196
+ID: 199
 Name: ngircd
 Description: Free, portable and lightweight Internet Relay Chat server for small or private networks.
 Source Code: https://github.com/ngircd/ngircd
@@ -15,4 +15,4 @@ Tags:
     - IRC
 MD: '- [ngircd](https://ngircd.barton.de/) - Free, portable and lightweight Internet Relay Chat server for small or private networks. ([Source Code](https://github.com/ngircd/ngircd)) `GPL-2.0` `C`'
 SourceType: Github
-Line: 391
+Line: 393

@@ -1,4 +1,4 @@
-ID: 806
+ID: 811
 Name: filite
 Description: A simple, light and standalone pastebin, URL shortener and file-sharing service.
 Source Code: https://github.com/raftario/filite
@@ -14,4 +14,4 @@ Tags:
     - Pastebin
 MD: '- [filite](https://github.com/raftario/filite) - A simple, light and standalone pastebin, URL shortener and file-sharing service. ([Demo](https://filite.raphaeltheriault.com)) `MIT` `Rust`'
 SourceType: Github
-Line: 1222
+Line: 1226

@@ -1,4 +1,4 @@
-ID: 677
+ID: 680
 Name: 2FAuth
 Description: A web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes.
 Source Code: https://github.com/Bubka/2FAuth
@@ -15,4 +15,4 @@ Tags:
     - Other
 MD: '- [2FAuth](https://github.com/Bubka/2FAuth) - A web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes. ([Demo](https://demo.2fauth.app/)) `AGPL-3.0` `PHP`'
 SourceType: Github
-Line: 1057
+Line: 1059

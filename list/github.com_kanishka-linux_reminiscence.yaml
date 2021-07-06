@@ -1,4 +1,4 @@
-ID: 76
+ID: 78
 Name: Reminiscence
 Description: Self-Hosted Bookmark And Archive Manager.
 Source Code: https://github.com/kanishka-linux/reminiscence
@@ -14,4 +14,4 @@ Tags:
     - Links
 MD: '- [Reminiscence](https://github.com/kanishka-linux/reminiscence) - Self-Hosted Bookmark And Archive Manager. `AGPL-3.0` `Python`'
 SourceType: Github
-Line: 216
+Line: 217

@@ -1,4 +1,4 @@
-ID: 810
+ID: 815
 Name: LogPaste
 Description: Minimal pastebin web app that's easy to self-host and persists data to any S3-compatible backend.
 Source Code: https://github.com/mtlynch/logpaste
@@ -14,4 +14,4 @@ Tags:
     - Pastebin
 MD: '- [LogPaste](https://github.com/mtlynch/logpaste) - Minimal pastebin web app that''s easy to self-host and persists data to any S3-compatible backend. ([Demo](https://logpaste.com/)) `MIT` `Go`'
 SourceType: Github
-Line: 1226
+Line: 1230

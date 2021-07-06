@@ -10,11 +10,11 @@ Archiving and Digital Preservation (DP):
         - 4
         - 5
         - 6
+        - 7
     Comments:
         - Some [Content Management System](#content-management-systems-cms) solutions also feature archiving and digital preservation.
 Automation:
     Entries:
-        - 7
         - 8
         - 9
         - 10
@@ -55,11 +55,11 @@ Automation:
         - 45
         - 46
         - 47
+        - 48
     Comments:
         - See also [Internet of Things (IoT)](#internet-of-things-iot)
 Blogging Platforms:
     Entries:
-        - 48
         - 49
         - 50
         - 51
@@ -75,12 +75,12 @@ Blogging Platforms:
         - 61
         - 62
         - 63
+        - 64
+        - 65
     Comments:
         - See also [Static Site Generators](#static-site-generators), [Content Management Systems](#content-management-systems-cms) and [WeblogMatrix](http://www.weblogmatrix.org/)
 Bookmarks and Link Sharing:
     Entries:
-        - 64
-        - 65
         - 66
         - 67
         - 68
@@ -97,6 +97,8 @@ Bookmarks and Link Sharing:
         - 79
         - 80
         - 81
+        - 82
+        - 83
 Calendaring and Contacts Management:
     Comments:
         - Some [Groupware](#groupware) solutions also feature calendar/address book editing and synchronization.
@@ -104,8 +106,6 @@ Calendaring and Contacts Management:
     SubCategories:
         CalDAV or CardDAV servers:
             Entries:
-                - 82
-                - 83
                 - 84
                 - 85
                 - 86
@@ -114,17 +114,17 @@ Calendaring and Contacts Management:
                 - 89
                 - 90
                 - 91
-        CalDAV or CardDAV web-based clients:
-            Entries:
                 - 92
                 - 93
+        CalDAV or CardDAV web-based clients:
+            Entries:
                 - 94
+                - 95
+                - 96
 Communication systems:
     SubCategories:
         Custom communication systems:
             Entries:
-                - 95
-                - 96
                 - 97
                 - 98
                 - 99
@@ -166,12 +166,12 @@ Communication systems:
                 - 135
                 - 136
                 - 137
+                - 138
+                - 139
         Email:
             SubCategories:
                 Complete solutions:
                     Entries:
-                        - 138
-                        - 139
                         - 140
                         - 141
                         - 142
@@ -187,19 +187,20 @@ Communication systems:
                         - 152
                         - 153
                         - 154
+                        - 155
+                        - 156
                     Comments:
                         - Simple deployment of a mail server, e.g. for inexperienced or impatient admins.
                 Mail Delivery Agents:
                     Entries:
-                        - 167
-                        - 168
                         - 169
+                        - 170
+                        - 171
+                        - 172
                     Comments:
                         - MDAs - IMAP/POP3 software
                 Mail Transfer Agents:
                     Entries:
-                        - 155
-                        - 156
                         - 157
                         - 158
                         - 159
@@ -210,13 +211,12 @@ Communication systems:
                         - 164
                         - 165
                         - 166
+                        - 167
+                        - 168
                     Comments:
                         - MTAs / SMTP servers
                 Mailing lists and Newsletters:
                     Entries:
-                        - 170
-                        - 171
-                        - 172
                         - 173
                         - 174
                         - 175
@@ -227,24 +227,24 @@ Communication systems:
                         - 180
                         - 181
                         - 182
+                        - 183
+                        - 184
+                        - 185
                     Comments:
                         - Mailing lists servers and mass mailing software - one message to many recipients.
                 Webmail clients:
                     Entries:
-                        - 183
-                        - 184
-                        - 185
                         - 186
                         - 187
                         - 188
                         - 189
                         - 190
                         - 191
+                        - 192
+                        - 193
+                        - 194
         IRC:
             Entries:
-                - 192
-                - 193
-                - 194
                 - 195
                 - 196
                 - 197
@@ -255,13 +255,13 @@ Communication systems:
                 - 202
                 - 203
                 - 204
+                - 205
+                - 206
+                - 207
             Comments:
                 - '[IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) communication software'
         SIP:
             Entries:
-                - 205
-                - 206
-                - 207
                 - 208
                 - 209
                 - 210
@@ -273,13 +273,13 @@ Communication systems:
                 - 216
                 - 217
                 - 218
+                - 219
+                - 220
+                - 221
             Comments:
                 - '[SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol)/[IPBX](https://en.wikipedia.org/wiki/IP_PBX) telephony software'
         Social Networks and Forums:
             Entries:
-                - 219
-                - 220
-                - 221
                 - 222
                 - 223
                 - 224
@@ -334,42 +334,42 @@ Communication systems:
                 - 273
                 - 274
                 - 275
+                - 276
+                - 277
+                - 278
         XMPP:
             Comments:
                 - '[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP) software'
             SubCategories:
                 XMPP Servers:
                     Entries:
-                        - 276
-                        - 277
-                        - 278
                         - 279
                         - 280
                         - 281
                         - 282
                         - 283
-                XMPP Web Clients:
-                    Entries:
                         - 284
                         - 285
                         - 286
+                XMPP Web Clients:
+                    Entries:
                         - 287
                         - 288
+                        - 289
+                        - 290
+                        - 291
 Conference Management:
     Entries:
-        - 289
-        - 290
-        - 291
         - 292
         - 293
         - 294
         - 295
         - 296
-Content Management Systems (CMS):
-    Entries:
         - 297
         - 298
         - 299
+Content Management Systems (CMS):
+    Entries:
         - 300
         - 301
         - 302
@@ -413,14 +413,14 @@ Content Management Systems (CMS):
         - 340
         - 341
         - 342
+        - 343
+        - 344
+        - 345
     Comments:
         - CMS are a practical way to setup a website with many features. CMS often come with third party plugins, themes and functionality that is easy to add and customize to your needs. See also [Blogging Platforms](#blogging-platforms) and [Static Site Generators](#static-site-generators)
     SubCategories:
         E-commerce:
             Entries:
-                - 348
-                - 349
-                - 350
                 - 351
                 - 352
                 - 353
@@ -442,27 +442,27 @@ Content Management Systems (CMS):
                 - 369
                 - 370
                 - 371
+                - 372
+                - 373
+                - 374
         Recipe management:
             Entries:
-                - 343
-                - 344
-                - 345
                 - 346
                 - 347
+                - 348
+                - 349
+                - 350
 DNS:
     Entries:
-        - 372
-        - 373
-        - 374
         - 375
         - 376
+        - 377
+        - 378
+        - 379
     Comments:
         - See https://github.com/awesome-foss/awesome-sysadmin#dns
 Document Management:
     Entries:
-        - 377
-        - 378
-        - 379
         - 380
         - 381
         - 382
@@ -470,41 +470,41 @@ Document Management:
         - 384
         - 385
         - 386
+        - 387
+        - 388
+        - 389
 E-books and Integrated Library Systems (ILS):
     Comments:
         - Some [Content Management System](#content-management-systems-cms) and [Archiving and Digital Preservation](#archiving-and-digital-preservation-dp) solutions also overlap with library and institutional repository software.
     SubCategories:
         Enterprise-class library management software.:
             Entries:
-                - 396
-                - 397
-                - 398
-        Institutional repository and digital library software.:
-            Entries:
                 - 399
                 - 400
                 - 401
+        Institutional repository and digital library software.:
+            Entries:
                 - 402
                 - 403
+                - 404
+                - 405
+                - 406
         Personal e-book management software.:
             Entries:
-                - 387
-                - 388
-                - 389
                 - 390
                 - 391
                 - 392
                 - 393
                 - 394
                 - 395
+                - 396
+                - 397
+                - 398
 Federated Identity/Authentication:
     Comments:
         - See https://github.com/awesome-foss/awesome-sysadmin#identity-management
 Feed Readers:
     Entries:
-        - 404
-        - 405
-        - 406
         - 407
         - 408
         - 409
@@ -535,6 +535,9 @@ Feed Readers:
         - 434
         - 435
         - 436
+        - 437
+        - 438
+        - 439
     Comments:
         - RSS/Atom automation
 File Sharing and Synchronization:
@@ -543,16 +546,13 @@ File Sharing and Synchronization:
     SubCategories:
         Command-line file upload:
             Entries:
-                - 501
-                - 502
+                - 504
+                - 505
         Distributed filesystems:
             Comments:
                 - See https://github.com/awesome-foss/awesome-sysadmin#distributed-filesystems
         File transfer/synchronization:
             Entries:
-                - 437
-                - 438
-                - 439
                 - 440
                 - 441
                 - 442
@@ -564,17 +564,17 @@ File Sharing and Synchronization:
                 - 448
                 - 449
                 - 450
-        Object storage/file servers:
-            Entries:
-                - 465
-                - 466
-                - 467
-                - 468
-        Peer-to-peer filesharing:
-            Entries:
                 - 451
                 - 452
                 - 453
+        Object storage/file servers:
+            Entries:
+                - 468
+                - 469
+                - 470
+                - 471
+        Peer-to-peer filesharing:
+            Entries:
                 - 454
                 - 455
                 - 456
@@ -586,11 +586,11 @@ File Sharing and Synchronization:
                 - 462
                 - 463
                 - 464
+                - 465
+                - 466
+                - 467
         Single-click/drag-n-drop upload:
             Entries:
-                - 469
-                - 470
-                - 471
                 - 472
                 - 473
                 - 474
@@ -620,11 +620,11 @@ File Sharing and Synchronization:
                 - 498
                 - 499
                 - 500
+                - 501
+                - 502
+                - 503
         Web based file managers:
             Entries:
-                - 503
-                - 504
-                - 505
                 - 506
                 - 507
                 - 508
@@ -636,11 +636,11 @@ File Sharing and Synchronization:
                 - 514
                 - 515
                 - 516
+                - 517
+                - 518
+                - 519
 Games:
     Entries:
-        - 517
-        - 518
-        - 519
         - 520
         - 521
         - 522
@@ -660,29 +660,29 @@ Games:
         - 536
         - 537
         - 538
+        - 539
+        - 540
+        - 541
     Comments:
         - Games, game servers and control panels.
 Gateways and terminal sharing:
     Entries:
-        - 539
-        - 540
-        - 541
         - 542
         - 543
         - 544
         - 545
         - 546
         - 547
-Genealogy:
-    Entries:
         - 548
         - 549
         - 550
-Groupware:
+Genealogy:
     Entries:
         - 551
         - 552
         - 553
+Groupware:
+    Entries:
         - 554
         - 555
         - 556
@@ -695,18 +695,18 @@ Groupware:
         - 563
         - 564
         - 565
-Human Resources Management (HRM):
-    Entries:
         - 566
         - 567
         - 568
+Human Resources Management (HRM):
+    Entries:
         - 569
         - 570
-Internet Of Things (IoT):
-    Entries:
         - 571
         - 572
         - 573
+Internet Of Things (IoT):
+    Entries:
         - 574
         - 575
         - 576
@@ -715,16 +715,16 @@ Internet Of Things (IoT):
         - 579
         - 580
         - 581
-Knowledge Management Tools:
-    Entries:
         - 582
         - 583
         - 584
-Learning and Courses:
+Knowledge Management Tools:
     Entries:
         - 585
         - 586
         - 587
+Learning and Courses:
+    Entries:
         - 588
         - 589
         - 590
@@ -734,11 +734,12 @@ Learning and Courses:
         - 594
         - 595
         - 596
-Maps and Global Positioning System (GPS):
-    Entries:
         - 597
         - 598
         - 599
+List of Licenses: {}
+Maps and Global Positioning System (GPS):
+    Entries:
         - 600
         - 601
         - 602
@@ -752,6 +753,9 @@ Maps and Global Positioning System (GPS):
         - 610
         - 611
         - 612
+        - 613
+        - 614
+        - 615
     Comments:
         - See also [awesome-gis](https://github.com/sshuair/awesome-gis).
 Media Streaming:
@@ -760,9 +764,6 @@ Media Streaming:
     SubCategories:
         Audio Streaming:
             Entries:
-                - 625
-                - 626
-                - 627
                 - 628
                 - 629
                 - 630
@@ -790,11 +791,11 @@ Media Streaming:
                 - 652
                 - 653
                 - 654
+                - 655
+                - 656
+                - 657
         Multimedia Streaming:
             Entries:
-                - 613
-                - 614
-                - 615
                 - 616
                 - 617
                 - 618
@@ -804,11 +805,11 @@ Media Streaming:
                 - 622
                 - 623
                 - 624
+                - 625
+                - 626
+                - 627
         Video Streaming:
             Entries:
-                - 655
-                - 656
-                - 657
                 - 658
                 - 659
                 - 660
@@ -828,11 +829,11 @@ Media Streaming:
                 - 674
                 - 675
                 - 676
+                - 677
+                - 678
+                - 679
 Misc/Other:
     Entries:
-        - 677
-        - 678
-        - 679
         - 680
         - 681
         - 682
@@ -877,12 +878,12 @@ Misc/Other:
         - 721
         - 722
         - 723
-Money, Budgeting and Management:
-    Entries:
         - 724
         - 725
         - 726
         - 727
+Money, Budgeting and Management:
+    Entries:
         - 728
         - 729
         - 730
@@ -905,6 +906,11 @@ Money, Budgeting and Management:
         - 747
         - 748
         - 749
+        - 750
+        - 751
+        - 752
+        - 753
+        - 754
     Comments:
         - See also https://github.com/awesome-foss/awesome-sysadmin#it-asset-management
 Monitoring:
@@ -912,11 +918,6 @@ Monitoring:
         - See https://github.com/awesome-foss/awesome-sysadmin#monitoring and https://github.com/awesome-foss/awesome-sysadmin#metric--metric-collection
 Note-taking and Editors:
     Entries:
-        - 750
-        - 751
-        - 752
-        - 753
-        - 754
         - 755
         - 756
         - 757
@@ -940,39 +941,39 @@ Note-taking and Editors:
         - 775
         - 776
         - 777
-    Comments:
-        - See also [Wikis](#wikis)
-Office Suites:
-    Entries:
         - 778
         - 779
         - 780
         - 781
         - 782
+    Comments:
+        - See also [Wikis](#wikis)
+Office Suites:
+    Entries:
         - 783
         - 784
         - 785
         - 786
-Password Managers:
-    Entries:
         - 787
         - 788
         - 789
         - 790
         - 791
+Password Managers:
+    Entries:
         - 792
         - 793
         - 794
         - 795
         - 796
         - 797
-Pastebins:
-    Entries:
         - 798
         - 799
         - 800
         - 801
         - 802
+Pastebins:
+    Entries:
         - 803
         - 804
         - 805
@@ -998,13 +999,13 @@ Pastebins:
         - 825
         - 826
         - 827
-Personal Dashboards:
-    Entries:
         - 828
         - 829
         - 830
         - 831
         - 832
+Personal Dashboards:
+    Entries:
         - 833
         - 834
         - 835
@@ -1016,16 +1017,16 @@ Personal Dashboards:
         - 841
         - 842
         - 843
-    Comments:
-        - See also [Monitoring](#monitoring)
-Photo and Video Galleries:
-    Entries:
         - 844
         - 845
         - 846
         - 847
         - 848
         - 849
+    Comments:
+        - See also [Monitoring](#monitoring)
+Photo and Video Galleries:
+    Entries:
         - 850
         - 851
         - 852
@@ -1043,14 +1044,14 @@ Photo and Video Galleries:
         - 864
         - 865
         - 866
-Polls and Events:
-    Entries:
         - 867
         - 868
         - 869
         - 870
         - 871
         - 872
+Polls and Events:
+    Entries:
         - 873
         - 874
         - 875
@@ -1061,20 +1062,20 @@ Polls and Events:
         - 880
         - 881
         - 882
-    SubCategories:
-        Booking and Scheduling:
-            Entries:
-                - 883
-                - 884
-                - 885
-Proxy:
-    Entries:
+        - 883
+        - 884
+        - 885
         - 886
         - 887
         - 888
-        - 889
-        - 890
-        - 891
+    SubCategories:
+        Booking and Scheduling:
+            Entries:
+                - 889
+                - 890
+                - 891
+Proxy:
+    Entries:
         - 892
         - 893
         - 894
@@ -1087,42 +1088,43 @@ Proxy:
         - 901
         - 902
         - 903
-Read it Later Lists:
-    Entries:
         - 904
         - 905
         - 906
-Resource Planning:
-    Entries:
         - 907
         - 908
         - 909
+Read it Later Lists:
+    Entries:
+        - 910
+        - 911
+        - 912
+Resource Planning:
+    Entries:
+        - 913
+        - 914
+        - 915
     SubCategories:
         Enterprise Resource Planning:
             Entries:
-                - 910
-                - 911
-                - 912
-                - 913
-                - 914
-                - 915
+                - 916
+                - 917
+                - 918
+                - 919
+                - 920
+                - 921
 Search Engines:
     Entries:
-        - 916
-        - 917
-        - 918
-        - 919
-        - 920
-        - 921
         - 922
         - 923
+        - 924
+        - 925
+        - 926
+        - 927
+        - 928
+        - 929
 Self-hosting Solutions:
     Entries:
-        - 1083
-        - 1084
-        - 1085
-        - 1086
-        - 1087
         - 1088
         - 1089
         - 1090
@@ -1136,21 +1138,26 @@ Self-hosting Solutions:
         - 1098
         - 1099
         - 1100
+        - 1101
+        - 1102
+        - 1103
+        - 1104
+        - 1105
 Software Development:
     SubCategories:
         API Management:
             Entries:
-                - 985
-                - 986
-                - 987
-                - 988
-                - 989
-                - 990
                 - 991
                 - 992
                 - 993
                 - 994
                 - 995
+                - 996
+                - 997
+                - 998
+                - 999
+                - 1000
+                - 1001
         Bug Trackers:
             Comments:
                 - See [Ticketing](#ticketing)
@@ -1159,30 +1166,24 @@ Software Development:
                 - See [awesome-sysadmin/Continuous Integration & Continuous Deployment](https://github.com/awesome-foss/awesome-sysadmin#continuous-integration--continuous-deployment)
         Documentation Generators:
             Entries:
-                - 996
-                - 997
-                - 998
-                - 999
+                - 1002
+                - 1003
+                - 1004
+                - 1005
             Comments:
                 - See also [Static site generators](#static-site-generators)
         FaaS/Serverless:
             Entries:
-                - 979
-                - 980
-                - 981
-                - 982
-                - 983
-                - 984
+                - 985
+                - 986
+                - 987
+                - 988
+                - 989
+                - 990
             Comments:
                 - '[Serverless computing on Wikipedia](https://en.wikipedia.org/wiki/Serverless_computing)'
         IDE/Tools:
             Entries:
-                - 958
-                - 959
-                - 960
-                - 961
-                - 962
-                - 963
                 - 964
                 - 965
                 - 966
@@ -1196,22 +1197,22 @@ Software Development:
                 - 974
                 - 975
                 - 976
+                - 977
+                - 978
+                - 979
+                - 980
+                - 981
+                - 982
         Localization:
             Entries:
-                - 1000
-                - 1001
-                - 1002
-                - 1003
-                - 1004
-                - 1005
+                - 1006
+                - 1007
+                - 1008
+                - 1009
+                - 1010
+                - 1011
         Project Management:
             Entries:
-                - 924
-                - 925
-                - 926
-                - 927
-                - 928
-                - 929
                 - 930
                 - 931
                 - 932
@@ -1240,23 +1241,23 @@ Software Development:
                 - 955
                 - 956
                 - 957
+                - 958
+                - 959
+                - 960
+                - 961
+                - 962
+                - 963
             Comments:
                 - See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managementto-do-lists), [awesome-sysadmin/Code Review](https://github.com/awesome-foss/awesome-sysadmin#code-review)
         UX testing:
             Entries:
-                - 977
-                - 978
+                - 983
+                - 984
 Static site generators:
     Comments:
         - See https://staticsitegenerators.net and https://www.staticgen.com
 Task management/To-do lists:
     Entries:
-        - 1006
-        - 1007
-        - 1008
-        - 1009
-        - 1010
-        - 1011
         - 1012
         - 1013
         - 1014
@@ -1271,16 +1272,16 @@ Task management/To-do lists:
         - 1023
         - 1024
         - 1025
-    Comments:
-        - See also [Project Management](#project-management) and [Ticketing](#ticketing).
-Ticketing:
-    Entries:
         - 1026
         - 1027
         - 1028
         - 1029
         - 1030
         - 1031
+    Comments:
+        - See also [Project Management](#project-management) and [Ticketing](#ticketing).
+Ticketing:
+    Entries:
         - 1032
         - 1033
         - 1034
@@ -1292,16 +1293,16 @@ Ticketing:
         - 1040
         - 1041
         - 1042
-    Comments:
-        - See also [Task management/To-do lists](#task-managementto-do-lists) and [Project Management](#project-management)
-URL Shorteners:
-    Entries:
         - 1043
         - 1044
         - 1045
         - 1046
         - 1047
         - 1048
+    Comments:
+        - See also [Task management/To-do lists](#task-managementto-do-lists) and [Project Management](#project-management)
+URL Shorteners:
+    Entries:
         - 1049
         - 1050
         - 1051
@@ -1313,6 +1314,11 @@ URL Shorteners:
         - 1057
         - 1058
         - 1059
+        - 1060
+        - 1061
+        - 1062
+        - 1063
+        - 1064
     Comments:
         - Before hosting one, please see [shortcomings](https://en.wikipedia.org/wiki/URL_shortening#Shortcomings) of URL shorteners.
 VPN:
@@ -1323,11 +1329,6 @@ Web servers:
         - See https://github.com/awesome-foss/awesome-sysadmin#web
 Wikis:
     Entries:
-        - 1060
-        - 1061
-        - 1062
-        - 1063
-        - 1064
         - 1065
         - 1066
         - 1067
@@ -1346,5 +1347,10 @@ Wikis:
         - 1080
         - 1081
         - 1082
+        - 1083
+        - 1084
+        - 1085
+        - 1086
+        - 1087
     Comments:
         - See also [Documentation Generators](#documentation-generators), [Wikimatrix](http://www.wikimatrix.org/), [Wiki Engines on WikiIndex](http://wikiindex.org/Category:Wiki_Engine), [List of wiki software on wikipedia](https://en.wikipedia.org/wiki/List_of_wiki_software), [Comparison of wiki software on wikipedia](https://en.wikipedia.org/wiki/Comparison_of_wiki_software).

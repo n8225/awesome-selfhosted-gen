@@ -1,4 +1,4 @@
-ID: 332
+ID: 335
 Name: SPIP
 Description: Publication system for the Internet aimed at collaborative work, multilingual environments, and simplicity of use for web authors.
 Source Code: https://git.spip.net/
@@ -13,4 +13,4 @@ C3: ""
 Tags:
     - CMS
 MD: '- [SPIP](http://www.spip.net/fr) - Publication system for the Internet aimed at collaborative work, multilingual environments, and simplicity of use for web authors. ([Source Code](https://git.spip.net/)) `GPL-3.0` `PHP`'
-Line: 563
+Line: 565

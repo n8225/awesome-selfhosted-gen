@@ -109,9 +109,8 @@ func parseFiles(path string) {
 	if err != nil {
 		log.Fatal().Stack().Err(err).Stack().Err(err)
 	}
-	list := new(parse.List)
-	list.Entries = parse.MdParser(apath)
-	exporter.ToYamlFiles(*list)
+	list := *parse.MdParser(apath)
+	exporter.ToYamlFiles(list)
 }
 
 func generateFiles(ghToken string) {
@@ -122,8 +121,11 @@ func generateFiles(ghToken string) {
 		log.Fatal().Msg("Github API token required and not provided.")
 	}
 	yl := exporter.ImportYaml(ghToken)
+	ghData := exporter.GetGithubData(yl.Entries, ghToken)
+	exporter.GhDataToYAML(ghData, "output")
+	exporter.UpdateExtData(&yl.Entries, ghData)
 	exporter.ToJSON(yl, "list")
-	exporter.ToYAML(yl, "output/list")
+	//exporter.ToYAML(yl, "output/list")
 }
 
 func cleanDir(clean bool) {

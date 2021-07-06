@@ -1,4 +1,4 @@
-ID: 1043
+ID: 1049
 Name: gShort
 Description: Privacy-friendly self-hosted URL shortener.
 Source Code: https://github.com/someone-stole-my-name/gShort
@@ -14,4 +14,4 @@ Tags:
     - URL Shortener
 MD: '- [gShort](https://github.com/someone-stole-my-name/gShort) - Privacy-friendly self-hosted URL shortener. ([Demo](http://gshort.christiansegundo.com/)) `GPL-3.0` `Go`'
 SourceType: Github
-Line: 1568
+Line: 1573

@@ -1,4 +1,4 @@
-ID: 1019
+ID: 1025
 Name: Taskord
 Description: Get things done socially with community of makers.
 Source Code: https://gitlab.com/yo/taskord
@@ -15,4 +15,4 @@ Tags:
     - Task Mgmnt
 MD: '- [Taskord](https://taskord.com) - Get things done socially with community of makers. ([Source Code](https://gitlab.com/yo/taskord)) `MIT` `PHP`'
 SourceType: Gitlab
-Line: 1530
+Line: 1535

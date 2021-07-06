@@ -1,4 +1,4 @@
-ID: 1045
+ID: 1051
 Name: Link
 Description: A minimal, SQLite-backed URL shortener.
 Source Code: https://git.fsh.ee/i/link
@@ -14,4 +14,4 @@ C3: ""
 Tags:
     - URL Shortener
 MD: '- [Link](https://fsh.ee) - A minimal, SQLite-backed URL shortener. ([Demo](https://demo.fsh.ee), [Source Code](https://git.fsh.ee/i/link)) `GPL-3.0` `Go`'
-Line: 1570
+Line: 1575

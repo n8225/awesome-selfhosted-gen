@@ -10,7 +10,7 @@ import (
 
 // ToJSON exports the list into readable and  minified json files in the static dir
 func ToJSON(list parse.List, fileName string) {
-	jsonFile, err := os.Create("./static/" + fileName + ".json")
+	jsonFile, err := os.Create("./" + fileName + ".json")
 	if err != nil {
 		log.Error().Stack().Err(err)
 	}
@@ -27,7 +27,7 @@ func ToJSON(list parse.List, fileName string) {
 	}
 	jsonFile.Close()
 
-	jsonFileMin, err := os.Create("./static/" + fileName + ".min.json")
+	jsonFileMin, err := os.Create("./" + fileName + ".min.json")
 	if err != nil {
 		log.Error().Stack().Err(err)
 	}

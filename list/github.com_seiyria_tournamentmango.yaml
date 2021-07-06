@@ -1,4 +1,4 @@
-ID: 536
+ID: 539
 Name: TournamentMango
 Description: TournamentMango is an open source tournament bracket and user management system. You can build an archive of players and keep track of all their scores over time as well as their regular characters, games, and aliases.
 Source Code: https://github.com/seiyria/tournamentmango
@@ -13,4 +13,4 @@ Tags:
     - Game
 MD: '- [TournamentMango](https://github.com/seiyria/tournamentmango) - TournamentMango is an open source tournament bracket and user management system. You can build an archive of players and keep track of all their scores over time as well as their regular characters, games, and aliases. `MIT` `Javascript`'
 SourceType: Github
-Line: 853
+Line: 855

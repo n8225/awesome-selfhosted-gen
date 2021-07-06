@@ -1,4 +1,4 @@
-ID: 846
+ID: 852
 Name: Damselfly
 Description: Server-based Digital Asset Management with workflow similar to Picasa.
 Source Code: https://damselfly.info
@@ -6,10 +6,11 @@ License:
     - GPL-3.0
 Languages:
     - C#
+    - .NET
 C: Photo and Video Galleries
 C2: ""
 C3: ""
 Tags:
     - Photo and Video Gallery
-MD: '- [Damselfly](https://damselfly.info) - Server-based Digital Asset Management with workflow similar to Picasa. `GPL-3.0` `C#/.Net`'
-Line: 1274
+MD: '- [Damselfly](https://damselfly.info) - Server-based Digital Asset Management with workflow similar to Picasa. `GPL-3.0` `C#/.NET`'
+Line: 1279
