@@ -12,13 +12,18 @@ test:
   stage: test
   script:
     - go test -v ./...
+
 build:
   only: 
     - tags
   stage: build
+  image:
+    name: goreleaser/goreleaser
+    entrypoint: ['']
+  variables:
+    GIT_DEPTH: 0
   script: 
-    - curl -sfL https://git.io/goreleaser | sh -s -- check # check goreleaser config for deprecations
-    - curl -sL https://git.io/goreleaser | bash
+    - goreleaser release --rm-dist
 
 pages:
   script:
