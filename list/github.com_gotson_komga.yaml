@@ -1,4 +1,4 @@
-ID: 396
+ID: 398
 Name: Komga
 Description: Media server for comics/mangas/BDs with API and OPDS support, a modern web interface for exploring your libraries, as well as a web reader.
 Source Code: https://github.com/gotson/komga
@@ -16,4 +16,4 @@ Tags:
     - ILS
 MD: '- [Komga](https://komga.org) - Media server for comics/mangas/BDs with API and OPDS support, a modern web interface for exploring your libraries, as well as a web reader. ([Source Code](https://github.com/gotson/komga)) `MIT` `Java/Docker`'
 SourceType: Github
-Line: 653
+Line: 655

@@ -1,4 +1,4 @@
-ID: 393
+ID: 395
 Name: COPS
 Description: Lightweight e-book server alternative to Calibre content server or Calibre2OPDS.
 Source Code: https://github.com/seblucas/cops
@@ -16,4 +16,4 @@ Tags:
     - ILS
 MD: '  - [COPS](https://blog.slucas.fr/en/oss/calibre-opds-php-server) - Lightweight e-book server alternative to Calibre content server or Calibre2OPDS. ([Demo](http://cops-demo.slucas.fr/index.php), [Source Code](https://github.com/seblucas/cops)) `GPL-2.0` `PHP`'
 SourceType: Github
-Line: 650
+Line: 652

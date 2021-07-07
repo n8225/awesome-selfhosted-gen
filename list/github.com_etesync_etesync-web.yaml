@@ -1,4 +1,4 @@
-ID: 96
+ID: 97
 Name: EteSync Web
 Description: EteSync's official Web-based client (i.e., their Web app).
 Source Code: https://github.com/etesync/etesync-web
@@ -16,4 +16,4 @@ Tags:
     - Contacts
 MD: '- [EteSync Web](https://www.etesync.com/faq/#web-client) - EteSync''s official Web-based client (i.e., their Web app). ([Demo](https://client.etesync.com/), [Source Code](https://github.com/etesync/etesync-web)) `AGPL-3.0` `Javascript`'
 SourceType: Github
-Line: 249
+Line: 250

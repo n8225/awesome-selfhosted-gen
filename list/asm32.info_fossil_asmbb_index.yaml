@@ -1,4 +1,4 @@
-ID: 224
+ID: 225
 Name: AsmBB
 Description: A fast, SQLite-powered forum engine written in ASM.
 Source Code: https://asm32.info/fossil/asmbb/index
@@ -14,4 +14,4 @@ Tags:
     - Social Network
     - Forum
 MD: '- [AsmBB](https://board.asm32.info) - A fast, SQLite-powered forum engine written in ASM. ([Source Code](https://asm32.info/fossil/asmbb/index)) `EUPL-1.2` `Assembly`'
-Line: 430
+Line: 431

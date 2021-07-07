@@ -1,4 +1,4 @@
-ID: 1023
+ID: 1028
 Name: Tasks
 Description: Simple tasks and notes manager written in PHP, jQuery and Bootstrap using a custom flat file database.
 Source Code: https://github.com/m1guelpf/tasks
@@ -14,4 +14,4 @@ Tags:
     - Task Mgmnt
 MD: '- [Tasks](https://github.com/m1guelpf/tasks) - Simple tasks and notes manager written in PHP, jQuery and Bootstrap using a custom flat file database. `MPL-2.0` `PHP`'
 SourceType: Github
-Line: 1533
+Line: 1538

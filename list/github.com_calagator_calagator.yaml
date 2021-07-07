@@ -1,4 +1,4 @@
-ID: 873
+ID: 878
 Name: Calagator
 Description: Event aggregator.
 Source Code: https://github.com/calagator/calagator
@@ -15,4 +15,4 @@ Tags:
     - Events
 MD: '- [Calagator](http://calagator.org/) - Event aggregator. ([Source Code](https://github.com/calagator/calagator)) `MIT` `Ruby`'
 SourceType: Github
-Line: 1305
+Line: 1310

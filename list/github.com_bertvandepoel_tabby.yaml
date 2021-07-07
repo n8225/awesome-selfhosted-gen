@@ -1,4 +1,4 @@
-ID: 754
+ID: 757
 Name: Tabby
 Description: A tool to manage shared expenses across friends, such as restaurant costs or food delivery, without requiring everyone to create an account. Includes email reminders and tracks who has (re)paid what.
 Source Code: https://github.com/bertvandepoel/tabby
@@ -14,4 +14,4 @@ Tags:
     - Budget
 MD: '- [Tabby](https://github.com/bertvandepoel/tabby) - A tool to manage shared expenses across friends, such as restaurant costs or food delivery, without requiring everyone to create an account. Includes email reminders and tracks who has (re)paid what. `AGPL-3.0-only` `PHP`'
 SourceType: Github
-Line: 1140
+Line: 1143

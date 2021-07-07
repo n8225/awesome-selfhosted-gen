@@ -1,4 +1,4 @@
-ID: 783
+ID: 786
 Name: Collabora Online Development Edition
 Description: Collabora Online Development Edition (CODE) is a powerful LibreOffice-based online office that supports all major document, spreadsheet and presentation file formats, which you can integrate in your own infrastructure.
 Source Code: https://cgit.freedesktop.org/libreoffice/online/
@@ -12,5 +12,5 @@ C2: ""
 C3: ""
 Tags:
     - Office Suites
-MD: '- [ Collabora Online Development Edition](https://www.collaboraoffice.com/code) - Collabora Online Development Edition (CODE) is a powerful LibreOffice-based online office that supports all major document, spreadsheet and presentation file formats, which you can integrate in your own infrastructure. ([Source Code](https://cgit.freedesktop.org/libreoffice/online/)) `MPL-2.0` `C++`'
-Line: 1187
+MD: '- [Collabora Online Development Edition](https://www.collaboraoffice.com/code) - Collabora Online Development Edition (CODE) is a powerful LibreOffice-based online office that supports all major document, spreadsheet and presentation file formats, which you can integrate in your own infrastructure. ([Source Code](https://cgit.freedesktop.org/libreoffice/online/)) `MPL-2.0` `C++`'
+Line: 1190

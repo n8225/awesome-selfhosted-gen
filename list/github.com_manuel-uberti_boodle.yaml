@@ -1,4 +1,4 @@
-ID: 730
+ID: 733
 Name: Boodle
 Description: Simple accounting single-page application in Clojure and ClojureScript.
 Source Code: https://github.com/manuel-uberti/boodle
@@ -14,4 +14,4 @@ Tags:
     - Budget
 MD: '- [Boodle](https://github.com/manuel-uberti/boodle) - Simple accounting single-page application in Clojure and ClojureScript. `EPL-1.0` `Java`'
 SourceType: Github
-Line: 1116
+Line: 1119

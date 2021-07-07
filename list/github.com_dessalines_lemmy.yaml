@@ -1,4 +1,4 @@
-ID: 248
+ID: 249
 Name: Lemmy
 Description: A link aggregator / reddit clone for the fediverse. Reddit alternative built in Rust.
 Source Code: https://github.com/dessalines/lemmy
@@ -16,4 +16,4 @@ Tags:
     - Forum
 MD: '- [Lemmy](https://join.lemmy.ml/#/) - A link aggregator / reddit clone for the fediverse. Reddit alternative built in Rust. ([Source Code](https://github.com/dessalines/lemmy)) `AGPL-3.0` `Rust`'
 SourceType: Github
-Line: 454
+Line: 455

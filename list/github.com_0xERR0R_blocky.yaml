@@ -1,4 +1,4 @@
-ID: 375
+ID: 377
 Name: blocky
 Description: Fast and lightweight DNS proxy (like Pi-hole) as ad-blocker for local network with many features.
 Source Code: https://github.com/0xERR0R/blocky
@@ -13,4 +13,4 @@ Tags:
     - DNS
 MD: '- [blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy (like Pi-hole) as ad-blocker for local network with many features. `Apache-2.0` `Go`'
 SourceType: Github
-Line: 618
+Line: 620

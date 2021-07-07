@@ -1,4 +1,4 @@
-ID: 746
+ID: 749
 Name: InvoicePlane
 Description: Manage quotes, invoices, payments and customers for your small business.
 Source Code: https://github.com/InvoicePlane/InvoicePlane
@@ -14,4 +14,4 @@ Tags:
     - Budget
 MD: '- [InvoicePlane](https://github.com/InvoicePlane/InvoicePlane) - Manage quotes, invoices, payments and customers for your small business. `MIT` `PHP`'
 SourceType: Github
-Line: 1132
+Line: 1135

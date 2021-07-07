@@ -1,4 +1,4 @@
-ID: 836
+ID: 841
 Name: Dashy
 Description: Feature-rich homepage for your homelab, with easy YAML configuration.
 Source Code: https://github.com/lissy93/dashy
@@ -15,4 +15,4 @@ Tags:
     - Dashboard
 MD: '- [Dashy](https://github.com/lissy93/dashy) - Feature-rich homepage for your homelab, with easy YAML configuration. ([Demo](https://dashy-demo-2.as93.net)) `MIT` `Nodejs/Docker`'
 SourceType: Github
-Line: 1258
+Line: 1263

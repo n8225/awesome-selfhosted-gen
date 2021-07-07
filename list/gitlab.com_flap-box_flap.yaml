@@ -1,4 +1,4 @@
-ID: 1093
+ID: 1098
 Name: FLAP
 Description: Low maintenance framework to manage self-hosted services.
 Source Code: https://gitlab.com/flap-box/flap
@@ -15,4 +15,4 @@ Tags:
     - Self-hosting Solution
 MD: '- [FLAP](https://www.flap.cloud) - Low maintenance framework to manage self-hosted services. ([Source Code](https://gitlab.com/flap-box/flap)) `AGPL-3.0` `Docker/Shell`'
 SourceType: Gitlab
-Line: 1641
+Line: 1646

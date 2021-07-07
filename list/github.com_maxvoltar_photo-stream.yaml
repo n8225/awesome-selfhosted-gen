@@ -1,4 +1,4 @@
-ID: 864
+ID: 869
 Name: Photo Stream
 Description: Minimalist self-hosted photo stream.
 Source Code: https://github.com/maxvoltar/photo-stream
@@ -14,4 +14,4 @@ Tags:
     - Photo and Video Gallery
 MD: '- [Photo Stream](https://github.com/maxvoltar/photo-stream) - Minimalist self-hosted photo stream. ([Demo](https://maxvoltar.photo/)) `MIT` `Ruby`'
 SourceType: Github
-Line: 1291
+Line: 1296

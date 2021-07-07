@@ -1,4 +1,4 @@
-ID: 79
+ID: 80
 Name: Shaarli
 Description: Personal, minimalist, super-fast, no-database bookmarking and link sharing platform.
 Source Code: https://github.com/shaarli/Shaarli
@@ -15,4 +15,4 @@ Tags:
     - Links
 MD: '- [Shaarli](https://github.com/shaarli/Shaarli) - Personal, minimalist, super-fast, no-database bookmarking and link sharing platform. ([Demo](https://demo.shaarli.org)) `Zlib` `PHP`'
 SourceType: Github
-Line: 218
+Line: 219

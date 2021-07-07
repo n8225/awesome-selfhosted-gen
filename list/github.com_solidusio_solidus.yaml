@@ -1,4 +1,4 @@
-ID: 370
+ID: 372
 Name: Solidus
 Description: A free, open-source ecommerce platform that gives you complete control over your store.
 Source Code: https://github.com/solidusio/solidus
@@ -16,4 +16,4 @@ Tags:
     - E-commerce
 MD: '- [Solidus](https://solidus.io/) - A free, open-source ecommerce platform that gives you complete control over your store. ([Demo](http://demo.solidus.io/), [Source Code](https://github.com/solidusio/solidus)) `BSD-3-Clause` `Ruby`'
 SourceType: Github
-Line: 606
+Line: 608

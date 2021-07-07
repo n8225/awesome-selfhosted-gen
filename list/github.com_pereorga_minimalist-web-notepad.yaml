@@ -1,4 +1,4 @@
-ID: 767
+ID: 770
 Name: minimalist-web-notepad
 Description: Minimalist notepad.cc clone.
 Source Code: https://github.com/pereorga/minimalist-web-notepad
@@ -15,4 +15,4 @@ Tags:
     - Editor
 MD: '- [minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad) - Minimalist notepad.cc clone. ([Demo](https://notes.orga.cat/)) `Apache-2.0` `PHP`'
 SourceType: Github
-Line: 1166
+Line: 1169

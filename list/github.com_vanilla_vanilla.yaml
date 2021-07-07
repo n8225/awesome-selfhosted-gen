@@ -1,4 +1,4 @@
-ID: 277
+ID: 278
 Name: Vanilla Forums
 Description: Simple and flexible forum software.
 Source Code: https://github.com/vanilla/vanilla
@@ -16,4 +16,4 @@ Tags:
     - Forum
 MD: '- [Vanilla Forums](https://vanillaforums.org/) - Simple and flexible forum software. ([Source Code](https://github.com/vanilla/vanilla)) `GPL-2.0` `PHP`'
 SourceType: Github
-Line: 483
+Line: 484

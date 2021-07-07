@@ -1,4 +1,4 @@
-ID: 278
+ID: 279
 Name: Zusam
 Description: Free and open-source way to self-host private forums for groups of friends or family.
 Source Code: https://github.com/zusam/zusam
@@ -17,4 +17,4 @@ Tags:
     - Forum
 MD: '- [Zusam](https://zusam.org) - Free and open-source way to self-host private forums for groups of friends or family. ([Demo](https://demo.zusam.org), [Source Code](https://github.com/zusam/zusam)) `AGPL-3.0` `PHP`'
 SourceType: Github
-Line: 484
+Line: 485

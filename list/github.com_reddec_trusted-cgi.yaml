@@ -1,4 +1,4 @@
-ID: 990
+ID: 995
 Name: Trusted-CGI
 Description: Lightweight self-hosted lambda/applications/cgi/serverless-functions platform.
 Source Code: https://github.com/reddec/trusted-cgi
@@ -15,4 +15,4 @@ Tags:
     - Severless
 MD: '- [Trusted-CGI](https://github.com/reddec/trusted-cgi) - Lightweight self-hosted lambda/applications/cgi/serverless-functions platform. `MIT` `Go`'
 SourceType: Github
-Line: 1476
+Line: 1481

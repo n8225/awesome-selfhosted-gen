@@ -1,4 +1,4 @@
-ID: 770
+ID: 773
 Name: Notes'n'Todos
 Description: Write notes and todos online in markdown with tag filtering and date sorting.
 Source Code: https://github.com/larspontoppidan/notesntodos
@@ -15,4 +15,4 @@ Tags:
     - Editor
 MD: '- [Notes''n''Todos](https://github.com/larspontoppidan/notesntodos) - Write notes and todos online in markdown with tag filtering and date sorting. ([Demo](https://lpss.dk/nnt-playground/)) `MIT` `Python`'
 SourceType: Github
-Line: 1169
+Line: 1172

@@ -1,4 +1,4 @@
-ID: 983
+ID: 988
 Name: Uier
 Description: Codeless or low-code User Experience test editing and management using Selenium to perform testing or UI automation. Uier tends to be a free self hostable alternative to Applitools, Endtest, Ghost Inspector, Usetrace, Screenster and many others.
 Source Code: https://github.com/sjoerdvanderhoorn/Uier
@@ -13,4 +13,4 @@ Tags:
     - Software Dev
 MD: '- [Uier](https://github.com/sjoerdvanderhoorn/Uier) - Codeless or low-code User Experience test editing and management using Selenium to perform testing or UI automation. Uier tends to be a free self hostable alternative to Applitools, Endtest, Ghost Inspector, Usetrace, Screenster and many others. `Apache-2.0` `Nodejs`'
 SourceType: Github
-Line: 1464
+Line: 1469

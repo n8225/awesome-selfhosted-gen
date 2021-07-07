@@ -1,4 +1,4 @@
-ID: 296
+ID: 298
 Name: Open Conference Systems (OCS)
 Description: is a free Web publishing tool that will create a complete Web presence for your scholarly conference.
 Source Code: https://github.com/pkp/ocs
@@ -15,4 +15,4 @@ Tags:
     - Conference Mgmnt
 MD: '- [Open Conference Systems (OCS)](https://pkp.sfu.ca/ocs/) - is a free Web publishing tool that will create a complete Web presence for your scholarly conference. ([Demo](https://pkp.sfu.ca/ocs/ocs_demo/), [Source Code](https://github.com/pkp/ocs)) `GPL-1.0` `PHP`'
 SourceType: Github
-Line: 519
+Line: 521

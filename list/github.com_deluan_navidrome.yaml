@@ -1,4 +1,4 @@
-ID: 653
+ID: 656
 Name: Navidrome Music Streamer
 Description: Modern Music Server and Streamer, compatible with Subsonic/Airsonic.
 Source Code: https://github.com/deluan/navidrome
@@ -20,4 +20,4 @@ Tags:
     - Audio
 MD: '- [Navidrome Music Streamer](https://www.navidrome.org) - Modern Music Server and Streamer, compatible with Subsonic/Airsonic. ([Demo](https://www.navidrome.org/demo), [Source Code](https://github.com/deluan/navidrome), [Clients](https://www.navidrome.org/docs/overview/#apps)) `GPL-3.0` `Go/Javascript`'
 SourceType: Github
-Line: 1024
+Line: 1027

@@ -1,4 +1,4 @@
-ID: 182
+ID: 183
 Name: Postal
 Description: Fully featured open source mail delivery platform for incoming and outgoing e-mail.
 Source Code: https://github.com/atech/postal
@@ -16,4 +16,4 @@ Tags:
     - Newsletters
 MD: '- [Postal](https://github.com/atech/postal) - Fully featured open source mail delivery platform for incoming and outgoing e-mail. `MIT` `Ruby`'
 SourceType: Github
-Line: 366
+Line: 367

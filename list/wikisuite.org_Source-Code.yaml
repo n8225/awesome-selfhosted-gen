@@ -1,4 +1,4 @@
-ID: 1103
+ID: 1108
 Name: WikiSuite
 Description: The most comprehensive and integrated Free / Libre / Open Source enterprise software suite.
 Source Code: https://wikisuite.org/Source-Code
@@ -13,4 +13,4 @@ C3: ""
 Tags:
     - Self-hosting Solution
 MD: '- [WikiSuite](https://wikisuite.org) - The most comprehensive and integrated Free / Libre / Open Source enterprise software suite. ([Source Code](https://wikisuite.org/Source-Code)) `Multiple` `ClearOS`'
-Line: 1651
+Line: 1656

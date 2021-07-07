@@ -1,4 +1,4 @@
-ID: 511
+ID: 514
 Name: Filestash
 Description: 'A web file manager that lets you manage your data anywhere it is located: FTP, SFTP, WebDAV, Git, S3, Minio, Dropbox, or Google Drive .'
 Source Code: https://github.com/mickael-kerjean/filestash
@@ -16,4 +16,4 @@ Tags:
     - Web File MGR
 MD: '- [Filestash](https://www.filestash.app/) - A web file manager that lets you manage your data anywhere it is located: FTP, SFTP, WebDAV, Git, S3, Minio, Dropbox, or Google Drive . ([Demo](https://demo.filestash.app/), [Source Code](https://github.com/mickael-kerjean/filestash)) `AGPL-3.0` `Go`'
 SourceType: Github
-Line: 820
+Line: 823

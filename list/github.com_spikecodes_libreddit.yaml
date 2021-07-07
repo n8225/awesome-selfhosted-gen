@@ -1,4 +1,4 @@
-ID: 249
+ID: 250
 Name: Libreddit
 Description: Private front-end for Reddit written in Rust.
 Source Code: https://github.com/spikecodes/libreddit
@@ -17,4 +17,4 @@ Tags:
 ProprietaryDependency: true
 MD: '- [Libreddit](https://libredd.it/) `⚠` - Private front-end for Reddit written in Rust. ([Source Code](https://github.com/spikecodes/libreddit)) `AGPL-3.0` `Rust`'
 SourceType: Github
-Line: 455
+Line: 456

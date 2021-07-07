@@ -1,4 +1,4 @@
-ID: 75
+ID: 76
 Name: Lobsters
 Description: Run your own link aggregation site.
 Source Code: https://github.com/jcs/lobsters
@@ -15,4 +15,4 @@ Tags:
     - Links
 MD: '- [Lobsters](https://lobste.rs) - Run your own link aggregation site. ([Source Code](https://github.com/jcs/lobsters)) `BSD-3-Clause` `Ruby`'
 SourceType: Github
-Line: 214
+Line: 215

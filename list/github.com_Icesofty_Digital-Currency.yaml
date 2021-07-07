@@ -1,4 +1,4 @@
-ID: 695
+ID: 698
 Name: Digital-Currency
 Description: Create your own Self-Hosted Digital Currency.
 Source Code: https://github.com/Icesofty/Digital-Currency
@@ -15,4 +15,4 @@ Tags:
     - Other
 MD: '- [Digital-Currency](https://github.com/Icesofty/Digital-Currency) - Create your own Self-Hosted Digital Currency. ([Demo](https://tonken.glitch.me/)) `GPL-3.0` `Nodejs`'
 SourceType: Github
-Line: 1074
+Line: 1077

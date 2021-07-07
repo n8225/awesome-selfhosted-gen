@@ -1,4 +1,4 @@
-ID: 183
+ID: 184
 Name: Postorius
 Description: Web user interface to access GNU Mailman.
 Source Code: https://gitlab.com/mailman/postorius/
@@ -17,4 +17,4 @@ Tags:
     - Newsletters
 MD: '- [Postorius](https://docs.mailman3.org/projects/postorius/en/latest/) - Web user interface to access GNU Mailman. ([Source Code](https://gitlab.com/mailman/postorius/)) `GPL-3.0` `Python`'
 SourceType: Gitlab
-Line: 367
+Line: 368

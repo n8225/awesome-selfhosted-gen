@@ -1,4 +1,4 @@
-ID: 76
+ID: 77
 Name: No Fuss Bookmarks
 Description: Very simple software and service to store bookmarks especially designed for hackers (that don't need fancy interfaces, but nice API).
 Source Code: https://github.com/mapio/nofussbm
@@ -15,4 +15,4 @@ Tags:
     - Links
 MD: '- [No Fuss Bookmarks](http://nofussbm.herokuapp.com/signup.html) - Very simple software and service to store bookmarks especially designed for hackers (that don''t need fancy interfaces, but nice API). ([Source Code](https://github.com/mapio/nofussbm)) `GPL-3.0` `Python`'
 SourceType: Github
-Line: 215
+Line: 216

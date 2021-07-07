@@ -1,4 +1,4 @@
-ID: 793
+ID: 796
 Name: keeweb
 Description: This webapp is a browser and desktop password manager compatible with KeePass databases.
 Source Code: https://github.com/keeweb/keeweb
@@ -14,4 +14,4 @@ Tags:
     - Password Manager
 MD: '- [keeweb](https://keeweb.info/) - This webapp is a browser and desktop password manager compatible with KeePass databases. ([Source Code](https://github.com/keeweb/keeweb)) `MIT` `HTML5`'
 SourceType: Github
-Line: 1202
+Line: 1205

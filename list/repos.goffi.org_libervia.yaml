@@ -1,4 +1,4 @@
-ID: 291
+ID: 293
 Name: Libervia
 Description: Web frontend from Salut à Toi.
 Source Code: http://repos.goffi.org/libervia
@@ -15,4 +15,4 @@ Tags:
     - XMPP
     - XMPP Webclient
 MD: '  - [Libervia](http://wiki.goffi.org/wiki/Libervia/en) - Web frontend from Salut à Toi. ([Source Code](http://repos.goffi.org/libervia)) `AGPL-3.0` `Python`'
-Line: 509
+Line: 511

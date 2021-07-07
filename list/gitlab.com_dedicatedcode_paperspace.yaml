@@ -1,4 +1,4 @@
-ID: 388
+ID: 390
 Name: paper{s}pace
 Description: a small web application to manage all your offline documents. Provides a searchable storage for your documents and reminds you of upcoming tasks.
 Source Code: https://gitlab.com/dedicatedcode/paperspace
@@ -14,4 +14,4 @@ Tags:
     - Doc Mgmnt
 MD: '- [paper{s}pace](https://dedicatedcode.com/projects/) - a small web application to manage all your offline documents. Provides a searchable storage for your documents and reminds you of upcoming tasks. ([Source Code](https://gitlab.com/dedicatedcode/paperspace)) `MIT` `Java`'
 SourceType: Gitlab
-Line: 636
+Line: 638

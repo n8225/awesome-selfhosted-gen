@@ -1,4 +1,4 @@
-ID: 319
+ID: 321
 Name: MODX
 Description: MODX is an advanced content management and publishing platform. The current version is called 'Revolution'.
 Source Code: https://github.com/modxcms/revolution
@@ -14,4 +14,4 @@ Tags:
     - CMS
 MD: '- [MODX](http://modx.com/) - MODX is an advanced content management and publishing platform. The current version is called ''Revolution''. ([Source Code](https://github.com/modxcms/revolution)) `GPL-2.0` `PHP`'
 SourceType: Github
-Line: 549
+Line: 551

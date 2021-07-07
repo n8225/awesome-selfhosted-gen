@@ -1,4 +1,4 @@
-ID: 646
+ID: 649
 Name: Moped
 Description: Responsive HTML5 + Javascript client for the Mopidy music server.
 Source Code: https://github.com/martijnboland/moped
@@ -15,4 +15,4 @@ Tags:
     - Audio
 MD: '  - [Moped](https://github.com/martijnboland/moped) - Responsive HTML5 + Javascript client for the Mopidy music server. `MIT` `HTML5`'
 SourceType: Github
-Line: 1017
+Line: 1020

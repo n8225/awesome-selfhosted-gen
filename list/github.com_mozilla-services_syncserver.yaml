@@ -1,4 +1,4 @@
-ID: 69
+ID: 70
 Name: Firefox Sync Server
 Description: Sync Firefox bookmarks, passwords, history, tabs, preferences.
 Source Code: https://github.com/mozilla-services/syncserver
@@ -14,4 +14,4 @@ Tags:
     - Links
 MD: '  - [Firefox Sync Server](https://github.com/mozilla-services/syncserver) - Sync Firefox bookmarks, passwords, history, tabs, preferences. `MPL-2.0` `Python`'
 SourceType: Github
-Line: 208
+Line: 209

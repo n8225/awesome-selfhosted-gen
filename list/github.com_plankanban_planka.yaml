@@ -1,4 +1,4 @@
-ID: 1018
+ID: 1023
 Name: Planka
 Description: Open source Trello alternative.
 Source Code: https://github.com/plankanban/planka
@@ -16,4 +16,4 @@ Tags:
     - Task Mgmnt
 MD: '- [Planka](https://planka.app/) - Open source Trello alternative. ([Demo](https://plankanban.github.io/planka/#/), [Source Code](https://github.com/plankanban/planka)) `MIT` `Nodejs`'
 SourceType: Github
-Line: 1528
+Line: 1533

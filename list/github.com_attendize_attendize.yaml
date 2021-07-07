@@ -1,4 +1,4 @@
-ID: 352
+ID: 354
 Name: Attendize
 Description: Ticket selling and event management platform.
 Source Code: https://github.com/attendize/attendize
@@ -15,4 +15,4 @@ Tags:
     - E-commerce
 MD: '- [Attendize](https://www.attendize.com/) - Ticket selling and event management platform. ([Source Code](https://github.com/attendize/attendize)) `AAL` `PHP`'
 SourceType: Github
-Line: 588
+Line: 590

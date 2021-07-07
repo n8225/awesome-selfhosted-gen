@@ -1,4 +1,4 @@
-ID: 71
+ID: 72
 Name: golinks
 Description: Web application that allows you to create smart bookmarks, commands and aliases by pointing your web browser's default search engine at a running instance. Similar to bunny1 or yubnub.
 Source Code: https://github.com/prologic/golinks
@@ -15,4 +15,4 @@ Tags:
     - Links
 MD: '- [golinks](https://github.com/prologic/golinks) - Web application that allows you to create smart bookmarks, commands and aliases by pointing your web browser''s default search engine at a running instance. Similar to bunny1 or yubnub. ([Demo](https://search.mills.io)) `MIT` `Go`'
 SourceType: Github
-Line: 210
+Line: 211

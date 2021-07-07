@@ -1,4 +1,4 @@
-ID: 709
+ID: 712
 Name: MindsDB
 Description: MindsDB is an open source self hosted AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries.
 Source Code: https://github.com/mindsdb/mindsdb
@@ -14,4 +14,4 @@ Tags:
     - Other
 MD: '- [MindsDB](https://github.com/mindsdb/mindsdb) - MindsDB is an open source self hosted AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries. `GPL-3.0` `Python`'
 SourceType: Github
-Line: 1088
+Line: 1091

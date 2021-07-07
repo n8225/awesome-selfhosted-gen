@@ -1,4 +1,4 @@
-ID: 971
+ID: 976
 Name: HttPlaceholder
 Description: Quickly mock away any webservice using HttPlaceholder. HttPlaceholder lets you specify what the request should look like and what response needs to be returned.
 Source Code: https://github.com/dukeofharen/httplaceholder
@@ -14,4 +14,4 @@ Tags:
     - IDE
 MD: '- [HttPlaceholder](https://github.com/dukeofharen/httplaceholder) - Quickly mock away any webservice using HttPlaceholder. HttPlaceholder lets you specify what the request should look like and what response needs to be returned. `MIT` `C#`'
 SourceType: Github
-Line: 1445
+Line: 1450

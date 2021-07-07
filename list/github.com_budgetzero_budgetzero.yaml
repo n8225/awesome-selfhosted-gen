@@ -1,4 +1,4 @@
-ID: 732
+ID: 735
 Name: budgetzero
 Description: Free, self-hosted, open-source, envelope-budgeting web and desktop app.
 Source Code: https://github.com/budgetzero/budgetzero
@@ -15,4 +15,4 @@ Tags:
     - Budget
 MD: '- [budgetzero](https://github.com/budgetzero/budgetzero) - Free, self-hosted, open-source, envelope-budgeting web and desktop app. ([Demo](https://app.budgetzero.io/budget)) `AGPL-3.0` `Nodejs`'
 SourceType: Github
-Line: 1118
+Line: 1121

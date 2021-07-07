@@ -1,4 +1,4 @@
-ID: 554
+ID: 557
 Name: BlueMind
 Description: Groupware with email, calendar, addressbooks, exchange active sync, exchange MAPI protocol support.
 Source Code: https://forge.bluemind.net/stash/projects/BM/repos/bluemind-public/browse
@@ -13,4 +13,4 @@ C3: ""
 Tags:
     - Groupware
 MD: '- [BlueMind](https://www.bluemind.net/en/) - Groupware with email, calendar, addressbooks, exchange active sync, exchange MAPI protocol support. ([Source Code](https://forge.bluemind.net/stash/projects/BM/repos/bluemind-public/browse)) `AGPL-3.0` `Java`'
-Line: 885
+Line: 888

@@ -1,4 +1,4 @@
-ID: 82
+ID: 83
 Name: ubookmark
 Description: LDAP enabled bookmarking service.
 Source Code: https://code.ungleich.ch/ungleich-public/ubookmark/
@@ -15,4 +15,4 @@ Tags:
     - Bookmarks
     - Links
 MD: '- [ubookmark](https://ungleich.ch/u/projects/ubookmark/) - LDAP enabled bookmarking service. ([Demo](https://ipv6.blog), [Source Code](https://code.ungleich.ch/ungleich-public/ubookmark/)) `GPL-2.0` `Python`'
-Line: 221
+Line: 222

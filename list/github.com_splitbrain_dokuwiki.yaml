@@ -1,4 +1,4 @@
-ID: 1069
+ID: 1074
 Name: Dokuwiki
 Description: Easy to use, lightweight, standards-compliant wiki engine with a simple syntax allowing reading the data outside the wiki. All data is stored in plain files, therefore no database is required.
 Source Code: https://github.com/splitbrain/dokuwiki
@@ -14,4 +14,4 @@ Tags:
     - Wiki
 MD: '- [Dokuwiki](https://www.dokuwiki.org/DokuWiki) - Easy to use, lightweight, standards-compliant wiki engine with a simple syntax allowing reading the data outside the wiki. All data is stored in plain files, therefore no database is required. ([Source Code](https://github.com/splitbrain/dokuwiki)) `GPL-2.0` `PHP`'
 SourceType: Github
-Line: 1612
+Line: 1617

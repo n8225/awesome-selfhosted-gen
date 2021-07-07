@@ -1,4 +1,4 @@
-ID: 784
+ID: 787
 Name: CryptPad
 Description: CryptPad is the zero knowledge realtime collaborative editor (rich-text, files, source-code, ...).
 Source Code: https://github.com/xwiki-labs/cryptpad
@@ -14,4 +14,4 @@ Tags:
     - Office Suites
 MD: '- [CryptPad](https://cryptpad.fr/) - CryptPad is the zero knowledge realtime collaborative editor (rich-text, files, source-code, ...). ([Source Code](https://github.com/xwiki-labs/cryptpad)) `AGPL-3.0` `Nodejs`'
 SourceType: Github
-Line: 1188
+Line: 1191

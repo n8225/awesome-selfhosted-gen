@@ -1,4 +1,4 @@
-ID: 1002
+ID: 1007
 Name: Docstore
 Description: Static document hosting without any server-side processing, does not require you to recompile every time you change an article. Clone the repository and add articles in the text/ directory to get started.
 Source Code: https://github.com/haldean/docstore
@@ -15,4 +15,4 @@ Tags:
     - Documentation Gen
 MD: '- [Docstore](http://haldean.org/) - Static document hosting without any server-side processing, does not require you to recompile every time you change an article. Clone the repository and add articles in the text/ directory to get started. ([Source Code](https://github.com/haldean/docstore)) `BSD-3-Clause` `Javascript`'
 SourceType: Github
-Line: 1496
+Line: 1501

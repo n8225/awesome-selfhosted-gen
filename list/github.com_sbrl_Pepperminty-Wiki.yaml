@@ -1,4 +1,4 @@
-ID: 1076
+ID: 1081
 Name: Pepperminty Wiki
 Description: Complete markdown-powered wiki contained in a single PHP file.
 Source Code: https://github.com/sbrl/Pepperminty-Wiki
@@ -14,4 +14,4 @@ Tags:
     - Wiki
 MD: '- [Pepperminty Wiki](https://github.com/sbrl/Pepperminty-Wiki) - Complete markdown-powered wiki contained in a single PHP file. ([Demo](https://starbeamrainbowlabs.com/labs/peppermint/build/)) `MPL-2.0` `PHP`'
 SourceType: Github
-Line: 1619
+Line: 1624

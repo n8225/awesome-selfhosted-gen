@@ -63,15 +63,15 @@ execute() {
 }
 get_binaries() {
   case "$PLATFORM" in
-    darwin/amd64) BINARIES="awesome-selfhosted-gen" ;;
-    darwin/arm64) BINARIES="awesome-selfhosted-gen" ;;
-    darwin/armv6) BINARIES="awesome-selfhosted-gen" ;;
-    linux/amd64) BINARIES="awesome-selfhosted-gen" ;;
-    linux/arm64) BINARIES="awesome-selfhosted-gen" ;;
-    linux/armv6) BINARIES="awesome-selfhosted-gen" ;;
-    windows/amd64) BINARIES="awesome-selfhosted-gen" ;;
-    windows/arm64) BINARIES="awesome-selfhosted-gen" ;;
-    windows/armv6) BINARIES="awesome-selfhosted-gen" ;;
+    darwin/amd64) BINARIES="list-gen" ;;
+    darwin/arm64) BINARIES="list-gen" ;;
+    darwin/armv6) BINARIES="list-gen" ;;
+    linux/amd64) BINARIES="list-gen" ;;
+    linux/arm64) BINARIES="list-gen" ;;
+    linux/armv6) BINARIES="list-gen" ;;
+    windows/amd64) BINARIES="list-gen" ;;
+    windows/arm64) BINARIES="list-gen" ;;
+    windows/armv6) BINARIES="list-gen" ;;
     *)
       log_crit "platform $PLATFORM is not supported.  Make sure this script is up-to-date and file request at https://github.com/${PREFIX}/issues/new"
       exit 1
@@ -354,7 +354,7 @@ EOF
 PROJECT_NAME="awesome-selfhosted-gen"
 OWNER=n8225
 REPO="awesome-selfhosted-gen"
-BINARY=awesome-selfhosted-gen
+BINARY=list-gen
 FORMAT=tar.gz
 OS=$(uname_os)
 ARCH=$(uname_arch)

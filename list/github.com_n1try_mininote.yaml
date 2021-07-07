@@ -1,4 +1,4 @@
-ID: 768
+ID: 771
 Name: MiniNote
 Description: Simple Markdown note-taking app with persistence.
 Source Code: https://github.com/n1try/mininote
@@ -14,4 +14,4 @@ Tags:
     - Editor
 MD: '- [MiniNote](https://github.com/n1try/mininote) - Simple Markdown note-taking app with persistence. `MIT` `Nodejs`'
 SourceType: Github
-Line: 1167
+Line: 1170

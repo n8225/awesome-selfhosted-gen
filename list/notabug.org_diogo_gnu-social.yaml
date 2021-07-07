@@ -1,4 +1,4 @@
-ID: 243
+ID: 244
 Name: GNU social
 Description: Social communication software for both public and private communications.
 Source Code: https://notabug.org/diogo/gnu-social
@@ -15,4 +15,4 @@ Tags:
     - Social Network
     - Forum
 MD: '- [GNU social](https://gnu.io/social/) - Social communication software for both public and private communications. ([Source Code](https://notabug.org/diogo/gnu-social)) `AGPL-3.0` `PHP`'
-Line: 449
+Line: 450

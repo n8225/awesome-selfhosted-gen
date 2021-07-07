@@ -1,4 +1,4 @@
-ID: 922
+ID: 927
 Name: Ambar
 Description: Document Search Engine (OCR, Store & Search).
 Source Code: https://github.com/RD17/ambar
@@ -16,4 +16,4 @@ Tags:
     - Search Engine
 MD: '- [Ambar](https://ambar.cloud) - Document Search Engine (OCR, Store & Search). ([Demo](https://app.ambar.cloud/), [Source Code](https://github.com/RD17/ambar)) `MIT` `Nodejs/Python`'
 SourceType: Github
-Line: 1380
+Line: 1385

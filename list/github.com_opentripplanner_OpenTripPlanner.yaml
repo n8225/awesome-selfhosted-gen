@@ -1,4 +1,4 @@
-ID: 608
+ID: 611
 Name: OpenTripPlanner
 Description: Multimodal trip planning software based on OpenStreetMap data and consuming published GTFS-formatted data to suggest routes using local public transit systems.
 Source Code: https://github.com/opentripplanner/OpenTripPlanner
@@ -16,4 +16,4 @@ Tags:
     - GPS
 MD: '- [OpenTripPlanner](https://www.opentripplanner.org/) - Multimodal trip planning software based on OpenStreetMap data and consuming published GTFS-formatted data to suggest routes using local public transit systems. ([Source Code](https://github.com/opentripplanner/OpenTripPlanner)) `LGPL-3.0` `Java/Javascript`'
 SourceType: Github
-Line: 966
+Line: 969

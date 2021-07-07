@@ -1,4 +1,4 @@
-ID: 1032
+ID: 1037
 Name: Bugzilla
 Description: General-purpose bugtracker and testing tool originally developed and used by the Mozilla project.
 Source Code: https://www.bugzilla.org/
@@ -12,4 +12,4 @@ C3: ""
 Tags:
     - Ticketing
 MD: '- [Bugzilla](https://www.bugzilla.org/) - General-purpose bugtracker and testing tool originally developed and used by the Mozilla project. `MPL-2.0` `Perl`'
-Line: 1549
+Line: 1554

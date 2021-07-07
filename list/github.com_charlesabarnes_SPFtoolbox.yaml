@@ -1,4 +1,4 @@
-ID: 379
+ID: 381
 Name: SPF Toolbox
 Description: Application to look up DNS records such as SPF, MX, Whois, and more.
 Source Code: https://github.com/charlesabarnes/SPFtoolbox
@@ -14,4 +14,4 @@ Tags:
     - DNS
 MD: '- [SPF Toolbox](http://spftoolbox.com) - Application to look up DNS records such as SPF, MX, Whois, and more. ([Source Code](https://github.com/charlesabarnes/SPFtoolbox)) `MIT` `PHP`'
 SourceType: Github
-Line: 622
+Line: 624

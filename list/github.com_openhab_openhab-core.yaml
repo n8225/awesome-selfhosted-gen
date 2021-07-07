@@ -1,4 +1,4 @@
-ID: 580
+ID: 583
 Name: openHAB
 Description: Vendor and technology agnostic open source software for home automation.
 Source Code: https://github.com/openhab/openhab-core
@@ -15,4 +15,4 @@ Tags:
     - IoT
 MD: '- [openHAB](http://www.openhab.org) - Vendor and technology agnostic open source software for home automation. ([Source Code](https://github.com/openhab/openhab-core)) `EPL-2.0` `Java`'
 SourceType: Github
-Line: 921
+Line: 924

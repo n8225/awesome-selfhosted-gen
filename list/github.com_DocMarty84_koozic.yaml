@@ -1,4 +1,4 @@
-ID: 641
+ID: 644
 Name: KooZic
 Description: Music server with powerful playlist features and Subsonic compatibility.
 Source Code: https://github.com/DocMarty84/koozic
@@ -18,4 +18,4 @@ Tags:
     - Audio
 MD: '- [KooZic](https://koozic.net/) - Music server with powerful playlist features and Subsonic compatibility. ([Demo](https://demo.koozic.net/public), [Source Code](https://github.com/DocMarty84/koozic)) `LGPL-3.0/MIT` `Python`'
 SourceType: Github
-Line: 1012
+Line: 1015

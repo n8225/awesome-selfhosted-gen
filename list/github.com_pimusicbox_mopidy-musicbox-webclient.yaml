@@ -1,4 +1,4 @@
-ID: 647
+ID: 650
 Name: Mopidy MusicBox
 Description: Web Client for Mopidy Music Server.
 Source Code: https://github.com/pimusicbox/mopidy-musicbox-webclient
@@ -15,4 +15,4 @@ Tags:
     - Audio
 MD: '  - [Mopidy MusicBox](https://github.com/pimusicbox/mopidy-musicbox-webclient) - Web Client for Mopidy Music Server. `Apache-2.0` `HTML5`'
 SourceType: Github
-Line: 1018
+Line: 1021

@@ -1,4 +1,4 @@
-ID: 473
+ID: 476
 Name: Chibisafe
 Description: Blazing fast file uploader and awesome bunker written in node.
 Source Code: https://github.com/weebdev/chibisafe
@@ -16,4 +16,4 @@ Tags:
     - Drag-n-Drop Upload
 MD: '- [Chibisafe](https://lolisafe.moe/) - Blazing fast file uploader and awesome bunker written in node. ([Source Code](https://github.com/weebdev/chibisafe)) `MIT` `Nodejs`'
 SourceType: Github
-Line: 776
+Line: 779

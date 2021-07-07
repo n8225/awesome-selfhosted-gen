@@ -1,5 +1,5 @@
 default:
-  image: golang:1.15
+  image: golang:1.16
 
 stages:
 - test
@@ -26,7 +26,7 @@ pages:
     - ./godownloader.sh -d
     - git clone --depth 1 https://gitlab.com/n8225/awesome-selfhosted.git --branch master --single-branch /tmp/awesome-selfhosted
     - rm list/*
-    - ./bin/awesome-selfhosted-gen --path /tmp/awesome-selfhosted/README.md --ghtoken $GITHUB_TOKEN
+    - ./bin/list-gen -readme_path /tmp/awesome-selfhosted/README.md -github_token $GITHUB_TOKEN
     - git clone --depth 1 --single-branch --branch gh-pages https://n8225:$GITHUB_TOKEN@github.com/n8225/awesome-selfhosted-gen.git public
     - cd public
     - rm -rf static

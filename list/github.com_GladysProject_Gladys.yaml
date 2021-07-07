@@ -1,4 +1,4 @@
-ID: 577
+ID: 580
 Name: Gladys
 Description: Gladys is an open-source home assistant which runs on your Raspberry Pi.
 Source Code: https://github.com/GladysProject/Gladys
@@ -15,4 +15,4 @@ Tags:
     - IoT
 MD: '- [Gladys](https://gladysproject.com) - Gladys is an open-source home assistant which runs on your Raspberry Pi. ([Source Code](https://github.com/GladysProject/Gladys)) `MIT` `Nodejs`'
 SourceType: Github
-Line: 918
+Line: 921

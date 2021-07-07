@@ -1,4 +1,4 @@
-ID: 232
+ID: 233
 Name: Coral
 Description: A better commenting experience from Vox Media.
 Source Code: https://github.com/coralproject/talk
@@ -16,4 +16,4 @@ Tags:
     - Forum
 MD: '- [Coral](https://coralproject.net/) - A better commenting experience from Vox Media. ([Source Code](https://github.com/coralproject/talk)) `Apache-2.0` `Nodejs`'
 SourceType: Github
-Line: 438
+Line: 439

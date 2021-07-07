@@ -1,4 +1,4 @@
-ID: 1027
+ID: 1032
 Name: todo
 Description: Simple todo list manager.
 Source Code: https://github.com/prologic/todo
@@ -15,4 +15,4 @@ Tags:
     - Task Mgmnt
 MD: '- [todo](https://github.com/prologic/todo) - Simple todo list manager. ([Demo](https://todo.mills.io)) `MIT` `Go`'
 SourceType: Github
-Line: 1537
+Line: 1542

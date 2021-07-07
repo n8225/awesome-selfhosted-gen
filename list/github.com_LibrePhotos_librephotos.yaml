@@ -1,4 +1,4 @@
-ID: 857
+ID: 862
 Name: LibrePhotos
 Description: Self hosted wannabe Google Photos clone, with a slight focus on cool graphs.
 Source Code: https://github.com/LibrePhotos/librephotos
@@ -13,4 +13,4 @@ Tags:
     - Photo and Video Gallery
 MD: '- [LibrePhotos](https://github.com/LibrePhotos/librephotos) - Self hosted wannabe Google Photos clone, with a slight focus on cool graphs. `MIT` `Python`'
 SourceType: Github
-Line: 1284
+Line: 1289

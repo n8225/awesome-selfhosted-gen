@@ -1,4 +1,4 @@
-ID: 575
+ID: 578
 Name: Domoticz
 Description: 'Home Automation System that lets you monitor and configure various devices like: Lights, Switches, various sensors/meters like Temperature, Rain, Wind, UV, Electra, Gas, Water and much more.'
 Source Code: https://github.com/domoticz/domoticz
@@ -18,4 +18,4 @@ Tags:
     - IoT
 MD: '- [Domoticz](https://www.domoticz.com/) - Home Automation System that lets you monitor and configure various devices like: Lights, Switches, various sensors/meters like Temperature, Rain, Wind, UV, Electra, Gas, Water and much more. ([Source Code](https://github.com/domoticz/domoticz), [Clients](https://github.com/domoticz/domoticz-android)) `GPL-3.0` `C/C++`'
 SourceType: Github
-Line: 916
+Line: 919

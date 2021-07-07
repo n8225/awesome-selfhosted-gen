@@ -1,4 +1,4 @@
-ID: 953
+ID: 958
 Name: ProjeQtOr
 Description: A complete, mature, multi-user project management system with extensive functionality for all phases of a project.
 Source Code: https://sourceforge.net/p/projectorria/code/HEAD/tree/branches/
@@ -15,4 +15,4 @@ Tags:
     - Software Dev
     - Project Mgmnt
 MD: '- [ProjeQtOr](https://www.projeqtor.org/) - A complete, mature, multi-user project management system with extensive functionality for all phases of a project. ([Demo](https://demo.projeqtor.org/), [Source Code](https://sourceforge.net/p/projectorria/code/HEAD/tree/branches/)) `AGPL-3.0` `PHP`'
-Line: 1420
+Line: 1425

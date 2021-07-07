@@ -77,6 +77,7 @@ func main() {
 			log.Info().Msg("GITHUB_TOKEN: " + *github_token)
 			cleanDir(*clean)
 			parseFiles(*readme_path)
+			exporter.ToMD()
 			generateFiles(*github_token)
 			return nil
 		},
@@ -124,8 +125,8 @@ func generateFiles(ghToken string) {
 	ghData := exporter.GetGithubData(yl.Entries, ghToken)
 	exporter.GhDataToYAML(ghData, "output")
 	exporter.UpdateExtData(&yl.Entries, ghData)
-	exporter.ToJSON(yl, "list")
-	//exporter.ToYAML(yl, "output/list")
+	exporter.ToJSON(yl, "static/list")
+	exporter.ToYAML(yl, "output/list")
 }
 
 func cleanDir(clean bool) {

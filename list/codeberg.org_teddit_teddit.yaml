@@ -1,4 +1,4 @@
-ID: 271
+ID: 272
 Name: Teddit
 Description: Alternative Reddit front-end focused on privacy.
 Source Code: https://codeberg.org/teddit/teddit
@@ -16,4 +16,4 @@ Tags:
     - Forum
 ProprietaryDependency: true
 MD: '- [Teddit](https://teddit.net) `⚠` - Alternative Reddit front-end focused on privacy. ([Source Code](https://codeberg.org/teddit/teddit)) `AGPL-3.0` `Nodejs`'
-Line: 477
+Line: 478

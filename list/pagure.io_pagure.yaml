@@ -1,4 +1,4 @@
-ID: 950
+ID: 955
 Name: Pagure
 Description: A lightweight, powerful, and flexible git-centric forge with features laying the foundation for federated and decentralized development.
 Source Code: https://pagure.io/pagure
@@ -14,4 +14,4 @@ Tags:
     - Software Dev
     - Project Mgmnt
 MD: '- [Pagure](https://pagure.io/pagure) - A lightweight, powerful, and flexible git-centric forge with features laying the foundation for federated and decentralized development. ([Demo](https://pagure.io/)) `GPL-2.0` `Python`'
-Line: 1417
+Line: 1422

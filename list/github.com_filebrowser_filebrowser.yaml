@@ -1,4 +1,4 @@
-ID: 509
+ID: 512
 Name: filebrowser
 Description: Web File Browser with a Material Design web interface.
 Source Code: https://github.com/filebrowser/filebrowser
@@ -15,4 +15,4 @@ Tags:
     - Web File MGR
 MD: '- [filebrowser](https://filebrowser.org/) - Web File Browser with a Material Design web interface. ([Source Code](https://github.com/filebrowser/filebrowser)) `Apache-2.0` `Go`'
 SourceType: Github
-Line: 818
+Line: 821

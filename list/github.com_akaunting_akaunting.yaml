@@ -1,4 +1,4 @@
-ID: 728
+ID: 731
 Name: Akaunting
 Description: Akaunting is a free, online and open source accounting software designed for small businesses and freelancers.
 Source Code: https://github.com/akaunting/akaunting
@@ -15,4 +15,4 @@ Tags:
     - Budget
 MD: '- [Akaunting](https://akaunting.com/) - Akaunting is a free, online and open source accounting software designed for small businesses and freelancers. ([Source Code](https://github.com/akaunting/akaunting)) `GPL-3.0` `PHP`'
 SourceType: Github
-Line: 1114
+Line: 1117

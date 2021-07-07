@@ -1,4 +1,4 @@
-ID: 837
+ID: 842
 Name: Flame
 Description: Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 Source Code: https://github.com/pawelmalak/flame
@@ -13,4 +13,4 @@ Tags:
     - Dashboard
 MD: '- [Flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors. `MIT` `Nodejs`'
 SourceType: Github
-Line: 1259
+Line: 1264

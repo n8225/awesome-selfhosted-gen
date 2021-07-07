@@ -1,4 +1,4 @@
-ID: 67
+ID: 68
 Name: Espial
 Description: An open-source, web-based bookmarking server.
 Source Code: https://github.com/jonschoning/espial
@@ -14,4 +14,4 @@ Tags:
     - Links
 MD: '- [Espial](https://github.com/jonschoning/espial) - An open-source, web-based bookmarking server. `AGPL-3.0` `Haskell`'
 SourceType: Github
-Line: 206
+Line: 207

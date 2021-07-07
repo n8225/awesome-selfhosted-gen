@@ -1,4 +1,4 @@
-ID: 714
+ID: 717
 Name: Notica
 Description: Lets you send browser notifications from your terminal to your desktop or phone. No installation or registration is required.
 Source Code: https://github.com/tannercollin/Notica
@@ -15,4 +15,4 @@ Tags:
     - Other
 MD: '- [Notica](https://notica.us) - Lets you send browser notifications from your terminal to your desktop or phone. No installation or registration is required. ([Source Code](https://github.com/tannercollin/Notica)) `MIT` `Nodejs`'
 SourceType: Github
-Line: 1093
+Line: 1096

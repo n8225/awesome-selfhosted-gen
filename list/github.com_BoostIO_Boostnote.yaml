@@ -1,4 +1,4 @@
-ID: 756
+ID: 759
 Name: Boostnote
 Description: The note-taking app for programmers that focuses on markdown, snippets, and customizability.
 Source Code: https://github.com/BoostIO/Boostnote
@@ -15,4 +15,4 @@ Tags:
     - Editor
 MD: '- [Boostnote](https://boostnote.io/) - The note-taking app for programmers that focuses on markdown, snippets, and customizability. ([Source Code](https://github.com/BoostIO/Boostnote)) `GPL-3.0` `Javascript`'
 SourceType: Github
-Line: 1155
+Line: 1158

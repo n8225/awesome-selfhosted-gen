@@ -1,4 +1,4 @@
-ID: 757
+ID: 760
 Name: DailyNotes
 Description: App for taking notes and tracking tasks on a daily basis in Markdown.
 Source Code: https://github.com/m0ngr31/DailyNotes/
@@ -14,4 +14,4 @@ Tags:
     - Editor
 MD: '- [DailyNotes](https://github.com/m0ngr31/DailyNotes/) - App for taking notes and tracking tasks on a daily basis in Markdown. `MIT` `Python`'
 SourceType: Github
-Line: 1156
+Line: 1159

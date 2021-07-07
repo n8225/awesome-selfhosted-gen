@@ -1,4 +1,4 @@
-ID: 80
+ID: 81
 Name: Shiori
 Description: Simple bookmark manager built with Go.
 Source Code: https://github.com/RadhiFadlillah/shiori
@@ -14,4 +14,4 @@ Tags:
     - Links
 MD: '- [Shiori](https://github.com/RadhiFadlillah/shiori) - Simple bookmark manager built with Go. `MIT` `Go`'
 SourceType: Github
-Line: 219
+Line: 220

@@ -1,4 +1,4 @@
-ID: 123
+ID: 124
 Name: PushBits
 Description: Self-hosted notification server for relaying push notifications via Matrix, similar to PushBullet and Gotify.
 Source Code: https://github.com/eikendev/pushbits
@@ -13,4 +13,4 @@ Tags:
     - Communications
 MD: '- [PushBits](https://github.com/eikendev/pushbits) - Self-hosted notification server for relaying push notifications via Matrix, similar to PushBullet and Gotify. `ISC` `Go`'
 SourceType: Github
-Line: 283
+Line: 284

@@ -1,4 +1,4 @@
-ID: 788
+ID: 791
 Name: ONLYOFFICE
 Description: Office suite that enables you to manage documents, projects, team and customer relations in one place.
 Source Code: https://github.com/ONLYOFFICE/DocumentServer
@@ -14,4 +14,4 @@ Tags:
     - Office Suites
 MD: '- [ONLYOFFICE](https://helpcenter.onlyoffice.com/faq/server-opensource.aspx) - Office suite that enables you to manage documents, projects, team and customer relations in one place. ([Source Code](https://github.com/ONLYOFFICE/DocumentServer)) `AGPL-3.0` `Nodejs`'
 SourceType: Github
-Line: 1192
+Line: 1195
