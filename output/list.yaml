@@ -1053,7 +1053,7 @@ Entries:
       SourceType: Github
       Line: 846
       stars: 10501
-      update: "2021-07-07T13:27:10Z"
+      update: "2021-07-07T17:38:44Z"
     - ID: 685
       Name: AlertHub
       Description: AlertHub is a simple tool to get alerted from GitHub releases.
@@ -1254,7 +1254,7 @@ Entries:
       MD: '- [Cachet](https://cachethq.io/) - An open source status page system for everyone. ([Demo](https://demo.cachethq.io/), [Source Code](https://github.com/CachetHQ/Cachet)) `BSD-3-Clause` `PHP`'
       SourceType: Github
       Line: 1070
-      stars: 12168
+      stars: 12167
       update: "2021-06-24T08:28:09Z"
     - ID: 119
       Name: MiAOU
@@ -1449,7 +1449,7 @@ Entries:
       MD: '- [imgproxy](https://github.com/DarthSim/imgproxy) - Fast and secure standalone server for resizing and converting remote images. It works great when you need to resize multiple images on the fly without preparing a ton of cached resized images or re-doing it every time the design changes. `MIT` `Go/Docker`'
       SourceType: Github
       Line: 1338
-      stars: 4666
+      stars: 4667
       update: "2021-07-05T03:20:03Z"
     - ID: 1093
       Name: Ansible-NAS
@@ -1468,7 +1468,7 @@ Entries:
       MD: '- [Ansible-NAS](https://github.com/DaveStephens/ansible-nas) - Build a full-featured home server with this playbook and an Ubuntu box. `MIT` `YAML/Docker`'
       SourceType: Github
       Line: 1641
-      stars: 1351
+      stars: 1352
       update: "2021-06-22T18:39:43Z"
     - ID: 484
       Name: goploader
@@ -1553,7 +1553,7 @@ Entries:
       SourceType: Github
       Line: 1374
       stars: 2549
-      update: "2021-07-07T15:55:20Z"
+      update: "2021-07-07T17:18:54Z"
     - ID: 561
       Name: egroupware
       Description: Software suite including calendars, address books, notepad, project management tools, client relationship management tools (CRM), knowledge management tools, a wiki and a CMS.
@@ -1633,7 +1633,7 @@ Entries:
       SourceType: Github
       Line: 474
       stars: 507
-      update: "2021-07-07T15:34:14Z"
+      update: "2021-07-07T17:29:27Z"
     - ID: 145
       Name: Excision Mail
       Description: Fullstack, security focused mailserver based on OpenSMTPD for OpenBSD using ansible.
@@ -1813,7 +1813,7 @@ Entries:
       MD: '- [FreshRSS](http://freshrss.org/) - Self-hostable RSS feed aggregator. ([Demo](http://demo.freshrss.org/i/), [Source Code](https://github.com/FreshRSS/FreshRSS), [Clients](https://github.com/Alkarex/EasyRSS)) `AGPL-3.0` `PHP`'
       SourceType: Github
       Line: 686
-      stars: 3331
+      stars: 3332
       update: "2021-06-30T06:34:02Z"
     - ID: 318
       Name: GetSimple CMS
@@ -1936,7 +1936,7 @@ Entries:
       SourceType: Github
       Line: 1265
       stars: 8417
-      update: "2021-07-06T22:45:50Z"
+      update: "2021-07-07T17:47:01Z"
     - ID: 139
       Name: ZeroNet
       Description: Open, free, and uncensorable websites, using Bitcoin cryptography and BitTorrent network.
@@ -1955,7 +1955,7 @@ Entries:
       MD: '- [ZeroNet](https://zeronet.io/) `⚠` - Open, free, and uncensorable websites, using Bitcoin cryptography and BitTorrent network. ([Source Code](https://github.com/HelloZeroNet/ZeroNet)) `GPL-2.0` `Python`'
       SourceType: Github
       Line: 299
-      stars: 16887
+      stars: 16886
       update: "2021-03-02T18:30:52Z"
     - ID: 664
       Name: Hellowlol HTPC Manager fork
@@ -2177,7 +2177,7 @@ Entries:
       MD: '- [TiddlyWiki](http://tiddlywiki.com/) - Reusable non-linear personal web notebook. ([Source Code](https://github.com/Jermolene/TiddlyWiki5)) `BSD-3-Clause` `Nodejs`'
       SourceType: Github
       Line: 1628
-      stars: 6121
+      stars: 6122
       update: "2021-07-07T12:32:06Z"
     - ID: 744
       Name: GRR
@@ -2216,8 +2216,8 @@ Entries:
       MD: '- [Kavita](https://kareadita.github.io/) - Cross-platform manga server and web reader with user management, ratings and reviews, and metatdata support. ([Source Code](https://github.com/Kareadita/Kavita)) `GPL-3.0` `.NET Core`'
       SourceType: Github
       Line: 654
-      stars: 109
-      update: "2021-07-07T16:35:34Z"
+      stars: 110
+      update: "2021-07-07T17:58:18Z"
     - ID: 443
       Name: Kinto
       Description: Kinto is a minimalist JSON storage service with synchronisation and sharing abilities.
@@ -2296,7 +2296,7 @@ Entries:
       SourceType: Github
       Line: 1491
       stars: 29573
-      update: "2021-07-07T16:02:22Z"
+      update: "2021-07-07T17:55:06Z"
     - ID: 75
       Name: LinkAce
       Description: A bookmark archive with automatic backups to the Internet Archive, link monitoring, and a full REST API. Installation is done via Docker, or as a simple PHP application.
@@ -2534,7 +2534,7 @@ Entries:
       MD: '- [Lychee](https://lycheeorg.github.io/) - Open source grid and album based photo-management-system. ([Source Code](https://github.com/LycheeOrg/Lychee)) `MIT` `PHP`'
       SourceType: Github
       Line: 1290
-      stars: 1003
+      stars: 1004
       update: "2021-07-06T13:55:20Z"
     - ID: 596
       Name: Mahara
@@ -2639,7 +2639,7 @@ Entries:
       SourceType: Github
       Line: 993
       stars: 1891
-      update: "2021-07-07T15:43:14Z"
+      update: "2021-07-07T17:14:28Z"
     - ID: 716
       Name: nnmm
       Description: Super tiny pastebin/url minifier _microservice_.
@@ -2762,7 +2762,7 @@ Entries:
       SourceType: Github
       Line: 463
       stars: 12005
-      update: "2021-07-07T15:42:24Z"
+      update: "2021-07-07T18:46:49Z"
     - ID: 791
       Name: ONLYOFFICE
       Description: Office suite that enables you to manage documents, projects, team and customer relations in one place.
@@ -2973,7 +2973,7 @@ Entries:
       SourceType: Github
       Line: 798
       stars: 593
-      update: "2021-07-04T11:42:48Z"
+      update: "2021-07-07T18:23:39Z"
     - ID: 366
       Name: PrestaShop
       Description: PrestaShop offers a free, open-source and fully scalable e-commerce solution.
@@ -2993,8 +2993,8 @@ Entries:
       MD: '- [PrestaShop](https://www.prestashop.com/) - PrestaShop offers a free, open-source and fully scalable e-commerce solution. ([Demo](http://demo.prestashop.com/), [Source Code](https://github.com/PrestaShop/PrestaShop)) `OSL-3.0` `PHP`'
       SourceType: Github
       Line: 602
-      stars: 5998
-      update: "2021-07-07T16:32:43Z"
+      stars: 5999
+      update: "2021-07-07T18:39:29Z"
     - ID: 829
       Name: PrivateBin
       Description: PrivateBin is a minimalist, opensource online pastebin/discussion board where the server has zero knowledge of hosted data.
@@ -3013,8 +3013,8 @@ Entries:
       MD: '- [PrivateBin](https://privatebin.info/) - PrivateBin is a minimalist, opensource online pastebin/discussion board where the server has zero knowledge of hosted data. ([Demo](https://privatebin.net/), [Source Code](https://github.com/PrivateBin/PrivateBin)) `Zlib` `PHP`'
       SourceType: Github
       Line: 1244
-      stars: 3228
-      update: "2021-06-20T06:44:38Z"
+      stars: 3229
+      update: "2021-07-07T17:25:06Z"
     - ID: 607
       Name: Open Source Routing Machine (OSRM)
       Description: High performance routing engine designed to run on OpenStreetMap data and offering an HTTP API, C++ library interface, and NodeJS wrapper.
@@ -3252,7 +3252,7 @@ Entries:
       MD: '- [Restyaboard](http://restya.com/board/) - Open source Trello-like kanban board. ([Demo](http://restya.com/board/demo.html), [Source Code](https://github.com/RestyaPlatform/board)) `OSL-3.0` `PHP`'
       SourceType: Github
       Line: 1534
-      stars: 1734
+      stars: 1735
       update: "2021-07-06T05:53:52Z"
     - ID: 126
       Name: RetroShare
@@ -3290,8 +3290,8 @@ Entries:
       MD: '- [Rocket.Chat](https://rocket.chat/) - Teamchat solution similar to Gitter.im or Slack. ([Source Code](https://github.com/RocketChat/Rocket.Chat)) `MIT` `Nodejs`'
       SourceType: Github
       Line: 287
-      stars: 30424
-      update: "2021-07-07T16:20:41Z"
+      stars: 30423
+      update: "2021-07-07T18:27:14Z"
     - ID: 11
       Name: Alltube
       Description: Web interface for [youtube-dl](https://github.com/rg3/youtube-dl), a program to download videos and audio from [more than 100 websites](https://rg3.github.io/youtube-dl/supportedsites.html).
@@ -3548,7 +3548,7 @@ Entries:
       SourceType: Github
       Line: 572
       stars: 786
-      update: "2021-07-07T14:31:29Z"
+      update: "2021-07-07T17:56:43Z"
     - ID: 920
       Name: Tania
       Description: Tania is a free and open source farming management system for everyone. You can manage your areas, reservoirs, farm tasks, inventories, and the crop growing progress.
@@ -3645,8 +3645,8 @@ Entries:
       MD: '- [Ghost](https://ghost.org/) - Just a blogging platform. ([Source Code](https://github.com/TryGhost/Ghost)) `MIT` `Nodejs`'
       SourceType: Github
       Line: 192
-      stars: 37900
-      update: "2021-07-07T16:13:08Z"
+      stars: 37903
+      update: "2021-07-07T18:11:34Z"
     - ID: 1006
       Name: Tyk
       Description: Fast and scalable open source API Gateway. Out of the box, Tyk offers an API Management Platform with an API Gateway, API Analytics, Developer Portal and API Management Dashboard.
@@ -3665,7 +3665,7 @@ Entries:
       MD: '- [Tyk](https://tyk.io) - Fast and scalable open source API Gateway. Out of the box, Tyk offers an API Management Platform with an API Gateway, API Analytics, Developer Portal and API Management Dashboard. ([Source Code](https://github.com/TykTechnologies/tyk)) `MPL-2.0` `Go`'
       SourceType: Github
       Line: 1495
-      stars: 6430
+      stars: 6431
       update: "2021-07-07T16:15:00Z"
     - ID: 46
       Name: YoutubeDL-Material
@@ -3759,7 +3759,7 @@ Entries:
       MD: '- [Personal management system](https://github.com/Volmarg/personal-management-system) - Central point for managing personal data (billings, payments, job holidays, notes etc.). ([Demo](http://personal-management-system.pl/)) `MIT` `PHP`'
       SourceType: Github
       Line: 1272
-      stars: 1827
+      stars: 1828
       update: "2021-07-03T10:43:06Z"
     - ID: 587
       Name: WebThings Gateway
@@ -3780,7 +3780,7 @@ Entries:
       SourceType: Github
       Line: 928
       stars: 2460
-      update: "2021-07-07T16:24:17Z"
+      update: "2021-07-07T16:48:32Z"
     - ID: 1015
       Name: Weblate
       Description: Web-based translation tool with tight version control integration.
@@ -3819,8 +3819,8 @@ Entries:
       MD: '- [WordPress](https://wordpress.org/) - World''s most-used blogging and CMS engine. ([Source Code](https://github.com/WordPress/WordPress)) `GPL-2.0` `PHP`'
       SourceType: Github
       Line: 576
-      stars: 15223
-      update: "2021-07-07T15:56:08Z"
+      stars: 15224
+      update: "2021-07-07T17:32:08Z"
     - ID: 1069
       Name: YOURLS
       Description: YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener. Features include password protection, URL customization, bookmarklets, statistics, API, plugins, jsonp.
@@ -3917,7 +3917,7 @@ Entries:
       MD: '- [Radium](https://github.com/Zibbp/Radium) - Synced stream and video playback with VOD capabilities utilizing HLS. Developed for movie nights but has many use cases. ([Demo](https://radium-demo.herokuapp.com)) `MIT` `Nodejs/Docker`'
       SourceType: Github
       Line: 1050
-      stars: 99
+      stars: 100
       update: "2021-06-17T08:20:35Z"
     - ID: 489
       Name: linx-server
@@ -4176,7 +4176,7 @@ Entries:
       MD: '- [Cockpit](http://getcockpit.com) - Simple Content Platform to manage any structured content. ([Source Code](https://github.com/agentejo/cockpit)) `MIT` `PHP`'
       SourceType: Github
       Line: 539
-      stars: 5032
+      stars: 5033
       update: "2021-06-14T08:36:47Z"
     - ID: 657
       Name: Polaris
@@ -4642,7 +4642,7 @@ Entries:
       SourceType: Github
       Line: 1066
       stars: 144
-      update: "2021-07-07T16:35:48Z"
+      update: "2021-07-07T18:19:45Z"
     - ID: 721
       Name: PassCheck
       Description: A web application featuring some handy password tools, including a password generator, strength checker and HaveIBeenPwned breach checker.
@@ -4786,8 +4786,8 @@ Entries:
       MD: '- [Appsmith](https://www.appsmith.com/) - Cloud or self-hosted open-source platform to build admin panels, CRUD apps and workflows. Build everything you need, 10x faster. ([Source Code](https://github.com/appsmithorg/appsmith)) `Apache-2.0` `Java/Docker`'
       SourceType: Github
       Line: 1443
-      stars: 4882
-      update: "2021-07-07T16:30:20Z"
+      stars: 4883
+      update: "2021-07-07T18:29:58Z"
     - ID: 990
       Name: Appwrite
       Description: "End to end backend server for web, native, and mobile developers \U0001F680."
@@ -4807,7 +4807,7 @@ Entries:
       MD: "- [Appwrite](https://appwrite.io) - End to end backend server for web, native, and mobile developers \U0001F680. ([Source Code](https://github.com/appwrite/appwrite)) `BSD-3-Clause` `PHP`"
       SourceType: Github
       Line: 1476
-      stars: 10056
+      stars: 10058
       update: "2021-07-07T15:00:47Z"
     - ID: 4
       Name: ArchivesSpace
@@ -4871,7 +4871,7 @@ Entries:
       SourceType: Github
       Line: 120
       stars: 156
-      update: "2021-07-07T16:26:26Z"
+      update: "2021-07-07T17:35:19Z"
     - ID: 464
       Name: peerflix-server
       Description: Downloads torrent files and provides a direct link download or a direct link stream.
@@ -5104,7 +5104,7 @@ Entries:
       SourceType: Github
       Line: 535
       stars: 794
-      update: "2021-07-04T21:57:37Z"
+      update: "2021-07-07T17:59:23Z"
     - ID: 1012
       Name: Localizer
       Description: Free self-hosted open-source crowd-translating service for your product.
@@ -5167,7 +5167,7 @@ Entries:
       SourceType: Github
       Line: 591
       stars: 3708
-      update: "2021-07-07T08:25:35Z"
+      update: "2021-07-07T16:54:30Z"
     - ID: 812
       Name: dpaste
       Description: simple pastebin with multiple text and code option, with short url result easy to remember.
@@ -5441,7 +5441,7 @@ Entries:
       SourceType: Github
       Line: 517
       stars: 6812
-      update: "2021-07-07T15:45:39Z"
+      update: "2021-07-07T18:36:13Z"
     - ID: 306
       Name: BigTree CMS
       Description: Straightforward, well documented, and capable written with PHP and MySQL.
@@ -5500,7 +5500,7 @@ Entries:
       SourceType: Github
       Line: 1204
       stars: 7959
-      update: "2021-07-07T15:08:19Z"
+      update: "2021-07-07T18:47:17Z"
     - ID: 661
       Name: Bluecherry
       Description: Closed-circuit television (CCTV) software application which supports IP and Analog cameras.
@@ -5798,7 +5798,7 @@ Entries:
       SourceType: Github
       Line: 1330
       stars: 5486
-      update: "2021-07-07T12:32:15Z"
+      update: "2021-07-07T18:46:27Z"
     - ID: 663
       Name: CyTube
       Description: CyTube is a web application providing media synchronization, chat, and more for an arbitrary number of channels.
@@ -5897,7 +5897,7 @@ Entries:
       MD: '- [Organizr](https://github.com/causefx/Organizr) - Organizr aims to be your one stop shop for your Servers Frontend. `GPL-3.0` `PHP`'
       SourceType: Github
       Line: 1271
-      stars: 3356
+      stars: 3357
       update: "2021-07-05T21:35:33Z"
     - ID: 858
       Name: Fussel
@@ -5936,8 +5936,8 @@ Entries:
       MD: '- [Code-Server](https://coder.com/) - Visual Studio Code in the browser, hosted on a remote server. ([Source Code](https://github.com/cdr/code-server)) `MIT` `Nodejs/Docker`'
       SourceType: Github
       Line: 1446
-      stars: 45657
-      update: "2021-07-07T11:02:53Z"
+      stars: 45660
+      update: "2021-07-07T18:45:23Z"
     - ID: 838
       Name: Baby Buddy
       Description: Helps caregivers track baby sleep, feedings, diaper changes, and tummy time.
@@ -5974,7 +5974,7 @@ Entries:
       MD: '- [Centrifugo](https://github.com/centrifugal/centrifugo) - Language-agnostic real-time messaging (Websocket or SockJS) server. ([Demo](https://github.com/centrifugal/centrifugo#demo)) `MIT` `Go`'
       SourceType: Github
       Line: 259
-      stars: 5129
+      stars: 5127
       update: "2021-07-07T16:31:09Z"
     - ID: 592
       Name: Chamilo LMS
@@ -6053,7 +6053,7 @@ Entries:
       SourceType: Github
       Line: 261
       stars: 9527
-      update: "2021-07-07T15:55:05Z"
+      update: "2021-07-07T17:01:37Z"
     - ID: 16
       Name: ChiefOnboarding
       Description: Employee onboarding platform that allows you to provision user accounts and create sequences with todo items, resources, text/email/Slack messages, and more! Available as a web portal and Slack bot.
@@ -6229,7 +6229,7 @@ Entries:
       SourceType: Github
       Line: 125
       stars: 3048
-      update: "2021-07-07T15:45:29Z"
+      update: "2021-07-07T17:30:02Z"
     - ID: 655
       Name: musikcube
       Description: Streaming audio server with Linux/macOS/Windows/Android clients.
@@ -6383,7 +6383,7 @@ Entries:
       MD: '- [Traefik](https://traefik.io/) - Træfɪk is a modern HTTP reverse proxy and load balancer made to deploy microservices with ease. It supports several backends (Docker, Swarm, Mesos/Marathon, …) to manage its configuration automatically and dynamically. ([Source Code](https://github.com/containous/traefik)) `MIT` `Go`'
       SourceType: Github
       Line: 1354
-      stars: 34248
+      stars: 34249
       update: "2021-07-06T14:35:09Z"
     - ID: 311
       Name: Contao
@@ -6403,7 +6403,7 @@ Entries:
       SourceType: Github
       Line: 541
       stars: 198
-      update: "2021-07-07T16:09:17Z"
+      update: "2021-07-07T17:36:01Z"
     - ID: 856
       Name: Coppermine
       Description: Multilingual photo gallery that integrates with various bulletin boards. Includes upload approval and password protected albums.
@@ -6444,7 +6444,7 @@ Entries:
       SourceType: Github
       Line: 439
       stars: 1657
-      update: "2021-07-07T15:38:38Z"
+      update: "2021-07-07T18:33:37Z"
     - ID: 378
       Name: CoreDNS
       Description: Plugin driven DNS Server with support for proxying to Google's DNS-over-HTTPS.
@@ -6462,7 +6462,7 @@ Entries:
       MD: '- [CoreDNS](https://coredns.io/) - Plugin driven DNS Server with support for proxying to Google''s DNS-over-HTTPS. ([Source Code](https://github.com/coredns/coredns)) `Apache-2.0` `Go`'
       SourceType: Github
       Line: 621
-      stars: 7843
+      stars: 7842
       update: "2021-07-06T16:41:45Z"
     - ID: 356
       Name: CoreShop
@@ -6675,8 +6675,8 @@ Entries:
       MD: '- [Vaultwarden](https://github.com/dani-garcia/vaultwarden) - Lightweight Bitwarden server API implementation written in Rust. `GPL-3.0` `Rust`'
       SourceType: Github
       Line: 1215
-      stars: 9735
-      update: "2021-07-07T16:21:07Z"
+      stars: 9738
+      update: "2021-07-07T17:55:59Z"
     - ID: 62
       Name: htmly
       Description: Databaseless Blogging Platform (Flat-File Blog).
@@ -6713,7 +6713,7 @@ Entries:
       MD: '- [Darkwire.io](https://github.com/darkwire/darkwire.io) - End-to-end encrypted instant web chat. `MIT` `Nodejs`'
       SourceType: Github
       Line: 264
-      stars: 640
+      stars: 641
       update: "2021-07-01T01:00:00Z"
     - ID: 675
       Name: Restreamer
@@ -6795,7 +6795,7 @@ Entries:
       MD: '- [Talkyard](https://www.talkyard.io/) - Create a community, where your users can suggest ideas and get questions answered. And have friendly open-ended discussions and chat (Slack/StackOverflow/Discourse/Reddit/Disqus hybrid). ([Demo](https://www.talkyard.io/forum/latest), [Source Code](https://github.com/debiki/talkyard)) `AGPL-3.0` `Scala`'
       SourceType: Github
       Line: 477
-      stars: 1280
+      stars: 1281
       update: "2021-07-07T15:20:37Z"
     - ID: 142
       Name: DebOps
@@ -6818,7 +6818,7 @@ Entries:
       SourceType: Github
       Line: 311
       stars: 783
-      update: "2021-07-07T14:51:55Z"
+      update: "2021-07-07T17:45:37Z"
     - ID: 656
       Name: Navidrome Music Streamer
       Description: Modern Music Server and Streamer, compatible with Subsonic/Airsonic.
@@ -6842,7 +6842,7 @@ Entries:
       MD: '- [Navidrome Music Streamer](https://www.navidrome.org) - Modern Music Server and Streamer, compatible with Subsonic/Airsonic. ([Demo](https://www.navidrome.org/demo), [Source Code](https://github.com/deluan/navidrome), [Clients](https://www.navidrome.org/docs/overview/#apps)) `GPL-3.0` `Go/Javascript`'
       SourceType: Github
       Line: 1027
-      stars: 1288
+      stars: 1290
       update: "2021-07-06T11:03:02Z"
     - ID: 249
       Name: Lemmy
@@ -6925,7 +6925,7 @@ Entries:
       MD: '- [KrakenD](https://www.krakend.io/) - Open source High-Performance API Gateway. ([Source Code](https://github.com/devopsfaith/krakend)) `Apache-2.0` `Go`'
       SourceType: Github
       Line: 1492
-      stars: 4295
+      stars: 4296
       update: "2021-06-17T21:57:56Z"
     - ID: 950
       Name: Lazylead
@@ -6966,7 +6966,7 @@ Entries:
       MD: '- [changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Self-hosted tool for staying up-to-date with web-site content changes. `Apache-2.0` `Python/Docker`'
       SourceType: Github
       Line: 1072
-      stars: 992
+      stars: 993
       update: "2021-07-07T02:28:44Z"
     - ID: 234
       Name: diaspora*
@@ -7089,8 +7089,8 @@ Entries:
       MD: '- [Directus](http://getdirectus.com/) - Directus is a powerful and intuitive headless CMS for managing SQL databases with custom architectures. Built around a robust and extensible API, this decoupled content management framework is perfect for websites, apps, or multi-client projects. ([Source Code](https://github.com/directus/directus)) `GPL-3.0` `PHP`'
       SourceType: Github
       Line: 543
-      stars: 11425
-      update: "2021-07-07T15:33:53Z"
+      stars: 11426
+      update: "2021-07-07T18:10:34Z"
     - ID: 235
       Name: Discourse
       Description: Advanced forum / community solution based on Ruby and JS.
@@ -7112,7 +7112,7 @@ Entries:
       SourceType: Github
       Line: 441
       stars: 33597
-      update: "2021-07-07T16:30:31Z"
+      update: "2021-07-07T18:30:30Z"
     - ID: 1072
       Name: django-wiki
       Description: 'Wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models.'
@@ -7488,7 +7488,7 @@ Entries:
       MD: '- [transfer.sh](https://transfer.sh) - Easy file sharing from the command line. ([Source Code](https://github.com/dutchcoders/transfer.sh)) `MIT` `Go`'
       SourceType: Github
       Line: 814
-      stars: 10865
+      stars: 10896
       update: "2021-07-06T17:51:40Z"
     - ID: 67
       Name: dyu bookmarks
@@ -7631,7 +7631,7 @@ Entries:
       MD: '- [Docspell](https://docspell.org) - Auto-tagging document organizer and archive. ([Source Code](https://github.com/eikek/docspell)) `GPL-3.0` `Scala/Java`'
       SourceType: Github
       Line: 631
-      stars: 384
+      stars: 385
       update: "2021-07-06T16:55:50Z"
     - ID: 500
       Name: Sharry
@@ -7689,7 +7689,7 @@ Entries:
       MD: '- [Rustpad](https://rustpad.io/) - Efficient and minimal collaborative code editor, self-hosted, no database required. ([Source Code](https://github.com/ekzhang/rustpad)) `MIT` `Rust`'
       SourceType: Github
       Line: 1197
-      stars: 1498
+      stars: 1500
       update: "2021-06-24T23:55:33Z"
     - ID: 315
       Name: eLabFTW
@@ -7977,7 +7977,7 @@ Entries:
       MD: '- [Etherpad](http://etherpad.org/) - Etherpad is a highly customizable Open Source online editor providing collaborative editing in really real-time. ([Demo](https://demo.sandstorm.io/appdemo/h37dm17aa89yrd8zuqpdn36p6zntumtv08fjpu8a8zrte7q1cn60), [Source Code](https://github.com/ether/etherpad-lite)) `Apache-2.0` `Nodejs`'
       SourceType: Github
       Line: 1193
-      stars: 11003
+      stars: 11004
       update: "2021-07-07T00:39:30Z"
     - ID: 684
       Name: "411"
@@ -8197,7 +8197,7 @@ Entries:
       MD: '- [FileGator](https://filegator.io/) - FileGator is a powerful multi-user file manager with a single page front-end. ([Demo](https://demo.filegator.io), [Source Code](https://github.com/filegator/filegator)) `MIT` `PHP`'
       SourceType: Github
       Line: 822
-      stars: 717
+      stars: 718
       update: "2021-07-05T13:35:02Z"
     - ID: 740
       Name: Firefly III
@@ -8258,7 +8258,7 @@ Entries:
       MD: '- [Flarum](http://flarum.org) - Delightfully simple forums. Flarum is the next-generation forum software that makes online discussion fun again. ([Source Code](https://github.com/flarum/flarum)) `MIT` `PHP`'
       SourceType: Github
       Line: 445
-      stars: 11665
+      stars: 11666
       update: "2021-06-28T08:33:29Z"
     - ID: 317
       Name: Flextype
@@ -8397,7 +8397,7 @@ Entries:
       SourceType: Github
       Line: 1324
       stars: 2681
-      update: "2021-07-07T12:52:04Z"
+      update: "2021-07-07T18:34:04Z"
     - ID: 296
       Name: frab
       Description: web-based conference planning and management system. It helps to collect submissions, to manage talks and speakers and to create a schedule.
@@ -8435,7 +8435,7 @@ Entries:
       MD: '- [ERPNext](https://erpnext.com) - Free open source ERP system. ([Source Code](https://github.com/frappe/erpnext)) `GPL-3.0` `Python`'
       SourceType: Github
       Line: 1375
-      stars: 9026
+      stars: 9027
       update: "2021-07-07T15:34:29Z"
     - ID: 176
       Name: Mail For Good
@@ -8555,7 +8555,7 @@ Entries:
       SourceType: Github
       Line: 414
       stars: 499
-      update: "2021-07-06T22:46:08Z"
+      update: "2021-07-07T17:32:03Z"
     - ID: 573
       Name: IceHrm
       Description: IceHrm employee management system allows companies to centralize confidential employee information.
@@ -8652,7 +8652,7 @@ Entries:
       SourceType: Github
       Line: 881
       stars: 177
-      update: "2021-07-06T23:58:38Z"
+      update: "2021-07-07T16:58:32Z"
     - ID: 768
       Name: Markdown Edit
       Description: Online markdown editor/viewer.
@@ -8692,7 +8692,7 @@ Entries:
       SourceType: Github
       Line: 986
       stars: 751
-      update: "2021-07-07T16:32:17Z"
+      update: "2021-07-07T17:25:45Z"
     - ID: 883
       Name: Fider
       Description: Open source alternative to UserVoice for customer feedback.
@@ -8733,7 +8733,7 @@ Entries:
       SourceType: Github
       Line: 1567
       stars: 28453
-      update: "2021-07-07T16:27:17Z"
+      update: "2021-07-07T18:46:12Z"
     - ID: 928
       Name: Gigablast
       Description: open source search engine.
@@ -8893,7 +8893,7 @@ Entries:
       SourceType: Github
       Line: 1407
       stars: 25326
-      update: "2021-07-07T15:27:29Z"
+      update: "2021-07-07T18:26:43Z"
     - ID: 790
       Name: Infinoted
       Description: Server for [Gobby](https://github.com/gobby/gobby/wiki), a multi-platform collaborative text editor.
@@ -8932,7 +8932,7 @@ Entries:
       MD: '- [Gogs](https://gogs.io/) - Painless self-hosted Git Service written in Go. ([Demo](https://try.gogs.io/), [Source Code](https://github.com/gogits/gogs)) `MIT` `Go`'
       SourceType: Github
       Line: 1413
-      stars: 37282
+      stars: 37283
       update: "2021-06-17T13:17:55Z"
     - ID: 1076
       Name: Gollum
@@ -9217,7 +9217,7 @@ Entries:
       MD: '- [revealjs](https://revealjs.com) - Framework for easily creating beautiful presentations using HTML. ([Demo](https://revealjs.com/), [Source Code](https://github.com/hakimel/reveal.js)) `MIT` `Javascript`'
       SourceType: Github
       Line: 1103
-      stars: 56697
+      stars: 56696
       update: "2021-07-06T20:05:21Z"
     - ID: 1007
       Name: Docstore
@@ -9297,7 +9297,7 @@ Entries:
       MD: '- [Hasura](https://hasura.io) - Fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events. ([Source Code](https://github.com/hasura/graphql-engine)) `Apache-2.0` `Haskell`'
       SourceType: Github
       Line: 1489
-      stars: 23409
+      stars: 23410
       update: "2021-07-07T11:59:36Z"
     - ID: 486
       Name: imgpush
@@ -9379,7 +9379,7 @@ Entries:
       MD: '- [SparkleShare](http://sparkleshare.org/) - Self hosted, instant, secure file sync. ([Source Code](https://github.com/hbons/SparkleShare)) `GPL-3.0` `C#`'
       SourceType: Github
       Line: 745
-      stars: 4590
+      stars: 4591
       update: "2021-05-21T14:34:57Z"
     - ID: 22
       Name: Healthchecks
@@ -9419,7 +9419,7 @@ Entries:
       SourceType: Github
       Line: 1164
       stars: 2078
-      update: "2021-07-07T12:55:11Z"
+      update: "2021-07-07T18:18:15Z"
     - ID: 1043
       Name: Helpy
       Description: Helpy is a modern, open source helpdesk customer support application. Features include knowledgebase, community discussions and support tickets integrated with email.
@@ -9537,7 +9537,7 @@ Entries:
       SourceType: Github
       Line: 922
       stars: 44434
-      update: "2021-07-07T16:28:57Z"
+      update: "2021-07-07T18:46:05Z"
     - ID: 1001
       Name: Hoppscotch
       Description: A free, fast and beautiful API request builder.
@@ -9556,7 +9556,7 @@ Entries:
       MD: '- [Hoppscotch](https://hoppscotch.io) - A free, fast and beautiful API request builder. ([Source Code](https://github.com/hoppscotch/hoppscotch)) `MIT` `Nodejs/Vue/Nuxt`'
       SourceType: Github
       Line: 1490
-      stars: 29809
+      stars: 29811
       update: "2021-07-07T01:01:01Z"
     - ID: 7
       Name: Horahora
@@ -9575,7 +9575,7 @@ Entries:
       MD: '- [Horahora](https://github.com/horahoradev/horahora) - Video hosting website and video archival manager for Niconico, Bilibili, and Youtube. `MIT` `Go`'
       SourceType: Github
       Line: 126
-      stars: 141
+      stars: 142
       update: "2021-07-07T06:10:19Z"
     - ID: 563
       Name: Horde
@@ -9835,7 +9835,7 @@ Entries:
       SourceType: Github
       Line: 520
       stars: 1207
-      update: "2021-07-07T14:32:44Z"
+      update: "2021-07-07T17:18:14Z"
     - ID: 600
       Name: RELATE
       Description: 'RELATE is a web-based courseware package, includes features such as: flexible rules, statistics, multi-course support, class calendar.'
@@ -9936,7 +9936,7 @@ Entries:
       SourceType: Github
       Line: 942
       stars: 3991
-      update: "2021-07-07T16:29:12Z"
+      update: "2021-07-07T18:47:21Z"
     - ID: 746
       Name: Inventaire
       Description: Collaborative resources mapper project, while yet only focused on exploring books mapping with wikidata and ISBNs.
@@ -10297,7 +10297,7 @@ Entries:
       MD: '- [Nginx Proxy Manager](https://nginxproxymanager.com/) - Nginx Proxy Manager is an easy way to accomplish reverse proxying hosts with SSL termination. ([Source Code](https://github.com/jc21/nginx-proxy-manager)) `MIT` `Nodejs/Docker`'
       SourceType: Github
       Line: 1342
-      stars: 3806
+      stars: 3808
       update: "2021-07-07T07:50:00Z"
     - ID: 290
       Name: Converse.js
@@ -10514,7 +10514,7 @@ Entries:
       MD: '- [Jina](https://github.com/jina-ai/jina/) - Cloud-native neural search framework for any kind of data. `MIT` `Python`'
       SourceType: Github
       Line: 1387
-      stars: 7417
+      stars: 7418
       update: "2021-07-07T15:22:28Z"
     - ID: 111
       Name: Jitsi Meet
@@ -10534,7 +10534,7 @@ Entries:
       SourceType: Github
       Line: 271
       stars: 16402
-      update: "2021-07-07T16:21:51Z"
+      update: "2021-07-07T18:27:46Z"
     - ID: 112
       Name: Jitsi Video Bridge
       Description: WebRTC compatible Selective Forwarding Unit (SFU) that allows for multiuser video communication.
@@ -10645,7 +10645,7 @@ Entries:
       MD: '- [Paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A fork of paperless, adding a new interface and many other changes under the hood. Scan, index, and archive all of your paper documents. `GPL-3.0` `Python`'
       SourceType: Github
       Line: 637
-      stars: 1672
+      stars: 1673
       update: "2021-07-05T11:17:51Z"
     - ID: 68
       Name: Espial
@@ -10863,8 +10863,8 @@ Entries:
       MD: '- [JupyterLab](http://jupyterlab.github.io/jupyterlab/) - Web-based environment for interactive and reproducible computing. ([Demo](https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/try.jupyter.org?urlpath=lab), [Source Code](https://github.com/jupyterlab/jupyterlab/)) `BSD-3-Clause` `Python/Docker`'
       SourceType: Github
       Line: 1454
-      stars: 11196
-      update: "2021-07-07T16:28:13Z"
+      stars: 11195
+      update: "2021-07-07T16:46:22Z"
     - ID: 174
       Name: Dada Mail
       Description: Web-based list management system that can be used for announcement lists and/or discussion lists.
@@ -11188,7 +11188,7 @@ Entries:
       MD: '- [KeystoneJS](http://keystonejs.com/) - CMS and Web Application Platform. ([Demo](http://demo.keystonejs.com/), [Source Code](https://github.com/keystonejs/keystone)) `MIT` `Nodejs`'
       SourceType: Github
       Line: 550
-      stars: 4217
+      stars: 4218
       update: "2021-07-07T13:25:56Z"
     - ID: 198
       Name: Dispatch
@@ -11248,7 +11248,7 @@ Entries:
       MD: '- [TaskBoard](http://taskboard.matthewross.me/) - Kanban-inspired app for keeping track of things that need to get done. ([Demo](https://taskboard.matthewross.me/demo.html), [Source Code](https://github.com/kiswa/TaskBoard)) `MIT` `PHP`'
       SourceType: Github
       Line: 1536
-      stars: 1219
+      stars: 1220
       update: "2021-05-26T14:40:40Z"
     - ID: 199
       Name: Kiwi IRC
@@ -11568,8 +11568,8 @@ Entries:
       MD: '- [Joplin](https://joplinapp.org/) - Joplin is a note taking application with Markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through self hosted Nextcloud or similar. Consider it like open source alternative to Evernote. ([Source Code](https://github.com/laurent22/joplin)) `MIT` `Nodejs`'
       SourceType: Github
       Line: 1165
-      stars: 24083
-      update: "2021-07-07T12:44:45Z"
+      stars: 24084
+      update: "2021-07-07T17:38:18Z"
     - ID: 624
       Name: LBRY
       Description: Is a secure, open, and community-run digital marketplace that aims to replace Youtube and Amazon.
@@ -11846,7 +11846,7 @@ Entries:
       MD: '- [GateOne](http://liftoffsoftware.com/Products/GateOne) - Gate One is an HTML5 web-based terminal emulator and SSH client. ([Source Code](https://github.com/liftoff/GateOne)) `AGPL-3.0` `Python`'
       SourceType: Github
       Line: 867
-      stars: 5996
+      stars: 5995
       update: "2021-01-01T22:22:13Z"
     - ID: 844
       Name: Heimdall
@@ -11885,7 +11885,7 @@ Entries:
       MD: '- [Dashy](https://github.com/lissy93/dashy) - Feature-rich homepage for your homelab, with easy YAML configuration. ([Demo](https://dashy-demo-2.as93.net)) `MIT` `Nodejs/Docker`'
       SourceType: Github
       Line: 1263
-      stars: 203
+      stars: 204
       update: "2021-07-06T19:21:39Z"
     - ID: 993
       Name: LocalStack
@@ -11907,7 +11907,7 @@ Entries:
       SourceType: Github
       Line: 1479
       stars: 31092
-      update: "2021-07-07T08:59:34Z"
+      update: "2021-07-07T18:14:17Z"
     - ID: 251
       Name: Loomio
       Description: Loomio is a collaborative decision-making tool that makes it easy for anyone to participate in decisions which affect them.
@@ -12044,7 +12044,7 @@ Entries:
       MD: '- [pasty](https://github.com/lus/pasty) - Pasty is a fast and lightweight code pasting server. ([Demo](https://pasty.lus.pm/)) `MIT` `Go`'
       SourceType: Github
       Line: 1242
-      stars: 43
+      stars: 46
       update: "2021-06-28T16:35:46Z"
     - ID: 760
       Name: DailyNotes
@@ -12141,8 +12141,8 @@ Entries:
       MD: '- [Magento](https://magento.com/) - Leading provider of open omnichannel innovation. ([Demo](https://magento.com/schedule-a-demo), [Source Code](https://github.com/magento/magento2)) `OSL-3.0` `PHP`'
       SourceType: Github
       Line: 594
-      stars: 9517
-      update: "2021-07-07T13:19:20Z"
+      stars: 9518
+      update: "2021-07-07T18:25:30Z"
     - ID: 834
       Name: SocksBin
       Description: Simple and fast terminal based pastebin, with optional code highlighting. No specific client required, all you need is netcat.
@@ -12243,7 +12243,7 @@ Entries:
       SourceType: Github
       Line: 318
       stars: 4107
-      update: "2021-07-07T15:55:22Z"
+      update: "2021-07-07T18:28:29Z"
     - ID: 164
       Name: MailHog
       Description: Small Golang executable which runs an SMTP MTA gateway that accepts all mail and displays in web interface. Useful for debugging or development.
@@ -12464,8 +12464,8 @@ Entries:
       MD: '- [Synapse](http://matrix.org/docs/projects/server/synapse.html) - Server for [Matrix](https://matrix.org/), an open standard for decentralized persistent communication. ([Source Code](https://github.com/matrix-org/synapse)) `Apache-2.0` `Python`'
       SourceType: Github
       Line: 291
-      stars: 8067
-      update: "2021-07-07T14:59:14Z"
+      stars: 8065
+      update: "2021-07-07T17:46:05Z"
     - ID: 1017
       Name: Focalboard
       Description: An open source, self-hosted alternative to Trello, Notion, and Asana. It helps define, organize, track and manage work across individuals and teams.
@@ -12509,7 +12509,7 @@ Entries:
       MD: '- [Mattermost](http://www.mattermost.org/) - Open-source, on-prem Slack-alternative. It can be integrated with Gitlab. ([Source Code](https://github.com/mattermost/mattermost-server)) `AGPL-3.0/Apache-2.0` `Go`'
       SourceType: Github
       Line: 278
-      stars: 20580
+      stars: 20581
       update: "2021-07-07T16:17:47Z"
     - ID: 417
       Name: Moonmoon
@@ -12551,8 +12551,8 @@ Entries:
       MD: '- [Mautic](https://www.mautic.org/) - Mautic is marketing automation software (email, social and more). ([Source Code](https://github.com/mautic/mautic)) `GPL-3.0` `PHP`'
       SourceType: Github
       Line: 364
-      stars: 4612
-      update: "2021-07-07T15:27:11Z"
+      stars: 4613
+      update: "2021-07-07T17:37:14Z"
     - ID: 1020
       Name: myTinyTodo
       Description: Simple way to manage your todo list in AJAX style. Uses PHP, jQuery, SQLite/MySQL. GTD compliant.
@@ -12652,7 +12652,7 @@ Entries:
       SourceType: Github
       Line: 1388
       stars: 14852
-      update: "2021-07-07T16:26:01Z"
+      update: "2021-07-07T18:08:07Z"
     - ID: 991
       Name: fx
       Description: fx is a tool to help you do Function as a Service with painless on your own servers.
@@ -12771,7 +12771,7 @@ Entries:
       SourceType: Github
       Line: 595
       stars: 2058
-      update: "2021-07-07T15:50:45Z"
+      update: "2021-07-07T17:50:28Z"
     - ID: 275
       Name: twister
       Description: Fully decentralized P2P microblogging platform leveraging the free software implementations of Bitcoin and BitTorrent protocols.
@@ -12867,7 +12867,7 @@ Entries:
       MD: '- [MindsDB](https://github.com/mindsdb/mindsdb) - MindsDB is an open source self hosted AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries. `GPL-3.0` `Python`'
       SourceType: Github
       Line: 1091
-      stars: 3785
+      stars: 3786
       update: "2021-07-07T14:30:47Z"
     - ID: 531
       Name: Minetest
@@ -12889,7 +12889,7 @@ Entries:
       SourceType: Github
       Line: 847
       stars: 6074
-      update: "2021-07-07T16:33:23Z"
+      update: "2021-07-07T18:02:38Z"
     - ID: 418
       Name: Miniflux
       Description: Miniflux 2 is a minimalist and open source news reader, written in Go and PostgreSQL.
@@ -12969,8 +12969,8 @@ Entries:
       MD: '- [Saleor](http://getsaleor.com/) - Django based open-sourced e-commerce storefront. ([Demo](https://demo.getsaleor.com/), [Source Code](https://github.com/mirumee/saleor)) `BSD-3-Clause` `Python`'
       SourceType: Github
       Line: 605
-      stars: 12793
-      update: "2021-07-07T15:28:18Z"
+      stars: 12796
+      update: "2021-07-07T18:08:13Z"
     - ID: 518
       Name: IFM
       Description: Single script file manager.
@@ -13185,7 +13185,7 @@ Entries:
       MD: '- [Movim](https://movim.eu/) - Modern, federated social network based on XMPP, with a fully featured group-chat, subscriptions and microblogging. ([Source Code](https://github.com/movim/movim)) `AGPL-3.0` `PHP`'
       SourceType: Github
       Line: 461
-      stars: 1234
+      stars: 1233
       update: "2021-07-04T11:14:19Z"
     - ID: 70
       Name: Firefox Sync Server
@@ -13224,7 +13224,7 @@ Entries:
       SourceType: Github
       Line: 208
       stars: 352
-      update: "2021-07-07T16:24:14Z"
+      update: "2021-07-07T17:26:27Z"
     - ID: 820
       Name: LogPaste
       Description: Minimal pastebin web app that's easy to self-host and persists data to any S3-compatible backend.
@@ -13260,7 +13260,7 @@ Entries:
       MD: '- [Beehive](https://github.com/muesli/beehive) - Flexible event and agent system, which allows you to create your own agents that perform automated tasks triggered by events and filters. `AGPL-3.0` `Go`'
       SourceType: Github
       Line: 140
-      stars: 5083
+      stars: 5084
       update: "2021-06-13T10:57:00Z"
     - ID: 975
       Name: Hakatime
@@ -13320,7 +13320,7 @@ Entries:
       MD: '- [Mumble](https://wiki.mumble.info/wiki/Main_Page) - Low-latency, high quality voice/text chat software. ([Source Code](https://github.com/mumble-voip/mumble), [Clients](https://wiki.mumble.info/wiki/3rd_Party_Applications)) `BSD-3-Clause` `C++`'
       SourceType: Github
       Line: 281
-      stars: 4175
+      stars: 4174
       update: "2021-07-07T10:08:44Z"
     - ID: 256
       Name: MyBB
@@ -13573,8 +13573,8 @@ Entries:
       MD: '- [Nextcloud](https://nextcloud.com/) - Access and share your files, calendars, contacts, mail and [more](https://apps.nextcloud.com/) from any device, on your terms. ([Demo](https://demo.nextcloud.com/), [Source Code](https://github.com/nextcloud/server)) `AGPL-3.0` `PHP`'
       SourceType: Github
       Line: 739
-      stars: 14515
-      update: "2021-07-07T16:03:24Z"
+      stars: 14516
+      update: "2021-07-07T17:58:19Z"
     - ID: 822
       Name: MokinToken
       Description: Clientside encrypted pastebin using tweetnacl.
@@ -13808,7 +13808,7 @@ Entries:
       SourceType: Github
       Line: 804
       stars: 395
-      update: "2021-07-07T15:53:25Z"
+      update: "2021-07-07T18:23:54Z"
     - ID: 196
       Name: Convos
       Description: Always online web IRC client.
@@ -14060,8 +14060,8 @@ Entries:
       MD: '- [Odoo](http://odoo.com) - Free open source ERP system. ([Demo](https://demo.odoo.com/), [Source Code](https://github.com/odoo/odoo)) `LGPL-3.0` `Python`'
       SourceType: Github
       Line: 1377
-      stars: 21774
-      update: "2021-07-07T16:36:17Z"
+      stars: 21775
+      update: "2021-07-07T18:37:49Z"
     - ID: 665
       Name: Invidious
       Description: '`⚠` Invidious is an alternative front-end to YouTube.'
@@ -14119,7 +14119,7 @@ Entries:
       MD: '- [My Mind](https://github.com/ondras/my-mind) - Web application for creating and managing mind maps. ([Demo](https://my-mind.github.io/?url=examples%2Ffeatures.mymind)) `MIT` `Javascript`'
       SourceType: Github
       Line: 935
-      stars: 2718
+      stars: 2719
       update: "2021-05-21T04:50:11Z"
     - ID: 549
       Name: oneye
@@ -14277,7 +14277,7 @@ Entries:
       MD: '- [OpenFaaS](https://www.openfaas.com/) - Serverless Functions Made Simple for Docker & Kubernetes. ([Source Code](https://github.com/openfaas/faas)) `MIT` `Go`'
       SourceType: Github
       Line: 1480
-      stars: 20021
+      stars: 20022
       update: "2021-07-06T10:26:28Z"
     - ID: 365
       Name: Open Food Network
@@ -14298,7 +14298,7 @@ Entries:
       SourceType: Github
       Line: 601
       stars: 728
-      update: "2021-07-07T15:51:55Z"
+      update: "2021-07-07T17:42:33Z"
     - ID: 583
       Name: openHAB
       Description: Vendor and technology agnostic open source software for home automation.
@@ -14336,7 +14336,7 @@ Entries:
       MD: '- [OpenMediaVault](http://www.openmediavault.org/) - OpenMediaVault is the next generation network attached storage (NAS) solution based on Debian Linux. It contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more. ([Source Code](https://github.com/openmediavault/openmediavault)) `GPL-3.0` `PHP`'
       SourceType: Github
       Line: 1651
-      stars: 2355
+      stars: 2357
       update: "2021-07-06T16:14:01Z"
     - ID: 584
       Name: OpenRemote
@@ -14522,8 +14522,8 @@ Entries:
       MD: '- [OpenProject](https://www.openproject.org) - OpenProject is a web-based project management system. ([Source Code](https://github.com/opf/openproject)) `GPL-3.0` `Ruby`'
       SourceType: Github
       Line: 1421
-      stars: 4965
-      update: "2021-07-07T16:33:23Z"
+      stars: 4966
+      update: "2021-07-07T16:57:52Z"
     - ID: 719
       Name: Orchest
       Description: A new kind of IDE for Data Science.
@@ -14543,7 +14543,7 @@ Entries:
       MD: '- [Orchest](https://www.orchest.io/) - A new kind of IDE for Data Science. ([Demo](https://cloud.orchest.io), [Source Code](https://github.com/orchest/orchest)) `AGPL-3.0` `Docker`'
       SourceType: Github
       Line: 1098
-      stars: 1189
+      stars: 1190
       update: "2021-07-07T15:09:43Z"
     - ID: 529
       Name: Lila
@@ -14563,7 +14563,7 @@ Entries:
       SourceType: Github
       Line: 845
       stars: 9679
-      update: "2021-07-07T16:21:46Z"
+      update: "2021-07-07T18:00:44Z"
     - ID: 281
       Name: jackal
       Description: XMPP server with focus on stability, simple configuration and low resource consumption.
@@ -14641,7 +14641,7 @@ Entries:
       SourceType: Github
       Line: 1623
       stars: 11858
-      update: "2021-07-07T15:32:30Z"
+      update: "2021-07-07T17:56:08Z"
     - ID: 776
       Name: Overleaf
       Description: Web-based collaborative LaTeX editor.
@@ -14799,7 +14799,7 @@ Entries:
       MD: '- [Paperwork](https://paperwork.cloud) - OpenSource note-taking and archiving alternative to Evernote, Microsoft OneNote and Google Keep. ([Source Code](https://github.com/paperwork/paperwork)) `MIT` `PHP`'
       SourceType: Github
       Line: 1176
-      stars: 7756
+      stars: 7757
       update: "2020-07-11T17:57:12Z"
     - ID: 754
       Name: PartKeepr
@@ -14976,7 +14976,7 @@ Entries:
       MD: '- [koel](http://koel.phanan.net/) - Personal music streaming server that works. ([Source Code](https://github.com/phanan/koel)) `MIT` `PHP`'
       SourceType: Github
       Line: 1014
-      stars: 12651
+      stars: 12652
       update: "2021-07-03T09:13:24Z"
     - ID: 839
       Name: Dashboard
@@ -15091,7 +15091,7 @@ Entries:
       MD: '- [phpBB](https://www.phpbb.com/) - Flat-forum bulletin board software solution that can be used to stay in touch with a group of people or can power your entire website. ([Source Code](https://github.com/phpbb/phpbb)) `GPL-2.0` `PHP`'
       SourceType: Github
       Line: 468
-      stars: 1438
+      stars: 1439
       update: "2021-07-06T21:45:25Z"
     - ID: 327
       Name: Pico
@@ -15110,7 +15110,7 @@ Entries:
       MD: '- [Pico](http://picocms.org/) - Stupidly simple, blazing fast, flat file CMS. ([Source Code](https://github.com/picocms/Pico)) `MIT` `PHP`'
       SourceType: Github
       Line: 557
-      stars: 3434
+      stars: 3435
       update: "2021-06-21T18:45:31Z"
     - ID: 1038
       Name: Bumpy Booby
@@ -15149,7 +15149,7 @@ Entries:
       SourceType: Github
       Line: 698
       stars: 333
-      update: "2021-07-07T13:38:53Z"
+      update: "2021-07-07T18:35:13Z"
     - ID: 328
       Name: Pimcore
       Description: Multi-Channel Experience and Engagement Management Platform.
@@ -15248,7 +15248,7 @@ Entries:
       MD: '- [ArchiveBox](https://archivebox.io/) - Self-hosted _wayback machine_ that creates HTML & screenshot archives of sites from your bookmarks, browsing history, RSS feeds, or other sources. ([Source Code](https://github.com/pirate/bookmark-archiver)) `MIT` `Python`'
       SourceType: Github
       Line: 122
-      stars: 9589
+      stars: 9590
       update: "2021-07-07T10:55:10Z"
     - ID: 263
       Name: PixelFed
@@ -15327,7 +15327,7 @@ Entries:
       MD: '- [Planka](https://planka.app/) - Open source Trello alternative. ([Demo](https://plankanban.github.io/planka/#/), [Source Code](https://github.com/plankanban/planka)) `MIT` `Nodejs`'
       SourceType: Github
       Line: 1533
-      stars: 1141
+      stars: 1142
       update: "2021-07-05T07:57:24Z"
     - ID: 516
       Name: Gossa
@@ -15462,7 +15462,7 @@ Entries:
       MD: '- [Isso](http://posativ.org/isso/) - Lightweight commenting server written in Python and Javascript. It aims to be a drop-in replacement for Disqus. ([Source Code](https://github.com/posativ/isso)) `MIT` `Python`'
       SourceType: Github
       Line: 454
-      stars: 4394
+      stars: 4393
       update: "2021-07-06T02:20:43Z"
     - ID: 301
       Name: pretalx
@@ -15520,8 +15520,8 @@ Entries:
       MD: '- [ejabberd](https://www.ejabberd.im/) - XMPP instant messaging server. ([Source Code](https://github.com/processone/ejabberd)) `GPL-2.0` `Erlang`'
       SourceType: Github
       Line: 495
-      stars: 4910
-      update: "2021-07-07T15:55:09Z"
+      stars: 4911
+      update: "2021-07-07T17:07:21Z"
     - ID: 147
       Name: homebox
       Description: Suite of Ansible scripts to deploy a fully functional mail server on Debian. Unobtrusive and automatic as much as possible, focusing on stability and security.
@@ -15778,8 +15778,8 @@ Entries:
       MD: '- [Apostrophe](http://apostrophecms.org/) - Node.js CMS with a focus on extensible in-context editing tools. ([Demo](http://demo.apostrophecms.org/), [Source Code](https://github.com/punkave/apostrophe)) `MIT` `Nodejs`'
       SourceType: Github
       Line: 533
-      stars: 3639
-      update: "2021-07-07T15:26:38Z"
+      stars: 3640
+      update: "2021-07-07T17:05:56Z"
     - ID: 448
       Name: Pydio
       Description: Turn any web server into a powerful file management system and an alternative to mainstream cloud storage providers.
@@ -16154,7 +16154,7 @@ Entries:
       SourceType: Github
       Line: 987
       stars: 602
-      update: "2021-07-06T16:02:37Z"
+      update: "2021-07-07T16:51:57Z"
     - ID: 840
       Name: DashMachine
       Description: Another web application bookmark dashboard, with fun features.
@@ -16374,8 +16374,8 @@ Entries:
       MD: '- [RStudio Server](https://www.rstudio.com/products/rstudio/#Server) - Web browser based IDE for R. ([Source Code](https://github.com/rstudio/rstudio)) `AGPL-3.0` `Java/C++`'
       SourceType: Github
       Line: 1458
-      stars: 3675
-      update: "2021-07-07T16:30:54Z"
+      stars: 3676
+      update: "2021-07-07T17:53:08Z"
     - ID: 1010
       Name: Read the Docs
       Description: Host documentation, making it fully searchable and easy to find; import your docs using any major version control system, including Mercurial, Git, Subversion, and Bazaar.
@@ -16558,8 +16558,8 @@ Entries:
       MD: '- [Sakai](https://www.sakaiproject.org/) - The Sakai project provides a flexible and feature-rich environment for teaching, learning, research and other collaboration. ([Demo](https://www.sakaiproject.org/try-sakai), [Source Code](https://github.com/sakaiproject/sakai)) `ECL-2.0` `Java`'
       SourceType: Github
       Line: 953
-      stars: 764
-      update: "2021-07-07T13:34:37Z"
+      stars: 765
+      update: "2021-07-07T17:06:28Z"
     - ID: 569
       Name: SuiteCRM
       Description: The award-winning, enterprise-class open source CRM.
@@ -16616,7 +16616,7 @@ Entries:
       SourceType: Github
       Line: 694
       stars: 5775
-      update: "2021-07-06T14:43:08Z"
+      update: "2021-07-07T17:09:30Z"
     - ID: 408
       Name: Samvera Hyrax
       Description: Front-end for the Samvera framework, which itself is a Ruby on Rails application for browsing and managing Fedora-based digital repositories.
@@ -16755,7 +16755,7 @@ Entries:
       SourceType: Github
       Line: 773
       stars: 1214
-      update: "2021-07-07T13:02:16Z"
+      update: "2021-07-07T17:39:51Z"
     - ID: 1071
       Name: Cowyo
       Description: Cowyo is a feature-rich wiki for minimalists.
@@ -16794,7 +16794,7 @@ Entries:
       SourceType: Github
       Line: 1429
       stars: 58
-      update: "2021-07-07T14:27:03Z"
+      update: "2021-07-07T17:35:30Z"
     - ID: 115
       Name: Lets-Chat
       Description: Self hosted chat suite written in Node.
@@ -17046,7 +17046,7 @@ Entries:
       SourceType: Github
       Line: 872
       stars: 747
-      update: "2021-07-07T00:25:52Z"
+      update: "2021-07-07T17:00:10Z"
     - ID: 779
       Name: savepad
       Description: Minimalist notepad based on notepad.cc.
@@ -17106,7 +17106,7 @@ Entries:
       MD: '- [Shopware Community Edition](https://shopware.com/community/) - PHP based open source e-commerce software made in Germany. ([Demo](https://www.shopware.com/en/test-demo/), [Source Code](https://github.com/shopware/platform)) `MIT` `PHP`'
       SourceType: Github
       Line: 607
-      stars: 1402
+      stars: 1403
       update: "2021-07-07T15:35:43Z"
     - ID: 370
       Name: Shuup
@@ -17127,7 +17127,7 @@ Entries:
       SourceType: Github
       Line: 606
       stars: 1636
-      update: "2021-07-07T16:12:34Z"
+      update: "2021-07-07T18:46:47Z"
     - ID: 336
       Name: SilverStripe
       Description: Easy to use CMS with powerful MVC framework underlying.
@@ -17307,7 +17307,7 @@ Entries:
       MD: '- [linkding](https://github.com/sissbruecker/linkding) - Minimal bookmark management with a fast and clean UI. Simple installation through Docker and can run on your Raspberry Pi. ([Demo](https://demo.linkding.link/)) `MIT` `Docker/Python/Nodejs`'
       SourceType: Github
       Line: 213
-      stars: 760
+      stars: 761
       update: "2021-06-22T11:58:25Z"
     - ID: 1051
       Name: SIT
@@ -17346,7 +17346,7 @@ Entries:
       MD: '- [Gitolite](http://gitolite.com/gitolite/index.html) - Gitolite allows you to setup git hosting on a central server, with fine-grained access control and many more powerful features. ([Source Code](https://github.com/sitaramc/gitolite)) `GPL-2.0` `Perl`'
       SourceType: Github
       Line: 1410
-      stars: 7928
+      stars: 7929
       update: "2021-02-12T15:53:27Z"
     - ID: 41
       Name: SiteInspector
@@ -17605,8 +17605,8 @@ Entries:
       MD: '- [sourcegraph](https://sourcegraph.com) - Sourcegraph is a fast, open-source, fully-featured code search and navigation engine written in Go. ([Source Code](https://github.com/sourcegraph/sourcegraph)) `Apache-2.0` `Go`'
       SourceType: Github
       Line: 1460
-      stars: 4824
-      update: "2021-07-07T16:18:09Z"
+      stars: 4825
+      update: "2021-07-07T18:39:13Z"
     - ID: 1105
       Name: sovereign
       Description: 'Set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.'
@@ -17685,7 +17685,7 @@ Entries:
       MD: '- [Libreddit](https://libredd.it/) `⚠` - Private front-end for Reddit written in Rust. ([Source Code](https://github.com/spikecodes/libreddit)) `AGPL-3.0` `Rust`'
       SourceType: Github
       Line: 456
-      stars: 738
+      stars: 739
       update: "2021-07-07T00:08:02Z"
     - ID: 750
       Name: IHateMoney
@@ -17747,7 +17747,7 @@ Entries:
       SourceType: Github
       Line: 609
       stars: 11297
-      update: "2021-07-07T13:27:52Z"
+      update: "2021-07-07T16:54:25Z"
     - ID: 1063
       Name: schort
       Description: No login, no javascript, just short links.
@@ -17843,7 +17843,7 @@ Entries:
       MD: '- [Strapi](https://strapi.io/) - The most advanced open-source Content Management Framework (headless-CMS) to build powerful API with no effort. ([Source Code](https://github.com/strapi/strapi)) `MIT` `Nodejs`'
       SourceType: Github
       Line: 569
-      stars: 37505
+      stars: 37508
       update: "2021-07-07T16:04:44Z"
     - ID: 678
       Name: Streama
@@ -18001,7 +18001,7 @@ Entries:
       SourceType: Github
       Line: 1654
       stars: 273
-      update: "2021-07-01T20:44:54Z"
+      update: "2021-07-07T17:16:59Z"
     - ID: 453
       Name: Syncthing
       Description: Syncthing is an open source peer-to-peer file synchronisation tool.
@@ -18021,7 +18021,7 @@ Entries:
       MD: '- [Syncthing](https://syncthing.net/) - Syncthing is an open source peer-to-peer file synchronisation tool. ([Source Code](https://github.com/syncthing/syncthing)) `MPL-2.0` `Go`'
       SourceType: Github
       Line: 747
-      stars: 39139
+      stars: 39141
       update: "2021-07-07T05:45:29Z"
     - ID: 254
       Name: Misskey
@@ -18431,7 +18431,7 @@ Entries:
       MD: '- [Thingsboard](https://thingsboard.io/) - Open-source IoT Platform - Device management, data collection, processing and visualization. ([Demo](https://demo.thingsboard.io/signup), [Source Code](https://github.com/thingsboard/thingsboard)) `Apache-2.0` `Java`'
       SourceType: Github
       Line: 926
-      stars: 8845
+      stars: 8846
       update: "2021-07-07T15:25:16Z"
     - ID: 316
       Name: Expressa
@@ -18572,7 +18572,7 @@ Entries:
       MD: '- [Tinode](https://github.com/tinode) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots. ([Demo](https://sandbox.tinode.co/), [Source Code](https://github.com/tinode/chat), [Clients](https://github.com/tinode/webapp)) `GPL-3.0` `Go`'
       SourceType: Github
       Line: 296
-      stars: 5516
+      stars: 5517
       update: "2021-07-04T17:36:35Z"
     - ID: 913
       Name: Tinyproxy
@@ -18647,7 +18647,7 @@ Entries:
       MD: '- [docker-mailserver](https://github.com/tomav/docker-mailserver) - Fullstack but simple mail server (smtp, imap, antispam, antivirus, etc.). Only configuration files, no SQL database. Keep it simple and versioned. Easy to deploy and upgrade. `MIT` `Docker`'
       SourceType: Github
       Line: 312
-      stars: 7410
+      stars: 7411
       update: "2021-07-07T10:59:30Z"
     - ID: 846
       Name: Homepage
@@ -18749,7 +18749,7 @@ Entries:
       SourceType: Github
       Line: 458
       stars: 24408
-      update: "2021-07-07T15:40:39Z"
+      update: "2021-07-07T18:29:37Z"
     - ID: 616
       Name: Traccar
       Description: Java application to track GPS positions. Supports loads of tracking devices and protocols, has an Android and iOS App. Has a web interface to view your trips.
@@ -18904,7 +18904,7 @@ Entries:
       SourceType: Github
       Line: 777
       stars: 13
-      update: "2021-07-07T06:20:03Z"
+      update: "2021-07-07T18:10:10Z"
     - ID: 341
       Name: Typemill
       Description: Author-friendly flat-file-cms with a visual markdown editor based on vue.js.
@@ -19021,7 +19021,7 @@ Entries:
       SourceType: Github
       Line: 573
       stars: 3366
-      update: "2021-07-07T15:52:56Z"
+      update: "2021-07-07T16:50:46Z"
     - ID: 266
       Name: remark42
       Description: A lightweight and simple comment engine, which doesn't spy on users. It can be embedded into blogs, articles or any other place where readers add comments.
@@ -19042,7 +19042,7 @@ Entries:
       MD: '- [remark42](https://remark42.com/) - A lightweight and simple comment engine, which doesn''t spy on users. It can be embedded into blogs, articles or any other place where readers add comments. ([Demo](https://remark42.com/demo/), [Source Code](https://github.com/umputun/remark)) `MIT` `Go`'
       SourceType: Github
       Line: 472
-      stars: 2954
+      stars: 2956
       update: "2021-07-04T05:30:15Z"
     - ID: 967
       Name: UVDesk
@@ -19085,7 +19085,7 @@ Entries:
       SourceType: Github
       Line: 585
       stars: 848
-      update: "2021-07-07T15:49:22Z"
+      update: "2021-07-07T18:23:01Z"
     - ID: 278
       Name: Vanilla Forums
       Description: Simple and flexible forum software.
@@ -19263,7 +19263,7 @@ Entries:
       MD: '- [Wagtail](https://wagtail.io/) - Django content management system focused on flexibility and user experience. ([Source Code](https://github.com/wagtail/wagtail)) `BSD-3-Clause` `Python`'
       SourceType: Github
       Line: 574
-      stars: 10801
+      stars: 10802
       update: "2021-07-07T15:30:46Z"
     - ID: 917
       Name: Wallabag
@@ -19399,8 +19399,8 @@ Entries:
       MD: '- [WooCommerce](https://www.woothemes.com/woocommerce/) - WordPress based e-commerce solution. ([Source Code](https://github.com/woothemes/woocommerce)) `GPL-3.0` `PHP`'
       SourceType: Github
       Line: 612
-      stars: 7122
-      update: "2021-07-07T16:28:06Z"
+      stars: 7123
+      update: "2021-07-07T16:37:57Z"
     - ID: 347
       Name: WriteFreely
       Description: Writing software for starting a minimalist, federated blog — or an entire community.
@@ -19613,7 +19613,7 @@ Entries:
       MD: '- [Yacy](http://yacy.net/en/index.html) - Peer based, decentralized search engine server. ([Demo](http://search.yacy.net/), [Source Code](https://github.com/yacy/yacy_search_server)) `GPL-2.0` `Java`'
       SourceType: Github
       Line: 1392
-      stars: 2240
+      stars: 2239
       update: "2021-06-30T16:03:58Z"
     - ID: 900
       Name: iodine
@@ -19632,7 +19632,7 @@ Entries:
       MD: '- [iodine](http://code.kryo.se/iodine/) - IPv4 over DNS tunnel solution, enabling you to start up a socks5 proxy listener. ([Source Code](https://github.com/yarrick/iodine)) `ISC` `C`'
       SourceType: Github
       Line: 1340
-      stars: 3769
+      stars: 3770
       update: "2021-06-05T13:48:08Z"
     - ID: 222
       Name: Yeti-Switch
@@ -19692,7 +19692,7 @@ Entries:
       MD: '- [Trilium Notes](https://github.com/zadam/trilium) - Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases. `AGPL-3.0` `Nodejs`'
       SourceType: Github
       Line: 1181
-      stars: 11166
+      stars: 11167
       update: "2021-07-05T15:10:15Z"
     - ID: 1053
       Name: Zammad
@@ -19942,7 +19942,7 @@ Entries:
       SourceType: Github
       Line: 300
       stars: 13902
-      update: "2021-07-07T16:26:02Z"
+      update: "2021-07-07T18:12:15Z"
     - ID: 279
       Name: Zusam
       Description: Free and open-source way to self-host private forums for groups of friends or family.

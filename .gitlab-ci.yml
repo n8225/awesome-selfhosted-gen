@@ -31,11 +31,13 @@ pages:
     - ./godownloader.sh -d
     - git clone --depth 1 https://gitlab.com/n8225/awesome-selfhosted.git --branch master --single-branch /tmp/awesome-selfhosted
     - rm list/*
-    - ./bin/list-gen -readme_path /tmp/awesome-selfhosted/README.md -github_token $GITHUB_TOKEN
+    - ./bin/list-gen -readme_path /tmp/awesome-selfhosted/README.md -github_token $GITHUB_TOKEN all
     - git clone --depth 1 --single-branch --branch gh-pages https://n8225:$GITHUB_TOKEN@github.com/n8225/awesome-selfhosted-gen.git public
     - cd public
-    - rm -rf static
+    - rm -rf static output list
     - mv ../index.html . && mv ../static static
+    - mv ../output output
+    - mv ../list list
     - git config user.email "n8225@gmail.com" && git config user.name "Nathan"
     - git add -A
     - git commit -m "Build from $CI_SERVER_NAME $CI_PIPELINE_ID"
