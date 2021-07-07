@@ -1,0 +1,19 @@
+ID: 141
+Name: AnonAddy
+Description: Open source email forwarding service for creating aliases.
+Source Code: https://github.com/anonaddy/anonaddy
+Website: https://anonaddy.com
+License:
+    - MIT
+Languages:
+    - PHP
+C: Communication systems
+C2: Email
+C3: Complete solutions
+Tags:
+    - Communications
+    - Email
+    - Complete Email
+MD: '- [AnonAddy](https://anonaddy.com) - Open source email forwarding service for creating aliases. ([Source Code](https://github.com/anonaddy/anonaddy)) `MIT` `PHP`'
+SourceType: Github
+Line: 310

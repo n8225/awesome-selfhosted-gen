@@ -1,0 +1,17 @@
+ID: 827
+Name: pasty
+Description: Pasty is a fast and lightweight code pasting server.
+Source Code: https://github.com/lus/pasty
+Demo: https://pasty.lus.pm/
+License:
+    - MIT
+Languages:
+    - Go
+C: Pastebins
+C2: ""
+C3: ""
+Tags:
+    - Pastebin
+MD: '- [pasty](https://github.com/lus/pasty) - Pasty is a fast and lightweight code pasting server. ([Demo](https://pasty.lus.pm/)) `MIT` `Go`'
+SourceType: Github
+Line: 1242

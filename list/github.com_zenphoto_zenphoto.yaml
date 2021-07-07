@@ -1,0 +1,17 @@
+ID: 877
+Name: Zenphoto
+Description: Open-source gallery and CMS project.
+Source Code: https://github.com/zenphoto/zenphoto
+Website: http://www.zenphoto.org/
+License:
+    - GPL-2.0
+Languages:
+    - PHP
+C: Photo and Video Galleries
+C2: ""
+C3: ""
+Tags:
+    - Photo and Video Gallery
+MD: '- [Zenphoto](http://www.zenphoto.org/) - Open-source gallery and CMS project. ([Source Code](https://github.com/zenphoto/zenphoto)) `GPL-2.0` `PHP`'
+SourceType: Github
+Line: 1304

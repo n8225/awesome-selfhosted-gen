@@ -1,0 +1,19 @@
+ID: 489
+Name: linx-server
+Description: Simple file sharing and pastebin with API, auto-expiry, deletion keys, and web seed support.
+Source Code: https://github.com/ZizzyDizzyMC/linx-server
+Demo: https://put.icu/
+License:
+    - GPL-3.0
+Languages:
+    - Go
+C: File Sharing and Synchronization
+C2: Single-click/drag-n-drop upload
+C3: ""
+Tags:
+    - File Sharing
+    - Single-Click Upload
+    - Drag-n-Drop Upload
+MD: '- [linx-server](https://github.com/ZizzyDizzyMC/linx-server) - Simple file sharing and pastebin with API, auto-expiry, deletion keys, and web seed support. ([Demo](https://put.icu/)) `GPL-3.0` `Go`'
+SourceType: Github
+Line: 792

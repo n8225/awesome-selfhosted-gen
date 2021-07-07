@@ -1,0 +1,16 @@
+ID: 57
+Name: Dotclear
+Description: Take control over your blog.
+Source Code: https://hg.dotclear.org/dotclear
+Website: http://dotclear.org/
+License:
+    - GPL-2.0
+Languages:
+    - PHP
+C: Blogging Platforms
+C2: ""
+C3: ""
+Tags:
+    - Blog
+MD: '- [Dotclear](http://dotclear.org/) - Take control over your blog. ([Source Code](https://hg.dotclear.org/dotclear)) `GPL-2.0` `PHP`'
+Line: 190

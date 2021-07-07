@@ -1,0 +1,17 @@
+ID: 814
+Name: ExBin
+Description: A pastebin with public/private snippets and netcat server.
+Source Code: https://github.com/m1dnight/exbin
+Demo: https://exbin.call-cc.be
+License:
+    - MIT
+Languages:
+    - Elixir
+C: Pastebins
+C2: ""
+C3: ""
+Tags:
+    - Pastebin
+MD: '- [ExBin](https://github.com/m1dnight/exbin) - A pastebin with public/private snippets and netcat server. ([Demo](https://exbin.call-cc.be)) `MIT` `Elixir`'
+SourceType: Github
+Line: 1229

@@ -1,0 +1,18 @@
+ID: 541
+Name: Teeworlds
+Description: Open source 2D retro multiplayer shooter.
+Source Code: https://github.com/teeworlds/teeworlds
+Website: https://www.teeworlds.com
+License:
+    - BSD-3-Clause
+    - Other
+Languages:
+    - C++
+C: Games
+C2: ""
+C3: ""
+Tags:
+    - Game
+MD: '- [Teeworlds](https://www.teeworlds.com) - Open source 2D retro multiplayer shooter. ([Source Code](https://github.com/teeworlds/teeworlds)) `BSD-3-Clause/Other` `C++`'
+SourceType: Github
+Line: 857

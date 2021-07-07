@@ -1,0 +1,18 @@
+ID: 153
+Name: Ptorx
+Description: Email privacy. Anonymously send and receive with alias forwarding.
+Source Code: https://github.com/xyfir/ptorx
+License:
+    - GPL-3.0
+Languages:
+    - Nodejs
+C: Communication systems
+C2: Email
+C3: Complete solutions
+Tags:
+    - Communications
+    - Email
+    - Complete Email
+MD: '- [Ptorx](https://github.com/xyfir/ptorx) - Email privacy. Anonymously send and receive with alias forwarding. `GPL-3.0` `Nodejs`'
+SourceType: Github
+Line: 322

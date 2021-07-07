@@ -1,0 +1,19 @@
+ID: 888
+Name: Kyélà
+Description: Participation polls for group events.
+Source Code: https://github.com/abienvenu/Kyela
+Demo: https://kyela.net/concert/
+Website: http://kyela.net/
+License:
+    - AGPL-3.0
+Languages:
+    - PHP
+C: Polls and Events
+C2: ""
+C3: ""
+Tags:
+    - Polls
+    - Events
+MD: '- [Kyélà](http://kyela.net/) - Participation polls for group events. ([Demo](https://kyela.net/concert/), [Source Code](https://github.com/abienvenu/Kyela)) `AGPL-3.0` `PHP`'
+SourceType: Github
+Line: 1320

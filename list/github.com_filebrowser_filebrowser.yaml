@@ -1,0 +1,18 @@
+ID: 512
+Name: filebrowser
+Description: Web File Browser with a Material Design web interface.
+Source Code: https://github.com/filebrowser/filebrowser
+Website: https://filebrowser.org/
+License:
+    - Apache-2.0
+Languages:
+    - Go
+C: File Sharing and Synchronization
+C2: Web based file managers
+C3: ""
+Tags:
+    - File Sharing
+    - Web File MGR
+MD: '- [filebrowser](https://filebrowser.org/) - Web File Browser with a Material Design web interface. ([Source Code](https://github.com/filebrowser/filebrowser)) `Apache-2.0` `Go`'
+SourceType: Github
+Line: 821

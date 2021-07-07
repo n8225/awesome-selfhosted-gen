@@ -1,0 +1,17 @@
+ID: 305
+Name: Backdrop CMS
+Description: Comprehensive CMS for small to medium sized businesses and non-profits.
+Source Code: https://github.com/backdrop/backdrop
+Website: https://backdropcms.org/
+License:
+    - GPL-2.0
+Languages:
+    - PHP
+C: Content Management Systems (CMS)
+C2: ""
+C3: ""
+Tags:
+    - CMS
+MD: '- [Backdrop CMS](https://backdropcms.org/) - Comprehensive CMS for small to medium sized businesses and non-profits. ([Source Code](https://github.com/backdrop/backdrop)) `GPL-2.0` `PHP`'
+SourceType: Github
+Line: 535

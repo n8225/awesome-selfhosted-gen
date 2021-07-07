@@ -1,0 +1,19 @@
+ID: 488
+Name: Kleeja
+Description: File Upload/sharing application, used by thousands of webmasters since 2007.
+Source Code: https://github.com/kleeja-official/kleeja
+Website: https://kleeja.net/
+License:
+    - GPL-2.0
+Languages:
+    - PHP
+C: File Sharing and Synchronization
+C2: Single-click/drag-n-drop upload
+C3: ""
+Tags:
+    - File Sharing
+    - Single-Click Upload
+    - Drag-n-Drop Upload
+MD: '- [Kleeja](https://kleeja.net/) - File Upload/sharing application, used by thousands of webmasters since 2007. ([Source Code](https://github.com/kleeja-official/kleeja)) `GPL-2.0` `PHP`'
+SourceType: Github
+Line: 791

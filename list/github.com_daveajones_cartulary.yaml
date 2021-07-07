@@ -1,0 +1,18 @@
+ID: 231
+Name: cartulary
+Description: RSS reader, readability tool, article archiver, microblogger, social graph manager and reading list manager.
+Source Code: https://github.com/daveajones/cartulary
+License:
+    - CDDL-1.0
+Languages:
+    - PHP
+C: Communication systems
+C2: Social Networks and Forums
+C3: ""
+Tags:
+    - Communications
+    - Social Network
+    - Forum
+MD: '- [cartulary](https://github.com/daveajones/cartulary) - RSS reader, readability tool, article archiver, microblogger, social graph manager and reading list manager. `CDDL-1.0` `PHP`'
+SourceType: Github
+Line: 437

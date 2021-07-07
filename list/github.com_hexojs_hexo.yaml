@@ -1,0 +1,17 @@
+ID: 60
+Name: Hexo
+Description: Fast, simple and powerful blog framework, powered by Node.js.
+Source Code: https://github.com/hexojs/hexo
+Website: https://hexo.io/
+License:
+    - MIT
+Languages:
+    - Nodejs
+C: Blogging Platforms
+C2: ""
+C3: ""
+Tags:
+    - Blog
+MD: '- [Hexo](https://hexo.io/) - Fast, simple and powerful blog framework, powered by Node.js. ([Source Code](https://github.com/hexojs/hexo)) `MIT` `Nodejs`'
+SourceType: Github
+Line: 193

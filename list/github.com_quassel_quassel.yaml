@@ -1,0 +1,18 @@
+ID: 203
+Name: Quassel IRC
+Description: distributed IRC client, meaning that one (or multiple) client(s) can attach to and detach from a central core.
+Source Code: https://github.com/quassel/quassel
+Website: http://quassel-irc.org/
+License:
+    - GPL-2.0
+Languages:
+    - C++
+C: Communication systems
+C2: IRC
+C3: ""
+Tags:
+    - Communications
+    - IRC
+MD: '- [Quassel IRC](http://quassel-irc.org/) - distributed IRC client, meaning that one (or multiple) client(s) can attach to and detach from a central core. ([Source Code](https://github.com/quassel/quassel)) `GPL-2.0` `C++`'
+SourceType: Github
+Line: 397

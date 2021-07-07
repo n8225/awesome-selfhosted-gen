@@ -1,0 +1,19 @@
+ID: 247
+Name: HumHub
+Description: Flexible kit for private social networks.
+Source Code: https://github.com/humhub/humhub
+Website: https://www.humhub.org/
+License:
+    - AGPL-3.0
+Languages:
+    - PHP
+C: Communication systems
+C2: Social Networks and Forums
+C3: ""
+Tags:
+    - Communications
+    - Social Network
+    - Forum
+MD: '- [HumHub](https://www.humhub.org/) - Flexible kit for private social networks. ([Source Code](https://github.com/humhub/humhub)) `AGPL-3.0` `PHP`'
+SourceType: Github
+Line: 453

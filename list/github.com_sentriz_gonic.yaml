@@ -1,0 +1,18 @@
+ID: 641
+Name: gonic
+Description: Lightweight music streaming server. Subsonic compatible.
+Source Code: https://github.com/sentriz/gonic
+License:
+    - GPL-3.0
+Languages:
+    - Go
+C: Media Streaming
+C2: Audio Streaming
+C3: ""
+Tags:
+    - Media
+    - Streaming
+    - Audio
+MD: '- [gonic](https://github.com/sentriz/gonic) - Lightweight music streaming server. Subsonic compatible. `GPL-3.0` `Go`'
+SourceType: Github
+Line: 1012

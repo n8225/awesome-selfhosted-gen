@@ -1,0 +1,17 @@
+ID: 434
+Name: Full-Text RSS
+Description: Extract article content from news sites and blogs and convert RSS feeds that contain only extracts of stories to full-text feeds. Developed by FiveFilters.org.
+Source Code: https://bitbucket.org/fivefilters/full-text-rss
+Website: https://fivefilters.org/content-only
+License:
+    - GPL-3.0
+Languages:
+    - PHP
+C: Feed Readers
+C2: ""
+C3: ""
+Tags:
+    - RSS
+    - Feed Reader
+MD: '- [Full-Text RSS](https://fivefilters.org/content-only) - Extract article content from news sites and blogs and convert RSS feeds that contain only extracts of stories to full-text feeds. Developed by FiveFilters.org. ([Source Code](https://bitbucket.org/fivefilters/full-text-rss)) `GPL-3.0` `PHP`'
+Line: 712

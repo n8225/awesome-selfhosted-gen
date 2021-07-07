@@ -1,0 +1,16 @@
+ID: 551
+Name: ShellHub
+Description: ShellHub is a modern SSH server for remotely accessing linux devices via command line (using any SSH client) or web-based user interface, designed as an alternative to sshd. Think ShellHub as centralized SSH for the the edge and cloud computing.
+Source Code: https://github.com/shellhub-io/shellhub
+Website: https://www.shellhub.io
+License:
+    - Apache-2.0
+Languages:
+    - Go
+C: Gateways and terminal sharing
+C2: ""
+C3: ""
+Tags: []
+MD: '- [ShellHub](https://www.shellhub.io) - ShellHub is a modern SSH server for remotely accessing linux devices via command line (using any SSH client) or web-based user interface, designed as an alternative to sshd. Think ShellHub as centralized SSH for the the edge and cloud computing. ([Source Code](https://github.com/shellhub-io/shellhub)) `Apache-2.0` `Go/Other`'
+SourceType: Github
+Line: 872

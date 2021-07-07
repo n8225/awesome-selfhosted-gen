@@ -1,0 +1,17 @@
+ID: 817
+Name: FlashPaper
+Description: A one-time encrypted zero-knowledge password/secret sharing application focused on simplicity and security. No database or complicated set-up required.
+Source Code: https://github.com/AndrewPaglusch/FlashPaper
+Demo: https://flashpaper.io
+License:
+    - MIT
+Languages:
+    - PHP
+C: Pastebins
+C2: ""
+C3: ""
+Tags:
+    - Pastebin
+MD: '- [FlashPaper](https://github.com/AndrewPaglusch/FlashPaper) - A one-time encrypted zero-knowledge password/secret sharing application focused on simplicity and security. No database or complicated set-up required. ([Demo](https://flashpaper.io)) `MIT` `PHP`'
+SourceType: Github
+Line: 1232

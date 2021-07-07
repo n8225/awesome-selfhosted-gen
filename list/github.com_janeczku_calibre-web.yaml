@@ -1,0 +1,17 @@
+ID: 394
+Name: Calibre Web
+Description: Web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database.
+Source Code: https://github.com/janeczku/calibre-web
+License:
+    - GPL-3.0
+Languages:
+    - Python
+C: E-books and Integrated Library Systems (ILS)
+C2: Personal e-book management software.
+C3: ""
+Tags:
+    - E-book
+    - ILS
+MD: '  - [Calibre Web](https://github.com/janeczku/calibre-web) - Web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database. `GPL-3.0` `Python`'
+SourceType: Github
+Line: 651

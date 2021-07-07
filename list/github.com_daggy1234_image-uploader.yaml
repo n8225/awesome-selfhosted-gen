@@ -1,0 +1,18 @@
+ID: 485
+Name: image-uploader
+Description: A shareX compatible image uploader built for speed with a web interface and REST API.
+Source Code: https://github.com/daggy1234/image-uploader
+License:
+    - AGPL-3.0
+Languages:
+    - Rust
+C: File Sharing and Synchronization
+C2: Single-click/drag-n-drop upload
+C3: ""
+Tags:
+    - File Sharing
+    - Single-Click Upload
+    - Drag-n-Drop Upload
+MD: '- [image-uploader](https://github.com/daggy1234/image-uploader) - A shareX compatible image uploader built for speed with a web interface and REST API. `AGPL-3.0` `Rust`'
+SourceType: Github
+Line: 788

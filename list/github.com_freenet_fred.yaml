@@ -1,0 +1,17 @@
+ID: 105
+Name: Freenet
+Description: Anonymously share files, browse and publish _freesites_ (web sites accessible only through Freenet) and chat on forums.
+Source Code: https://github.com/freenet/fred
+Website: https://freenetproject.org/index.html
+License:
+    - GPL-2.0
+Languages:
+    - Java
+C: Communication systems
+C2: Custom communication systems
+C3: ""
+Tags:
+    - Communications
+MD: '- [Freenet](https://freenetproject.org/index.html) - Anonymously share files, browse and publish _freesites_ (web sites accessible only through Freenet) and chat on forums. ([Source Code](https://github.com/freenet/fred)) `GPL-2.0` `Java`'
+SourceType: Github
+Line: 265

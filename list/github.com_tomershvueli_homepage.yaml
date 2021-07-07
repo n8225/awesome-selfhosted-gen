@@ -1,0 +1,16 @@
+ID: 846
+Name: Homepage
+Description: Simple, standalone, self-hosted PHP page that is your window to your server and the web.
+Source Code: https://github.com/tomershvueli/homepage
+License:
+    - MIT
+Languages:
+    - PHP
+C: Personal Dashboards
+C2: ""
+C3: ""
+Tags:
+    - Dashboard
+MD: '- [Homepage](https://github.com/tomershvueli/homepage) - Simple, standalone, self-hosted PHP page that is your window to your server and the web. `MIT` `PHP`'
+SourceType: Github
+Line: 1268

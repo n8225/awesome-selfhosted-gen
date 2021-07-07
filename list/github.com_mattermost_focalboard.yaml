@@ -1,0 +1,23 @@
+ID: 1017
+Name: Focalboard
+Description: An open source, self-hosted alternative to Trello, Notion, and Asana. It helps define, organize, track and manage work across individuals and teams.
+Source Code: https://github.com/mattermost/focalboard
+Clients:
+    - https://www.focalboard.com/download/personal-edition/desktop/
+Website: https://www.focalboard.com/
+License:
+    - MIT
+    - AGPL-3.0
+    - Apache-2.0
+Languages:
+    - Nodejs
+    - Go
+C: Task management/To-do lists
+C2: ""
+C3: ""
+Tags:
+    - To-Do
+    - Task Mgmnt
+MD: '- [Focalboard](https://www.focalboard.com/) - An open source, self-hosted alternative to Trello, Notion, and Asana. It helps define, organize, track and manage work across individuals and teams. ([Source Code](https://github.com/mattermost/focalboard), [Clients](https://www.focalboard.com/download/personal-edition/desktop/)) `MIT/AGPL-3.0/Apache-2.0` `Nodejs/Go`'
+SourceType: Github
+Line: 1527

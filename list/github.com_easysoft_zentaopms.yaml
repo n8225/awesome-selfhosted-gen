@@ -1,0 +1,19 @@
+ID: 968
+Name: ZenTao
+Description: An agile(scrum) project management system/tool.
+Source Code: https://github.com/easysoft/zentaopms
+Demo: http://demo.zentao.pm/user-login.html
+Website: http://www.zentao.pm/
+License:
+    - ZPL-1.2
+Languages:
+    - PHP
+C: Software Development
+C2: Project Management
+C3: ""
+Tags:
+    - Software Dev
+    - Project Mgmnt
+MD: '- [ZenTao](http://www.zentao.pm/) - An agile(scrum) project management system/tool. ([Demo](http://demo.zentao.pm/user-login.html), [Source Code](https://github.com/easysoft/zentaopms)) `ZPL-1.2` `PHP`'
+SourceType: Github
+Line: 1435

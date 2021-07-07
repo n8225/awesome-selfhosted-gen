@@ -1,0 +1,18 @@
+ID: 693
+Name: changedetection.io
+Description: Self-hosted tool for staying up-to-date with web-site content changes.
+Source Code: https://github.com/dgtlmoon/changedetection.io
+License:
+    - Apache-2.0
+Languages:
+    - Python
+    - Docker
+C: Misc/Other
+C2: ""
+C3: ""
+Tags:
+    - Misc
+    - Other
+MD: '- [changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Self-hosted tool for staying up-to-date with web-site content changes. `Apache-2.0` `Python/Docker`'
+SourceType: Github
+Line: 1072

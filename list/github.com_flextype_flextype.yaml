@@ -1,0 +1,18 @@
+ID: 317
+Name: Flextype
+Description: Flextype is an open-source Hybrid Content Management System with the freedom of a headless CMS and with the full functionality of a traditional CMS.
+Source Code: https://github.com/flextype/flextype
+Demo: https://demo.flextype.org/
+Website: https://flextype.org/
+License:
+    - MIT
+Languages:
+    - PHP
+C: Content Management Systems (CMS)
+C2: ""
+C3: ""
+Tags:
+    - CMS
+MD: '- [Flextype](https://flextype.org/) - Flextype is an open-source Hybrid Content Management System with the freedom of a headless CMS and with the full functionality of a traditional CMS. ([Demo](https://demo.flextype.org/), [Source Code](https://github.com/flextype/flextype)) `MIT` `PHP`'
+SourceType: Github
+Line: 547

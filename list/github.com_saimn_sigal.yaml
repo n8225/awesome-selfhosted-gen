@@ -1,0 +1,16 @@
+ID: 875
+Name: sigal
+Description: Yet another simple static gallery generator.
+Source Code: https://github.com/saimn/sigal
+License:
+    - MIT
+Languages:
+    - Python
+C: Photo and Video Galleries
+C2: ""
+C3: ""
+Tags:
+    - Photo and Video Gallery
+MD: '- [sigal](https://github.com/saimn/sigal) - Yet another simple static gallery generator. `MIT` `Python`'
+SourceType: Github
+Line: 1302

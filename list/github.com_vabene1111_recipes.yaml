@@ -1,0 +1,19 @@
+ID: 352
+Name: Tandoor Recipes
+Description: Django application to manage, tag and search recipes using either built-in models or external storage providers hosting PDFs, Images or other files.
+Source Code: https://github.com/vabene1111/recipes/
+Demo: https://app.tandoor.dev/
+Website: https://docs.tandoor.dev/
+License:
+    - MIT
+Languages:
+    - Python
+C: Content Management Systems (CMS)
+C2: Recipe management
+C3: ""
+Tags:
+    - CMS
+    - Recipe Mgmnt
+MD: '- [Tandoor Recipes](https://docs.tandoor.dev/) - Django application to manage, tag and search recipes using either built-in models or external storage providers hosting PDFs, Images or other files. ([Demo](https://app.tandoor.dev/), [Source Code](https://github.com/vabene1111/recipes/)) `MIT` `Python`'
+SourceType: Github
+Line: 585

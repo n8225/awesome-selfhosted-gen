@@ -1,0 +1,17 @@
+ID: 339
+Name: Strapi
+Description: The most advanced open-source Content Management Framework (headless-CMS) to build powerful API with no effort.
+Source Code: https://github.com/strapi/strapi
+Website: https://strapi.io/
+License:
+    - MIT
+Languages:
+    - Nodejs
+C: Content Management Systems (CMS)
+C2: ""
+C3: ""
+Tags:
+    - CMS
+MD: '- [Strapi](https://strapi.io/) - The most advanced open-source Content Management Framework (headless-CMS) to build powerful API with no effort. ([Source Code](https://github.com/strapi/strapi)) `MIT` `Nodejs`'
+SourceType: Github
+Line: 569

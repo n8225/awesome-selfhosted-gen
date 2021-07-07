@@ -1,0 +1,18 @@
+ID: 9
+Name: Actionsflow
+Description: The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions.
+Source Code: https://github.com/actionsflow/actionsflow
+License:
+    - MIT
+Languages:
+    - Docker
+    - Nodejs
+C: Automation
+C2: ""
+C3: ""
+Tags:
+    - Automation
+ProprietaryDependency: true
+MD: '- [Actionsflow](https://github.com/actionsflow/actionsflow) `⚠` - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions. `MIT` `Docker/Nodejs`'
+SourceType: Github
+Line: 135

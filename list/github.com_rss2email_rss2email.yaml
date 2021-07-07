@@ -1,0 +1,17 @@
+ID: 440
+Name: RSS2EMail
+Description: Fetches RSS/Atom-feeds and pushes new Content to any email-receiver, supports OPML.
+Source Code: https://github.com/rss2email/rss2email
+License:
+    - GPL-2.0
+Languages:
+    - Python
+C: Feed Readers
+C2: ""
+C3: ""
+Tags:
+    - RSS
+    - Feed Reader
+MD: '- [RSS2EMail](https://github.com/rss2email/rss2email) - Fetches RSS/Atom-feeds and pushes new Content to any email-receiver, supports OPML. `GPL-2.0` `Python`'
+SourceType: Github
+Line: 718

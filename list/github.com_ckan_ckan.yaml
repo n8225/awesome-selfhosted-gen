@@ -1,0 +1,18 @@
+ID: 6
+Name: CKAN
+Description: CKAN is a tool for making open data websites.
+Source Code: https://github.com/ckan/ckan
+Website: https://ckan.org
+License:
+    - AGPL-3.0
+Languages:
+    - Python
+C: Archiving and Digital Preservation (DP)
+C2: ""
+C3: ""
+Tags:
+    - archiving
+    - Digital Preservation
+MD: '- [CKAN](https://ckan.org) - CKAN is a tool for making open data websites. ([Source Code](https://github.com/ckan/ckan)) `AGPL-3.0` `Python`'
+SourceType: Github
+Line: 125

@@ -1,0 +1,17 @@
+ID: 330
+Name: ProcessWire
+Description: ProcessWire is an open source content management system (CMS) and web application framework aimed at the needs of designers, developers and their clients.
+Source Code: https://github.com/ryancramerdesign/ProcessWire
+Website: https://processwire.com/
+License:
+    - MPL-2.0
+Languages:
+    - PHP
+C: Content Management Systems (CMS)
+C2: ""
+C3: ""
+Tags:
+    - CMS
+MD: '- [ProcessWire](https://processwire.com/) - ProcessWire is an open source content management system (CMS) and web application framework aimed at the needs of designers, developers and their clients. ([Source Code](https://github.com/ryancramerdesign/ProcessWire)) `MPL-2.0` `PHP`'
+SourceType: Github
+Line: 560

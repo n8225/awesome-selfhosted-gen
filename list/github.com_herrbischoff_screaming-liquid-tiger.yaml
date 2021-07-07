@@ -1,0 +1,17 @@
+ID: 441
+Name: Screaming Liquid Tiger
+Description: Simple script to automatically generate valid RSS and Atom feeds from a list of media files in the same folder.
+Source Code: https://github.com/herrbischoff/screaming-liquid-tiger
+License:
+    - MIT
+Languages:
+    - PHP
+C: Feed Readers
+C2: ""
+C3: ""
+Tags:
+    - RSS
+    - Feed Reader
+MD: '- [Screaming Liquid Tiger](https://github.com/herrbischoff/screaming-liquid-tiger) - Simple script to automatically generate valid RSS and Atom feeds from a list of media files in the same folder. `MIT` `PHP`'
+SourceType: Github
+Line: 719

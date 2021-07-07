@@ -1,0 +1,19 @@
+ID: 444
+Name: myDrive
+Description: Fully featured online storage solution, upload/download files, photo/video viewer, and more, all through the web client.
+Source Code: https://github.com/subnub/myDrive
+Demo: https://mydrive-demo.herokuapp.com/
+License:
+    - GPL-3.0
+Languages:
+    - Nodejs
+C: File Sharing and Synchronization
+C2: File transfer/synchronization
+C3: ""
+Tags:
+    - File Sharing
+    - File Transfer
+    - File Sync
+MD: '- [myDrive](https://github.com/subnub/myDrive) - Fully featured online storage solution, upload/download files, photo/video viewer, and more, all through the web client. ([Demo](https://mydrive-demo.herokuapp.com/)) `GPL-3.0` `Nodejs`'
+SourceType: Github
+Line: 738

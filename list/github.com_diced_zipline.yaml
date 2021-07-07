@@ -1,0 +1,19 @@
+ID: 506
+Name: Zipline
+Description: A lightweight, fast and reliable file sharing server that is commonly used with ShareX, offering a react-based Web UI and fast API.
+Source Code: https://github.com/diced/zipline
+Website: https://zipline.diced.me/
+License:
+    - MIT
+Languages:
+    - Nodejs
+C: File Sharing and Synchronization
+C2: Single-click/drag-n-drop upload
+C3: ""
+Tags:
+    - File Sharing
+    - Single-Click Upload
+    - Drag-n-Drop Upload
+MD: '- [Zipline](https://zipline.diced.me/) - A lightweight, fast and reliable file sharing server that is commonly used with ShareX, offering a react-based Web UI and fast API. ([Source Code](https://github.com/diced/zipline)) `MIT` `Nodejs`'
+SourceType: Github
+Line: 809

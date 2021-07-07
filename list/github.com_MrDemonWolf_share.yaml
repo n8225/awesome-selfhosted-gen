@@ -1,0 +1,18 @@
+ID: 499
+Name: Share
+Description: Simple yet advanced uploader - upload files, images and text with moderation tools for admins. Can be used for friends and family or just for you. Integration with ShareX and more.
+Source Code: https://github.com/MrDemonWolf/share
+License:
+    - MIT
+Languages:
+    - Nodejs
+C: File Sharing and Synchronization
+C2: Single-click/drag-n-drop upload
+C3: ""
+Tags:
+    - File Sharing
+    - Single-Click Upload
+    - Drag-n-Drop Upload
+MD: '- [Share](https://github.com/MrDemonWolf/share) - Simple yet advanced uploader - upload files, images and text with moderation tools for admins. Can be used for friends and family or just for you. Integration with ShareX and more. `MIT` `Nodejs`'
+SourceType: Github
+Line: 802

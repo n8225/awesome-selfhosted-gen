@@ -1,0 +1,20 @@
+ID: 230
+Name: Cactus Comments
+Description: Cactus Comments is a federated comment system for the open web built on Matrix.
+Source Code: https://gitlab.com/cactus-comments/
+Demo: https://cactus.chat/demo/
+Website: https://cactus.chat/
+License:
+    - GPL-3.0
+Languages:
+    - Python
+C: Communication systems
+C2: Social Networks and Forums
+C3: ""
+Tags:
+    - Communications
+    - Social Network
+    - Forum
+MD: '- [Cactus Comments](https://cactus.chat/) - Cactus Comments is a federated comment system for the open web built on Matrix. ([Demo](https://cactus.chat/demo/), [Source Code](https://gitlab.com/cactus-comments/)) `GPL-3.0` `Python`'
+SourceType: Gitlab
+Line: 436

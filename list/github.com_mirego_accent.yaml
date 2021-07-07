@@ -1,0 +1,18 @@
+ID: 1011
+Name: Accent
+Description: Open-source, self-hosted, developer-oriented translation tool.
+Source Code: https://github.com/mirego/accent
+Website: https://www.accent.reviews/
+License:
+    - BSD-3-Clause
+Languages:
+    - Elixir
+C: Software Development
+C2: Localization
+C3: ""
+Tags:
+    - Software Dev
+    - Localiztion
+MD: '- [Accent](https://www.accent.reviews/) - Open-source, self-hosted, developer-oriented translation tool. ([Source Code](https://github.com/mirego/accent)) `BSD-3-Clause` `Elixir`'
+SourceType: Github
+Line: 1508

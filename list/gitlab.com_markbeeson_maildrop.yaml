@@ -1,0 +1,18 @@
+ID: 163
+Name: Maildrop
+Description: Disposable email SMTP server, also useful for development.
+Source Code: https://gitlab.com/markbeeson/maildrop
+License:
+    - MIT
+Languages:
+    - scala
+C: Communication systems
+C2: Email
+C3: Mail Transfer Agents
+Tags:
+    - Communications
+    - Email
+    - MTA
+MD: '- [Maildrop](https://gitlab.com/markbeeson/maildrop) - Disposable email SMTP server, also useful for development. `MIT` `Scala`'
+SourceType: Gitlab
+Line: 337

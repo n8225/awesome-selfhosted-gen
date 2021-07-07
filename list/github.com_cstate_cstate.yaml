@@ -1,0 +1,18 @@
+ID: 694
+Name: cState
+Description: Static status page for hyperfast Hugo. Clean design, minimal JS, super light HTML/CSS, high customization, optional admin panel, read-only API, IE8+. Best used with Netlify, Docker.
+Source Code: https://github.com/cstate/cstate/
+Demo: https://cstate.mnts.lt/
+License:
+    - MIT
+Languages:
+    - Go
+C: Misc/Other
+C2: ""
+C3: ""
+Tags:
+    - Misc
+    - Other
+MD: '- [cState](https://github.com/cstate/cstate/) - Static status page for hyperfast Hugo. Clean design, minimal JS, super light HTML/CSS, high customization, optional admin panel, read-only API, IE8+. Best used with Netlify, Docker. ([Demo](https://cstate.mnts.lt/)) `MIT` `Go`'
+SourceType: Github
+Line: 1073

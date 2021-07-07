@@ -1,0 +1,17 @@
+ID: 166
+Name: Postfix
+Description: Fast, easy to administer, and secure Sendmail replacement.
+Source Code: http://www.postfix.org/
+License:
+    - IPL-1.0
+Languages:
+    - C
+C: Communication systems
+C2: Email
+C3: Mail Transfer Agents
+Tags:
+    - Communications
+    - Email
+    - MTA
+MD: '- [Postfix](http://www.postfix.org/) - Fast, easy to administer, and secure Sendmail replacement. `IPL-1.0` `C`'
+Line: 340

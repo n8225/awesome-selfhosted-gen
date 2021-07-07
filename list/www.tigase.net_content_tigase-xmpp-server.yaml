@@ -1,0 +1,17 @@
+ID: 288
+Name: Tigase
+Description: XMPP server implementation in Java.
+Source Code: http://www.tigase.net/content/tigase-xmpp-server
+License:
+    - GPL-3.0
+Languages:
+    - Java
+C: Communication systems
+C2: XMPP
+C3: XMPP Servers
+Tags:
+    - Communications
+    - XMPP
+    - XMPP Server
+MD: '- [Tigase](http://www.tigase.net/content/tigase-xmpp-server) - XMPP server implementation in Java. `GPL-3.0` `Java`'
+Line: 503

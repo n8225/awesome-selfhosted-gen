@@ -1,0 +1,17 @@
+ID: 904
+Name: Pomerium
+Description: An identity-aware reverse proxy, successor to now obsolete oauth_proxy. It inserts an OAuth step before proxying your request to the backend, so that you can safely expose your self-hosted websites to public Internet.
+Source Code: https://github.com/pomerium/pomerium
+Website: https://pomerium.io
+License:
+    - Apache-2.0
+Languages:
+    - Go
+C: Proxy
+C2: ""
+C3: ""
+Tags:
+    - Proxy
+MD: '- [Pomerium](https://pomerium.io) - An identity-aware reverse proxy, successor to now obsolete oauth_proxy. It inserts an OAuth step before proxying your request to the backend, so that you can safely expose your self-hosted websites to public Internet. ([Source Code](https://github.com/pomerium/pomerium)) `Apache-2.0` `Go`'
+SourceType: Github
+Line: 1344

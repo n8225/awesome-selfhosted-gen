@@ -1,0 +1,17 @@
+ID: 1081
+Name: Pepperminty Wiki
+Description: Complete markdown-powered wiki contained in a single PHP file.
+Source Code: https://github.com/sbrl/Pepperminty-Wiki
+Demo: https://starbeamrainbowlabs.com/labs/peppermint/build/
+License:
+    - MPL-2.0
+Languages:
+    - PHP
+C: Wikis
+C2: ""
+C3: ""
+Tags:
+    - Wiki
+MD: '- [Pepperminty Wiki](https://github.com/sbrl/Pepperminty-Wiki) - Complete markdown-powered wiki contained in a single PHP file. ([Demo](https://starbeamrainbowlabs.com/labs/peppermint/build/)) `MPL-2.0` `PHP`'
+SourceType: Github
+Line: 1624

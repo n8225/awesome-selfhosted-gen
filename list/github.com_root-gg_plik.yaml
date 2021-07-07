@@ -1,0 +1,19 @@
+ID: 494
+Name: Plik
+Description: Plik is a scalable and friendly temporary file upload system.
+Source Code: https://github.com/root-gg/plik
+Demo: https://plik.root.gg/
+License:
+    - MIT
+Languages:
+    - Go
+C: File Sharing and Synchronization
+C2: Single-click/drag-n-drop upload
+C3: ""
+Tags:
+    - File Sharing
+    - Single-Click Upload
+    - Drag-n-Drop Upload
+MD: '- [Plik](https://github.com/root-gg/plik) - Plik is a scalable and friendly temporary file upload system. ([Demo](https://plik.root.gg/)) `MIT` `Go`'
+SourceType: Github
+Line: 797

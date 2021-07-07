@@ -1,0 +1,18 @@
+ID: 970
+Name: Atheos
+Description: Web-based IDE framework with a small footprint and minimal requirements, continued from Codiad.
+Source Code: https://github.com/Atheos/Atheos
+Website: https://www.atheos.io
+License:
+    - MIT
+Languages:
+    - PHP
+C: Software Development
+C2: IDE/Tools
+C3: ""
+Tags:
+    - Software Dev
+    - IDE
+MD: '- [Atheos](https://www.atheos.io) - Web-based IDE framework with a small footprint and minimal requirements, continued from Codiad. ([Source Code](https://github.com/Atheos/Atheos)) `MIT` `PHP`'
+SourceType: Github
+Line: 1444

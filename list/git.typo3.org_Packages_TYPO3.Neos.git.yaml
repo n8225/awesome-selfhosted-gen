@@ -1,0 +1,16 @@
+ID: 322
+Name: Neos
+Description: Neos or TYPO3 Neos (for version 1) is a modern, open source CMS.
+Source Code: https://git.typo3.org/Packages/TYPO3.Neos.git
+Website: https://www.neos.io
+License:
+    - GPL-3.0
+Languages:
+    - PHP
+C: Content Management Systems (CMS)
+C2: ""
+C3: ""
+Tags:
+    - CMS
+MD: '- [Neos](https://www.neos.io) - Neos or TYPO3 Neos (for version 1) is a modern, open source CMS. ([Source Code](https://git.typo3.org/Packages/TYPO3.Neos.git)) `GPL-3.0` `PHP`'
+Line: 552

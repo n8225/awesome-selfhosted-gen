@@ -1,0 +1,20 @@
+ID: 250
+Name: Libreddit
+Description: Private front-end for Reddit written in Rust.
+Source Code: https://github.com/spikecodes/libreddit
+Website: https://libredd.it/
+License:
+    - AGPL-3.0
+Languages:
+    - Rust
+C: Communication systems
+C2: Social Networks and Forums
+C3: ""
+Tags:
+    - Communications
+    - Social Network
+    - Forum
+ProprietaryDependency: true
+MD: '- [Libreddit](https://libredd.it/) `⚠` - Private front-end for Reddit written in Rust. ([Source Code](https://github.com/spikecodes/libreddit)) `AGPL-3.0` `Rust`'
+SourceType: Github
+Line: 456

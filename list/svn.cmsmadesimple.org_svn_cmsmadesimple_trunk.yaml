@@ -1,0 +1,16 @@
+ID: 308
+Name: CMS Made Simple
+Description: Open source content management system, faster and easier management of website contents, scalable for small businesses to large corporations.
+Source Code: http://svn.cmsmadesimple.org/svn/cmsmadesimple/trunk/
+Website: http://www.cmsmadesimple.org/
+License:
+    - GPL-1.0
+Languages:
+    - PHP
+C: Content Management Systems (CMS)
+C2: ""
+C3: ""
+Tags:
+    - CMS
+MD: '- [CMS Made Simple](http://www.cmsmadesimple.org/) - Open source content management system, faster and easier management of website contents, scalable for small businesses to large corporations. ([Source Code](http://svn.cmsmadesimple.org/svn/cmsmadesimple/trunk/)) `GPL-1.0` `PHP`'
+Line: 538

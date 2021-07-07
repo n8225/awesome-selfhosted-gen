@@ -1,0 +1,16 @@
+ID: 908
+Name: sish
+Description: Open source serveo/ngrok alternative providing HTTP(S)/WS(S)/TCP tunnels to localhost using only SSH.
+Source Code: https://github.com/antoniomika/sish
+License:
+    - MIT
+Languages:
+    - Go
+C: Proxy
+C2: ""
+C3: ""
+Tags:
+    - Proxy
+MD: '- [sish](https://github.com/antoniomika/sish) - Open source serveo/ngrok alternative providing HTTP(S)/WS(S)/TCP tunnels to localhost using only SSH. `MIT` `Go`'
+SourceType: Github
+Line: 1348

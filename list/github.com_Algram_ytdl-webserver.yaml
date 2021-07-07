@@ -1,0 +1,17 @@
+ID: 705
+Name: ytdl-webserver
+Description: Docker-ready webserver for downloading youtube videos.
+Source Code: https://github.com/Algram/ytdl-webserver
+License:
+    - MIT
+Languages:
+    - Nodejs
+C: Misc/Other
+C2: ""
+C3: ""
+Tags:
+    - Misc
+    - Other
+MD: '- [ytdl-webserver](https://github.com/Algram/ytdl-webserver) - Docker-ready webserver for downloading youtube videos. `MIT` `Nodejs`'
+SourceType: Github
+Line: 1084

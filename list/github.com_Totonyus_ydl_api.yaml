@@ -1,0 +1,17 @@
+ID: 45
+Name: ydl_api
+Description: Simple youtube-dl REST API to launch downloads on a distant server.
+Source Code: https://github.com/Totonyus/ydl_api
+Website: https://github.com/Totonyus/ydl_api
+License:
+    - Unlicense
+Languages:
+    - Python
+C: Automation
+C2: ""
+C3: ""
+Tags:
+    - Automation
+MD: '- [ydl_api](https://github.com/Totonyus/ydl_api) - Simple youtube-dl REST API to launch downloads on a distant server. ([Source Code](https://github.com/Totonyus/ydl_api)) `Unlicense` `Python`'
+SourceType: Github
+Line: 171

@@ -1,0 +1,16 @@
+ID: 1089
+Name: Wiki.js
+Description: Modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown.
+Source Code: https://wiki.js.org/
+Demo: https://docs.requarks.io
+License:
+    - AGPL-3.0
+Languages:
+    - Nodejs
+C: Wikis
+C2: ""
+C3: ""
+Tags:
+    - Wiki
+MD: '- [Wiki.js](https://wiki.js.org/) - Modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown. ([Demo](https://docs.requarks.io)) `AGPL-3.0` `Nodejs`'
+Line: 1632

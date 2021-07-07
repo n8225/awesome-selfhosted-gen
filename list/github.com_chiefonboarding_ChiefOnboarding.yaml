@@ -1,0 +1,17 @@
+ID: 16
+Name: ChiefOnboarding
+Description: Employee onboarding platform that allows you to provision user accounts and create sequences with todo items, resources, text/email/Slack messages, and more! Available as a web portal and Slack bot.
+Source Code: https://github.com/chiefonboarding/ChiefOnboarding
+Website: https://chiefonboarding.com
+License:
+    - AGPL-3.0
+Languages:
+    - Python
+C: Automation
+C2: ""
+C3: ""
+Tags:
+    - Automation
+MD: '- [ChiefOnboarding](https://chiefonboarding.com) - Employee onboarding platform that allows you to provision user accounts and create sequences with todo items, resources, text/email/Slack messages, and more! Available as a web portal and Slack bot. ([Source Code](https://github.com/chiefonboarding/ChiefOnboarding)) `AGPL-3.0` `Python`'
+SourceType: Github
+Line: 142

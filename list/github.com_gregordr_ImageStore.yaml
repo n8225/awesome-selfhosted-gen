@@ -1,0 +1,18 @@
+ID: 861
+Name: ImageStore
+Description: Self-hosted Google Photos alternative, with a very similar UI.
+Source Code: https://github.com/gregordr/ImageStore
+Demo: https://gregordr.github.io/ImageStore/
+License:
+    - Apache-2.0
+Languages:
+    - Nodejs
+    - Docker
+C: Photo and Video Galleries
+C2: ""
+C3: ""
+Tags:
+    - Photo and Video Gallery
+MD: '- [ImageStore](https://github.com/gregordr/ImageStore) - Self-hosted Google Photos alternative, with a very similar UI. ([Demo](https://gregordr.github.io/ImageStore/)) `Apache-2.0` `Nodejs/Docker`'
+SourceType: Github
+Line: 1288

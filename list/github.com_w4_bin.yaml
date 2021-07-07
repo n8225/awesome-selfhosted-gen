@@ -1,0 +1,17 @@
+ID: 809
+Name: bin
+Description: a paste bin.
+Source Code: https://github.com/w4/bin
+License:
+    - WTFPL
+    - 0BSD
+Languages:
+    - Rust
+C: Pastebins
+C2: ""
+C3: ""
+Tags:
+    - Pastebin
+MD: '- [bin](https://github.com/w4/bin) - a paste bin. `WTFPL/0BSD` `Rust`'
+SourceType: Github
+Line: 1224

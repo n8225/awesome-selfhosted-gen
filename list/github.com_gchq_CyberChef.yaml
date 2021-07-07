@@ -1,0 +1,18 @@
+ID: 696
+Name: CyberChef
+Description: Perform all manner of operations within a web browser such as AES, DES and Blowfish encryption and decryption, creating hexdumps, calculating hashes, and much more.
+Source Code: https://github.com/gchq/CyberChef
+Demo: https://gchq.github.io/CyberChef
+License:
+    - Apache-2.0
+Languages:
+    - HTML5
+C: Misc/Other
+C2: ""
+C3: ""
+Tags:
+    - Misc
+    - Other
+MD: '- [CyberChef](https://github.com/gchq/CyberChef) - Perform all manner of operations within a web browser such as AES, DES and Blowfish encryption and decryption, creating hexdumps, calculating hashes, and much more. ([Demo](https://gchq.github.io/CyberChef)) `Apache-2.0` `Javascript`'
+SourceType: Github
+Line: 1075

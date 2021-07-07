@@ -1,0 +1,19 @@
+ID: 738
+Name: Economizzer
+Description: An easy and secure system for you to manage your personal money and achieve your goals, and can be accessed by computer, tablet or smartphone.
+Source Code: https://github.com/gugoan/economizzer
+Demo: https://github.com/gugoan/economizzer#live-demo
+Website: http://www.economizzer.org/
+License:
+    - MIT
+Languages:
+    - PHP
+C: Money, Budgeting and Management
+C2: ""
+C3: ""
+Tags:
+    - Money
+    - Budget
+MD: '- [Economizzer](http://www.economizzer.org/) - An easy and secure system for you to manage your personal money and achieve your goals, and can be accessed by computer, tablet or smartphone. ([Demo](https://github.com/gugoan/economizzer#live-demo), [Source Code](https://github.com/gugoan/economizzer)) `MIT` `PHP`'
+SourceType: Github
+Line: 1124

@@ -1,0 +1,20 @@
+ID: 445
+Name: Nextcloud
+Description: Access and share your files, calendars, contacts, mail and [more](https://apps.nextcloud.com/) from any device, on your terms.
+Source Code: https://github.com/nextcloud/server
+Demo: https://demo.nextcloud.com/
+Website: https://nextcloud.com/
+License:
+    - AGPL-3.0
+Languages:
+    - PHP
+C: File Sharing and Synchronization
+C2: File transfer/synchronization
+C3: ""
+Tags:
+    - File Sharing
+    - File Transfer
+    - File Sync
+MD: '- [Nextcloud](https://nextcloud.com/) - Access and share your files, calendars, contacts, mail and [more](https://apps.nextcloud.com/) from any device, on your terms. ([Demo](https://demo.nextcloud.com/), [Source Code](https://github.com/nextcloud/server)) `AGPL-3.0` `PHP`'
+SourceType: Github
+Line: 739

@@ -1,0 +1,17 @@
+ID: 122
+Name: OTS
+Description: One-Time-Secret sharing platform with a symmetric 256bit AES encryption in the browser.
+Source Code: https://github.com/Luzifer/ots
+Website: https://ots.fyi/
+License:
+    - Apache-2.0
+Languages:
+    - Go
+C: Communication systems
+C2: Custom communication systems
+C3: ""
+Tags:
+    - Communications
+MD: '- [OTS](https://ots.fyi/) - One-Time-Secret sharing platform with a symmetric 256bit AES encryption in the browser. ([Source Code](https://github.com/Luzifer/ots)) `Apache-2.0` `Go`'
+SourceType: Github
+Line: 282

@@ -1,0 +1,19 @@
+ID: 513
+Name: FileGator
+Description: FileGator is a powerful multi-user file manager with a single page front-end.
+Source Code: https://github.com/filegator/filegator
+Demo: https://demo.filegator.io
+Website: https://filegator.io/
+License:
+    - MIT
+Languages:
+    - PHP
+C: File Sharing and Synchronization
+C2: Web based file managers
+C3: ""
+Tags:
+    - File Sharing
+    - Web File MGR
+MD: '- [FileGator](https://filegator.io/) - FileGator is a powerful multi-user file manager with a single page front-end. ([Demo](https://demo.filegator.io), [Source Code](https://github.com/filegator/filegator)) `MIT` `PHP`'
+SourceType: Github
+Line: 822

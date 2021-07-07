@@ -1,0 +1,18 @@
+ID: 776
+Name: Overleaf
+Description: Web-based collaborative LaTeX editor.
+Source Code: https://github.com/overleaf/overleaf
+Website: https://www.overleaf.com/
+License:
+    - AGPL-3.0
+Languages:
+    - Ruby
+C: Note-taking and Editors
+C2: ""
+C3: ""
+Tags:
+    - Note-taking
+    - Editor
+MD: '- [Overleaf](https://www.overleaf.com/) - Web-based collaborative LaTeX editor. ([Source Code](https://github.com/overleaf/overleaf)) `AGPL-3.0` `Ruby`'
+SourceType: Github
+Line: 1175

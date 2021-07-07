@@ -1,0 +1,17 @@
+ID: 999
+Name: Hapttic
+Description: Simple HTTP server that forwards all requests to a shell script to handle webhooks you receive.
+Source Code: https://github.com/jsoendermann/hapttic
+License:
+    - Apache-2.0
+Languages:
+    - Go
+C: Software Development
+C2: API Management
+C3: ""
+Tags:
+    - Software Dev
+    - API Mgmnt
+MD: '- [Hapttic](https://github.com/jsoendermann/hapttic) - Simple HTTP server that forwards all requests to a shell script to handle webhooks you receive. `Apache-2.0` `Go`'
+SourceType: Github
+Line: 1488

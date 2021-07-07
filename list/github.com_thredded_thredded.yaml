@@ -1,0 +1,18 @@
+ID: 274
+Name: Thredded
+Description: Forums, feature-rich and simple.
+Source Code: https://github.com/thredded/thredded
+License:
+    - MIT
+Languages:
+    - Ruby
+C: Communication systems
+C2: Social Networks and Forums
+C3: ""
+Tags:
+    - Communications
+    - Social Network
+    - Forum
+MD: '- [Thredded](https://github.com/thredded/thredded) - Forums, feature-rich and simple. `MIT` `Ruby`'
+SourceType: Github
+Line: 480

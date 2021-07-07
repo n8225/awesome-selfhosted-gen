@@ -1,0 +1,18 @@
+ID: 1003
+Name: KrakenD
+Description: Open source High-Performance API Gateway.
+Source Code: https://github.com/devopsfaith/krakend
+Website: https://www.krakend.io/
+License:
+    - Apache-2.0
+Languages:
+    - Go
+C: Software Development
+C2: API Management
+C3: ""
+Tags:
+    - Software Dev
+    - API Mgmnt
+MD: '- [KrakenD](https://www.krakend.io/) - Open source High-Performance API Gateway. ([Source Code](https://github.com/devopsfaith/krakend)) `Apache-2.0` `Go`'
+SourceType: Github
+Line: 1492

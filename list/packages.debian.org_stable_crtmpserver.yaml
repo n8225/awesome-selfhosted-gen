@@ -1,0 +1,17 @@
+ID: 662
+Name: crtmpserver
+Description: High performance RTMP/RTSP streaming server.
+Source Code: https://packages.debian.org/stable/crtmpserver
+License:
+    - GPL-3.0
+Languages:
+    - C++
+C: Media Streaming
+C2: Video Streaming
+C3: ""
+Tags:
+    - Media
+    - Streaming
+    - Video
+MD: '- [crtmpserver](https://packages.debian.org/stable/crtmpserver) - High performance RTMP/RTSP streaming server. `GPL-3.0` `C++`'
+Line: 1036

@@ -1,0 +1,17 @@
+ID: 727
+Name: TeslaMate
+Description: A powerful data logger for Tesla vehicles.
+Source Code: https://github.com/adriankumpf/teslamate
+License:
+    - MIT
+Languages:
+    - Elixir
+C: Misc/Other
+C2: ""
+C3: ""
+Tags:
+    - Misc
+    - Other
+MD: '- [TeslaMate](https://github.com/adriankumpf/teslamate) - A powerful data logger for Tesla vehicles. `MIT` `Elixir`'
+SourceType: Github
+Line: 1106

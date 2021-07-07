@@ -1,0 +1,17 @@
+ID: 730
+Name: Web fonts repository
+Description: Simple webfont hosting. Google Fonts alternative for your own fonts.
+Source Code: https://github.com/Finesse/web-fonts-repository
+License:
+    - MIT
+Languages:
+    - PHP
+C: Misc/Other
+C2: ""
+C3: ""
+Tags:
+    - Misc
+    - Other
+MD: '- [Web fonts repository](https://github.com/Finesse/web-fonts-repository) - Simple webfont hosting. Google Fonts alternative for your own fonts. `MIT` `PHP`'
+SourceType: Github
+Line: 1109

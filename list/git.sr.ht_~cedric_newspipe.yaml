@@ -1,0 +1,17 @@
+ID: 421
+Name: Newspipe
+Description: Newspipe is a web news reader.
+Source Code: https://git.sr.ht/~cedric/newspipe
+Demo: https://www.newspipe.org/signup
+License:
+    - AGPL-3.0
+Languages:
+    - Python
+C: Feed Readers
+C2: ""
+C3: ""
+Tags:
+    - RSS
+    - Feed Reader
+MD: '- [Newspipe](https://git.sr.ht/~cedric/newspipe) - Newspipe is a web news reader. ([Demo](https://www.newspipe.org/signup)) `AGPL-3.0` `Python`'
+Line: 696

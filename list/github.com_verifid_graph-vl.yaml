@@ -1,0 +1,17 @@
+ID: 702
+Name: graph-vl
+Description: Identity document verification using Machine Learning and GraphQL.
+Source Code: https://github.com/verifid/graph-vl
+License:
+    - MIT
+Languages:
+    - Python
+C: Misc/Other
+C2: ""
+C3: ""
+Tags:
+    - Misc
+    - Other
+MD: '- [graph-vl](https://github.com/verifid/graph-vl) - Identity document verification using Machine Learning and GraphQL. `MIT` `Python`'
+SourceType: Github
+Line: 1081

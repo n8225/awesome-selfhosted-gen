@@ -1,0 +1,16 @@
+ID: 538
+Name: Quizmaster
+Description: A web-app for conducting a quiz, including a page for players to enter their answers.
+Source Code: https://github.com/nymanjens/quizmaster
+License:
+    - Apache-2.0
+Languages:
+    - scala
+C: Games
+C2: ""
+C3: ""
+Tags:
+    - Game
+MD: '- [Quizmaster](https://github.com/nymanjens/quizmaster) - A web-app for conducting a quiz, including a page for players to enter their answers. `Apache-2.0` `Scala`'
+SourceType: Github
+Line: 854

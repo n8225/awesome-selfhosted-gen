@@ -1,0 +1,16 @@
+ID: 553
+Name: tmate
+Description: Instant terminal sharing.
+Source Code: https://github.com/tmate-io/tmate
+Website: https://tmate.io/
+License:
+    - ISC
+Languages:
+    - C
+C: Gateways and terminal sharing
+C2: ""
+C3: ""
+Tags: []
+MD: '- [tmate](https://tmate.io/) - Instant terminal sharing. ([Source Code](https://github.com/tmate-io/tmate)) `ISC` `C`'
+SourceType: Github
+Line: 874

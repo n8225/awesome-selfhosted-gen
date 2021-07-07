@@ -1,0 +1,19 @@
+ID: 252
+Name: Mastodon
+Description: Federated microblogging server, an alternative to GNU social.
+Source Code: https://github.com/tootsuite/mastodon
+Website: https://joinmastodon.org/
+License:
+    - AGPL-3.0
+Languages:
+    - Ruby
+C: Communication systems
+C2: Social Networks and Forums
+C3: ""
+Tags:
+    - Communications
+    - Social Network
+    - Forum
+MD: '- [Mastodon](https://joinmastodon.org/) - Federated microblogging server, an alternative to GNU social. ([Source Code](https://github.com/tootsuite/mastodon)) `AGPL-3.0` `Ruby`'
+SourceType: Github
+Line: 458

@@ -1,0 +1,19 @@
+ID: 964
+Name: Titra
+Description: Time-tracking solution for freelancers and small teams.
+Source Code: https://github.com/kromitgmbh/titra
+Demo: https://app.titra.io/try
+Website: https://titra.io/en/free-time-tracking-online/
+License:
+    - GPL-3.0
+Languages:
+    - HTML5
+C: Software Development
+C2: Project Management
+C3: ""
+Tags:
+    - Software Dev
+    - Project Mgmnt
+MD: '- [Titra](https://titra.io/en/free-time-tracking-online/) - Time-tracking solution for freelancers and small teams. ([Demo](https://app.titra.io/try), [Source Code](https://github.com/kromitgmbh/titra)) `GPL-3.0` `Javascript`'
+SourceType: Github
+Line: 1431

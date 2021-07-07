@@ -1,0 +1,19 @@
+ID: 940
+Name: Gitea
+Description: Community managed fork of Gogs, lightweight code hosting solution.
+Source Code: https://github.com/go-gitea/gitea
+Demo: https://try.gitea.io
+Website: https://gitea.io
+License:
+    - MIT
+Languages:
+    - Go
+C: Software Development
+C2: Project Management
+C3: ""
+Tags:
+    - Software Dev
+    - Project Mgmnt
+MD: '- [Gitea](https://gitea.io) - Community managed fork of Gogs, lightweight code hosting solution. ([Demo](https://try.gitea.io), [Source Code](https://github.com/go-gitea/gitea)) `MIT` `Go`'
+SourceType: Github
+Line: 1407

@@ -1,0 +1,17 @@
+ID: 852
+Name: Smashing
+Description: Smashing, the spiritual successor to Dashing, is a Sinatra based framework that lets you build excellent dashboards. It looks especially great on TVs.
+Source Code: https://github.com/Smashing/smashing
+Website: https://smashing.github.io/
+License:
+    - MIT
+Languages:
+    - Ruby
+C: Personal Dashboards
+C2: ""
+C3: ""
+Tags:
+    - Dashboard
+MD: '- [Smashing](https://smashing.github.io/) - Smashing, the spiritual successor to Dashing, is a Sinatra based framework that lets you build excellent dashboards. It looks especially great on TVs. ([Source Code](https://github.com/Smashing/smashing)) `MIT` `Ruby`'
+SourceType: Github
+Line: 1274

@@ -1,0 +1,18 @@
+ID: 860
+Name: HomeGallery
+Description: Self-hosted open-source web gallery to browse personal photos and videos featuring tagging, mobile-friendly, and AI powered image discovery.
+Source Code: https://github.com/xemle/home-gallery
+Demo: https://demo.home-gallery.org
+Website: https://home-gallery.org
+License:
+    - MIT
+Languages:
+    - Nodejs
+C: Photo and Video Galleries
+C2: ""
+C3: ""
+Tags:
+    - Photo and Video Gallery
+MD: '- [HomeGallery](https://home-gallery.org) - Self-hosted open-source web gallery to browse personal photos and videos featuring tagging, mobile-friendly, and AI powered image discovery. ([Demo](https://demo.home-gallery.org), [Source Code](https://github.com/xemle/home-gallery)) `MIT` `Nodejs`'
+SourceType: Github
+Line: 1287

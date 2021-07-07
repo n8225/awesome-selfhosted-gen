@@ -1,0 +1,22 @@
+ID: 287
+Name: Snikket
+Description: All-in-one Dockerized easy XMPP solution, including web admin and clients.
+Source Code: https://github.com/snikket-im/snikket-server
+Clients:
+    - https://snikket.org/app/
+Website: https://snikket.org/
+License:
+    - Apache-2.0
+Languages:
+    - Lua
+    - Python
+C: Communication systems
+C2: XMPP
+C3: XMPP Servers
+Tags:
+    - Communications
+    - XMPP
+    - XMPP Server
+MD: '- [Snikket](https://snikket.org/) - All-in-one Dockerized easy XMPP solution, including web admin and clients. ([Source Code](https://github.com/snikket-im/snikket-server), [Clients](https://snikket.org/app/)) `Apache-2.0` `Lua/Python`'
+SourceType: Github
+Line: 502

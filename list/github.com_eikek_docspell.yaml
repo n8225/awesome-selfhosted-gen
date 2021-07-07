@@ -1,0 +1,18 @@
+ID: 383
+Name: Docspell
+Description: Auto-tagging document organizer and archive.
+Source Code: https://github.com/eikek/docspell
+Website: https://docspell.org
+License:
+    - GPL-3.0
+Languages:
+    - scala
+    - Java
+C: Document Management
+C2: ""
+C3: ""
+Tags:
+    - Doc Mgmnt
+MD: '- [Docspell](https://docspell.org) - Auto-tagging document organizer and archive. ([Source Code](https://github.com/eikek/docspell)) `GPL-3.0` `Scala/Java`'
+SourceType: Github
+Line: 631

@@ -1,0 +1,18 @@
+ID: 418
+Name: Miniflux
+Description: Miniflux 2 is a minimalist and open source news reader, written in Go and PostgreSQL.
+Source Code: https://github.com/miniflux/miniflux
+Website: https://miniflux.net/
+License:
+    - Apache-2.0
+Languages:
+    - Go
+C: Feed Readers
+C2: ""
+C3: ""
+Tags:
+    - RSS
+    - Feed Reader
+MD: '- [Miniflux](https://miniflux.net/) - Miniflux 2 is a minimalist and open source news reader, written in Go and PostgreSQL. ([Source Code](https://github.com/miniflux/miniflux)) `Apache-2.0` `Go`'
+SourceType: Github
+Line: 693

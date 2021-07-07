@@ -1,0 +1,19 @@
+ID: 927
+Name: Ambar
+Description: Document Search Engine (OCR, Store & Search).
+Source Code: https://github.com/RD17/ambar
+Demo: https://app.ambar.cloud/
+Website: https://ambar.cloud
+License:
+    - MIT
+Languages:
+    - Nodejs
+    - Python
+C: Search Engines
+C2: ""
+C3: ""
+Tags:
+    - Search Engine
+MD: '- [Ambar](https://ambar.cloud) - Document Search Engine (OCR, Store & Search). ([Demo](https://app.ambar.cloud/), [Source Code](https://github.com/RD17/ambar)) `MIT` `Nodejs/Python`'
+SourceType: Github
+Line: 1385

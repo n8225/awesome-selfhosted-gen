@@ -1,0 +1,19 @@
+ID: 228
+Name: Buddycloud
+Description: Tools, libraries, services and a community to build user-to-user, group and social messaging into your app. Saves time. Scales up. Supports you.
+Source Code: https://github.com/buddycloud
+Website: http://buddycloud.com/
+License:
+    - Apache-2.0
+Languages:
+    - Java
+C: Communication systems
+C2: Social Networks and Forums
+C3: ""
+Tags:
+    - Communications
+    - Social Network
+    - Forum
+MD: '- [Buddycloud](http://buddycloud.com/) - Tools, libraries, services and a community to build user-to-user, group and social messaging into your app. Saves time. Scales up. Supports you. ([Source Code](https://github.com/buddycloud)) `Apache-2.0` `Java`'
+SourceType: Github
+Line: 434

@@ -1,0 +1,18 @@
+ID: 215
+Name: Kamailio
+Description: Modular SIP server (registrar/proxy/router/etc).
+Source Code: https://github.com/kamailio/kamailio
+Website: http://www.kamailio.org/w/
+License:
+    - GPL-2.0
+Languages:
+    - C
+C: Communication systems
+C2: SIP
+C3: ""
+Tags:
+    - Communications
+    - SIP
+MD: '- [Kamailio](http://www.kamailio.org/w/) - Modular SIP server (registrar/proxy/router/etc). ([Source Code](https://github.com/kamailio/kamailio)) `GPL-2.0` `C`'
+SourceType: Github
+Line: 416

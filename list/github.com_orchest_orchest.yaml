@@ -1,0 +1,19 @@
+ID: 719
+Name: Orchest
+Description: A new kind of IDE for Data Science.
+Source Code: https://github.com/orchest/orchest
+Demo: https://cloud.orchest.io
+Website: https://www.orchest.io/
+License:
+    - AGPL-3.0
+Languages:
+    - Docker
+C: Misc/Other
+C2: ""
+C3: ""
+Tags:
+    - Misc
+    - Other
+MD: '- [Orchest](https://www.orchest.io/) - A new kind of IDE for Data Science. ([Demo](https://cloud.orchest.io), [Source Code](https://github.com/orchest/orchest)) `AGPL-3.0` `Docker`'
+SourceType: Github
+Line: 1098

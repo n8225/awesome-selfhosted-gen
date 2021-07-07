@@ -1,0 +1,18 @@
+ID: 173
+Name: Piler
+Description: feature-rich open source email archiving solution.
+Source Code: https://bitbucket.org/jsuto/piler
+Website: http://www.mailpiler.org/wiki/start
+License:
+    - GPL-3.0
+Languages:
+    - C
+C: Communication systems
+C2: Email
+C3: Mail Delivery Agents
+Tags:
+    - Communications
+    - Email
+    - MDA
+MD: '- [Piler](http://www.mailpiler.org/wiki/start) - feature-rich open source email archiving solution. ([Source Code](https://bitbucket.org/jsuto/piler)) `GPL-3.0` `C`'
+Line: 352

@@ -1,0 +1,19 @@
+ID: 612
+Name: Orion
+Description: Powerful OwnTracks API-compliant location data visualization frontend for the web.
+Source Code: https://github.com/LINKIWI/orion-web
+Demo: https://linkiwi.github.io/orion-web/
+License:
+    - MIT
+Languages:
+    - Python
+    - Nodejs
+C: Maps and Global Positioning System (GPS)
+C2: ""
+C3: ""
+Tags:
+    - Maps
+    - GPS
+MD: '- [Orion](https://github.com/LINKIWI/orion-web) - Powerful OwnTracks API-compliant location data visualization frontend for the web. ([Demo](https://linkiwi.github.io/orion-web/)) `MIT` `Python/Nodejs`'
+SourceType: Github
+Line: 970

@@ -1,0 +1,20 @@
+ID: 190
+Name: Isotope Mail
+Description: Microservice based webmail client built with ReactJS and Spring.
+Source Code: https://github.com/manusa/isotope-mail
+Website: https://blog.marcnuri.com/isotope-mail-client-introduction/
+License:
+    - Apache-2.0
+Languages:
+    - Docker
+    - Java
+C: Communication systems
+C2: Email
+C3: Webmail clients
+Tags:
+    - Communications
+    - Email
+    - Webmail
+MD: '- [Isotope Mail](https://blog.marcnuri.com/isotope-mail-client-introduction/) - Microservice based webmail client built with ReactJS and Spring. ([Source Code](https://github.com/manusa/isotope-mail)) `Apache-2.0` `Docker/Java`'
+SourceType: Github
+Line: 377

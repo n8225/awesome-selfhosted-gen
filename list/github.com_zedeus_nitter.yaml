@@ -1,0 +1,19 @@
+ID: 258
+Name: Nitter
+Description: A alternative front end to twitter.
+Source Code: https://github.com/zedeus/nitter
+Website: https://nitter.net
+License:
+    - AGPL-3.0
+Languages: []
+C: Communication systems
+C2: Social Networks and Forums
+C3: ""
+Tags:
+    - Communications
+    - Social Network
+    - Forum
+ProprietaryDependency: true
+MD: '- [Nitter](https://nitter.net) `⚠` - A alternative front end to twitter. ([Source Code](https://github.com/zedeus/nitter)) `AGPL-3.0` `Nimble`'
+SourceType: Github
+Line: 464

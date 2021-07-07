@@ -1,0 +1,17 @@
+ID: 523
+Name: A Dark Room
+Description: Minimalist text adventure game for your browser.
+Source Code: https://github.com/doublespeakgames/adarkroom
+Demo: http://adarkroom.doublespeakgames.com/
+License:
+    - MPL-2.0
+Languages:
+    - HTML5
+C: Games
+C2: ""
+C3: ""
+Tags:
+    - Game
+MD: '- [A Dark Room](https://github.com/doublespeakgames/adarkroom) - Minimalist text adventure game for your browser. ([Demo](http://adarkroom.doublespeakgames.com/)) `MPL-2.0` `HTML5`'
+SourceType: Github
+Line: 839

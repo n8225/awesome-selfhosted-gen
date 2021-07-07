@@ -1,0 +1,20 @@
+ID: 1033
+Name: todoMini
+Description: Mobile friendly zero-feature TODO list web app. Unix philosophy.
+Source Code: https://github.com/appMini/todoMini
+Demo: https://appmini.github.io/todoMini/?demo
+Website: https://www.todomini.app/
+License:
+    - GPL-3.0
+Languages:
+    - PHP
+    - Java
+C: Task management/To-do lists
+C2: ""
+C3: ""
+Tags:
+    - To-Do
+    - Task Mgmnt
+MD: '- [todoMini](https://www.todomini.app/) - Mobile friendly zero-feature TODO list web app. Unix philosophy. ([Demo](https://appmini.github.io/todoMini/?demo), [Source Code](https://github.com/appMini/todoMini)) `GPL-3.0` `PHP/Java`'
+SourceType: Github
+Line: 1543

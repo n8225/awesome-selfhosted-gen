@@ -1,0 +1,19 @@
+ID: 369
+Name: Saleor
+Description: Django based open-sourced e-commerce storefront.
+Source Code: https://github.com/mirumee/saleor
+Demo: https://demo.getsaleor.com/
+Website: http://getsaleor.com/
+License:
+    - BSD-3-Clause
+Languages:
+    - Python
+C: Content Management Systems (CMS)
+C2: E-commerce
+C3: ""
+Tags:
+    - CMS
+    - E-commerce
+MD: '- [Saleor](http://getsaleor.com/) - Django based open-sourced e-commerce storefront. ([Demo](https://demo.getsaleor.com/), [Source Code](https://github.com/mirumee/saleor)) `BSD-3-Clause` `Python`'
+SourceType: Github
+Line: 605

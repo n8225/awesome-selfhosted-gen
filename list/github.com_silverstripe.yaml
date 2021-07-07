@@ -1,0 +1,18 @@
+ID: 336
+Name: SilverStripe
+Description: Easy to use CMS with powerful MVC framework underlying.
+Source Code: https://github.com/silverstripe
+Demo: http://demo.silverstripe.org/
+Website: https://www.silverstripe.org
+License:
+    - BSD-3-Clause
+Languages:
+    - PHP
+C: Content Management Systems (CMS)
+C2: ""
+C3: ""
+Tags:
+    - CMS
+MD: '- [SilverStripe](https://www.silverstripe.org) - Easy to use CMS with powerful MVC framework underlying. ([Demo](http://demo.silverstripe.org/), [Source Code](https://github.com/silverstripe)) `BSD-3-Clause` `PHP`'
+SourceType: Github
+Line: 566

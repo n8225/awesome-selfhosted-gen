@@ -1,0 +1,17 @@
+ID: 1093
+Name: Ansible-NAS
+Description: Build a full-featured home server with this playbook and an Ubuntu box.
+Source Code: https://github.com/DaveStephens/ansible-nas
+License:
+    - MIT
+Languages:
+    - YAML
+    - Docker
+C: Self-hosting Solutions
+C2: ""
+C3: ""
+Tags:
+    - Self-hosting Solution
+MD: '- [Ansible-NAS](https://github.com/DaveStephens/ansible-nas) - Build a full-featured home server with this playbook and an Ubuntu box. `MIT` `YAML/Docker`'
+SourceType: Github
+Line: 1641

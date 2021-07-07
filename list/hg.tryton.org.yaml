@@ -1,0 +1,18 @@
+ID: 926
+Name: Tryton
+Description: Free open source business solution.
+Source Code: https://hg.tryton.org/
+Demo: http://www.tryton.org/download.html
+Website: http://www.tryton.org/
+License:
+    - GPL-3.0
+Languages:
+    - Python
+C: Resource Planning
+C2: Enterprise Resource Planning
+C3: ""
+Tags:
+    - Resource Planning
+    - Enterprise rsrc planning
+MD: '- [Tryton](http://www.tryton.org/) - Free open source business solution. ([Demo](http://www.tryton.org/download.html), [Source Code](https://hg.tryton.org/)) `GPL-3.0` `Python`'
+Line: 1379

@@ -1,0 +1,19 @@
+ID: 498
+Name: Pste
+Description: Just a simple file hosting application inspired by the likes of pomf.se and teknik.io.
+Source Code: https://github.com/FoxDev/pste
+Website: https://dev.pste.pw/
+License:
+    - GPL-3.0
+Languages:
+    - Python
+C: File Sharing and Synchronization
+C2: Single-click/drag-n-drop upload
+C3: ""
+Tags:
+    - File Sharing
+    - Single-Click Upload
+    - Drag-n-Drop Upload
+MD: '- [Pste](https://dev.pste.pw/) - Just a simple file hosting application inspired by the likes of pomf.se and teknik.io. ([Source Code](https://github.com/FoxDev/pste)) `GPL-3.0` `Python`'
+SourceType: Github
+Line: 801

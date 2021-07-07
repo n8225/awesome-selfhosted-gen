@@ -1,0 +1,18 @@
+ID: 474
+Name: ass
+Description: The superior self-hosted ShareX server. For use with clients such as ShareX (Windows), Flameshot (Linux), & MagicCap (Linux, macOS).
+Source Code: https://github.com/tycrek/ass
+License:
+    - ISC
+Languages:
+    - Nodejs
+C: File Sharing and Synchronization
+C2: Single-click/drag-n-drop upload
+C3: ""
+Tags:
+    - File Sharing
+    - Single-Click Upload
+    - Drag-n-Drop Upload
+MD: '- [ass](https://github.com/tycrek/ass) - The superior self-hosted ShareX server. For use with clients such as ShareX (Windows), Flameshot (Linux), & MagicCap (Linux, macOS). `ISC` `Nodejs`'
+SourceType: Github
+Line: 777

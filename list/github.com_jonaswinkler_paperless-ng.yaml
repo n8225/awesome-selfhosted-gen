@@ -1,0 +1,16 @@
+ID: 389
+Name: Paperless-ng
+Description: A fork of paperless, adding a new interface and many other changes under the hood. Scan, index, and archive all of your paper documents.
+Source Code: https://github.com/jonaswinkler/paperless-ng
+License:
+    - GPL-3.0
+Languages:
+    - Python
+C: Document Management
+C2: ""
+C3: ""
+Tags:
+    - Doc Mgmnt
+MD: '- [Paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A fork of paperless, adding a new interface and many other changes under the hood. Scan, index, and archive all of your paper documents. `GPL-3.0` `Python`'
+SourceType: Github
+Line: 637

@@ -1,0 +1,18 @@
+ID: 3
+Name: ArchiveBox
+Description: Self-hosted _wayback machine_ that creates HTML & screenshot archives of sites from your bookmarks, browsing history, RSS feeds, or other sources.
+Source Code: https://github.com/pirate/bookmark-archiver
+Website: https://archivebox.io/
+License:
+    - MIT
+Languages:
+    - Python
+C: Archiving and Digital Preservation (DP)
+C2: ""
+C3: ""
+Tags:
+    - archiving
+    - Digital Preservation
+MD: '- [ArchiveBox](https://archivebox.io/) - Self-hosted _wayback machine_ that creates HTML & screenshot archives of sites from your bookmarks, browsing history, RSS feeds, or other sources. ([Source Code](https://github.com/pirate/bookmark-archiver)) `MIT` `Python`'
+SourceType: Github
+Line: 122

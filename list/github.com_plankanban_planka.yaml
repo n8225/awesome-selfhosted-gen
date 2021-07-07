@@ -1,0 +1,19 @@
+ID: 1023
+Name: Planka
+Description: Open source Trello alternative.
+Source Code: https://github.com/plankanban/planka
+Demo: https://plankanban.github.io/planka/#/
+Website: https://planka.app/
+License:
+    - MIT
+Languages:
+    - Nodejs
+C: Task management/To-do lists
+C2: ""
+C3: ""
+Tags:
+    - To-Do
+    - Task Mgmnt
+MD: '- [Planka](https://planka.app/) - Open source Trello alternative. ([Demo](https://plankanban.github.io/planka/#/), [Source Code](https://github.com/plankanban/planka)) `MIT` `Nodejs`'
+SourceType: Github
+Line: 1533

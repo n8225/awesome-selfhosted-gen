@@ -1,0 +1,18 @@
+ID: 582
+Name: Node RED
+Description: Browser-based flow editor that helps you wiring hardware devices, APIs and online services to create IoT solutions.
+Source Code: https://github.com/node-red/node-red
+Website: http://nodered.org/
+License:
+    - Apache-2.0
+Languages:
+    - Nodejs
+C: Internet Of Things (IoT)
+C2: ""
+C3: ""
+Tags:
+    - Internet Of Things
+    - IoT
+MD: '- [Node RED](http://nodered.org/) - Browser-based flow editor that helps you wiring hardware devices, APIs and online services to create IoT solutions. ([Source Code](https://github.com/node-red/node-red)) `Apache-2.0` `Nodejs`'
+SourceType: Github
+Line: 923

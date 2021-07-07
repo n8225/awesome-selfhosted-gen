@@ -1,0 +1,19 @@
+ID: 881
+Name: dudle
+Description: Online scheduling application.
+Source Code: https://github.com/kellerben/dudle
+Demo: https://dudle.inf.tu-dresden.de/
+Website: http://primelife.ercim.eu/results/opensource/63-dudle
+License:
+    - AGPL-3.0
+Languages:
+    - Ruby
+C: Polls and Events
+C2: ""
+C3: ""
+Tags:
+    - Polls
+    - Events
+MD: '- [dudle](http://primelife.ercim.eu/results/opensource/63-dudle) - Online scheduling application. ([Demo](https://dudle.inf.tu-dresden.de/), [Source Code](https://github.com/kellerben/dudle)) `AGPL-3.0` `Ruby`'
+SourceType: Github
+Line: 1313

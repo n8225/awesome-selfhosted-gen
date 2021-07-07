@@ -1,0 +1,17 @@
+ID: 463
+Name: Opentracker
+Description: Open and free bittorrent tracker. It aims for minimal resource usage and is intended to run at your wlan router.
+Source Code: http://erdgeist.org/gitweb/opentracker/
+Website: http://erdgeist.org/arts/software/opentracker/
+License:
+    - Beerware
+Languages:
+    - C
+C: File Sharing and Synchronization
+C2: Peer-to-peer filesharing
+C3: ""
+Tags:
+    - File Sharing
+    - P2P
+MD: '- [Opentracker](http://erdgeist.org/arts/software/opentracker/) - Open and free bittorrent tracker. It aims for minimal resource usage and is intended to run at your wlan router. ([Source Code](http://erdgeist.org/gitweb/opentracker/)) `Beerware` `C`'
+Line: 760

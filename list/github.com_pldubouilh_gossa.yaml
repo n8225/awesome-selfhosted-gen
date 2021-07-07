@@ -1,0 +1,17 @@
+ID: 516
+Name: Gossa
+Description: Gossa is a light and simple webserver for your files.
+Source Code: https://github.com/pldubouilh/gossa
+License:
+    - MIT
+Languages:
+    - Go
+C: File Sharing and Synchronization
+C2: Web based file managers
+C3: ""
+Tags:
+    - File Sharing
+    - Web File MGR
+MD: '- [Gossa](https://github.com/pldubouilh/gossa) - Gossa is a light and simple webserver for your files. `MIT` `Go`'
+SourceType: Github
+Line: 825

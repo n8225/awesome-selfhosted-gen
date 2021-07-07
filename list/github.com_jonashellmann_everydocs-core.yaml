@@ -1,0 +1,16 @@
+ID: 384
+Name: EveryDocs
+Description: A simple Document Management System for private use with basic functionality to organize your documents digitally.
+Source Code: https://github.com/jonashellmann/everydocs-core/
+License:
+    - GPL-3.0
+Languages:
+    - Ruby
+C: Document Management
+C2: ""
+C3: ""
+Tags:
+    - Doc Mgmnt
+MD: '- [EveryDocs](https://github.com/jonashellmann/everydocs-core/) - A simple Document Management System for private use with basic functionality to organize your documents digitally. `GPL-3.0` `Ruby`'
+SourceType: Github
+Line: 632

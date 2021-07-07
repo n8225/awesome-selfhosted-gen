@@ -1,0 +1,18 @@
+ID: 13
+Name: Baserow
+Description: Open source online database tool and Airtable alternative. Create your own database without technical experience.
+Source Code: https://gitlab.com/bramw/baserow
+Website: https://baserow.io/
+License:
+    - MIT
+Languages:
+    - Python
+    - Nodejs
+C: Automation
+C2: ""
+C3: ""
+Tags:
+    - Automation
+MD: '- [Baserow](https://baserow.io/) - Open source online database tool and Airtable alternative. Create your own database without technical experience. ([Source Code](https://gitlab.com/bramw/baserow)) `MIT` `Python/Nodejs`'
+SourceType: Gitlab
+Line: 139

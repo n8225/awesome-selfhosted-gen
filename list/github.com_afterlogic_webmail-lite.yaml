@@ -1,0 +1,20 @@
+ID: 187
+Name: Afterlogic WebMail Lite
+Description: Fast and easy-to-use webmail front-end for your existing IMAP mail server, Plesk or cPanel.
+Source Code: https://github.com/afterlogic/webmail-lite
+Demo: https://lite.afterlogic.com/
+Website: http://www.afterlogic.org/webmail-lite
+License:
+    - AGPL-3.0
+Languages:
+    - PHP
+C: Communication systems
+C2: Email
+C3: Webmail clients
+Tags:
+    - Communications
+    - Email
+    - Webmail
+MD: '- [Afterlogic WebMail Lite](http://www.afterlogic.org/webmail-lite) - Fast and easy-to-use webmail front-end for your existing IMAP mail server, Plesk or cPanel. ([Demo](https://lite.afterlogic.com/), [Source Code](https://github.com/afterlogic/webmail-lite)) `AGPL-3.0` `PHP`'
+SourceType: Github
+Line: 374

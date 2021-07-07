@@ -1,0 +1,18 @@
+ID: 917
+Name: Wallabag
+Description: Wallabag, formerly Poche, is a web application allowing you to save articles to read them later with improved readability.
+Source Code: https://github.com/wallabag/wallabag
+Demo: https://app.wallabag.it/register/
+Website: https://www.wallabag.org
+License:
+    - MIT
+Languages:
+    - PHP
+C: Read it Later Lists
+C2: ""
+C3: ""
+Tags:
+    - Read it Later Lists
+MD: '- [Wallabag](https://www.wallabag.org) - Wallabag, formerly Poche, is a web application allowing you to save articles to read them later with improved readability. ([Demo](https://app.wallabag.it/register/), [Source Code](https://github.com/wallabag/wallabag)) `MIT` `PHP`'
+SourceType: Github
+Line: 1362

@@ -1,0 +1,18 @@
+ID: 400
+Name: pyShelf
+Description: Lightweight Ebook Server.
+Source Code: https://github.com/th3r00t/pyShelf
+Website: https://pyshelf.com
+License:
+    - GPL-3.0
+Languages:
+    - Python
+C: E-books and Integrated Library Systems (ILS)
+C2: Personal e-book management software.
+C3: ""
+Tags:
+    - E-book
+    - ILS
+MD: '- [pyShelf](https://pyshelf.com) - Lightweight Ebook Server. ([Source Code](https://github.com/th3r00t/pyShelf)) `GPL-3.0` `Python`'
+SourceType: Github
+Line: 657

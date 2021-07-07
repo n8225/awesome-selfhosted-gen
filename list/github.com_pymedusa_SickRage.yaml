@@ -1,0 +1,16 @@
+ID: 30
+Name: Medusa
+Description: Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
+Source Code: https://github.com/pymedusa/SickRage
+License:
+    - GPL-3.0
+Languages:
+    - Python
+C: Automation
+C2: ""
+C3: ""
+Tags:
+    - Automation
+MD: '- [Medusa](https://github.com/pymedusa/SickRage) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic. `GPL-3.0` `Python`'
+SourceType: Github
+Line: 156

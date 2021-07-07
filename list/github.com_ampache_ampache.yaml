@@ -1,0 +1,20 @@
+ID: 631
+Name: Ampache
+Description: Web based audio/video streaming application.
+Source Code: https://github.com/ampache/ampache
+Demo: http://play.dogmazic.net/
+Website: http://ampache.org/
+License:
+    - AGPL-3.0
+Languages:
+    - PHP
+C: Media Streaming
+C2: Audio Streaming
+C3: ""
+Tags:
+    - Media
+    - Streaming
+    - Audio
+MD: '- [Ampache](http://ampache.org/) - Web based audio/video streaming application. ([Demo](http://play.dogmazic.net/), [Source Code](https://github.com/ampache/ampache)) `AGPL-3.0` `PHP`'
+SourceType: Github
+Line: 1002

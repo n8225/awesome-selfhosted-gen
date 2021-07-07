@@ -1,0 +1,18 @@
+ID: 765
+Name: HedgeDoc
+Description: Realtime collaborative markdown notes on all platforms, formerly known as CodiMD and HackMD CE.
+Source Code: https://github.com/hedgedoc/hedgedoc
+Website: https://demo.hedgedoc.org/
+License:
+    - AGPL-3.0
+Languages:
+    - TypeScript
+C: Note-taking and Editors
+C2: ""
+C3: ""
+Tags:
+    - Note-taking
+    - Editor
+MD: '- [HedgeDoc](https://demo.hedgedoc.org/) - Realtime collaborative markdown notes on all platforms, formerly known as CodiMD and HackMD CE. ([Source Code](https://github.com/hedgedoc/hedgedoc)) `AGPL-3.0` `TypeScript`'
+SourceType: Github
+Line: 1164

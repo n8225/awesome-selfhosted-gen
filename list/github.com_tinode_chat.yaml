@@ -1,0 +1,20 @@
+ID: 136
+Name: Tinode
+Description: 'Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots.'
+Source Code: https://github.com/tinode/chat
+Demo: https://sandbox.tinode.co/
+Clients:
+    - https://github.com/tinode/webapp
+Website: https://github.com/tinode
+License:
+    - GPL-3.0
+Languages:
+    - Go
+C: Communication systems
+C2: Custom communication systems
+C3: ""
+Tags:
+    - Communications
+MD: '- [Tinode](https://github.com/tinode) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots. ([Demo](https://sandbox.tinode.co/), [Source Code](https://github.com/tinode/chat), [Clients](https://github.com/tinode/webapp)) `GPL-3.0` `Go`'
+SourceType: Github
+Line: 296

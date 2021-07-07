@@ -1,0 +1,19 @@
+ID: 584
+Name: OpenRemote
+Description: 100% Open Source IoT Platform - IoT Asset management, Flow Rules and WHEN-THEN rules, Data visualization, Edge Gateway.
+Source Code: https://github.com/openremote/openremote
+Demo: https://demo.openremote.io/
+Website: https://openremote.io
+License:
+    - AGPL-3.0
+Languages:
+    - Java
+C: Internet Of Things (IoT)
+C2: ""
+C3: ""
+Tags:
+    - Internet Of Things
+    - IoT
+MD: '- [OpenRemote](https://openremote.io) - 100% Open Source IoT Platform - IoT Asset management, Flow Rules and WHEN-THEN rules, Data visualization, Edge Gateway. ([Demo](https://demo.openremote.io/), [Source Code](https://github.com/openremote/openremote)) `AGPL-3.0` `Java`'
+SourceType: Github
+Line: 925

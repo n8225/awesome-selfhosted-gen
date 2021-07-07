@@ -1,0 +1,21 @@
+ID: 644
+Name: KooZic
+Description: Music server with powerful playlist features and Subsonic compatibility.
+Source Code: https://github.com/DocMarty84/koozic
+Demo: https://demo.koozic.net/public
+Website: https://koozic.net/
+License:
+    - LGPL-3.0
+    - MIT
+Languages:
+    - Python
+C: Media Streaming
+C2: Audio Streaming
+C3: ""
+Tags:
+    - Media
+    - Streaming
+    - Audio
+MD: '- [KooZic](https://koozic.net/) - Music server with powerful playlist features and Subsonic compatibility. ([Demo](https://demo.koozic.net/public), [Source Code](https://github.com/DocMarty84/koozic)) `LGPL-3.0/MIT` `Python`'
+SourceType: Github
+Line: 1015

@@ -1,0 +1,18 @@
+ID: 407
+Name: Islandora
+Description: Drupal module for browsing and managing Fedora-based digital repositories.
+Source Code: https://github.com/Islandora/islandora
+Website: https://islandora.ca/
+License:
+    - GPL-3.0
+Languages:
+    - PHP
+C: E-books and Integrated Library Systems (ILS)
+C2: Institutional repository and digital library software.
+C3: ""
+Tags:
+    - E-book
+    - ILS
+MD: '- [Islandora](https://islandora.ca/) - Drupal module for browsing and managing Fedora-based digital repositories. ([Source Code](https://github.com/Islandora/islandora)) `GPL-3.0` `PHP`'
+SourceType: Github
+Line: 671

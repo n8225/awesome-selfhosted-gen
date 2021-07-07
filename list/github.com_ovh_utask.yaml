@@ -1,0 +1,16 @@
+ID: 43
+Name: µTask
+Description: µTask is an automation engine that models and executes business processes declared in yaml.
+Source Code: https://github.com/ovh/utask
+License:
+    - BSD-3-Clause
+Languages:
+    - Go
+C: Automation
+C2: ""
+C3: ""
+Tags:
+    - Automation
+MD: '- [µTask](https://github.com/ovh/utask) - µTask is an automation engine that models and executes business processes declared in yaml. `BSD-3-Clause` `Go`'
+SourceType: Github
+Line: 169

@@ -1,0 +1,17 @@
+ID: 431
+Name: ttrss-reader
+Description: Light and responsive client for TTRSS.
+Source Code: https://github.com/kucrut/ttrss-reader
+License:
+    - GPL-2.0
+Languages:
+    - HTML5
+C: Feed Readers
+C2: ""
+C3: ""
+Tags:
+    - RSS
+    - Feed Reader
+MD: '  - [ttrss-reader](https://github.com/kucrut/ttrss-reader) - Light and responsive client for TTRSS. `GPL-2.0` `Javascript`'
+SourceType: Github
+Line: 706

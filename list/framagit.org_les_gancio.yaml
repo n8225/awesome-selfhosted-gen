@@ -1,0 +1,18 @@
+ID: 885
+Name: Gancio
+Description: A shared agenda for local communities.
+Source Code: https://framagit.org/les/gancio
+Demo: https://demo.gancio.org/
+Website: https://gancio.org/
+License:
+    - AGPL-3.0
+Languages:
+    - Nodejs
+C: Polls and Events
+C2: ""
+C3: ""
+Tags:
+    - Polls
+    - Events
+MD: '- [Gancio](https://gancio.org/) - A shared agenda for local communities. ([Demo](https://demo.gancio.org/), [Source Code](https://framagit.org/les/gancio)) `AGPL-3.0` `Nodejs`'
+Line: 1317

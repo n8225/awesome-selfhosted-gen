@@ -1,0 +1,19 @@
+ID: 170
+Name: Cyrus IMAP
+Description: Email (IMAP/POP3), contacts and calendar server.
+Source Code: https://github.com/cyrusimap/cyrus-imapd
+Website: https://www.cyrusimap.org/
+License:
+    - BSD-3-Clause-Attribution
+Languages:
+    - C
+C: Communication systems
+C2: Email
+C3: Mail Delivery Agents
+Tags:
+    - Communications
+    - Email
+    - MDA
+MD: '- [Cyrus IMAP](https://www.cyrusimap.org/) - Email (IMAP/POP3), contacts and calendar server. ([Source Code](https://github.com/cyrusimap/cyrus-imapd )) `BSD-3-Clause-Attribution` `C`'
+SourceType: Github
+Line: 349

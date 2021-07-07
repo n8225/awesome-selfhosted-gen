@@ -1,0 +1,17 @@
+ID: 437
+Name: RSS Fulltext Proxy
+Description: Mirrors RSS feeds to return the full content of the items, extracted from the website.
+Source Code: https://github.com/Kombustor/rss-fulltext-proxy
+License:
+    - MIT
+Languages:
+    - Nodejs
+C: Feed Readers
+C2: ""
+C3: ""
+Tags:
+    - RSS
+    - Feed Reader
+MD: '- [RSS Fulltext Proxy](https://github.com/Kombustor/rss-fulltext-proxy) - Mirrors RSS feeds to return the full content of the items, extracted from the website. `MIT` `Nodejs`'
+SourceType: Github
+Line: 715

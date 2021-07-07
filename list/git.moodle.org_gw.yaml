@@ -1,0 +1,19 @@
+ID: 597
+Name: Moodle
+Description: Moodle is a learning and courses platform with one of the largest open source communities worldwide.
+Source Code: https://git.moodle.org/gw
+Demo: https://moodle.org/demo/
+Website: https://moodle.org/
+License:
+    - GPL-3.0
+Languages:
+    - PHP
+C: Learning and Courses
+C2: ""
+C3: ""
+Tags:
+    - Learning
+    - Courses
+    - LMS
+MD: '- [Moodle](https://moodle.org/) - Moodle is a learning and courses platform with one of the largest open source communities worldwide. ([Demo](https://moodle.org/demo/), [Source Code](https://git.moodle.org/gw)) `GPL-3.0` `PHP`'
+Line: 948

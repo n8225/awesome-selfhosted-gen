@@ -1,0 +1,17 @@
+ID: 734
+Name: Budget App
+Description: Budget App is an open source personal budgeting application.
+Source Code: https://github.com/paukiatwee/budgetapp
+License:
+    - Apache-2.0
+Languages:
+    - Java
+C: Money, Budgeting and Management
+C2: ""
+C3: ""
+Tags:
+    - Money
+    - Budget
+MD: '- [Budget App](https://github.com/paukiatwee/budgetapp) - Budget App is an open source personal budgeting application. `Apache-2.0` `Java`'
+SourceType: Github
+Line: 1120

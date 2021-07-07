@@ -1,0 +1,20 @@
+ID: 1012
+Name: Localizer
+Description: Free self-hosted open-source crowd-translating service for your product.
+Source Code: https://github.com/backmeupplz/localizer-backend
+Demo: https://localize.todorant.com
+Website: https://localizer.dev
+License:
+    - MIT
+Languages:
+    - Nodejs
+    - Docker
+C: Software Development
+C2: Localization
+C3: ""
+Tags:
+    - Software Dev
+    - Localiztion
+MD: '- [Localizer](https://localizer.dev) - Free self-hosted open-source crowd-translating service for your product. ([Demo](https://localize.todorant.com), [Source Code](https://github.com/backmeupplz/localizer-backend)) `MIT` `Nodejs/Docker`'
+SourceType: Github
+Line: 1509

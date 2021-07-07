@@ -1,0 +1,18 @@
+ID: 281
+Name: jackal
+Description: XMPP server with focus on stability, simple configuration and low resource consumption.
+Source Code: https://github.com/ortuman/jackal
+License:
+    - Apache-2.0
+Languages:
+    - Go
+C: Communication systems
+C2: XMPP
+C3: XMPP Servers
+Tags:
+    - Communications
+    - XMPP
+    - XMPP Server
+MD: '- [jackal](https://github.com/ortuman/jackal) - XMPP server with focus on stability, simple configuration and low resource consumption. `Apache-2.0` `Go`'
+SourceType: Github
+Line: 496

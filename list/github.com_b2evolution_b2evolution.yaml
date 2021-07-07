@@ -1,0 +1,17 @@
+ID: 304
+Name: b2evolution CMS
+Description: 'The most integrated CMS ever: b2evolution includes everything you need to build websites for publishing, sharing and interacting with your community.'
+Source Code: https://github.com/b2evolution/b2evolution
+Website: https://b2evolution.net/
+License:
+    - GPL-2.0
+Languages:
+    - PHP
+C: Content Management Systems (CMS)
+C2: ""
+C3: ""
+Tags:
+    - CMS
+MD: '- [b2evolution CMS](https://b2evolution.net/) - The most integrated CMS ever: b2evolution includes everything you need to build websites for publishing, sharing and interacting with your community. ([Source Code](https://github.com/b2evolution/b2evolution)) `GPL-2.0` `PHP`'
+SourceType: Github
+Line: 534

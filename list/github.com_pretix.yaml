@@ -1,0 +1,18 @@
+ID: 367
+Name: Pretix
+Description: Django based ticket sales platform for events.
+Source Code: https://github.com/pretix
+Website: https://pretix.eu/
+License:
+    - Apache-2.0
+Languages:
+    - Python
+C: Content Management Systems (CMS)
+C2: E-commerce
+C3: ""
+Tags:
+    - CMS
+    - E-commerce
+MD: '- [Pretix](https://pretix.eu/) - Django based ticket sales platform for events. ([Source Code](https://github.com/pretix)) `Apache-2.0` `Python`'
+SourceType: Github
+Line: 603

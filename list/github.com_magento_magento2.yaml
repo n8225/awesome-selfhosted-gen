@@ -1,0 +1,19 @@
+ID: 358
+Name: Magento
+Description: Leading provider of open omnichannel innovation.
+Source Code: https://github.com/magento/magento2
+Demo: https://magento.com/schedule-a-demo
+Website: https://magento.com/
+License:
+    - OSL-3.0
+Languages:
+    - PHP
+C: Content Management Systems (CMS)
+C2: E-commerce
+C3: ""
+Tags:
+    - CMS
+    - E-commerce
+MD: '- [Magento](https://magento.com/) - Leading provider of open omnichannel innovation. ([Demo](https://magento.com/schedule-a-demo), [Source Code](https://github.com/magento/magento2)) `OSL-3.0` `PHP`'
+SourceType: Github
+Line: 594

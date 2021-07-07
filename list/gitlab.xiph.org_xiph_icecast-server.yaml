@@ -1,0 +1,20 @@
+ID: 621
+Name: Icecast 2
+Description: streaming audio/video server which can be used to create an Internet radio station or a privately running jukebox and many things in between.
+Source Code: https://gitlab.xiph.org/xiph/icecast-server
+Clients:
+    - http://www.icecast.org/apps/
+Website: http://www.icecast.org/
+License:
+    - GPL-2.0
+Languages:
+    - C
+C: Media Streaming
+C2: Multimedia Streaming
+C3: ""
+Tags:
+    - Media
+    - Streaming
+    - Multimedia
+MD: '- [Icecast 2](http://www.icecast.org/) - streaming audio/video server which can be used to create an Internet radio station or a privately running jukebox and many things in between. ([Source Code](https://gitlab.xiph.org/xiph/icecast-server), [Clients](http://www.icecast.org/apps/)) `GPL-2.0` `C`'
+Line: 988

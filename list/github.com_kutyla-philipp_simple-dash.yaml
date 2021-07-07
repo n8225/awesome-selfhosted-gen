@@ -1,0 +1,17 @@
+ID: 851
+Name: simple-dash
+Description: A simple, fully responsive Dashboard to forward to the services of your choice.
+Source Code: https://github.com/kutyla-philipp/simple-dash
+Demo: https://kutyla-philipp.github.io/simple-dash/
+License:
+    - MIT
+Languages:
+    - HTML5
+C: Personal Dashboards
+C2: ""
+C3: ""
+Tags:
+    - Dashboard
+MD: '- [simple-dash](https://github.com/kutyla-philipp/simple-dash) - A simple, fully responsive Dashboard to forward to the services of your choice. ([Demo](https://kutyla-philipp.github.io/simple-dash/)) `MIT` `Javascript`'
+SourceType: Github
+Line: 1273

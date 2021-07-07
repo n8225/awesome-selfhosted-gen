@@ -1,0 +1,18 @@
+ID: 891
+Name: Mobilizon
+Description: A federated tool that helps you find, create and organise events and groups.
+Source Code: https://framagit.org/framasoft/mobilizon/
+Demo: https://demo.mobilizon.org/
+Website: https://mobilizon.org
+License:
+    - GPL-3.0
+Languages:
+    - Elixir
+C: Polls and Events
+C2: ""
+C3: ""
+Tags:
+    - Polls
+    - Events
+MD: '- [Mobilizon](https://mobilizon.org) - A federated tool that helps you find, create and organise events and groups. ([Demo](https://demo.mobilizon.org/), [Source Code](https://framagit.org/framasoft/mobilizon/)) `GPL-3.0` `Elixir`'
+Line: 1323

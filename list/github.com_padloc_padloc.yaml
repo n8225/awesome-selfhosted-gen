@@ -1,0 +1,17 @@
+ID: 797
+Name: Padloc
+Description: A modern, open source password manager for individuals and teams.
+Source Code: https://github.com/padloc/padloc
+Website: https://padloc.app/
+License:
+    - GPL-3.0
+Languages:
+    - Nodejs
+C: Password Managers
+C2: ""
+C3: ""
+Tags:
+    - Password Manager
+MD: '- [Padloc](https://padloc.app/) - A modern, open source password manager for individuals and teams. ([Source Code](https://github.com/padloc/padloc)) `GPL-3.0` `Nodejs`'
+SourceType: Github
+Line: 1206

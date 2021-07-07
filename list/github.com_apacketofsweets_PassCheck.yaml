@@ -1,0 +1,18 @@
+ID: 721
+Name: PassCheck
+Description: A web application featuring some handy password tools, including a password generator, strength checker and HaveIBeenPwned breach checker.
+Source Code: https://github.com/apacketofsweets/PassCheck
+Website: https://apacketofsweets.github.io/PassCheck/
+License:
+    - MIT
+Languages:
+    - HTML5
+C: Misc/Other
+C2: ""
+C3: ""
+Tags:
+    - Misc
+    - Other
+MD: '- [PassCheck](https://apacketofsweets.github.io/PassCheck/) - A web application featuring some handy password tools, including a password generator, strength checker and HaveIBeenPwned breach checker. ([Source Code](https://github.com/apacketofsweets/PassCheck)) `MIT` `Javascript`'
+SourceType: Github
+Line: 1100

@@ -1,0 +1,18 @@
+ID: 221
+Name: Wazo
+Description: Full-featured IPBX solution built atop Asterisk with integrated Web administration interface and REST-ful API.
+Source Code: https://github.com/wazo-platform
+Website: http://wazo-platform.org/
+License:
+    - GPL-3.0
+Languages:
+    - Python
+C: Communication systems
+C2: SIP
+C3: ""
+Tags:
+    - Communications
+    - SIP
+MD: '- [Wazo](http://wazo-platform.org/) - Full-featured IPBX solution built atop Asterisk with integrated Web administration interface and REST-ful API. ([Source Code](https://github.com/wazo-platform)) `GPL-3.0` `Python`'
+SourceType: Github
+Line: 422

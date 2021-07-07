@@ -1,0 +1,18 @@
+ID: 172
+Name: MailForm
+Description: Lightweight self-hosted open source alternative to Formspree and SendGrid.
+Source Code: https://github.com/Feuerhamster/mailform
+License:
+    - Apache-2.0
+Languages:
+    - Nodejs
+C: Communication systems
+C2: Email
+C3: Mail Delivery Agents
+Tags:
+    - Communications
+    - Email
+    - MDA
+MD: '- [MailForm](https://github.com/Feuerhamster/mailform) - Lightweight self-hosted open source alternative to Formspree and SendGrid. `Apache-2.0` `Nodejs`'
+SourceType: Github
+Line: 351

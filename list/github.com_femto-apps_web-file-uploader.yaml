@@ -1,0 +1,19 @@
+ID: 503
+Name: Web-File-Uploader
+Description: A simple tool to let people upload and share images and files.
+Source Code: https://github.com/femto-apps/web-file-uploader
+Website: https://v2.femto.pw/
+License:
+    - MIT
+Languages:
+    - Nodejs
+C: File Sharing and Synchronization
+C2: Single-click/drag-n-drop upload
+C3: ""
+Tags:
+    - File Sharing
+    - Single-Click Upload
+    - Drag-n-Drop Upload
+MD: '- [Web-File-Uploader](https://v2.femto.pw/) - A simple tool to let people upload and share images and files. ([Source Code](https://github.com/femto-apps/web-file-uploader)) `MIT` `Nodejs`'
+SourceType: Github
+Line: 806

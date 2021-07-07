@@ -1,0 +1,17 @@
+ID: 545
+Name: asciinema
+Description: Web app for hosting asciicasts.
+Source Code: https://github.com/asciinema/asciinema-server
+Demo: https://asciinema.org/
+License:
+    - Apache-2.0
+Languages:
+    - Elixir
+    - Docker
+C: Gateways and terminal sharing
+C2: ""
+C3: ""
+Tags: []
+MD: '- [asciinema](https://github.com/asciinema/asciinema-server) - Web app for hosting asciicasts. ([Demo](https://asciinema.org/)) `Apache-2.0` `Elixir/Docker`'
+SourceType: Github
+Line: 866

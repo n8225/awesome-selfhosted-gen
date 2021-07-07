@@ -1,0 +1,17 @@
+ID: 975
+Name: Hakatime
+Description: WakaTime server implementation with analytics dashboard.
+Source Code: https://github.com/mujx/hakatime
+License:
+    - Unlicense
+Languages:
+    - Haskell
+C: Software Development
+C2: IDE/Tools
+C3: ""
+Tags:
+    - Software Dev
+    - IDE
+MD: '- [Hakatime](https://github.com/mujx/hakatime) - WakaTime server implementation with analytics dashboard. `Unlicense` `Haskell`'
+SourceType: Github
+Line: 1449

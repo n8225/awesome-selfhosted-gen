@@ -1,0 +1,19 @@
+ID: 990
+Name: Appwrite
+Description: "End to end backend server for web, native, and mobile developers \U0001F680."
+Source Code: https://github.com/appwrite/appwrite
+Website: https://appwrite.io
+License:
+    - BSD-3-Clause
+Languages:
+    - PHP
+C: Software Development
+C2: FaaS/Serverless
+C3: ""
+Tags:
+    - Software Dev
+    - FAAS
+    - Severless
+MD: "- [Appwrite](https://appwrite.io) - End to end backend server for web, native, and mobile developers \U0001F680. ([Source Code](https://github.com/appwrite/appwrite)) `BSD-3-Clause` `PHP`"
+SourceType: Github
+Line: 1476

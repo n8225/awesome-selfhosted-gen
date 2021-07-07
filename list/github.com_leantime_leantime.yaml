@@ -1,0 +1,18 @@
+ID: 951
+Name: Leantime
+Description: Leantime is a lean project management system for small teams and startups helping to manage projects from ideation through delivery.
+Source Code: https://github.com/leantime/leantime
+Website: https://leantime.io
+License:
+    - GPL-2.0
+Languages:
+    - PHP
+C: Software Development
+C2: Project Management
+C3: ""
+Tags:
+    - Software Dev
+    - Project Mgmnt
+MD: '- [Leantime](https://leantime.io) - Leantime is a lean project management system for small teams and startups helping to manage projects from ideation through delivery. ([Source Code](https://github.com/leantime/leantime)) `GPL-2.0` `PHP`'
+SourceType: Github
+Line: 1418

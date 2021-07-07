@@ -1,0 +1,17 @@
+ID: 845
+Name: Hiccup
+Description: A beautiful static homepage to get to your links and services quickly. It has built-in search, editing, PWA support and localstorage caching to easily organize your start page.
+Source Code: https://github.com/ashwin-pc/hiccup
+Website: https://designedbyashw.in/test/hiccup/
+License:
+    - MIT
+Languages:
+    - HTML5
+C: Personal Dashboards
+C2: ""
+C3: ""
+Tags:
+    - Dashboard
+MD: '- [Hiccup](https://designedbyashw.in/test/hiccup/) - A beautiful static homepage to get to your links and services quickly. It has built-in search, editing, PWA support and localstorage caching to easily organize your start page. ([Source Code](https://github.com/ashwin-pc/hiccup)) `MIT` `HTML5`'
+SourceType: Github
+Line: 1267

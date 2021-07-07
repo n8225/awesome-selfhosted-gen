@@ -1,0 +1,18 @@
+ID: 751
+Name: IHateToBudget
+Description: A simple web app to understand and control your expenses.
+Source Code: https://github.com/bminusl/ihatetobudget
+License:
+    - GPL-3.0
+Languages:
+    - Docker
+    - Python
+C: Money, Budgeting and Management
+C2: ""
+C3: ""
+Tags:
+    - Money
+    - Budget
+MD: '- [IHateToBudget](https://github.com/bminusl/ihatetobudget) - A simple web app to understand and control your expenses. `GPL-3.0` `Docker/Python`'
+SourceType: Github
+Line: 1137

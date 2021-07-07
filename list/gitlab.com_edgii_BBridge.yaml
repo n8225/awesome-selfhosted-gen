@@ -1,0 +1,18 @@
+ID: 1094
+Name: Bitsii Bridge
+Description: Easy to install self-hosting platform for Windows, MacOS, and Linux. Depends on a dynamic DNS provider and Let's Encrypt.
+Source Code: https://gitlab.com/edgii/BBridge
+Website: https://gitlab.com/bitsii/Bitsii/-/wikis/home
+License:
+    - MPL-2.0
+Languages:
+    - Java
+C: Self-hosting Solutions
+C2: ""
+C3: ""
+Tags:
+    - Self-hosting Solution
+ProprietaryDependency: true
+MD: '- [Bitsii Bridge](https://gitlab.com/bitsii/Bitsii/-/wikis/home) `⚠` - Easy to install self-hosting platform for Windows, MacOS, and Linux. Depends on a dynamic DNS provider and Let''s Encrypt. ([Source Code](https://gitlab.com/edgii/BBridge)) `MPL-2.0` `Java/Other`'
+SourceType: Gitlab
+Line: 1642

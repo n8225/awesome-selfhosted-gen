@@ -1,0 +1,18 @@
+ID: 210
+Name: ASTPP
+Description: is an Open Source VoIP Billing Solution for Freeswitch. It supports prepaid and postpaid billing with call rating and credit control. It also provides many other features.
+Source Code: https://github.com/iNextrix/ASTPP
+Website: https://www.astppbilling.org/
+License:
+    - AGPL-3.0
+Languages:
+    - PHP
+C: Communication systems
+C2: SIP
+C3: ""
+Tags:
+    - Communications
+    - SIP
+MD: '- [ASTPP](https://www.astppbilling.org/) - is an Open Source VoIP Billing Solution for Freeswitch. It supports prepaid and postpaid billing with call rating and credit control. It also provides many other features. ([Source Code](https://github.com/iNextrix/ASTPP)) `AGPL-3.0` `PHP`'
+SourceType: Github
+Line: 411

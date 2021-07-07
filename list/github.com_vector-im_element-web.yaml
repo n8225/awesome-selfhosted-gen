@@ -1,0 +1,17 @@
+ID: 133
+Name: Element
+Description: Fully-featured Matrix client for Web, iOS & Android.
+Source Code: https://github.com/vector-im/element-web
+Website: https://element.io
+License:
+    - Apache-2.0
+Languages:
+    - HTML5
+C: Communication systems
+C2: Custom communication systems
+C3: ""
+Tags:
+    - Communications
+MD: '  - [Element](https://element.io) - Fully-featured Matrix client for Web, iOS & Android. ([Source Code](https://github.com/vector-im/element-web)) `Apache-2.0` `Javascript`'
+SourceType: Github
+Line: 293

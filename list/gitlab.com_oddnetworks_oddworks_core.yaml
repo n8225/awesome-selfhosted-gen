@@ -1,0 +1,18 @@
+ID: 670
+Name: Oddworks
+Description: Oddworks is an open source video distribution platform built to destroy the barriers to streaming television with SDKs for Roku, Apple iOS/tvOS, Google Android, and Amazon FireTV.
+Source Code: https://gitlab.com/oddnetworks/oddworks/core
+License:
+    - MIT
+Languages:
+    - Nodejs
+C: Media Streaming
+C2: Video Streaming
+C3: ""
+Tags:
+    - Media
+    - Streaming
+    - Video
+MD: '- [Oddworks](https://gitlab.com/oddnetworks/oddworks/core) - Oddworks is an open source video distribution platform built to destroy the barriers to streaming television with SDKs for Roku, Apple iOS/tvOS, Google Android, and Amazon FireTV. `MIT` `Nodejs`'
+SourceType: Gitlab
+Line: 1044

@@ -1,0 +1,20 @@
+ID: 142
+Name: DebOps
+Description: Your Debian-based data center in a box. A set of general-purpose Ansible roles that can be used to manage Debian or Ubuntu hosts.
+Source Code: https://github.com/debops/debops
+Website: https://docs.debops.org/
+License:
+    - GPL-3.0-only
+Languages:
+    - YAML
+    - Python
+C: Communication systems
+C2: Email
+C3: Complete solutions
+Tags:
+    - Communications
+    - Email
+    - Complete Email
+MD: '- [DebOps](https://docs.debops.org/) - Your Debian-based data center in a box. A set of general-purpose Ansible roles that can be used to manage Debian or Ubuntu hosts. ([Source Code](https://github.com/debops/debops)) `GPL-3.0-only` `YAML/Ansible/Python`'
+SourceType: Github
+Line: 311

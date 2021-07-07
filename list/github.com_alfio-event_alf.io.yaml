@@ -1,0 +1,19 @@
+ID: 894
+Name: Alf.io
+Description: The open source ticket reservation system.
+Source Code: https://github.com/alfio-event/alf.io
+Demo: https://demo.alf.io/authentication
+Website: https://alf.io/
+License:
+    - GPL-3.0
+Languages:
+    - Java
+C: Polls and Events
+C2: Booking and Scheduling
+C3: ""
+Tags:
+    - Polls
+    - Events
+MD: '- [Alf.io](https://alf.io/) - The open source ticket reservation system. ([Demo](https://demo.alf.io/authentication), [Source Code](https://github.com/alfio-event/alf.io)) `GPL-3.0` `Java`'
+SourceType: Github
+Line: 1329

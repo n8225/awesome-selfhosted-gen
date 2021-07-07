@@ -1,0 +1,20 @@
+ID: 676
+Name: Radium
+Description: Synced stream and video playback with VOD capabilities utilizing HLS. Developed for movie nights but has many use cases.
+Source Code: https://github.com/Zibbp/Radium
+Demo: https://radium-demo.herokuapp.com
+License:
+    - MIT
+Languages:
+    - Nodejs
+    - Docker
+C: Media Streaming
+C2: Video Streaming
+C3: ""
+Tags:
+    - Media
+    - Streaming
+    - Video
+MD: '- [Radium](https://github.com/Zibbp/Radium) - Synced stream and video playback with VOD capabilities utilizing HLS. Developed for movie nights but has many use cases. ([Demo](https://radium-demo.herokuapp.com)) `MIT` `Nodejs/Docker`'
+SourceType: Github
+Line: 1050

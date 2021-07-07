@@ -1,0 +1,16 @@
+ID: 25
+Name: Huginn
+Description: Allows you to build agents that monitor and act on your behalf.
+Source Code: https://github.com/huginn/huginn
+License:
+    - MIT
+Languages:
+    - Ruby
+C: Automation
+C2: ""
+C3: ""
+Tags:
+    - Automation
+MD: '- [Huginn](https://github.com/huginn/huginn) - Allows you to build agents that monitor and act on your behalf. `MIT` `Ruby`'
+SourceType: Github
+Line: 151

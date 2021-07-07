@@ -1,0 +1,17 @@
+ID: 117
+Name: Live Helper Chat
+Description: Live Support chat for your website.
+Source Code: https://github.com/LiveHelperChat/livehelperchat
+Website: http://livehelperchat.com/
+License:
+    - Apache-2.0
+Languages:
+    - PHP
+C: Communication systems
+C2: Custom communication systems
+C3: ""
+Tags:
+    - Communications
+MD: '- [Live Helper Chat](http://livehelperchat.com/) - Live Support chat for your website. ([Source Code](https://github.com/LiveHelperChat/livehelperchat)) `Apache-2.0` `PHP`'
+SourceType: Github
+Line: 277

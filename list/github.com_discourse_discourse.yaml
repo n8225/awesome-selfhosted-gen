@@ -1,0 +1,20 @@
+ID: 235
+Name: Discourse
+Description: Advanced forum / community solution based on Ruby and JS.
+Source Code: https://github.com/discourse/discourse
+Demo: https://try.discourse.org/
+Website: http://www.discourse.org/
+License:
+    - GPL-2.0
+Languages:
+    - Ruby
+C: Communication systems
+C2: Social Networks and Forums
+C3: ""
+Tags:
+    - Communications
+    - Social Network
+    - Forum
+MD: '- [Discourse](http://www.discourse.org/) - Advanced forum / community solution based on Ruby and JS. ([Demo](https://try.discourse.org/), [Source Code](https://github.com/discourse/discourse)) `GPL-2.0` `Ruby`'
+SourceType: Github
+Line: 441

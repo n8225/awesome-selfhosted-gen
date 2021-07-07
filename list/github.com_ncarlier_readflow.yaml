@@ -1,0 +1,17 @@
+ID: 916
+Name: Readflow
+Description: 'Lightweight news reader with modern interface and features: full-text search, automatic categorization, archiving, offline support, notifications...'
+Source Code: https://github.com/ncarlier/readflow
+Website: https://readflow.app
+License:
+    - MIT
+Languages:
+    - Go
+C: Read it Later Lists
+C2: ""
+C3: ""
+Tags:
+    - Read it Later Lists
+MD: '- [Readflow](https://readflow.app) - Lightweight news reader with modern interface and features: full-text search, automatic categorization, archiving, offline support, notifications... ([Source Code](https://github.com/ncarlier/readflow)) `MIT` `Go`'
+SourceType: Github
+Line: 1361

@@ -1,0 +1,20 @@
+ID: 88
+Name: DAViCal
+Description: Server for calendar sharing (CalDAV) that uses a PostgreSQL database as a data store.
+Source Code: https://gitlab.com/davical-project/davical
+Website: https://www.davical.org/
+License:
+    - GPL-2.0
+Languages:
+    - PHP
+C: Calendaring and Contacts Management
+C2: CalDAV or CardDAV servers
+C3: ""
+Tags:
+    - Calendar
+    - Contacts
+    - CalDAV
+    - CardDav
+MD: '- [DAViCal](https://www.davical.org/) - Server for calendar sharing (CalDAV) that uses a PostgreSQL database as a data store. ([Source Code](https://gitlab.com/davical-project/davical)) `GPL-2.0` `PHP`'
+SourceType: Gitlab
+Line: 238

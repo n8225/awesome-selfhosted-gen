@@ -1,0 +1,22 @@
+ID: 624
+Name: LBRY
+Description: Is a secure, open, and community-run digital marketplace that aims to replace Youtube and Amazon.
+Source Code: https://github.com/lbryio/lbry.com
+Demo: https://lbry.tv/
+Clients:
+    - https://github.com/lbryio/lbry-desktop
+Website: https://lbry.com/
+License:
+    - MIT
+Languages:
+    - PHP
+C: Media Streaming
+C2: Multimedia Streaming
+C3: ""
+Tags:
+    - Media
+    - Streaming
+    - Multimedia
+MD: '- [LBRY](https://lbry.com/) - Is a secure, open, and community-run digital marketplace that aims to replace Youtube and Amazon. ([Demo](https://lbry.tv/), [Source Code](https://github.com/lbryio/lbry.com), [Clients](https://github.com/lbryio/lbry-desktop)) `MIT` `PHP`'
+SourceType: Github
+Line: 991

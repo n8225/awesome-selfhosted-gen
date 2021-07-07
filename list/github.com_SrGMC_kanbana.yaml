@@ -1,0 +1,17 @@
+ID: 1018
+Name: Kanbana
+Description: Create boards to track users and projects from flat markdown files. Forked from Crepido.
+Source Code: https://github.com/SrGMC/kanbana
+License:
+    - MIT
+Languages:
+    - Nodejs
+C: Task management/To-do lists
+C2: ""
+C3: ""
+Tags:
+    - To-Do
+    - Task Mgmnt
+MD: '- [Kanbana](https://github.com/SrGMC/kanbana) - Create boards to track users and projects from flat markdown files. Forked from Crepido. `MIT` `Nodejs`'
+SourceType: Github
+Line: 1528

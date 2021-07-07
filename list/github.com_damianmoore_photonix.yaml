@@ -1,0 +1,18 @@
+ID: 867
+Name: Photonix
+Description: A new web-based photo management application with object recognition, location awareness, color analysis and other ML algorithms.
+Source Code: https://github.com/damianmoore/photonix
+Demo: https://demo.photonix.org/
+Website: https://photonix.org/
+License:
+    - AGPL-3.0
+Languages:
+    - Python
+C: Photo and Video Galleries
+C2: ""
+C3: ""
+Tags:
+    - Photo and Video Gallery
+MD: '- [Photonix](https://photonix.org/) - A new web-based photo management application with object recognition, location awareness, color analysis and other ML algorithms. ([Demo](https://demo.photonix.org/), [Source Code](https://github.com/damianmoore/photonix)) `AGPL-3.0` `Python`'
+SourceType: Github
+Line: 1294

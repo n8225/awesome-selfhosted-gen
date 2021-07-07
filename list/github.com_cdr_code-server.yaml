@@ -1,0 +1,19 @@
+ID: 972
+Name: Code-Server
+Description: Visual Studio Code in the browser, hosted on a remote server.
+Source Code: https://github.com/cdr/code-server
+Website: https://coder.com/
+License:
+    - MIT
+Languages:
+    - Nodejs
+    - Docker
+C: Software Development
+C2: IDE/Tools
+C3: ""
+Tags:
+    - Software Dev
+    - IDE
+MD: '- [Code-Server](https://coder.com/) - Visual Studio Code in the browser, hosted on a remote server. ([Source Code](https://github.com/cdr/code-server)) `MIT` `Nodejs/Docker`'
+SourceType: Github
+Line: 1446

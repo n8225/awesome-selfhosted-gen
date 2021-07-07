@@ -1,0 +1,19 @@
+ID: 594
+Name: Gibbon
+Description: The flexible, open source school management platform designed to make life better for teachers, students, parents and leaders.
+Source Code: https://github.com/GibbonEdu/core
+Website: https://www.gibbonedu.org/
+License:
+    - GPL-3.0
+Languages:
+    - PHP
+C: Learning and Courses
+C2: ""
+C3: ""
+Tags:
+    - Learning
+    - Courses
+    - LMS
+MD: '- [Gibbon](https://www.gibbonedu.org/) - The flexible, open source school management platform designed to make life better for teachers, students, parents and leaders. ([Source Code](https://github.com/GibbonEdu/core)) `GPL-3.0` `PHP`'
+SourceType: Github
+Line: 945

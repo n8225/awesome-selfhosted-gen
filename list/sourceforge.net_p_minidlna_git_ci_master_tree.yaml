@@ -1,0 +1,18 @@
+ID: 628
+Name: ReadyMedia
+Description: Simple media server software, with the aim of being fully compliant with DLNA/UPnP-AV clients. Formerly known as MiniDLNA.
+Source Code: https://sourceforge.net/p/minidlna/git/ci/master/tree/
+Website: http://sourceforge.net/projects/minidlna/
+License:
+    - GPL-2.0
+Languages:
+    - C
+C: Media Streaming
+C2: Multimedia Streaming
+C3: ""
+Tags:
+    - Media
+    - Streaming
+    - Multimedia
+MD: '- [ReadyMedia](http://sourceforge.net/projects/minidlna/) - Simple media server software, with the aim of being fully compliant with DLNA/UPnP-AV clients. Formerly known as MiniDLNA. ([Source Code](https://sourceforge.net/p/minidlna/git/ci/master/tree/)) `GPL-2.0` `C`'
+Line: 995

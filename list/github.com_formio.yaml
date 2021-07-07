@@ -1,0 +1,19 @@
+ID: 997
+Name: form.io
+Description: A REST API building platform that utilizes a drag & drop form builder, and is application framework agnostic. Contains open source and enterprise version.
+Source Code: https://github.com/formio
+Demo: https://portal.form.io
+Website: https://form.io
+License:
+    - MIT
+Languages:
+    - Nodejs
+C: Software Development
+C2: API Management
+C3: ""
+Tags:
+    - Software Dev
+    - API Mgmnt
+MD: '- [form.io](https://form.io) - A REST API building platform that utilizes a drag & drop form builder, and is application framework agnostic. Contains open source and enterprise version. ([Demo](https://portal.form.io), [Source Code](https://github.com/formio)) `MIT` `Nodejs`'
+SourceType: Github
+Line: 1486

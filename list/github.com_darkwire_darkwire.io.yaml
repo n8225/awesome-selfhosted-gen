@@ -1,0 +1,16 @@
+ID: 104
+Name: Darkwire.io
+Description: End-to-end encrypted instant web chat.
+Source Code: https://github.com/darkwire/darkwire.io
+License:
+    - MIT
+Languages:
+    - Nodejs
+C: Communication systems
+C2: Custom communication systems
+C3: ""
+Tags:
+    - Communications
+MD: '- [Darkwire.io](https://github.com/darkwire/darkwire.io) - End-to-end encrypted instant web chat. `MIT` `Nodejs`'
+SourceType: Github
+Line: 264

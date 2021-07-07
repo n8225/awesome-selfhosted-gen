@@ -1,0 +1,17 @@
+ID: 327
+Name: Pico
+Description: Stupidly simple, blazing fast, flat file CMS.
+Source Code: https://github.com/picocms/Pico
+Website: http://picocms.org/
+License:
+    - MIT
+Languages:
+    - PHP
+C: Content Management Systems (CMS)
+C2: ""
+C3: ""
+Tags:
+    - CMS
+MD: '- [Pico](http://picocms.org/) - Stupidly simple, blazing fast, flat file CMS. ([Source Code](https://github.com/picocms/Pico)) `MIT` `PHP`'
+SourceType: Github
+Line: 557

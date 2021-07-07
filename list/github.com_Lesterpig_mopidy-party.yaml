@@ -1,0 +1,18 @@
+ID: 651
+Name: Mopidy-Party
+Description: Mopidy web extension designed for party! Let your guests manage the sound.
+Source Code: https://github.com/Lesterpig/mopidy-party
+License:
+    - Apache-2.0
+Languages:
+    - Python
+C: Media Streaming
+C2: Audio Streaming
+C3: ""
+Tags:
+    - Media
+    - Streaming
+    - Audio
+MD: '  - [Mopidy-Party](https://github.com/Lesterpig/mopidy-party) - Mopidy web extension designed for party! Let your guests manage the sound. `Apache-2.0` `Python`'
+SourceType: Github
+Line: 1022

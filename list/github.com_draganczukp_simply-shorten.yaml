@@ -1,0 +1,16 @@
+ID: 1067
+Name: Simply Shorten
+Description: A simple URL shortener that just shortens links.
+Source Code: https://github.com/draganczukp/simply-shorten
+License:
+    - MIT
+Languages:
+    - Java
+C: URL Shorteners
+C2: ""
+C3: ""
+Tags:
+    - URL Shortener
+MD: '- [Simply Shorten](https://github.com/draganczukp/simply-shorten) - A simple URL shortener that just shortens links. `MIT` `Java`'
+SourceType: Github
+Line: 1591

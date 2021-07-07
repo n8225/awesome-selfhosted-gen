@@ -1,0 +1,17 @@
+ID: 1021
+Name: Nullboard
+Description: Single-page minimalist kanban board; compact, highly readable and quick to use.
+Source Code: https://github.com/apankrat/nullboard
+License:
+    - BSD-2-Clause
+Languages:
+    - HTML5
+C: Task management/To-do lists
+C2: ""
+C3: ""
+Tags:
+    - To-Do
+    - Task Mgmnt
+MD: '- [Nullboard](https://github.com/apankrat/nullboard) - Single-page minimalist kanban board; compact, highly readable and quick to use. `BSD-2-Clause` `Javascript`'
+SourceType: Github
+Line: 1531

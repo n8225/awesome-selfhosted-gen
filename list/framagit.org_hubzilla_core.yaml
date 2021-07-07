@@ -1,0 +1,18 @@
+ID: 246
+Name: Hubzilla
+Description: Decentralized identity, privacy, publishing, sharing, cloud storage, and communications/social platform.
+Source Code: https://framagit.org/hubzilla/core
+Website: https://hubzilla.org
+License:
+    - MIT
+Languages:
+    - PHP
+C: Communication systems
+C2: Social Networks and Forums
+C3: ""
+Tags:
+    - Communications
+    - Social Network
+    - Forum
+MD: '- [Hubzilla](https://hubzilla.org) - Decentralized identity, privacy, publishing, sharing, cloud storage, and communications/social platform. ([Source Code](https://framagit.org/hubzilla/core)) `MIT` `PHP`'
+Line: 452

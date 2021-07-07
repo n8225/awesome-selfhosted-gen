@@ -1,0 +1,17 @@
+ID: 800
+Name: Passky
+Description: Open source password manager with website, browser extension and desktop application.
+Source Code: https://github.com/Rabbit-Company/Passky-Server
+Demo: https://passky.org
+License:
+    - GPL-3.0
+Languages:
+    - PHP
+C: Password Managers
+C2: ""
+C3: ""
+Tags:
+    - Password Manager
+MD: '- [Passky](https://github.com/Rabbit-Company/Passky-Server) - Open source password manager with website, browser extension and desktop application. ([Demo](https://passky.org)) `GPL-3.0` `PHP`'
+SourceType: Github
+Line: 1209
