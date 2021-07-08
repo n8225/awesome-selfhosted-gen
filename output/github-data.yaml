@@ -5,7 +5,7 @@
     namewithowner: artefactual/atom
     lang: PHP
     spdx: other
-    pushedat: "2021-07-07T17:35:19Z"
+    pushedat: "2021-07-07T20:47:16Z"
     archived: false
     disabled: false
 2:
@@ -15,13 +15,13 @@
     namewithowner: artefactual/archivematica
     lang: Python
     spdx: other
-    pushedat: "2021-07-03T14:08:43Z"
+    pushedat: "2021-07-08T01:47:07Z"
     archived: false
     disabled: false
 3:
     name: pirate
     repo: bookmark-archiver
-    stars: 9590
+    stars: 9591
     namewithowner: ArchiveBox/ArchiveBox
     lang: Python
     spdx: mit
@@ -35,7 +35,7 @@
     namewithowner: archivesspace/archivesspace
     lang: Ruby
     spdx: other
-    pushedat: "2021-07-06T08:53:42Z"
+    pushedat: "2021-07-08T00:12:22Z"
     archived: false
     disabled: false
 5:
@@ -45,17 +45,17 @@
     namewithowner: collectiveaccess/providence
     lang: PHP
     spdx: gpl-3.0
-    pushedat: "2021-07-07T16:17:58Z"
+    pushedat: "2021-07-08T03:39:34Z"
     archived: false
     disabled: false
 6:
     name: ckan
     repo: ckan
-    stars: 3048
+    stars: 3049
     namewithowner: ckan/ckan
     lang: Python
     spdx: other
-    pushedat: "2021-07-07T17:30:02Z"
+    pushedat: "2021-07-07T22:13:34Z"
     archived: false
     disabled: false
 7:
@@ -81,7 +81,7 @@
 9:
     name: actionsflow
     repo: actionsflow
-    stars: 1975
+    stars: 1976
     namewithowner: actionsflow/actionsflow
     lang: TypeScript
     spdx: mit
@@ -111,7 +111,7 @@
 12:
     name: DIVERSIFY-project
     repo: amiunique
-    stars: 597
+    stars: 598
     namewithowner: DIVERSIFY-project/amiunique
     lang: JavaScript
     spdx: mit
@@ -191,7 +191,7 @@
 22:
     name: healthchecks
     repo: healthchecks
-    stars: 3900
+    stars: 3901
     namewithowner: healthchecks/healthchecks
     lang: Python
     spdx: bsd-3-clause
@@ -211,7 +211,7 @@
 24:
     name: zelon88
     repo: HRConvert2
-    stars: 153
+    stars: 154
     namewithowner: zelon88/HRConvert2
     lang: PHP
     spdx: gpl-3.0
@@ -221,7 +221,7 @@
 25:
     name: huginn
     repo: huginn
-    stars: 31774
+    stars: 31777
     namewithowner: huginn/huginn
     lang: Ruby
     spdx: mit
@@ -231,11 +231,11 @@
 26:
     name: kibitzr
     repo: kibitzr
-    stars: 385
+    stars: 386
     namewithowner: kibitzr/kibitzr
     lang: Python
     spdx: mit
-    pushedat: "2021-04-20T17:30:29Z"
+    pushedat: "2021-07-07T20:11:31Z"
     archived: false
     disabled: false
 28:
@@ -255,7 +255,7 @@
     namewithowner: Lidarr/Lidarr
     lang: C#
     spdx: gpl-3.0
-    pushedat: "2021-07-04T17:16:19Z"
+    pushedat: "2021-07-08T03:41:47Z"
     archived: false
     disabled: false
 30:
@@ -265,13 +265,13 @@
     namewithowner: pymedusa/Medusa
     lang: Python
     spdx: gpl-3.0
-    pushedat: "2021-07-07T11:53:07Z"
+    pushedat: "2021-07-08T03:07:10Z"
     archived: false
     disabled: false
 31:
     name: alexta69
     repo: metube
-    stars: 196
+    stars: 197
     namewithowner: alexta69/metube
     lang: TypeScript
     spdx: agpl-3.0
@@ -281,11 +281,11 @@
 32:
     name: n8n-io
     repo: n8n
-    stars: 16406
+    stars: 16416
     namewithowner: n8n-io/n8n
     lang: TypeScript
     spdx: other
-    pushedat: "2021-07-07T15:28:40Z"
+    pushedat: "2021-07-08T03:51:30Z"
     archived: false
     disabled: false
 33:
@@ -345,7 +345,7 @@
     namewithowner: Radarr/Radarr
     lang: C#
     spdx: gpl-3.0
-    pushedat: "2021-07-06T19:43:58Z"
+    pushedat: "2021-07-08T03:31:14Z"
     archived: false
     disabled: false
 39:
@@ -431,7 +431,7 @@
 47:
     name: carlos8f
     repo: zenbot
-    stars: 7775
+    stars: 7776
     namewithowner: DeviaVir/zenbot
     lang: HTML
     spdx: mit
@@ -501,7 +501,7 @@
 54:
     name: cnvs
     repo: canvas
-    stars: 2705
+    stars: 2706
     namewithowner: austintoddj/canvas
     lang: PHP
     spdx: mit
@@ -531,17 +531,17 @@
 59:
     name: TryGhost
     repo: Ghost
-    stars: 37902
+    stars: 37905
     namewithowner: TryGhost/Ghost
     lang: JavaScript
     spdx: mit
-    pushedat: "2021-07-07T18:11:34Z"
+    pushedat: "2021-07-07T21:50:30Z"
     archived: false
     disabled: false
 60:
     name: hexojs
     repo: hexo
-    stars: 33056
+    stars: 33060
     namewithowner: hexojs/hexo
     lang: JavaScript
     spdx: mit
@@ -565,7 +565,7 @@
     namewithowner: danpros/htmly
     lang: PHP
     spdx: other
-    pushedat: "2021-07-07T08:41:14Z"
+    pushedat: "2021-07-08T02:50:07Z"
     archived: false
     disabled: false
 63:
@@ -635,7 +635,7 @@
     namewithowner: mozilla/fxa
     lang: JavaScript
     spdx: mpl-2.0
-    pushedat: "2021-07-07T17:26:27Z"
+    pushedat: "2021-07-07T23:20:02Z"
     archived: false
     disabled: false
 70:
@@ -671,7 +671,7 @@
 73:
     name: hackershare
     repo: hackershare
-    stars: 224
+    stars: 225
     namewithowner: hackershare/hackershare
     lang: HTML
     spdx: mit
@@ -681,7 +681,7 @@
 74:
     name: sissbruecker
     repo: linkding
-    stars: 761
+    stars: 763
     namewithowner: sissbruecker/linkding
     lang: Python
     spdx: mit
@@ -811,7 +811,7 @@
 91:
     name: etesync
     repo: server
-    stars: 887
+    stars: 889
     namewithowner: etesync/server
     lang: Python
     spdx: agpl-3.0
@@ -825,7 +825,7 @@
     namewithowner: Kozea/Radicale
     lang: Python
     spdx: gpl-3.0
-    pushedat: "2021-05-24T22:59:06Z"
+    pushedat: "2021-07-07T23:17:21Z"
     archived: false
     disabled: false
 93:
@@ -881,7 +881,7 @@
 99:
     name: centrifugal
     repo: centrifugo
-    stars: 5127
+    stars: 5128
     namewithowner: centrifugal/centrifugo
     lang: Go
     spdx: mit
@@ -901,11 +901,11 @@
 101:
     name: chatwoot
     repo: chatwoot
-    stars: 9527
+    stars: 9529
     namewithowner: chatwoot/chatwoot
     lang: Ruby
     spdx: mit
-    pushedat: "2021-07-07T17:01:37Z"
+    pushedat: "2021-07-08T03:57:24Z"
     archived: false
     disabled: false
 102:
@@ -951,7 +951,7 @@
 108:
     name: gotify
     repo: server
-    stars: 5942
+    stars: 5944
     namewithowner: gotify/server
     lang: Go
     spdx: other
@@ -971,11 +971,11 @@
 111:
     name: jitsi
     repo: jitsi-meet
-    stars: 16402
+    stars: 16403
     namewithowner: jitsi/jitsi-meet
     lang: JavaScript
     spdx: apache-2.0
-    pushedat: "2021-07-07T18:27:46Z"
+    pushedat: "2021-07-07T22:40:01Z"
     archived: false
     disabled: false
 112:
@@ -1041,11 +1041,11 @@
 118:
     name: mattermost
     repo: mattermost-server
-    stars: 20581
+    stars: 20584
     namewithowner: mattermost/mattermost-server
     lang: Go
     spdx: other
-    pushedat: "2021-07-07T16:17:47Z"
+    pushedat: "2021-07-07T19:17:07Z"
     archived: false
     disabled: false
 119:
@@ -1095,13 +1095,13 @@
     namewithowner: papercups-io/papercups
     lang: Elixir
     spdx: mit
-    pushedat: "2021-07-07T13:40:20Z"
+    pushedat: "2021-07-07T19:37:46Z"
     archived: false
     disabled: false
 124:
     name: eikendev
     repo: pushbits
-    stars: 55
+    stars: 56
     namewithowner: pushbits/server
     lang: Go
     spdx: isc
@@ -1131,11 +1131,11 @@
 127:
     name: RocketChat
     repo: Rocket.Chat
-    stars: 30423
+    stars: 30427
     namewithowner: RocketChat/Rocket.Chat
     lang: JavaScript
     spdx: other
-    pushedat: "2021-07-07T18:51:58Z"
+    pushedat: "2021-07-08T02:31:07Z"
     archived: false
     disabled: false
 128:
@@ -1171,11 +1171,11 @@
 131:
     name: matrix-org
     repo: synapse
-    stars: 8065
+    stars: 8066
     namewithowner: matrix-org/synapse
     lang: Python
     spdx: apache-2.0
-    pushedat: "2021-07-07T17:46:05Z"
+    pushedat: "2021-07-08T01:56:59Z"
     archived: false
     disabled: false
 132:
@@ -1211,11 +1211,11 @@
 136:
     name: tinode
     repo: chat
-    stars: 5517
+    stars: 5518
     namewithowner: tinode/chat
     lang: Go
     spdx: gpl-3.0
-    pushedat: "2021-07-04T17:36:35Z"
+    pushedat: "2021-07-07T22:43:02Z"
     archived: false
     disabled: false
 137:
@@ -1241,7 +1241,7 @@
 139:
     name: HelloZeroNet
     repo: ZeroNet
-    stars: 16886
+    stars: 16885
     namewithowner: HelloZeroNet/ZeroNet
     lang: JavaScript
     spdx: other
@@ -1251,11 +1251,11 @@
 140:
     name: zulip
     repo: zulip
-    stars: 13902
+    stars: 13903
     namewithowner: zulip/zulip
     lang: Python
     spdx: apache-2.0
-    pushedat: "2021-07-07T18:12:15Z"
+    pushedat: "2021-07-08T03:12:58Z"
     archived: false
     disabled: false
 141:
@@ -1281,7 +1281,7 @@
 143:
     name: tomav
     repo: docker-mailserver
-    stars: 7411
+    stars: 7412
     namewithowner: docker-mailserver/docker-mailserver
     lang: Shell
     spdx: mit
@@ -1291,7 +1291,7 @@
 144:
     name: LukeSmithxyz
     repo: emailwiz
-    stars: 678
+    stars: 677
     namewithowner: LukeSmithxyz/emailwiz
     lang: Shell
     spdx: gpl-3.0
@@ -1341,7 +1341,7 @@
 149:
     name: mailcow
     repo: mailcow-dockerized
-    stars: 4107
+    stars: 4108
     namewithowner: mailcow/mailcow-dockerized
     lang: PHP
     spdx: gpl-3.0
@@ -1371,7 +1371,7 @@
 152:
     name: tonioo
     repo: modoboa
-    stars: 1844
+    stars: 1843
     namewithowner: modoboa/modoboa
     lang: Python
     spdx: isc
@@ -1411,7 +1411,7 @@
 161:
     name: haraka
     repo: Haraka
-    stars: 3948
+    stars: 3949
     namewithowner: haraka/Haraka
     lang: JavaScript
     spdx: mit
@@ -1431,7 +1431,7 @@
 164:
     name: mailhog
     repo: MailHog
-    stars: 8704
+    stars: 8706
     namewithowner: mailhog/MailHog
     lang: Go
     spdx: mit
@@ -1455,7 +1455,7 @@
     namewithowner: cyrusimap/cyrus-imapd
     lang: C
     spdx: other
-    pushedat: "2021-07-07T16:31:35Z"
+    pushedat: "2021-07-07T20:48:03Z"
     archived: false
     disabled: false
 171:
@@ -1491,7 +1491,7 @@
 175:
     name: knadh
     repo: listmonk
-    stars: 5423
+    stars: 5424
     namewithowner: knadh/listmonk
     lang: Go
     spdx: agpl-3.0
@@ -1541,7 +1541,7 @@
 183:
     name: atech
     repo: postal
-    stars: 10569
+    stars: 10570
     namewithowner: postalhq/postal
     lang: Ruby
     spdx: mit
@@ -1565,7 +1565,7 @@
     namewithowner: jasonmunro/cypht
     lang: PHP
     spdx: lgpl-2.1
-    pushedat: "2021-07-02T00:48:55Z"
+    pushedat: "2021-07-07T20:39:54Z"
     archived: false
     disabled: false
 190:
@@ -1591,7 +1591,7 @@
 192:
     name: mailpile
     repo: Mailpile
-    stars: 8416
+    stars: 8417
     namewithowner: mailpile/Mailpile
     lang: Python
     spdx: other
@@ -1625,7 +1625,7 @@
     namewithowner: inspircd/inspircd
     lang: C++
     spdx: ""
-    pushedat: "2021-07-07T13:25:45Z"
+    pushedat: "2021-07-07T23:14:29Z"
     archived: false
     disabled: false
 198:
@@ -1675,7 +1675,7 @@
     namewithowner: thelounge/thelounge
     lang: JavaScript
     spdx: mit
-    pushedat: "2021-07-07T14:38:25Z"
+    pushedat: "2021-07-07T23:00:58Z"
     archived: false
     disabled: false
 203:
@@ -1735,13 +1735,13 @@
     namewithowner: fusionpbx/fusionpbx
     lang: PHP
     spdx: ""
-    pushedat: "2021-07-07T17:32:03Z"
+    pushedat: "2021-07-07T22:01:32Z"
     archived: false
     disabled: false
 214:
     name: sipcapture
     repo: homer
-    stars: 915
+    stars: 916
     namewithowner: sipcapture/homer
     lang: Shell
     spdx: agpl-3.0
@@ -1835,7 +1835,7 @@
     namewithowner: coralproject/talk
     lang: TypeScript
     spdx: other
-    pushedat: "2021-07-07T18:33:37Z"
+    pushedat: "2021-07-07T22:13:15Z"
     archived: false
     disabled: false
 234:
@@ -1851,11 +1851,11 @@
 235:
     name: discourse
     repo: discourse
-    stars: 33597
+    stars: 33601
     namewithowner: discourse/discourse
     lang: Ruby
     spdx: other
-    pushedat: "2021-07-07T18:48:44Z"
+    pushedat: "2021-07-08T03:05:40Z"
     archived: false
     disabled: false
 236:
@@ -1891,7 +1891,7 @@
 239:
     name: flarum
     repo: flarum
-    stars: 11666
+    stars: 11667
     namewithowner: flarum/flarum
     lang: PHP
     spdx: mit
@@ -1951,7 +1951,7 @@
 247:
     name: humhub
     repo: humhub
-    stars: 5439
+    stars: 5446
     namewithowner: humhub/humhub
     lang: PHP
     spdx: ""
@@ -1971,7 +1971,7 @@
 249:
     name: dessalines
     repo: lemmy
-    stars: 5163
+    stars: 5164
     namewithowner: LemmyNet/lemmy
     lang: Rust
     spdx: agpl-3.0
@@ -1981,7 +1981,7 @@
 250:
     name: spikecodes
     repo: libreddit
-    stars: 739
+    stars: 741
     namewithowner: spikecodes/libreddit
     lang: Rust
     spdx: agpl-3.0
@@ -1991,21 +1991,21 @@
 251:
     name: loomio
     repo: loomio
-    stars: 2068
+    stars: 2069
     namewithowner: loomio/loomio
     lang: Ruby
     spdx: agpl-3.0
-    pushedat: "2021-07-07T00:37:17Z"
+    pushedat: "2021-07-08T00:35:24Z"
     archived: false
     disabled: false
 252:
     name: tootsuite
     repo: mastodon
-    stars: 24408
+    stars: 24410
     namewithowner: tootsuite/mastodon
     lang: Ruby
     spdx: agpl-3.0
-    pushedat: "2021-07-07T18:29:37Z"
+    pushedat: "2021-07-08T03:37:10Z"
     archived: false
     disabled: false
 253:
@@ -2041,7 +2041,7 @@
 256:
     name: mybb
     repo: mybb
-    stars: 782
+    stars: 781
     namewithowner: mybb/mybb
     lang: PHP
     spdx: lgpl-3.0
@@ -2051,17 +2051,17 @@
 257:
     name: NodeBB
     repo: NodeBB
-    stars: 12005
+    stars: 12008
     namewithowner: NodeBB/NodeBB
     lang: JavaScript
     spdx: gpl-3.0
-    pushedat: "2021-07-07T18:48:47Z"
+    pushedat: "2021-07-07T20:10:14Z"
     archived: false
     disabled: false
 258:
     name: zedeus
     repo: nitter
-    stars: 2720
+    stars: 2721
     namewithowner: zedeus/nitter
     lang: Nim
     spdx: agpl-3.0
@@ -2091,7 +2091,7 @@
 261:
     name: ssbc
     repo: patchwork
-    stars: 3463
+    stars: 3464
     namewithowner: ssbc/patchwork
     lang: JavaScript
     spdx: agpl-3.0
@@ -2101,7 +2101,7 @@
 262:
     name: phpbb
     repo: phpbb
-    stars: 1439
+    stars: 1440
     namewithowner: phpbb/phpbb
     lang: PHP
     spdx: gpl-2.0
@@ -2121,7 +2121,7 @@
 266:
     name: umputun
     repo: remark
-    stars: 2956
+    stars: 2957
     namewithowner: umputun/remark42
     lang: Go
     spdx: mit
@@ -2131,7 +2131,7 @@
 267:
     name: satellity
     repo: satellity
-    stars: 492
+    stars: 493
     namewithowner: satellity/satellity
     lang: Go
     spdx: mit
@@ -2145,7 +2145,7 @@
     namewithowner: Erudika/scoold
     lang: Java
     spdx: apache-2.0
-    pushedat: "2021-07-07T17:29:27Z"
+    pushedat: "2021-07-07T21:13:31Z"
     archived: false
     disabled: false
 269:
@@ -2285,7 +2285,7 @@
     namewithowner: igniterealtime/Openfire
     lang: Java
     spdx: apache-2.0
-    pushedat: "2021-07-07T13:16:23Z"
+    pushedat: "2021-07-07T20:04:10Z"
     archived: false
     disabled: false
 287:
@@ -2331,11 +2331,11 @@
 294:
     name: bigbluebutton
     repo: bigbluebutton
-    stars: 6812
+    stars: 6811
     namewithowner: bigbluebutton/bigbluebutton
     lang: JavaScript
     spdx: lgpl-3.0
-    pushedat: "2021-07-07T18:36:13Z"
+    pushedat: "2021-07-07T21:07:06Z"
     archived: false
     disabled: false
 296:
@@ -2355,7 +2355,7 @@
     namewithowner: indico/indico
     lang: Python
     spdx: mit
-    pushedat: "2021-07-07T17:18:14Z"
+    pushedat: "2021-07-07T18:55:30Z"
     archived: false
     disabled: false
 298:
@@ -2401,11 +2401,11 @@
 303:
     name: punkave
     repo: apostrophe
-    stars: 3640
+    stars: 3641
     namewithowner: apostrophecms/apostrophe
     lang: JavaScript
     spdx: mit
-    pushedat: "2021-07-07T18:49:09Z"
+    pushedat: "2021-07-07T20:05:49Z"
     archived: false
     disabled: false
 304:
@@ -2425,7 +2425,7 @@
     namewithowner: backdrop/backdrop
     lang: PHP
     spdx: gpl-2.0
-    pushedat: "2021-07-07T17:59:23Z"
+    pushedat: "2021-07-08T03:19:33Z"
     archived: false
     disabled: false
 306:
@@ -2491,11 +2491,11 @@
 313:
     name: directus
     repo: directus
-    stars: 11426
+    stars: 11429
     namewithowner: directus/directus
     lang: TypeScript
     spdx: gpl-3.0
-    pushedat: "2021-07-07T18:10:34Z"
+    pushedat: "2021-07-07T22:40:09Z"
     archived: false
     disabled: false
 315:
@@ -2545,17 +2545,17 @@
     namewithowner: joomla/joomla-cms
     lang: PHP
     spdx: gpl-2.0
-    pushedat: "2021-07-07T15:17:13Z"
+    pushedat: "2021-07-07T22:06:27Z"
     archived: false
     disabled: false
 320:
     name: keystonejs
     repo: keystone
-    stars: 4218
+    stars: 4219
     namewithowner: keystonejs/keystone
     lang: TypeScript
     spdx: mit
-    pushedat: "2021-07-07T13:25:56Z"
+    pushedat: "2021-07-08T04:00:34Z"
     archived: false
     disabled: false
 321:
@@ -2565,7 +2565,7 @@
     namewithowner: modxcms/revolution
     lang: PHP
     spdx: other
-    pushedat: "2021-07-06T11:37:32Z"
+    pushedat: "2021-07-07T23:47:11Z"
     archived: false
     disabled: false
 324:
@@ -2611,7 +2611,7 @@
 328:
     name: pimcore
     repo: pimcore
-    stars: 2149
+    stars: 2150
     namewithowner: pimcore/pimcore
     lang: PHP
     spdx: other
@@ -2681,17 +2681,17 @@
 338:
     name: Squidex
     repo: squidex
-    stars: 1499
+    stars: 1500
     namewithowner: Squidex/squidex
     lang: C#
     spdx: mit
-    pushedat: "2021-07-07T15:49:47Z"
+    pushedat: "2021-07-07T19:13:20Z"
     archived: false
     disabled: false
 339:
     name: strapi
     repo: strapi
-    stars: 37509
+    stars: 37516
     namewithowner: strapi/strapi
     lang: JavaScript
     spdx: other
@@ -2705,7 +2705,7 @@
     namewithowner: textpattern/textpattern
     lang: PHP
     spdx: gpl-2.0
-    pushedat: "2021-07-07T11:12:35Z"
+    pushedat: "2021-07-07T22:16:50Z"
     archived: false
     disabled: false
 341:
@@ -2735,7 +2735,7 @@
     namewithowner: umbraco/Umbraco-CMS
     lang: C#
     spdx: mit
-    pushedat: "2021-07-07T16:50:46Z"
+    pushedat: "2021-07-07T22:16:22Z"
     archived: false
     disabled: false
 344:
@@ -2745,7 +2745,7 @@
     namewithowner: wagtail/wagtail
     lang: Python
     spdx: bsd-3-clause
-    pushedat: "2021-07-07T15:30:46Z"
+    pushedat: "2021-07-08T01:09:59Z"
     archived: false
     disabled: false
 345:
@@ -2761,11 +2761,11 @@
 346:
     name: WordPress
     repo: WordPress
-    stars: 15224
+    stars: 15226
     namewithowner: WordPress/WordPress
     lang: PHP
     spdx: other
-    pushedat: "2021-07-07T17:32:08Z"
+    pushedat: "2021-07-07T22:48:08Z"
     archived: false
     disabled: false
 347:
@@ -2785,7 +2785,7 @@
     namewithowner: hay-kot/mealie
     lang: Vue
     spdx: mit
-    pushedat: "2021-07-06T00:05:36Z"
+    pushedat: "2021-07-08T01:42:27Z"
     archived: false
     disabled: false
 349:
@@ -2825,13 +2825,13 @@
     namewithowner: vabene1111/recipes
     lang: HTML
     spdx: other
-    pushedat: "2021-07-07T18:23:01Z"
+    pushedat: "2021-07-08T00:03:24Z"
     archived: false
     disabled: false
 354:
     name: attendize
     repo: attendize
-    stars: 3151
+    stars: 3152
     namewithowner: Attendize/Attendize
     lang: PHP
     spdx: other
@@ -2841,7 +2841,7 @@
 355:
     name: bagisto
     repo: bagisto
-    stars: 3708
+    stars: 3710
     namewithowner: bagisto/bagisto
     lang: PHP
     spdx: mit
@@ -2875,7 +2875,7 @@
     namewithowner: magento/magento2
     lang: PHP
     spdx: other
-    pushedat: "2021-07-07T18:25:30Z"
+    pushedat: "2021-07-08T03:56:03Z"
     archived: false
     disabled: false
 359:
@@ -2905,7 +2905,7 @@
     namewithowner: opencart/opencart
     lang: PHP
     spdx: gpl-3.0
-    pushedat: "2021-07-07T10:02:14Z"
+    pushedat: "2021-07-08T04:01:01Z"
     archived: false
     disabled: false
 362:
@@ -2925,7 +2925,7 @@
     namewithowner: opensourcepos/opensourcepos
     lang: PHP
     spdx: other
-    pushedat: "2021-07-07T15:10:19Z"
+    pushedat: "2021-07-07T22:27:12Z"
     archived: false
     disabled: false
 364:
@@ -2945,17 +2945,17 @@
     namewithowner: openfoodfoundation/openfoodnetwork
     lang: Ruby
     spdx: agpl-3.0
-    pushedat: "2021-07-07T17:42:33Z"
+    pushedat: "2021-07-07T20:34:10Z"
     archived: false
     disabled: false
 366:
     name: PrestaShop
     repo: PrestaShop
-    stars: 5999
+    stars: 6000
     namewithowner: PrestaShop/PrestaShop
     lang: PHP
     spdx: other
-    pushedat: "2021-07-07T18:39:29Z"
+    pushedat: "2021-07-07T21:11:55Z"
     archived: false
     disabled: false
 368:
@@ -2971,27 +2971,27 @@
 369:
     name: mirumee
     repo: saleor
-    stars: 12796
+    stars: 12806
     namewithowner: mirumee/saleor
     lang: Python
     spdx: other
-    pushedat: "2021-07-07T18:08:13Z"
+    pushedat: "2021-07-08T02:50:43Z"
     archived: false
     disabled: false
 370:
     name: shuup
     repo: shuup
-    stars: 1636
+    stars: 1635
     namewithowner: shuup/shuup
     lang: Python
     spdx: other
-    pushedat: "2021-07-07T18:46:47Z"
+    pushedat: "2021-07-07T19:22:11Z"
     archived: false
     disabled: false
 371:
     name: shopware
     repo: platform
-    stars: 1403
+    stars: 1404
     namewithowner: shopware/platform
     lang: PHP
     spdx: mit
@@ -3011,11 +3011,11 @@
 373:
     name: spree
     repo: spree
-    stars: 11297
+    stars: 11298
     namewithowner: spree/spree
     lang: Ruby
     spdx: other
-    pushedat: "2021-07-07T16:54:25Z"
+    pushedat: "2021-07-07T22:55:12Z"
     archived: false
     disabled: false
 374:
@@ -3045,7 +3045,7 @@
     namewithowner: woocommerce/woocommerce
     lang: PHP
     spdx: other
-    pushedat: "2021-07-07T16:37:57Z"
+    pushedat: "2021-07-08T00:43:11Z"
     archived: false
     disabled: false
 377:
@@ -3061,7 +3061,7 @@
 378:
     name: coredns
     repo: coredns
-    stars: 7842
+    stars: 7844
     namewithowner: coredns/coredns
     lang: Go
     spdx: apache-2.0
@@ -3115,7 +3115,7 @@
     namewithowner: eikek/docspell
     lang: Elm
     spdx: gpl-3.0
-    pushedat: "2021-07-06T16:55:50Z"
+    pushedat: "2021-07-08T00:40:17Z"
     archived: false
     disabled: false
 384:
@@ -3131,7 +3131,7 @@
 385:
     name: mkucej
     repo: i-librarian-free
-    stars: 46
+    stars: 47
     namewithowner: mkucej/i-librarian-free
     lang: PHP
     spdx: gpl-3.0
@@ -3161,7 +3161,7 @@
 389:
     name: jonaswinkler
     repo: paperless-ng
-    stars: 1673
+    stars: 1675
     namewithowner: jonaswinkler/paperless-ng
     lang: Python
     spdx: gpl-3.0
@@ -3191,7 +3191,7 @@
 394:
     name: janeczku
     repo: calibre-web
-    stars: 4869
+    stars: 4870
     namewithowner: janeczku/calibre-web
     lang: JavaScript
     spdx: gpl-3.0
@@ -3215,7 +3215,7 @@
     namewithowner: Kareadita/Kavita
     lang: C#
     spdx: gpl-3.0
-    pushedat: "2021-07-07T17:58:18Z"
+    pushedat: "2021-07-08T01:01:25Z"
     archived: false
     disabled: false
 398:
@@ -3265,7 +3265,7 @@
     namewithowner: Koha-Community/Koha
     lang: Perl
     spdx: gpl-3.0
-    pushedat: "2021-07-06T13:42:03Z"
+    pushedat: "2021-07-08T02:09:36Z"
     archived: false
     disabled: false
 403:
@@ -3325,7 +3325,7 @@
     namewithowner: samvera/hyrax
     lang: Ruby
     spdx: apache-2.0
-    pushedat: "2021-07-06T21:25:57Z"
+    pushedat: "2021-07-08T00:41:21Z"
     archived: false
     disabled: false
 409:
@@ -3351,7 +3351,7 @@
 411:
     name: FreshRSS
     repo: FreshRSS
-    stars: 3332
+    stars: 3334
     namewithowner: FreshRSS/FreshRSS
     lang: PHP
     spdx: agpl-3.0
@@ -3421,7 +3421,7 @@
 418:
     name: miniflux
     repo: miniflux
-    stars: 2947
+    stars: 2949
     namewithowner: miniflux/v2
     lang: Go
     spdx: apache-2.0
@@ -3431,11 +3431,11 @@
 419:
     name: samuelclay
     repo: NewsBlur
-    stars: 5775
+    stars: 5776
     namewithowner: samuelclay/NewsBlur
     lang: Objective-C
     spdx: mit
-    pushedat: "2021-07-07T17:09:30Z"
+    pushedat: "2021-07-07T19:54:01Z"
     archived: false
     disabled: false
 420:
@@ -3465,7 +3465,7 @@
     namewithowner: pietheinstrengholt/rssmonster
     lang: Vue
     spdx: mit
-    pushedat: "2021-07-07T18:35:13Z"
+    pushedat: "2021-07-07T19:42:57Z"
     archived: false
     disabled: false
 424:
@@ -3641,11 +3641,11 @@
 445:
     name: nextcloud
     repo: server
-    stars: 14516
+    stars: 14519
     namewithowner: nextcloud/server
     lang: PHP
     spdx: other
-    pushedat: "2021-07-07T17:58:19Z"
+    pushedat: "2021-07-08T02:57:17Z"
     archived: false
     disabled: false
 447:
@@ -3655,7 +3655,7 @@
     namewithowner: owncloud/core
     lang: PHP
     spdx: other
-    pushedat: "2021-07-07T12:56:58Z"
+    pushedat: "2021-07-08T03:16:36Z"
     archived: false
     disabled: false
 448:
@@ -3671,7 +3671,7 @@
 450:
     name: haiwen
     repo: seafile
-    stars: 8755
+    stars: 8756
     namewithowner: haiwen/seafile
     lang: C
     spdx: other
@@ -3691,7 +3691,7 @@
 453:
     name: syncthing
     repo: syncthing
-    stars: 39141
+    stars: 39143
     namewithowner: syncthing/syncthing
     lang: Go
     spdx: mpl-2.0
@@ -3721,7 +3721,7 @@
 459:
     name: kern
     repo: filepizza
-    stars: 3495
+    stars: 3496
     namewithowner: kern/filepizza
     lang: JavaScript
     spdx: other
@@ -3771,7 +3771,7 @@
 465:
     name: qbittorrent
     repo: qBittorrent
-    stars: 12402
+    stars: 12403
     namewithowner: qbittorrent/qBittorrent
     lang: C++
     spdx: other
@@ -3811,17 +3811,17 @@
 470:
     name: minio
     repo: minio
-    stars: 28362
+    stars: 28369
     namewithowner: minio/minio
     lang: Go
     spdx: agpl-3.0
-    pushedat: "2021-07-07T16:28:34Z"
+    pushedat: "2021-07-08T03:12:47Z"
     archived: false
     disabled: false
 471:
     name: chrislusf
     repo: seaweedfs
-    stars: 12272
+    stars: 12276
     namewithowner: chrislusf/seaweedfs
     lang: Go
     spdx: apache-2.0
@@ -3851,11 +3851,11 @@
 474:
     name: tycrek
     repo: ass
-    stars: 13
+    stars: 14
     namewithowner: tycrek/ass
     lang: JavaScript
     spdx: isc
-    pushedat: "2021-07-07T18:10:10Z"
+    pushedat: "2021-07-08T02:33:47Z"
     archived: false
     disabled: false
 475:
@@ -3871,7 +3871,7 @@
 476:
     name: weebdev
     repo: chibisafe
-    stars: 742
+    stars: 743
     namewithowner: WeebDev/chibisafe
     lang: JavaScript
     spdx: ""
@@ -3991,7 +3991,7 @@
 492:
     name: micahflee
     repo: onionshare
-    stars: 4589
+    stars: 4590
     namewithowner: micahflee/onionshare
     lang: Python
     spdx: other
@@ -4075,7 +4075,7 @@
     namewithowner: eikek/sharry
     lang: Elm
     spdx: gpl-3.0
-    pushedat: "2021-07-06T16:35:17Z"
+    pushedat: "2021-07-08T00:20:36Z"
     archived: false
     disabled: false
 501:
@@ -4111,17 +4111,17 @@
 504:
     name: SergiX44
     repo: XBackBone
-    stars: 415
+    stars: 416
     namewithowner: SergiX44/XBackBone
     lang: PHP
     spdx: agpl-3.0
-    pushedat: "2021-06-06T17:30:12Z"
+    pushedat: "2021-07-08T01:25:14Z"
     archived: false
     disabled: false
 505:
     name: remie
     repo: YouTransfer
-    stars: 1489
+    stars: 1490
     namewithowner: YouTransfer/YouTransfer
     lang: JavaScript
     spdx: apache-2.0
@@ -4131,7 +4131,7 @@
 506:
     name: diced
     repo: zipline
-    stars: 70
+    stars: 71
     namewithowner: diced/zipline
     lang: TypeScript
     spdx: ""
@@ -4151,7 +4151,7 @@
 508:
     name: dutchcoders
     repo: transfer.sh
-    stars: 10897
+    stars: 10975
     namewithowner: dutchcoders/transfer.sh
     lang: Go
     spdx: mit
@@ -4191,7 +4191,7 @@
 512:
     name: filebrowser
     repo: filebrowser
-    stars: 9971
+    stars: 10005
     namewithowner: filebrowser/filebrowser
     lang: Go
     spdx: apache-2.0
@@ -4281,7 +4281,7 @@
 522:
     name: tagspaces
     repo: tagspaces
-    stars: 2322
+    stars: 2323
     namewithowner: tagspaces/tagspaces
     lang: TypeScript
     spdx: agpl-3.0
@@ -4321,7 +4321,7 @@
 526:
     name: magwo
     repo: elevatorsaga
-    stars: 1925
+    stars: 1926
     namewithowner: magwo/elevatorsaga
     lang: JavaScript
     spdx: mit
@@ -4351,11 +4351,11 @@
 529:
     name: ornicar
     repo: lila
-    stars: 9679
+    stars: 9680
     namewithowner: ornicar/lila
     lang: Scala
     spdx: other
-    pushedat: "2021-07-07T18:00:44Z"
+    pushedat: "2021-07-08T02:00:37Z"
     archived: false
     disabled: false
 530:
@@ -4365,7 +4365,7 @@
     namewithowner: Anuken/Mindustry
     lang: Java
     spdx: gpl-3.0
-    pushedat: "2021-07-07T17:38:44Z"
+    pushedat: "2021-07-08T02:15:01Z"
     archived: false
     disabled: false
 531:
@@ -4375,13 +4375,13 @@
     namewithowner: minetest/minetest
     lang: C++
     spdx: other
-    pushedat: "2021-07-07T18:02:38Z"
+    pushedat: "2021-07-07T22:31:10Z"
     archived: false
     disabled: false
 532:
     name: multitheftauto
     repo: mtasa-blue
-    stars: 800
+    stars: 801
     namewithowner: multitheftauto/mtasa-blue
     lang: C++
     spdx: gpl-3.0
@@ -4495,7 +4495,7 @@
     namewithowner: wesnoth/wesnoth
     lang: C++
     spdx: other
-    pushedat: "2021-07-07T10:10:53Z"
+    pushedat: "2021-07-08T00:17:09Z"
     archived: false
     disabled: false
 544:
@@ -4565,7 +4565,7 @@
     namewithowner: shellhub-io/shellhub
     lang: Go
     spdx: apache-2.0
-    pushedat: "2021-07-07T17:00:10Z"
+    pushedat: "2021-07-07T20:18:58Z"
     archived: false
     disabled: false
 552:
@@ -4581,7 +4581,7 @@
 553:
     name: tmate-io
     repo: tmate
-    stars: 4323
+    stars: 4324
     namewithowner: tmate-io/tmate
     lang: C
     spdx: other
@@ -4635,13 +4635,13 @@
     namewithowner: EGroupware/egroupware
     lang: PHP
     spdx: gpl-2.0
-    pushedat: "2021-07-07T14:51:37Z"
+    pushedat: "2021-07-07T21:58:25Z"
     archived: false
     disabled: false
 562:
     name: espocrm
     repo: espocrm
-    stars: 789
+    stars: 790
     namewithowner: espocrm/espocrm
     lang: PHP
     spdx: gpl-3.0
@@ -4671,7 +4671,7 @@
 568:
     name: inverse-inc
     repo: sogo
-    stars: 1086
+    stars: 1087
     namewithowner: inverse-inc/sogo
     lang: Objective-C
     spdx: other
@@ -4751,7 +4751,7 @@
 580:
     name: GladysProject
     repo: Gladys
-    stars: 1800
+    stars: 1801
     namewithowner: GladysAssistant/Gladys
     lang: JavaScript
     spdx: apache-2.0
@@ -4761,17 +4761,17 @@
 581:
     name: home-assistant
     repo: home-assistant
-    stars: 44435
+    stars: 44437
     namewithowner: home-assistant/core
     lang: Python
     spdx: apache-2.0
-    pushedat: "2021-07-07T18:46:05Z"
+    pushedat: "2021-07-08T03:59:35Z"
     archived: false
     disabled: false
 582:
     name: node-red
     repo: node-red
-    stars: 12499
+    stars: 12500
     namewithowner: node-red/node-red
     lang: JavaScript
     spdx: apache-2.0
@@ -4795,13 +4795,13 @@
     namewithowner: openremote/openremote
     lang: Java
     spdx: other
-    pushedat: "2021-07-07T08:59:27Z"
+    pushedat: "2021-07-07T20:17:09Z"
     archived: false
     disabled: false
 585:
     name: thingsboard
     repo: thingsboard
-    stars: 8846
+    stars: 8848
     namewithowner: thingsboard/thingsboard
     lang: Java
     spdx: other
@@ -4811,7 +4811,7 @@
 586:
     name: iobridge
     repo: thingspeak
-    stars: 977
+    stars: 978
     namewithowner: iobridge/thingspeak
     lang: Ruby
     spdx: other
@@ -4821,17 +4821,17 @@
 587:
     name: WebThingsIO
     repo: gateway
-    stars: 2460
+    stars: 2461
     namewithowner: WebThingsIO/gateway
     lang: TypeScript
     spdx: mpl-2.0
-    pushedat: "2021-07-07T16:48:32Z"
+    pushedat: "2021-07-08T01:25:40Z"
     archived: false
     disabled: false
 588:
     name: drichard
     repo: mindmaps
-    stars: 2231
+    stars: 2232
     namewithowner: drichard/mindmaps
     lang: JavaScript
     spdx: agpl-3.0
@@ -4851,7 +4851,7 @@
 590:
     name: semi-technologies
     repo: weaviate
-    stars: 1364
+    stars: 1365
     namewithowner: semi-technologies/weaviate
     lang: Go
     spdx: bsd-3-clause
@@ -4865,7 +4865,7 @@
     namewithowner: instructure/canvas-lms
     lang: Ruby
     spdx: other
-    pushedat: "2021-07-07T18:47:21Z"
+    pushedat: "2021-07-08T00:48:09Z"
     archived: false
     disabled: false
 592:
@@ -4895,7 +4895,7 @@
     namewithowner: ILIAS-eLearning/ILIAS
     lang: PHP
     spdx: gpl-3.0
-    pushedat: "2021-07-07T16:14:35Z"
+    pushedat: "2021-07-07T21:00:41Z"
     archived: false
     disabled: false
 596:
@@ -4941,7 +4941,7 @@
 602:
     name: sakaiproject
     repo: sakai
-    stars: 765
+    stars: 766
     namewithowner: sakaiproject/sakai
     lang: Java
     spdx: ecl-2.0
@@ -4961,11 +4961,11 @@
 604:
     name: graphhopper
     repo: graphhopper
-    stars: 3247
+    stars: 3248
     namewithowner: graphhopper/graphhopper
     lang: Java
     spdx: apache-2.0
-    pushedat: "2021-07-07T13:22:05Z"
+    pushedat: "2021-07-07T22:46:31Z"
     archived: false
     disabled: false
 605:
@@ -4991,7 +4991,7 @@
 607:
     name: Project-OSRM
     repo: osrm-backend
-    stars: 4464
+    stars: 4465
     namewithowner: Project-OSRM/osrm-backend
     lang: C++
     spdx: bsd-2-clause
@@ -5111,21 +5111,21 @@
 622:
     name: jellyfin
     repo: jellyfin
-    stars: 11091
+    stars: 11093
     namewithowner: jellyfin/jellyfin
     lang: C#
     spdx: gpl-2.0
-    pushedat: "2021-07-06T17:37:38Z"
+    pushedat: "2021-07-08T01:32:40Z"
     archived: false
     disabled: false
 624:
     name: lbryio
     repo: lbry.com
-    stars: 217
+    stars: 218
     namewithowner: lbryio/lbry.com
     lang: PHP
     spdx: mit
-    pushedat: "2021-07-07T13:51:35Z"
+    pushedat: "2021-07-08T03:23:08Z"
     archived: false
     disabled: false
 625:
@@ -5151,7 +5151,7 @@
 627:
     name: podify-org
     repo: podify
-    stars: 129
+    stars: 130
     namewithowner: podify-org/podify
     lang: Ruby
     spdx: gpl-3.0
@@ -5161,7 +5161,7 @@
 631:
     name: ampache
     repo: ampache
-    stars: 2725
+    stars: 2728
     namewithowner: ampache/ampache
     lang: PHP
     spdx: ""
@@ -5171,7 +5171,7 @@
 632:
     name: airsonic
     repo: airsonic
-    stars: 1808
+    stars: 1809
     namewithowner: airsonic/airsonic
     lang: Java
     spdx: gpl-3.0
@@ -5241,7 +5241,7 @@
 641:
     name: sentriz
     repo: gonic
-    stars: 509
+    stars: 510
     namewithowner: sentriz/gonic
     lang: Go
     spdx: gpl-3.0
@@ -5285,7 +5285,7 @@
     namewithowner: LibreTime/libretime
     lang: PHP
     spdx: other
-    pushedat: "2021-07-06T08:30:21Z"
+    pushedat: "2021-07-07T20:10:53Z"
     archived: false
     disabled: false
 646:
@@ -5315,7 +5315,7 @@
     namewithowner: mopidy/mopidy
     lang: Python
     spdx: apache-2.0
-    pushedat: "2021-07-07T09:45:44Z"
+    pushedat: "2021-07-08T00:21:08Z"
     archived: false
     disabled: false
 649:
@@ -5391,7 +5391,7 @@
 656:
     name: deluan
     repo: navidrome
-    stars: 1290
+    stars: 1291
     namewithowner: navidrome/navidrome
     lang: Go
     spdx: gpl-3.0
@@ -5411,7 +5411,7 @@
 658:
     name: badaix
     repo: snapcast
-    stars: 3806
+    stars: 3805
     namewithowner: badaix/snapcast
     lang: C++
     spdx: gpl-3.0
@@ -5445,7 +5445,7 @@
     namewithowner: bluecherrydvr/bluecherry-apps
     lang: PHP
     spdx: gpl-2.0
-    pushedat: "2021-07-07T12:44:56Z"
+    pushedat: "2021-07-07T21:02:32Z"
     archived: false
     disabled: false
 663:
@@ -5471,11 +5471,11 @@
 665:
     name: omarroth
     repo: invidious
-    stars: 5419
+    stars: 5422
     namewithowner: iv-org/invidious
     lang: Crystal
     spdx: agpl-3.0
-    pushedat: "2021-07-06T14:26:37Z"
+    pushedat: "2021-07-07T19:17:23Z"
     archived: false
     disabled: false
 666:
@@ -5551,7 +5551,7 @@
 676:
     name: Zibbp
     repo: Radium
-    stars: 100
+    stars: 101
     namewithowner: Zibbp/Radium
     lang: Vue
     spdx: mit
@@ -5611,7 +5611,7 @@
 683:
     name: Bubka
     repo: 2FAuth
-    stars: 132
+    stars: 133
     namewithowner: Bubka/2FAuth
     lang: PHP
     spdx: agpl-3.0
@@ -5661,7 +5661,7 @@
 688:
     name: lewish
     repo: asciiflow2
-    stars: 1736
+    stars: 1737
     namewithowner: lewish/asciiflow
     lang: TypeScript
     spdx: mit
@@ -5691,7 +5691,7 @@
 691:
     name: CachetHQ
     repo: Cachet
-    stars: 12167
+    stars: 12170
     namewithowner: CachetHQ/Cachet
     lang: PHP
     spdx: bsd-3-clause
@@ -5711,7 +5711,7 @@
 693:
     name: dgtlmoon
     repo: changedetection.io
-    stars: 993
+    stars: 994
     namewithowner: dgtlmoon/changedetection.io
     lang: Python
     spdx: apache-2.0
@@ -5731,7 +5731,7 @@
 695:
     name: apple
     repo: cups
-    stars: 1317
+    stars: 1318
     namewithowner: apple/cups
     lang: C
     spdx: apache-2.0
@@ -5741,7 +5741,7 @@
 696:
     name: gchq
     repo: CyberChef
-    stars: 12324
+    stars: 12328
     namewithowner: gchq/CyberChef
     lang: JavaScript
     spdx: apache-2.0
@@ -5891,7 +5891,7 @@
 712:
     name: mindsdb
     repo: mindsdb
-    stars: 3786
+    stars: 3788
     namewithowner: mindsdb/mindsdb
     lang: Python
     spdx: gpl-3.0
@@ -5911,11 +5911,11 @@
 714:
     name: monicahq
     repo: monica
-    stars: 13061
+    stars: 13064
     namewithowner: monicahq/monica
     lang: PHP
     spdx: agpl-3.0
-    pushedat: "2021-07-06T17:05:45Z"
+    pushedat: "2021-07-07T21:37:20Z"
     archived: false
     disabled: false
 715:
@@ -5941,7 +5941,7 @@
 717:
     name: tannercollin
     repo: Notica
-    stars: 238
+    stars: 239
     namewithowner: tannercollin/Notica
     lang: JavaScript
     spdx: mit
@@ -5961,7 +5961,7 @@
 719:
     name: orchest
     repo: orchest
-    stars: 1190
+    stars: 1191
     namewithowner: orchest/orchest
     lang: Python
     spdx: agpl-3.0
@@ -5991,7 +5991,7 @@
 722:
     name: AmruthPillai
     repo: Reactive-Resume
-    stars: 2858
+    stars: 2861
     namewithowner: AmruthPillai/Reactive-Resume
     lang: JavaScript
     spdx: mit
@@ -6001,7 +6001,7 @@
 724:
     name: hakimel
     repo: reveal.js
-    stars: 56696
+    stars: 56700
     namewithowner: hakimel/reveal.js
     lang: JavaScript
     spdx: mit
@@ -6021,7 +6021,7 @@
 727:
     name: adriankumpf
     repo: teslamate
-    stars: 1585
+    stars: 1587
     namewithowner: adriankumpf/teslamate
     lang: Elixir
     spdx: mit
@@ -6061,11 +6061,11 @@
 731:
     name: akaunting
     repo: akaunting
-    stars: 4144
+    stars: 4146
     namewithowner: akaunting/akaunting
     lang: PHP
     spdx: gpl-3.0
-    pushedat: "2021-07-07T15:33:23Z"
+    pushedat: "2021-07-08T00:15:07Z"
     archived: false
     disabled: false
 733:
@@ -6095,7 +6095,7 @@
     namewithowner: budgetzero/budgetzero
     lang: Vue
     spdx: agpl-3.0
-    pushedat: "2021-07-06T11:38:42Z"
+    pushedat: "2021-07-07T21:01:51Z"
     archived: false
     disabled: false
 736:
@@ -6205,17 +6205,17 @@
     namewithowner: inventree/InvenTree
     lang: JavaScript
     spdx: mit
-    pushedat: "2021-07-06T21:57:40Z"
+    pushedat: "2021-07-08T03:47:27Z"
     archived: false
     disabled: false
 748:
     name: invoiceninja
     repo: invoiceninja
-    stars: 5955
+    stars: 5954
     namewithowner: invoiceninja/invoiceninja
     lang: PHP
     spdx: other
-    pushedat: "2021-07-07T13:58:57Z"
+    pushedat: "2021-07-08T01:52:25Z"
     archived: false
     disabled: false
 749:
@@ -6235,7 +6235,7 @@
     namewithowner: spiral-project/ihatemoney
     lang: Python
     spdx: other
-    pushedat: "2021-07-06T23:06:06Z"
+    pushedat: "2021-07-07T20:45:09Z"
     archived: false
     disabled: false
 751:
@@ -6301,7 +6301,7 @@
 759:
     name: BoostIO
     repo: Boostnote
-    stars: 17418
+    stars: 17419
     namewithowner: BoostIO/Boostnote
     lang: JavaScript
     spdx: other
@@ -6351,7 +6351,7 @@
 764:
     name: jgraph
     repo: drawio
-    stars: 24647
+    stars: 24650
     namewithowner: jgraph/drawio
     lang: JavaScript
     spdx: apache-2.0
@@ -6361,7 +6361,7 @@
 765:
     name: hedgedoc
     repo: hedgedoc
-    stars: 2078
+    stars: 2079
     namewithowner: hedgedoc/hedgedoc
     lang: TypeScript
     spdx: agpl-3.0
@@ -6371,17 +6371,17 @@
 766:
     name: laurent22
     repo: joplin
-    stars: 24084
+    stars: 24088
     namewithowner: laurent22/joplin
     lang: TypeScript
     spdx: other
-    pushedat: "2021-07-07T17:38:18Z"
+    pushedat: "2021-07-07T20:30:59Z"
     archived: false
     disabled: false
 767:
     name: leanote
     repo: leanote
-    stars: 10079
+    stars: 10078
     namewithowner: leanote/leanote
     lang: JavaScript
     spdx: ""
@@ -6431,7 +6431,7 @@
 772:
     name: QingWei-Li
     repo: notea
-    stars: 961
+    stars: 962
     namewithowner: QingWei-Li/notea
     lang: TypeScript
     spdx: ""
@@ -6521,7 +6521,7 @@
 782:
     name: zadam
     repo: trilium
-    stars: 11167
+    stars: 11188
     namewithowner: zadam/trilium
     lang: JavaScript
     spdx: agpl-3.0
@@ -6561,7 +6561,7 @@
 788:
     name: audreyt
     repo: ethercalc
-    stars: 2650
+    stars: 2651
     namewithowner: audreyt/ethercalc
     lang: JavaScript
     spdx: other
@@ -6571,11 +6571,11 @@
 789:
     name: ether
     repo: etherpad-lite
-    stars: 11004
+    stars: 11010
     namewithowner: ether/etherpad-lite
     lang: JavaScript
     spdx: apache-2.0
-    pushedat: "2021-07-07T00:39:30Z"
+    pushedat: "2021-07-08T01:30:25Z"
     archived: false
     disabled: false
 790:
@@ -6591,7 +6591,7 @@
 791:
     name: ONLYOFFICE
     repo: DocumentServer
-    stars: 2124
+    stars: 2125
     namewithowner: ONLYOFFICE/DocumentServer
     lang: Shell
     spdx: agpl-3.0
@@ -6601,7 +6601,7 @@
 793:
     name: ekzhang
     repo: rustpad
-    stars: 1500
+    stars: 1503
     namewithowner: ekzhang/rustpad
     lang: Rust
     spdx: mit
@@ -6621,17 +6621,17 @@
 795:
     name: bitwarden
     repo: core
-    stars: 7959
+    stars: 7962
     namewithowner: bitwarden/server
     lang: C#
     spdx: other
-    pushedat: "2021-07-07T18:47:17Z"
+    pushedat: "2021-07-08T02:40:47Z"
     archived: false
     disabled: false
 796:
     name: keeweb
     repo: keeweb
-    stars: 10171
+    stars: 10172
     namewithowner: keeweb/keeweb
     lang: JavaScript
     spdx: other
@@ -6651,7 +6651,7 @@
 798:
     name: passbolt
     repo: passbolt_api
-    stars: 2556
+    stars: 2557
     namewithowner: passbolt/passbolt_api
     lang: PHP
     spdx: agpl-3.0
@@ -6711,7 +6711,7 @@
 806:
     name: dani-garcia
     repo: vaultwarden
-    stars: 9738
+    stars: 9745
     namewithowner: dani-garcia/vaultwarden
     lang: Rust
     spdx: gpl-3.0
@@ -6735,7 +6735,7 @@
     namewithowner: bepasty/bepasty-server
     lang: Python
     spdx: bsd-2-clause
-    pushedat: "2021-06-29T21:36:16Z"
+    pushedat: "2021-07-08T04:00:08Z"
     archived: false
     disabled: false
 809:
@@ -6821,7 +6821,7 @@
 817:
     name: AndrewPaglusch
     repo: FlashPaper
-    stars: 37
+    stars: 38
     namewithowner: AndrewPaglusch/FlashPaper
     lang: PHP
     spdx: mit
@@ -6851,7 +6851,7 @@
 820:
     name: mtlynch
     repo: logpaste
-    stars: 117
+    stars: 116
     namewithowner: mtlynch/logpaste
     lang: Go
     spdx: mit
@@ -6941,7 +6941,7 @@
 829:
     name: PrivateBin
     repo: PrivateBin
-    stars: 3229
+    stars: 3230
     namewithowner: PrivateBin/PrivateBin
     lang: PHP
     spdx: other
@@ -7031,11 +7031,11 @@
 838:
     name: cdubz
     repo: babybuddy
-    stars: 1065
+    stars: 1066
     namewithowner: babybuddy/babybuddy
     lang: JavaScript
     spdx: bsd-2-clause
-    pushedat: "2021-07-07T18:49:30Z"
+    pushedat: "2021-07-08T03:54:31Z"
     archived: false
     disabled: false
 839:
@@ -7065,7 +7065,7 @@
     namewithowner: Lissy93/dashy
     lang: Vue
     spdx: other
-    pushedat: "2021-07-06T19:21:39Z"
+    pushedat: "2021-07-07T20:11:11Z"
     archived: false
     disabled: false
 842:
@@ -7085,13 +7085,13 @@
     namewithowner: HabitRPG/habitica
     lang: JavaScript
     spdx: other
-    pushedat: "2021-07-07T17:47:01Z"
+    pushedat: "2021-07-07T19:56:18Z"
     archived: false
     disabled: false
 844:
     name: linuxserver
     repo: Heimdall
-    stars: 3034
+    stars: 3035
     namewithowner: linuxserver/Heimdall
     lang: PHP
     spdx: mit
@@ -7141,7 +7141,7 @@
 849:
     name: causefx
     repo: Organizr
-    stars: 3357
+    stars: 3358
     namewithowner: causefx/Organizr
     lang: PHP
     spdx: gpl-3.0
@@ -7171,7 +7171,7 @@
 852:
     name: Smashing
     repo: smashing
-    stars: 2647
+    stars: 2648
     namewithowner: Smashing/smashing
     lang: JavaScript
     spdx: mit
@@ -7261,7 +7261,7 @@
 862:
     name: LibrePhotos
     repo: librephotos
-    stars: 2856
+    stars: 2860
     namewithowner: LibrePhotos/librephotos
     lang: Python
     spdx: mit
@@ -7271,7 +7271,7 @@
 863:
     name: LycheeOrg
     repo: Lychee
-    stars: 1004
+    stars: 1006
     namewithowner: LycheeOrg/Lychee
     lang: PHP
     spdx: mit
@@ -7301,7 +7301,7 @@
 867:
     name: damianmoore
     repo: photonix
-    stars: 830
+    stars: 831
     namewithowner: photonixapp/photonix
     lang: Python
     spdx: agpl-3.0
@@ -7311,7 +7311,7 @@
 868:
     name: photoprism
     repo: photoprism
-    stars: 15349
+    stars: 15352
     namewithowner: photoprism/photoprism
     lang: Go
     spdx: agpl-3.0
@@ -7331,7 +7331,7 @@
 870:
     name: viktorstrate
     repo: photoview
-    stars: 865
+    stars: 866
     namewithowner: photoview/photoview
     lang: TypeScript
     spdx: agpl-3.0
@@ -7501,11 +7501,11 @@
 889:
     name: LimeSurvey
     repo: LimeSurvey
-    stars: 1795
+    stars: 1796
     namewithowner: LimeSurvey/LimeSurvey
     lang: PHP
     spdx: other
-    pushedat: "2021-07-07T16:30:39Z"
+    pushedat: "2021-07-07T19:12:05Z"
     archived: false
     disabled: false
 890:
@@ -7525,7 +7525,7 @@
     namewithowner: fossasia/open-event-server
     lang: Python
     spdx: gpl-3.0
-    pushedat: "2021-07-07T18:34:04Z"
+    pushedat: "2021-07-08T00:00:33Z"
     archived: false
     disabled: false
 893:
@@ -7551,11 +7551,11 @@
 895:
     name: calendso
     repo: calendso
-    stars: 5486
+    stars: 5487
     namewithowner: calendso/calendso
     lang: TypeScript
     spdx: mit
-    pushedat: "2021-07-07T18:46:27Z"
+    pushedat: "2021-07-07T20:53:59Z"
     archived: false
     disabled: false
 896:
@@ -7611,7 +7611,7 @@
 902:
     name: jc21
     repo: nginx-proxy-manager
-    stars: 3808
+    stars: 3815
     namewithowner: jc21/nginx-proxy-manager
     lang: JavaScript
     spdx: mit
@@ -7631,11 +7631,11 @@
 904:
     name: pomerium
     repo: pomerium
-    stars: 2587
+    stars: 2588
     namewithowner: pomerium/pomerium
     lang: Go
     spdx: apache-2.0
-    pushedat: "2021-07-07T16:06:57Z"
+    pushedat: "2021-07-07T23:43:41Z"
     archived: false
     disabled: false
 907:
@@ -7691,7 +7691,7 @@
 913:
     name: tinyproxy
     repo: tinyproxy
-    stars: 2722
+    stars: 2721
     namewithowner: tinyproxy/tinyproxy
     lang: C
     spdx: gpl-2.0
@@ -7701,7 +7701,7 @@
 914:
     name: containous
     repo: traefik
-    stars: 34249
+    stars: 34255
     namewithowner: traefik/traefik
     lang: Go
     spdx: mit
@@ -7735,7 +7735,7 @@
     namewithowner: wallabag/wallabag
     lang: PHP
     spdx: mit
-    pushedat: "2021-07-06T09:58:53Z"
+    pushedat: "2021-07-07T21:04:55Z"
     archived: false
     disabled: false
 918:
@@ -7761,7 +7761,7 @@
 920:
     name: Tanibox
     repo: tania-core
-    stars: 459
+    stars: 460
     namewithowner: Tanibox/tania-core
     lang: Go
     spdx: apache-2.0
@@ -7775,17 +7775,17 @@
     namewithowner: Dolibarr/dolibarr
     lang: PHP
     spdx: other
-    pushedat: "2021-07-07T17:18:54Z"
+    pushedat: "2021-07-07T20:13:44Z"
     archived: false
     disabled: false
 922:
     name: frappe
     repo: erpnext
-    stars: 9027
+    stars: 9031
     namewithowner: frappe/erpnext
     lang: Python
     spdx: gpl-3.0
-    pushedat: "2021-07-07T15:34:29Z"
+    pushedat: "2021-07-08T01:23:14Z"
     archived: false
     disabled: false
 923:
@@ -7795,7 +7795,7 @@
     namewithowner: ledgersmb/LedgerSMB
     lang: Perl
     spdx: other
-    pushedat: "2021-07-07T06:30:00Z"
+    pushedat: "2021-07-08T02:15:33Z"
     archived: false
     disabled: false
 924:
@@ -7805,7 +7805,7 @@
     namewithowner: odoo/odoo
     lang: JavaScript
     spdx: other
-    pushedat: "2021-07-07T18:37:49Z"
+    pushedat: "2021-07-07T21:18:26Z"
     archived: false
     disabled: false
 927:
@@ -7831,21 +7831,21 @@
 929:
     name: jina-ai
     repo: jina
-    stars: 7418
+    stars: 7424
     namewithowner: jina-ai/jina
     lang: Python
     spdx: apache-2.0
-    pushedat: "2021-07-07T15:22:28Z"
+    pushedat: "2021-07-08T03:53:22Z"
     archived: false
     disabled: false
 930:
     name: meilisearch
     repo: MeiliSearch
-    stars: 14852
+    stars: 14859
     namewithowner: meilisearch/MeiliSearch
     lang: Rust
     spdx: mit
-    pushedat: "2021-07-07T18:08:07Z"
+    pushedat: "2021-07-07T21:10:58Z"
     archived: false
     disabled: false
 931:
@@ -7875,13 +7875,13 @@
     namewithowner: typesense/typesense
     lang: C++
     spdx: gpl-3.0
-    pushedat: "2021-07-07T15:14:31Z"
+    pushedat: "2021-07-08T04:00:06Z"
     archived: false
     disabled: false
 934:
     name: yacy
     repo: yacy_search_server
-    stars: 2239
+    stars: 2240
     namewithowner: yacy/yacy_search_server
     lang: Java
     spdx: other
@@ -7921,7 +7921,7 @@
 939:
     name: gitbucket
     repo: gitbucket
-    stars: 8408
+    stars: 8409
     namewithowner: gitbucket/gitbucket
     lang: Scala
     spdx: apache-2.0
@@ -7931,11 +7931,11 @@
 940:
     name: go-gitea
     repo: gitea
-    stars: 25326
+    stars: 25330
     namewithowner: go-gitea/gitea
     lang: Go
     spdx: mit
-    pushedat: "2021-07-07T18:26:43Z"
+    pushedat: "2021-07-08T01:18:32Z"
     archived: false
     disabled: false
 942:
@@ -7961,7 +7961,7 @@
 944:
     name: yuki-kimoto
     repo: gitprep
-    stars: 861
+    stars: 862
     namewithowner: yuki-kimoto/gitprep
     lang: Perl
     spdx: ""
@@ -7981,7 +7981,7 @@
 946:
     name: gogits
     repo: gogs
-    stars: 37283
+    stars: 37288
     namewithowner: gogs/gogs
     lang: Go
     spdx: mit
@@ -8001,7 +8001,7 @@
 949:
     name: digitalfondue
     repo: lavagna
-    stars: 534
+    stars: 535
     namewithowner: digitalfondue/lavagna
     lang: Java
     spdx: gpl-3.0
@@ -8055,13 +8055,13 @@
     namewithowner: opf/openproject
     lang: Ruby
     spdx: ""
-    pushedat: "2021-07-07T16:57:52Z"
+    pushedat: "2021-07-08T03:17:55Z"
     archived: false
     disabled: false
 956:
     name: phacility
     repo: phabricator
-    stars: 12160
+    stars: 12161
     namewithowner: phacility/phabricator
     lang: PHP
     spdx: apache-2.0
@@ -8111,7 +8111,7 @@
 967:
     name: uvdesk
     repo: community-skeleton
-    stars: 651
+    stars: 652
     namewithowner: uvdesk/community-skeleton
     lang: PHP
     spdx: mit
@@ -8125,17 +8125,17 @@
     namewithowner: easysoft/zentaopms
     lang: PHP
     spdx: other
-    pushedat: "2021-07-07T05:42:23Z"
+    pushedat: "2021-07-08T02:15:11Z"
     archived: false
     disabled: false
 969:
     name: appsmithorg
     repo: appsmith
-    stars: 4883
+    stars: 4886
     namewithowner: appsmithorg/appsmith
     lang: TypeScript
     spdx: apache-2.0
-    pushedat: "2021-07-07T18:53:51Z"
+    pushedat: "2021-07-08T01:50:40Z"
     archived: false
     disabled: false
 970:
@@ -8161,11 +8161,11 @@
 972:
     name: cdr
     repo: code-server
-    stars: 45660
+    stars: 45668
     namewithowner: cdr/code-server
     lang: TypeScript
     spdx: mit
-    pushedat: "2021-07-07T18:45:23Z"
+    pushedat: "2021-07-07T23:38:43Z"
     archived: false
     disabled: false
 973:
@@ -8175,7 +8175,7 @@
     namewithowner: eclipse/che
     lang: TypeScript
     spdx: epl-2.0
-    pushedat: "2021-07-07T12:14:22Z"
+    pushedat: "2021-07-07T19:21:43Z"
     archived: false
     disabled: false
 974:
@@ -8231,7 +8231,7 @@
 979:
     name: judge0
     repo: api
-    stars: 732
+    stars: 733
     namewithowner: judge0/judge0
     lang: HTML
     spdx: gpl-3.0
@@ -8241,17 +8241,17 @@
 980:
     name: jupyterlab
     repo: jupyterlab
-    stars: 11195
+    stars: 11196
     namewithowner: jupyterlab/jupyterlab
     lang: JavaScript
     spdx: other
-    pushedat: "2021-07-07T16:46:22Z"
+    pushedat: "2021-07-08T03:23:31Z"
     archived: false
     disabled: false
 981:
     name: lowdefy
     repo: lowdefy
-    stars: 797
+    stars: 800
     namewithowner: lowdefy/lowdefy
     lang: JavaScript
     spdx: apache-2.0
@@ -8261,7 +8261,7 @@
 982:
     name: ml-tooling
     repo: ml-workspace
-    stars: 2034
+    stars: 2035
     namewithowner: ml-tooling/ml-workspace
     lang: Jupyter Notebook
     spdx: apache-2.0
@@ -8281,11 +8281,11 @@
 984:
     name: rstudio
     repo: rstudio
-    stars: 3676
+    stars: 3678
     namewithowner: rstudio/rstudio
     lang: Java
     spdx: other
-    pushedat: "2021-07-07T17:53:08Z"
+    pushedat: "2021-07-08T00:09:12Z"
     archived: false
     disabled: false
 985:
@@ -8301,11 +8301,11 @@
 986:
     name: sourcegraph
     repo: sourcegraph
-    stars: 4825
+    stars: 4824
     namewithowner: sourcegraph/sourcegraph
     lang: Go
     spdx: other
-    pushedat: "2021-07-07T18:39:13Z"
+    pushedat: "2021-07-08T03:51:18Z"
     archived: false
     disabled: false
 987:
@@ -8341,7 +8341,7 @@
 990:
     name: appwrite
     repo: appwrite
-    stars: 10058
+    stars: 10065
     namewithowner: appwrite/appwrite
     lang: JavaScript
     spdx: bsd-3-clause
@@ -8371,17 +8371,17 @@
 993:
     name: localstack
     repo: localstack
-    stars: 31092
+    stars: 31098
     namewithowner: localstack/localstack
     lang: Python
     spdx: other
-    pushedat: "2021-07-07T18:14:17Z"
+    pushedat: "2021-07-07T22:20:16Z"
     archived: false
     disabled: false
 994:
     name: openfaas
     repo: faas
-    stars: 20022
+    stars: 20024
     namewithowner: openfaas/faas
     lang: Go
     spdx: mit
@@ -8431,7 +8431,7 @@
 1000:
     name: hasura
     repo: graphql-engine
-    stars: 23410
+    stars: 23415
     namewithowner: hasura/graphql-engine
     lang: Haskell
     spdx: other
@@ -8441,17 +8441,17 @@
 1001:
     name: hoppscotch
     repo: hoppscotch
-    stars: 29811
+    stars: 29815
     namewithowner: hoppscotch/hoppscotch
     lang: Vue
     spdx: mit
-    pushedat: "2021-07-07T01:01:01Z"
+    pushedat: "2021-07-08T03:50:49Z"
     archived: false
     disabled: false
 1002:
     name: Kong
     repo: kong
-    stars: 29573
+    stars: 29577
     namewithowner: Kong/kong
     lang: Lua
     spdx: other
@@ -8461,7 +8461,7 @@
 1003:
     name: devopsfaith
     repo: krakend
-    stars: 4296
+    stars: 4300
     namewithowner: luraproject/lura
     lang: Go
     spdx: other
@@ -8491,11 +8491,11 @@
 1006:
     name: TykTechnologies
     repo: tyk
-    stars: 6431
+    stars: 6433
     namewithowner: TykTechnologies/tyk
     lang: Go
     spdx: other
-    pushedat: "2021-07-07T16:15:00Z"
+    pushedat: "2021-07-08T01:06:35Z"
     archived: false
     disabled: false
 1007:
@@ -8521,11 +8521,11 @@
 1010:
     name: rtfd
     repo: readthedocs.org
-    stars: 6559
+    stars: 6563
     namewithowner: readthedocs/readthedocs.org
     lang: Python
     spdx: mit
-    pushedat: "2021-07-07T15:51:34Z"
+    pushedat: "2021-07-07T22:46:24Z"
     archived: false
     disabled: false
 1011:
@@ -8591,11 +8591,11 @@
 1017:
     name: mattermost
     repo: focalboard
-    stars: 4046
+    stars: 4045
     namewithowner: mattermost/focalboard
     lang: HTML
     spdx: other
-    pushedat: "2021-07-07T14:29:58Z"
+    pushedat: "2021-07-07T22:14:57Z"
     archived: false
     disabled: false
 1018:
@@ -8621,7 +8621,7 @@
 1020:
     name: maxpozdeev
     repo: mytinytodo
-    stars: 41
+    stars: 42
     namewithowner: maxpozdeev/mytinytodo
     lang: PHP
     spdx: ""
@@ -8651,7 +8651,7 @@
 1023:
     name: plankanban
     repo: planka
-    stars: 1142
+    stars: 1143
     namewithowner: plankanban/planka
     lang: JavaScript
     spdx: mit
@@ -8661,7 +8661,7 @@
 1024:
     name: RestyaPlatform
     repo: board
-    stars: 1735
+    stars: 1736
     namewithowner: RestyaPlatform/board
     lang: JavaScript
     spdx: osl-3.0
@@ -8741,7 +8741,7 @@
 1036:
     name: wekan
     repo: wekan
-    stars: 17353
+    stars: 17354
     namewithowner: wekan/wekan
     lang: JavaScript
     spdx: mit
@@ -8775,7 +8775,7 @@
     namewithowner: erxes/erxes
     lang: TypeScript
     spdx: other
-    pushedat: "2021-07-07T14:37:47Z"
+    pushedat: "2021-07-08T03:36:43Z"
     archived: false
     disabled: false
 1041:
@@ -8801,7 +8801,7 @@
 1043:
     name: helpyio
     repo: helpy
-    stars: 2063
+    stars: 2065
     namewithowner: helpyio/helpy
     lang: Ruby
     spdx: other
@@ -8835,7 +8835,7 @@
     namewithowner: opensupports/opensupports
     lang: JavaScript
     spdx: gpl-3.0
-    pushedat: "2021-06-22T15:51:50Z"
+    pushedat: "2021-07-07T21:50:39Z"
     archived: false
     disabled: false
 1047:
@@ -8865,17 +8865,17 @@
     namewithowner: bestpractical/rt
     lang: Perl
     spdx: gpl-2.0
-    pushedat: "2021-07-05T16:05:18Z"
+    pushedat: "2021-07-07T22:19:16Z"
     archived: false
     disabled: false
 1050:
     name: getsentry
     repo: sentry
-    stars: 28453
+    stars: 28456
     namewithowner: getsentry/sentry
     lang: Python
     spdx: other
-    pushedat: "2021-07-07T18:53:30Z"
+    pushedat: "2021-07-08T01:22:50Z"
     archived: false
     disabled: false
 1051:
@@ -8921,7 +8921,7 @@
 1055:
     name: thedevs-network
     repo: kutt
-    stars: 5067
+    stars: 5069
     namewithowner: thedevs-network/kutt
     lang: TypeScript
     spdx: mit
@@ -8961,7 +8961,7 @@
 1060:
     name: Cydrobolt
     repo: polr
-    stars: 3884
+    stars: 3886
     namewithowner: cydrobolt/polr
     lang: PHP
     spdx: gpl-2.0
@@ -9001,7 +9001,7 @@
 1064:
     name: shlinkio
     repo: shlink
-    stars: 842
+    stars: 843
     namewithowner: shlinkio/shlink
     lang: PHP
     spdx: mit
@@ -9051,7 +9051,7 @@
 1069:
     name: YOURLS
     repo: YOURLS
-    stars: 7299
+    stars: 7303
     namewithowner: YOURLS/YOURLS
     lang: PHP
     spdx: mit
@@ -9061,7 +9061,7 @@
 1070:
     name: ssddanbrown
     repo: BookStack
-    stars: 6838
+    stars: 6839
     namewithowner: BookStackApp/BookStack
     lang: PHP
     spdx: other
@@ -9071,7 +9071,7 @@
 1071:
     name: schollz
     repo: cowyo
-    stars: 735
+    stars: 736
     namewithowner: schollz/cowyo
     lang: Go
     spdx: mit
@@ -9111,7 +9111,7 @@
 1075:
     name: jgm
     repo: gitit
-    stars: 1935
+    stars: 1936
     namewithowner: jgm/gitit
     lang: Haskell
     spdx: other
@@ -9121,11 +9121,11 @@
 1076:
     name: gollum
     repo: gollum
-    stars: 11518
+    stars: 11519
     namewithowner: gollum/gollum
     lang: Ruby
     spdx: mit
-    pushedat: "2021-06-27T16:26:45Z"
+    pushedat: "2021-07-07T22:06:37Z"
     archived: false
     disabled: false
 1077:
@@ -9151,11 +9151,11 @@
 1080:
     name: outline
     repo: outline
-    stars: 11858
+    stars: 11859
     namewithowner: outline/outline
     lang: JavaScript
     spdx: other
-    pushedat: "2021-07-07T18:52:34Z"
+    pushedat: "2021-07-08T04:01:43Z"
     archived: false
     disabled: false
 1081:
@@ -9181,7 +9181,7 @@
 1085:
     name: Jermolene
     repo: TiddlyWiki5
-    stars: 6122
+    stars: 6125
     namewithowner: Jermolene/TiddlyWiki5
     lang: JavaScript
     spdx: other
@@ -9211,11 +9211,11 @@
 1092:
     name: zim-desktop-wiki
     repo: zim-desktop-wiki
-    stars: 1263
+    stars: 1264
     namewithowner: zim-desktop-wiki/zim-desktop-wiki
     lang: Python
     spdx: gpl-2.0
-    pushedat: "2021-07-06T18:28:36Z"
+    pushedat: "2021-07-07T18:54:41Z"
     archived: false
     disabled: false
 1093:
@@ -9271,7 +9271,7 @@
 1103:
     name: openmediavault
     repo: openmediavault
-    stars: 2357
+    stars: 2358
     namewithowner: openmediavault/openmediavault
     lang: PHP
     spdx: ""
@@ -9281,7 +9281,7 @@
 1104:
     name: sandstorm-io
     repo: sandstorm
-    stars: 5833
+    stars: 5834
     namewithowner: sandstorm-io/sandstorm
     lang: JavaScript
     spdx: other
@@ -9305,7 +9305,7 @@
     namewithowner: syncloud/platform
     lang: Python
     spdx: gpl-3.0
-    pushedat: "2021-07-07T17:16:59Z"
+    pushedat: "2021-07-07T23:35:17Z"
     archived: false
     disabled: false
 1109:
