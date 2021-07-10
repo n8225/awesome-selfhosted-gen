@@ -1,0 +1,17 @@
+ID: 869
+Name: Photo Stream
+Description: Minimalist self-hosted photo stream.
+Source Code: https://github.com/waschinski/photo-stream
+Demo: https://floremotion.de/
+License:
+    - MIT
+Languages:
+    - Ruby
+C: Photo and Video Galleries
+C2: ""
+C3: ""
+Tags:
+    - Photo and Video Gallery
+MD: '- [Photo Stream](https://github.com/waschinski/photo-stream) - Minimalist self-hosted photo stream. ([Demo](https://floremotion.de/)) `MIT` `Ruby`'
+SourceType: Github
+Line: 1296
