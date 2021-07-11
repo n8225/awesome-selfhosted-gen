@@ -1,0 +1,17 @@
+ID: 81
+Name: Shiori
+Description: Simple bookmark manager built with Go.
+Source Code: https://github.com/go-shiori/shiori
+License:
+    - MIT
+Languages:
+    - Go
+C: Bookmarks and Link Sharing
+C2: ""
+C3: ""
+Tags:
+    - Bookmarks
+    - Links
+MD: '- [Shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go. `MIT` `Go`'
+SourceType: Github
+Line: 220

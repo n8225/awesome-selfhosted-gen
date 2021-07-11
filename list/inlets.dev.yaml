@@ -1,4 +1,4 @@
-ID: 899
+ID: 887
 Name: inlets
 Description: Expose your local endpoints to the Internet - with a Kubernetes integration, Docker image and CLI available.
 Source Code: https://inlets.dev/
@@ -13,4 +13,4 @@ C3: ""
 Tags:
     - Proxy
 MD: '- [inlets](https://inlets.dev/) - Expose your local endpoints to the Internet - with a Kubernetes integration, Docker image and CLI available. `MIT` `Go/Docker`'
-Line: 1339
+Line: 1327

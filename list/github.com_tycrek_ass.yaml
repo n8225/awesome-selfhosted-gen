@@ -1,4 +1,4 @@
-ID: 474
+ID: 469
 Name: ass
 Description: The superior self-hosted ShareX server. For use with clients such as ShareX (Windows), Flameshot (Linux), & MagicCap (Linux, macOS).
 Source Code: https://github.com/tycrek/ass
@@ -15,4 +15,4 @@ Tags:
     - Drag-n-Drop Upload
 MD: '- [ass](https://github.com/tycrek/ass) - The superior self-hosted ShareX server. For use with clients such as ShareX (Windows), Flameshot (Linux), & MagicCap (Linux, macOS). `ISC` `Nodejs`'
 SourceType: Github
-Line: 777
+Line: 772

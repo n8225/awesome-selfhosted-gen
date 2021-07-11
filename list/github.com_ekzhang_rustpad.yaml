@@ -1,4 +1,4 @@
-ID: 793
+ID: 782
 Name: Rustpad
 Description: Efficient and minimal collaborative code editor, self-hosted, no database required.
 Source Code: https://github.com/ekzhang/rustpad
@@ -14,4 +14,4 @@ Tags:
     - Office Suites
 MD: '- [Rustpad](https://rustpad.io/) - Efficient and minimal collaborative code editor, self-hosted, no database required. ([Source Code](https://github.com/ekzhang/rustpad)) `MIT` `Rust`'
 SourceType: Github
-Line: 1197
+Line: 1186

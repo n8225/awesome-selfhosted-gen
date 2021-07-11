@@ -1,0 +1,17 @@
+ID: 30
+Name: Medusa
+Description: Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
+Source Code: https://github.com/pymedusa/Medusa
+Website: https://pymedusa.com/
+License:
+    - GPL-3.0
+Languages:
+    - Python
+C: Automation
+C2: ""
+C3: ""
+Tags:
+    - Automation
+MD: '- [Medusa](https://pymedusa.com/) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic. ([Source Code](https://github.com/pymedusa/Medusa)) `GPL-3.0` `Python`'
+SourceType: Github
+Line: 156

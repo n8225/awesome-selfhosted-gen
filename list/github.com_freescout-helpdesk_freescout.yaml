@@ -1,4 +1,4 @@
-ID: 1042
+ID: 1029
 Name: FreeScout
 Description: 'Open source clone of Help Scout: email-based customer support application, help desk and shared mailbox.'
 Source Code: https://github.com/freescout-helpdesk/freescout
@@ -13,4 +13,4 @@ Tags:
     - Ticketing
 MD: '- [FreeScout](https://github.com/freescout-helpdesk/freescout) - Open source clone of Help Scout: email-based customer support application, help desk and shared mailbox. `AGPL-3.0` `PHP`'
 SourceType: Github
-Line: 1559
+Line: 1546

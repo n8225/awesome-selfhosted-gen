@@ -1,0 +1,23 @@
+ID: 647
+Name: Navidrome Music Server
+Description: Modern Music Server and Streamer, compatible with Subsonic/Airsonic.
+Source Code: https://github.com/navidrome/navidrome
+Demo: https://www.navidrome.org/demo
+Clients:
+    - https://www.navidrome.org/docs/overview/#apps
+Website: https://www.navidrome.org
+License:
+    - GPL-3.0
+Languages:
+    - Go
+    - HTML5
+C: Media Streaming
+C2: Audio Streaming
+C3: ""
+Tags:
+    - Media
+    - Streaming
+    - Audio
+MD: '- [Navidrome Music Server](https://www.navidrome.org) - Modern Music Server and Streamer, compatible with Subsonic/Airsonic. ([Demo](https://www.navidrome.org/demo), [Source Code](https://github.com/navidrome/navidrome), [Clients](https://www.navidrome.org/docs/overview/#apps)) `GPL-3.0` `Go/Javascript`'
+SourceType: Github
+Line: 1018

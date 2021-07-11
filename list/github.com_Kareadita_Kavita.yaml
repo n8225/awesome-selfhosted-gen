@@ -1,4 +1,4 @@
-ID: 397
+ID: 392
 Name: Kavita
 Description: Cross-platform manga server and web reader with user management, ratings and reviews, and metatdata support.
 Source Code: https://github.com/Kareadita/Kavita
@@ -14,4 +14,4 @@ Tags:
     - ILS
 MD: '- [Kavita](https://kareadita.github.io/) - Cross-platform manga server and web reader with user management, ratings and reviews, and metatdata support. ([Source Code](https://github.com/Kareadita/Kavita)) `GPL-3.0` `.NET Core`'
 SourceType: Github
-Line: 654
+Line: 649

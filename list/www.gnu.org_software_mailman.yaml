@@ -1,4 +1,4 @@
-ID: 177
+ID: 174
 Name: Mailman
 Description: The Gnu mailing list server.
 Source Code: https://www.gnu.org/software/mailman/
@@ -15,4 +15,4 @@ Tags:
     - Mailng List
     - Newsletters
 MD: '- [Mailman](https://www.gnu.org/software/mailman/) - The Gnu mailing list server. `GPL-3.0` `Python`'
-Line: 361
+Line: 358

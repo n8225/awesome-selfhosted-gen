@@ -1,4 +1,4 @@
-ID: 785
+ID: 774
 Name: Writing
 Description: Lightweight distraction-free text editor, in the browser (Markdown and LaTeX supported). No lag when writing.
 Source Code: https://github.com/josephernest/writing
@@ -15,4 +15,4 @@ Tags:
     - Editor
 MD: '- [Writing](https://josephernest.github.io/writing/) - Lightweight distraction-free text editor, in the browser (Markdown and LaTeX supported). No lag when writing. ([Source Code](https://github.com/josephernest/writing)) `MIT` `Javascript`'
 SourceType: Github
-Line: 1184
+Line: 1173

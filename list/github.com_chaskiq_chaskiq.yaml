@@ -1,4 +1,4 @@
-ID: 100
+ID: 99
 Name: Chaskiq
 Description: Full featured livechat, helpcenter and CRM as an alternative to Intercom & Drift, Crisp and others.
 Source Code: https://github.com/chaskiq/chaskiq
@@ -14,4 +14,4 @@ Tags:
     - Communications
 MD: '- [Chaskiq](https://chaskiq.io) - Full featured livechat, helpcenter and CRM as an alternative to Intercom & Drift, Crisp and others. ([Source Code](https://github.com/chaskiq/chaskiq)) `AGPL-3.0` `Ruby`'
 SourceType: Github
-Line: 260
+Line: 259

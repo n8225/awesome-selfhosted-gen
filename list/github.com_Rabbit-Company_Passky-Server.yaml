@@ -1,4 +1,4 @@
-ID: 800
+ID: 789
 Name: Passky
 Description: Open source password manager with website, browser extension and desktop application.
 Source Code: https://github.com/Rabbit-Company/Passky-Server
@@ -14,4 +14,4 @@ Tags:
     - Password Manager
 MD: '- [Passky](https://github.com/Rabbit-Company/Passky-Server) - Open source password manager with website, browser extension and desktop application. ([Demo](https://passky.org)) `GPL-3.0` `PHP`'
 SourceType: Github
-Line: 1209
+Line: 1198

@@ -1,0 +1,16 @@
+ID: 51
+Name: Blogotext
+Description: Free blog-engine written in PHP and using SQLite. This offers you both an unmatched simplicity during installation and great performances.
+Source Code: https://github.com/BlogoText/blogotext
+License:
+    - MIT
+Languages:
+    - PHP
+C: Blogging Platforms
+C2: ""
+C3: ""
+Tags:
+    - Blog
+MD: '- [Blogotext](https://github.com/BlogoText/blogotext) - Free blog-engine written in PHP and using SQLite. This offers you both an unmatched simplicity during installation and great performances. `MIT` `PHP`'
+SourceType: Github
+Line: 184

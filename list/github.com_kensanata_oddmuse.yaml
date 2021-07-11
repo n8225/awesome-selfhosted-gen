@@ -1,4 +1,4 @@
-ID: 774
+ID: 763
 Name: Oddmuse
 Description: A simple wiki engine written in Perl. No database required.
 Source Code: https://github.com/kensanata/oddmuse
@@ -15,4 +15,4 @@ Tags:
     - Editor
 MD: '- [Oddmuse](https://oddmuse.org/) - A simple wiki engine written in Perl. No database required. ([Source Code](https://github.com/kensanata/oddmuse)) `GPL-3.0` `Perl`'
 SourceType: Github
-Line: 1173
+Line: 1162

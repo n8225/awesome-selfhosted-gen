@@ -1,0 +1,19 @@
+ID: 150
+Name: Modoboa
+Description: Modoboa is a mail hosting and management platform including a modern and simplified Web User Interface.
+Source Code: https://github.com/modoboa/modoboa
+Website: http://modoboa.org/en/
+License:
+    - ISC
+Languages:
+    - Python
+C: Communication systems
+C2: Email
+C3: Complete solutions
+Tags:
+    - Communications
+    - Email
+    - Complete Email
+MD: '- [Modoboa](http://modoboa.org/en/) - Modoboa is a mail hosting and management platform including a modern and simplified Web User Interface. ([Source Code](https://github.com/modoboa/modoboa)) `ISC` `Python`'
+SourceType: Github
+Line: 319

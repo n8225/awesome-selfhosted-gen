@@ -1,4 +1,4 @@
-ID: 234
+ID: 231
 Name: diaspora*
 Description: Distributed social networking server.
 Source Code: https://github.com/diaspora/diaspora
@@ -17,4 +17,4 @@ Tags:
     - Forum
 MD: '- [diaspora*](https://diasporafoundation.org/) - Distributed social networking server. ([Demo](https://podupti.me/go.php), [Source Code](https://github.com/diaspora/diaspora)) `AGPL-3.0` `Ruby`'
 SourceType: Github
-Line: 440
+Line: 437

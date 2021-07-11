@@ -1,4 +1,4 @@
-ID: 379
+ID: 375
 Name: Maza ad blocking
 Description: Local ad blocker. Like Pi-hole but local and using your operating system.
 Source Code: https://github.com/tanrax/maza-ad-blocking
@@ -13,4 +13,4 @@ Tags:
     - DNS
 MD: '- [Maza ad blocking](https://maza-ad-blocking.andros.dev/) - Local ad blocker. Like Pi-hole but local and using your operating system. ([Source Code](https://github.com/tanrax/maza-ad-blocking)) `Apache-2.0` `Bash`'
 SourceType: Github
-Line: 622
+Line: 618

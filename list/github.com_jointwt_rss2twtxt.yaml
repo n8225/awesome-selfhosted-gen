@@ -1,0 +1,19 @@
+ID: 273
+Name: rss2twtxt
+Description: An RSS/Atom feed aggregator command-line tool and web service that consumes RSS/Atom and produces twtxt.net feeds for consumption by twtxt clients.
+Source Code: https://github.com/jointwt/rss2twtxt
+Demo: https://feeds.twtxt.net
+License:
+    - MIT
+Languages:
+    - Go
+C: Communication systems
+C2: Social Networks and Forums
+C3: ""
+Tags:
+    - Communications
+    - Social Network
+    - Forum
+MD: '  - [rss2twtxt](https://github.com/jointwt/rss2twtxt) - An RSS/Atom feed aggregator command-line tool and web service that consumes RSS/Atom and produces twtxt.net feeds for consumption by twtxt clients. ([Demo](https://feeds.twtxt.net)) `MIT` `Go`'
+SourceType: Github
+Line: 479

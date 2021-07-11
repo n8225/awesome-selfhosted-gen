@@ -1,4 +1,4 @@
-ID: 669
+ID: 660
 Name: Oblecto
 Description: Media server for Movies and TV Shows with a responsive Vue.js frontend. It has robust transcoding support as well as federation capabilities to share your library with your friends.
 Source Code: https://github.com/robinp7720/Oblecto
@@ -16,4 +16,4 @@ Tags:
 ProprietaryDependency: true
 MD: '- [Oblecto](https://github.com/robinp7720/Oblecto) `⚠` - Media server for Movies and TV Shows with a responsive Vue.js frontend. It has robust transcoding support as well as federation capabilities to share your library with your friends. `AGPL-3.0` `Nodejs`'
 SourceType: Github
-Line: 1043
+Line: 1034

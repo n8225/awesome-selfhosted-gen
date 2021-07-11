@@ -1,4 +1,4 @@
-ID: 91
+ID: 90
 Name: Etebase (EteSync)
 Description: End-to-end encrypted and journaled personal information server supporting calendar and contact data, offering its own clients.
 Source Code: https://github.com/etesync/server
@@ -18,4 +18,4 @@ Tags:
     - CardDav
 MD: '- [Etebase (EteSync)](https://www.etebase.com/) - End-to-end encrypted and journaled personal information server supporting calendar and contact data, offering its own clients. ([Source Code](https://github.com/etesync/server)) `AGPL-3.0` `Python/Django`'
 SourceType: Github
-Line: 241
+Line: 240

@@ -1,4 +1,4 @@
-ID: 1106
+ID: 1092
 Name: Syncloud
 Description: Your own online file storage, social network or email server.
 Source Code: https://github.com/syncloud/platform
@@ -14,4 +14,4 @@ Tags:
     - Self-hosting Solution
 MD: '- [Syncloud](https://syncloud.org/) - Your own online file storage, social network or email server. ([Source Code](https://github.com/syncloud/platform)) `GPL-3.0` `Python/Other`'
 SourceType: Github
-Line: 1654
+Line: 1640

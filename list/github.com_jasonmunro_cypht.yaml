@@ -1,0 +1,19 @@
+ID: 185
+Name: Cypht
+Description: Feed reader for your email accounts.
+Source Code: https://github.com/jasonmunro/cypht
+Website: http://cypht.org
+License:
+    - LGPL-2.1
+Languages:
+    - PHP
+C: Communication systems
+C2: Email
+C3: Webmail clients
+Tags:
+    - Communications
+    - Email
+    - Webmail
+MD: '- [Cypht](http://cypht.org) - Feed reader for your email accounts. ([Source Code](https://github.com/jasonmunro/cypht)) `LGPL-2.1` `PHP`'
+SourceType: Github
+Line: 372

@@ -1,4 +1,4 @@
-ID: 765
+ID: 754
 Name: HedgeDoc
 Description: Realtime collaborative markdown notes on all platforms, formerly known as CodiMD and HackMD CE.
 Source Code: https://github.com/hedgedoc/hedgedoc
@@ -15,4 +15,4 @@ Tags:
     - Editor
 MD: '- [HedgeDoc](https://demo.hedgedoc.org/) - Realtime collaborative markdown notes on all platforms, formerly known as CodiMD and HackMD CE. ([Source Code](https://github.com/hedgedoc/hedgedoc)) `AGPL-3.0` `TypeScript`'
 SourceType: Github
-Line: 1164
+Line: 1153

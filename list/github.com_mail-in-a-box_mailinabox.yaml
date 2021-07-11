@@ -1,4 +1,4 @@
-ID: 151
+ID: 149
 Name: Mail-in-a-Box
 Description: Turns any Ubuntu server into a fully functional mail server with one command.
 Source Code: https://github.com/mail-in-a-box/mailinabox
@@ -16,4 +16,4 @@ Tags:
     - Complete Email
 MD: '- [Mail-in-a-Box](https://mailinabox.email/) - Turns any Ubuntu server into a fully functional mail server with one command. ([Source Code](https://github.com/mail-in-a-box/mailinabox)) `CC0-1.0` `Shell`'
 SourceType: Github
-Line: 320
+Line: 318

@@ -1,4 +1,4 @@
-ID: 145
+ID: 143
 Name: Excision Mail
 Description: Fullstack, security focused mailserver based on OpenSMTPD for OpenBSD using ansible.
 Source Code: https://github.com/Excision-Mail/Excision-Mail
@@ -15,4 +15,4 @@ Tags:
     - Complete Email
 MD: '- [Excision Mail](https://github.com/Excision-Mail/Excision-Mail) - Fullstack, security focused mailserver based on OpenSMTPD for OpenBSD using ansible. `ISC` `Shell/Ansible`'
 SourceType: Github
-Line: 314
+Line: 312

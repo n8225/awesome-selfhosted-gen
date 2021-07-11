@@ -1,4 +1,4 @@
-ID: 613
+ID: 604
 Name: OwnTracks Recorder
 Description: Store and access data published by [OwnTracks](http://owntracks.org/) location tracking apps.
 Source Code: https://github.com/owntracks/recorder
@@ -15,4 +15,4 @@ Tags:
 ProprietaryDependency: true
 MD: '- [OwnTracks Recorder](https://github.com/owntracks/recorder) `⚠` - Store and access data published by [OwnTracks](http://owntracks.org/) location tracking apps. `GPL-2.0` `C`/`Lua`'
 SourceType: Github
-Line: 971
+Line: 962

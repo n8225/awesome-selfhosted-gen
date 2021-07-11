@@ -1,4 +1,4 @@
-ID: 429
+ID: 424
 Name: gritttt-rss
 Description: More features for Tiny Tiny RSS.
 Source Code: https://github.com/nhoening/gritttt-rss
@@ -15,4 +15,4 @@ Tags:
     - Feed Reader
 MD: '  - [gritttt-rss](http://gritttt-rss.nicolashoening.de/) - More features for Tiny Tiny RSS. ([Source Code](https://github.com/nhoening/gritttt-rss)) `BSD-2-Clause` `Python`'
 SourceType: Github
-Line: 704
+Line: 699

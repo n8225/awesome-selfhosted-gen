@@ -1,0 +1,17 @@
+ID: 796
+Name: 0bin
+Description: Client side encrypted pastebin.
+Source Code: https://github.com/Tygs/0bin
+Demo: https://0bin.net/
+License:
+    - WTFPL
+Languages:
+    - Python
+C: Pastebins
+C2: ""
+C3: ""
+Tags:
+    - Pastebin
+MD: '- [0bin](https://github.com/Tygs/0bin) - Client side encrypted pastebin. ([Demo](https://0bin.net/) `WTFPL` `Python`'
+SourceType: Github
+Line: 1211

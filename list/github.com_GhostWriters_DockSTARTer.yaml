@@ -1,4 +1,4 @@
-ID: 1096
+ID: 1082
 Name: DockSTARTer
 Description: DockSTARTer helps you get started with home server apps running in Docker.
 Source Code: https://github.com/GhostWriters/DockSTARTer
@@ -14,4 +14,4 @@ Tags:
     - Self-hosting Solution
 MD: '- [DockSTARTer](https://dockstarter.com/) - DockSTARTer helps you get started with home server apps running in Docker. ([Source Code](https://github.com/GhostWriters/DockSTARTer)) `MIT` `Shell`'
 SourceType: Github
-Line: 1644
+Line: 1630

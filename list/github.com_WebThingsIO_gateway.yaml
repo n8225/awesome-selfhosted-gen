@@ -1,4 +1,4 @@
-ID: 587
+ID: 578
 Name: WebThings Gateway
 Description: WebThings is an open source implementation of the Web of Things, including the WebThings Gateway and the WebThings Framework.
 Source Code: https://github.com/WebThingsIO/gateway
@@ -15,4 +15,4 @@ Tags:
     - IoT
 MD: '- [WebThings Gateway](https://webthings.io/gateway/) - WebThings is an open source implementation of the Web of Things, including the WebThings Gateway and the WebThings Framework. ([Source Code](https://github.com/WebThingsIO/gateway)) `MPL-2.0` `Nodejs`'
 SourceType: Github
-Line: 928
+Line: 919

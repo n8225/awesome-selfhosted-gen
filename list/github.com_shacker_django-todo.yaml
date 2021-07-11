@@ -1,4 +1,4 @@
-ID: 1039
+ID: 1026
 Name: django-todo
 Description: django-todo is a pluggable, multi-user, multi-group, multi-list todo and ticketing system - a reusable app designed to be dropped into any existing Django project.
 Source Code: https://github.com/shacker/django-todo
@@ -15,4 +15,4 @@ Tags:
     - Ticketing
 MD: '- [django-todo](http://django-todo.org/) - django-todo is a pluggable, multi-user, multi-group, multi-list todo and ticketing system - a reusable app designed to be dropped into any existing Django project. ([Source Code](https://github.com/shacker/django-todo)) `BSD-3-Clause` `Python/Django`'
 SourceType: Github
-Line: 1556
+Line: 1543

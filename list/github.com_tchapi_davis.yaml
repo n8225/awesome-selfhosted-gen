@@ -1,4 +1,4 @@
-ID: 89
+ID: 88
 Name: Davis
 Description: A simple, dockerizable and fully translatable admin interface for sabre/dav based on Symfony 5 and Bootstrap 4, largely inspired by Baïkal.
 Source Code: https://github.com/tchapi/davis/
@@ -16,4 +16,4 @@ Tags:
     - CardDav
 MD: '- [Davis](https://github.com/tchapi/davis/) - A simple, dockerizable and fully translatable admin interface for sabre/dav based on Symfony 5 and Bootstrap 4, largely inspired by Baïkal. `MIT` `PHP`'
 SourceType: Github
-Line: 239
+Line: 238

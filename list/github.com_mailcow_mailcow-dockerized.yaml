@@ -1,4 +1,4 @@
-ID: 149
+ID: 147
 Name: Mailcow
 Description: Mail server suite based on Dovecot, Postfix and other open source software, that provides a modern Web UI for administration.
 Source Code: https://github.com/mailcow/mailcow-dockerized
@@ -17,4 +17,4 @@ Tags:
     - Complete Email
 MD: '- [Mailcow](https://mailcow.email/) - Mail server suite based on Dovecot, Postfix and other open source software, that provides a modern Web UI for administration. ([Source Code](https://github.com/mailcow/mailcow-dockerized)) `GPL-2.0` `Docker/PHP`'
 SourceType: Github
-Line: 318
+Line: 316

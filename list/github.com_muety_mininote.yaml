@@ -1,0 +1,17 @@
+ID: 760
+Name: MiniNote
+Description: Simple Markdown note-taking app with persistence.
+Source Code: https://github.com/muety/mininote
+License:
+    - MIT
+Languages:
+    - Nodejs
+C: Note-taking and Editors
+C2: ""
+C3: ""
+Tags:
+    - Note-taking
+    - Editor
+MD: '- [MiniNote](https://github.com/muety/mininote) - Simple Markdown note-taking app with persistence. `MIT` `Nodejs`'
+SourceType: Github
+Line: 1159

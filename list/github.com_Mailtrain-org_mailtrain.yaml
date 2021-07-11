@@ -1,0 +1,20 @@
+ID: 175
+Name: Mailtrain
+Description: self hosted newsletter application built on Node.js (v5+) and MySQL (v5.5+ or MariaDB).
+Source Code: https://github.com/Mailtrain-org/mailtrain
+Website: https://mailtrain.org/
+License:
+    - GPL-3.0
+Languages:
+    - Nodejs
+C: Communication systems
+C2: Email
+C3: Mailing lists and Newsletters
+Tags:
+    - Communications
+    - Email
+    - Mailng List
+    - Newsletters
+MD: '- [Mailtrain](https://mailtrain.org/) - self hosted newsletter application built on Node.js (v5+) and MySQL (v5.5+ or MariaDB). ([Source Code](https://github.com/Mailtrain-org/mailtrain)) `GPL-3.0` `Nodejs`'
+SourceType: Github
+Line: 359

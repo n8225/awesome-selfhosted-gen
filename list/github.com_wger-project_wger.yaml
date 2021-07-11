@@ -1,0 +1,18 @@
+ID: 842
+Name: wger
+Description: Web-based personal workout, fitness and weight logger/tracker. It can also be used as a simple gym management utility and offers a full REST API as well.
+Source Code: https://github.com/wger-project/wger
+Demo: https://wger.de/en/dashboard
+Website: http://wger.de/
+License:
+    - AGPL-3.0
+Languages:
+    - Python
+C: Personal Dashboards
+C2: ""
+C3: ""
+Tags:
+    - Dashboard
+MD: '- [wger](http://wger.de/) - Web-based personal workout, fitness and weight logger/tracker. It can also be used as a simple gym management utility and offers a full REST API as well. ([Demo](https://wger.de/en/dashboard), [Source Code](https://github.com/wger-project/wger)) `AGPL-3.0` `Python`'
+SourceType: Github
+Line: 1264

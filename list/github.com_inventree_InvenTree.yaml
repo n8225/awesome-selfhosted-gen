@@ -1,4 +1,4 @@
-ID: 747
+ID: 736
 Name: Inventree
 Description: InvenTree is an open-source inventory management system which provides intuitive parts management and stock control.
 Source Code: https://github.com/inventree/InvenTree
@@ -15,4 +15,4 @@ Tags:
     - Budget
 MD: '- [Inventree](https://inventree.readthedocs.io/en/latest/) - InvenTree is an open-source inventory management system which provides intuitive parts management and stock control. ([Source Code](https://github.com/inventree/InvenTree)) `MIT` `Python`'
 SourceType: Github
-Line: 1133
+Line: 1122

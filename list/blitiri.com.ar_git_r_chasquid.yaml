@@ -1,4 +1,4 @@
-ID: 158
+ID: 156
 Name: chasquid
 Description: SMTP (email) server with a focus on simplicity, security, and ease of operation.
 Source Code: https://blitiri.com.ar/git/r/chasquid/
@@ -15,4 +15,4 @@ Tags:
     - Email
     - MTA
 MD: '- [chasquid](https://blitiri.com.ar/p/chasquid/) - SMTP (email) server with a focus on simplicity, security, and ease of operation. ([Source Code](https://blitiri.com.ar/git/r/chasquid/)) `Apache-2.0` `Go`'
-Line: 332
+Line: 330

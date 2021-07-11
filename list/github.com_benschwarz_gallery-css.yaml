@@ -1,4 +1,4 @@
-ID: 859
+ID: 848
 Name: Gallery CSS
 Description: 'Gallery.css is all CSS. Think: Simple, maintainable and understandable galleries without the use of Javascript.'
 Source Code: https://github.com/benschwarz/gallery-css
@@ -14,4 +14,4 @@ Tags:
     - Photo and Video Gallery
 MD: '- [Gallery CSS](https://benschwarz.github.io/gallery-css/) - Gallery.css is all CSS. Think: Simple, maintainable and understandable galleries without the use of Javascript. ([Source Code](https://github.com/benschwarz/gallery-css)) `MIT` `CSS`'
 SourceType: Github
-Line: 1286
+Line: 1275

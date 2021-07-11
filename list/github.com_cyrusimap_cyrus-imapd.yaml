@@ -1,4 +1,4 @@
-ID: 170
+ID: 168
 Name: Cyrus IMAP
 Description: Email (IMAP/POP3), contacts and calendar server.
 Source Code: https://github.com/cyrusimap/cyrus-imapd
@@ -16,4 +16,4 @@ Tags:
     - MDA
 MD: '- [Cyrus IMAP](https://www.cyrusimap.org/) - Email (IMAP/POP3), contacts and calendar server. ([Source Code](https://github.com/cyrusimap/cyrus-imapd )) `BSD-3-Clause-Attribution` `C`'
 SourceType: Github
-Line: 349
+Line: 347

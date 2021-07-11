@@ -1,4 +1,4 @@
-ID: 902
+ID: 890
 Name: Nginx Proxy Manager
 Description: Nginx Proxy Manager is an easy way to accomplish reverse proxying hosts with SSL termination.
 Source Code: https://github.com/jc21/nginx-proxy-manager
@@ -15,4 +15,4 @@ Tags:
     - Proxy
 MD: '- [Nginx Proxy Manager](https://nginxproxymanager.com/) - Nginx Proxy Manager is an easy way to accomplish reverse proxying hosts with SSL termination. ([Source Code](https://github.com/jc21/nginx-proxy-manager)) `MIT` `Nodejs/Docker`'
 SourceType: Github
-Line: 1342
+Line: 1330

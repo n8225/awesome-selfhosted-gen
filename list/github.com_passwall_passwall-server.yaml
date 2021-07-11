@@ -1,4 +1,4 @@
-ID: 801
+ID: 790
 Name: PassWall
 Description: Open source password manager.
 Source Code: https://github.com/passwall/passwall-server
@@ -13,4 +13,4 @@ Tags:
     - Password Manager
 MD: '- [PassWall](https://github.com/passwall/passwall-server) - Open source password manager. `AGPL-3.0` `Go`'
 SourceType: Github
-Line: 1210
+Line: 1199

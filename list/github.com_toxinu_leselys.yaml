@@ -1,0 +1,17 @@
+ID: 410
+Name: Leselys
+Description: Your very elegant RSS reader.
+Source Code: https://github.com/toxinu/leselys
+License:
+    - AGPL-3.0
+Languages:
+    - Python
+C: Feed Readers
+C2: ""
+C3: ""
+Tags:
+    - RSS
+    - Feed Reader
+MD: '- [Leselys](https://github.com/toxinu/leselys) - Your very elegant RSS reader. `AGPL-3.0` `Python`'
+SourceType: Github
+Line: 685

@@ -1,4 +1,4 @@
-ID: 333
+ID: 329
 Name: REDAXO
 Description: Simple, flexible and useful content management system (documentation only available in German).
 Source Code: https://github.com/redaxo/redaxo
@@ -14,4 +14,4 @@ Tags:
     - CMS
 MD: '- [REDAXO](https://www.redaxo.org) - Simple, flexible and useful content management system (documentation only available in German). ([Source Code](https://github.com/redaxo/redaxo)) `MIT` `PHP`'
 SourceType: Github
-Line: 563
+Line: 559

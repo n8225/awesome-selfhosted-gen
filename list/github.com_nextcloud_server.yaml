@@ -1,4 +1,4 @@
-ID: 445
+ID: 440
 Name: Nextcloud
 Description: Access and share your files, calendars, contacts, mail and [more](https://apps.nextcloud.com/) from any device, on your terms.
 Source Code: https://github.com/nextcloud/server
@@ -17,4 +17,4 @@ Tags:
     - File Sync
 MD: '- [Nextcloud](https://nextcloud.com/) - Access and share your files, calendars, contacts, mail and [more](https://apps.nextcloud.com/) from any device, on your terms. ([Demo](https://demo.nextcloud.com/), [Source Code](https://github.com/nextcloud/server)) `AGPL-3.0` `PHP`'
 SourceType: Github
-Line: 739
+Line: 734

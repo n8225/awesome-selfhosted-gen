@@ -1,4 +1,4 @@
-ID: 767
+ID: 756
 Name: Leanote
 Description: Leanote, Not Just A Notepad! Open source cloud notepad.
 Source Code: https://github.com/leanote/leanote
@@ -16,4 +16,4 @@ Tags:
     - Editor
 MD: '- [Leanote](http://leanote.org/) - Leanote, Not Just A Notepad! Open source cloud notepad. ([Demo](https://leanote.com/note), [Source Code](https://github.com/leanote/leanote)) `GPL-2.0` `Go`'
 SourceType: Github
-Line: 1166
+Line: 1155

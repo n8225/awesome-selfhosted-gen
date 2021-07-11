@@ -1,4 +1,4 @@
-ID: 1047
+ID: 1034
 Name: osTicket
 Description: Manage, organize and archive all your support requests and responses in one place.
 Source Code: https://github.com/osTicket/osTicket
@@ -14,4 +14,4 @@ Tags:
     - Ticketing
 MD: '- [osTicket](http://osticket.com/) - Manage, organize and archive all your support requests and responses in one place. ([Source Code](https://github.com/osTicket/osTicket)) `GPL-2.0` `PHP`'
 SourceType: Github
-Line: 1564
+Line: 1551

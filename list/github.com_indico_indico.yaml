@@ -1,4 +1,4 @@
-ID: 297
+ID: 293
 Name: indico
 Description: A feature-rich event management system, made @ CERN, the place where the Web was born.
 Source Code: https://github.com/indico/indico
@@ -15,4 +15,4 @@ Tags:
     - Conference Mgmnt
 MD: '- [indico](https://getindico.io/) - A feature-rich event management system, made @ CERN, the place where the Web was born. ([Demo](https://sandbox.getindico.io/), [Source Code](https://github.com/indico/indico)) `MIT` `Python`'
 SourceType: Github
-Line: 520
+Line: 516

@@ -1,0 +1,19 @@
+ID: 246
+Name: Lemmy
+Description: A link aggregator / reddit clone for the fediverse. Reddit alternative built in Rust.
+Source Code: https://github.com/LemmyNet/lemmy
+Website: https://join-lemmy.org/
+License:
+    - AGPL-3.0
+Languages:
+    - Rust
+C: Communication systems
+C2: Social Networks and Forums
+C3: ""
+Tags:
+    - Communications
+    - Social Network
+    - Forum
+MD: '- [Lemmy](https://join-lemmy.org/) - A link aggregator / reddit clone for the fediverse. Reddit alternative built in Rust. ([Source Code](https://github.com/LemmyNet/lemmy)) `AGPL-3.0` `Rust`'
+SourceType: Github
+Line: 452

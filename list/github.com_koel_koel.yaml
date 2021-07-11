@@ -1,0 +1,19 @@
+ID: 634
+Name: koel
+Description: Personal music streaming server that works.
+Source Code: https://github.com/koel/koel
+Website: https://koel.dev/
+License:
+    - MIT
+Languages:
+    - PHP
+C: Media Streaming
+C2: Audio Streaming
+C3: ""
+Tags:
+    - Media
+    - Streaming
+    - Audio
+MD: '- [koel](https://koel.dev/) - Personal music streaming server that works. ([Source Code](https://github.com/koel/koel)) `MIT` `PHP`'
+SourceType: Github
+Line: 1005

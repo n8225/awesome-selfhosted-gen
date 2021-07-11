@@ -1,4 +1,4 @@
-ID: 562
+ID: 553
 Name: EspoCRM
 Description: CRM with a frontend designed as a single page application, and a REST API.
 Source Code: https://github.com/espocrm/espocrm
@@ -15,4 +15,4 @@ Tags:
     - Groupware
 MD: '- [EspoCRM](https://www.espocrm.com/) - CRM with a frontend designed as a single page application, and a REST API. ([Demo](https://demo.espocrm.com/), [Source Code](https://github.com/espocrm/espocrm)) `GPL-3.0` `PHP`'
 SourceType: Github
-Line: 893
+Line: 884

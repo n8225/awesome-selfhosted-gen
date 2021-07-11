@@ -1,4 +1,4 @@
-ID: 723
+ID: 712
 Name: ReleaseBell
 Description: Send release notifications for starred Github repos.
 Source Code: https://git.cloudron.io/cloudron/releasebell
@@ -14,4 +14,4 @@ Tags:
     - Misc
     - Other
 MD: '- [ReleaseBell](https://releasebell.com/) - Send release notifications for starred Github repos. ([Source Code](https://git.cloudron.io/cloudron/releasebell)) `MIT` `Nodejs`'
-Line: 1102
+Line: 1091

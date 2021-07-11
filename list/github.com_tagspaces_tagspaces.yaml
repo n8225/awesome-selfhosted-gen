@@ -1,4 +1,4 @@
-ID: 522
+ID: 516
 Name: TagSpaces
 Description: TagSpaces is an offline, cross-platform file manager and organiser that also can function as a note taking app. The WebDAV version of the application can be installed on top of a WebDAV servers such as Nextcloud or ownCloud.
 Source Code: https://github.com/tagspaces/tagspaces
@@ -16,4 +16,4 @@ Tags:
     - Web File MGR
 MD: '- [TagSpaces](https://www.tagspaces.org/) - TagSpaces is an offline, cross-platform file manager and organiser that also can function as a note taking app. The WebDAV version of the application can be installed on top of a WebDAV servers such as Nextcloud or ownCloud. ([Demo](http://demo.tagspaces.org), [Source Code](https://github.com/tagspaces/tagspaces)) `AGPL-3.0` `Javascript`'
 SourceType: Github
-Line: 831
+Line: 825

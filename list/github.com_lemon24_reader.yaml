@@ -1,4 +1,4 @@
-ID: 422
+ID: 417
 Name: reader
 Description: A Python feed reader web app and library (so you can use it to build your own), with only standard library and pure-Python dependencies.
 Source Code: https://github.com/lemon24/reader
@@ -14,4 +14,4 @@ Tags:
     - Feed Reader
 MD: '- [reader](https://github.com/lemon24/reader) - A Python feed reader web app and library (so you can use it to build your own), with only standard library and pure-Python dependencies. `BSD-3-Clause` `Python`'
 SourceType: Github
-Line: 697
+Line: 692

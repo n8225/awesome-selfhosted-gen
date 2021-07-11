@@ -1,0 +1,19 @@
+ID: 491
+Name: ProjectSend
+Description: Upload files and assign them to specific clients you create. Give access to those files to your clients.
+Source Code: https://github.com/projectsend/projectsend
+Website: http://www.projectsend.org/
+License:
+    - GPL-2.0
+Languages:
+    - PHP
+C: File Sharing and Synchronization
+C2: Single-click/drag-n-drop upload
+C3: ""
+Tags:
+    - File Sharing
+    - Single-Click Upload
+    - Drag-n-Drop Upload
+MD: '- [ProjectSend](http://www.projectsend.org/) - Upload files and assign them to specific clients you create. Give access to those files to your clients. ([Source Code](https://github.com/projectsend/projectsend)) `GPL-2.0` `PHP`'
+SourceType: Github
+Line: 794

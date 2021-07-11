@@ -1,4 +1,4 @@
-ID: 906
+ID: 894
 Name: Privoxy
 Description: Non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk.
 Source Code: http://www.privoxy.org
@@ -12,4 +12,4 @@ C3: ""
 Tags:
     - Proxy
 MD: '- [Privoxy](http://www.privoxy.org) - Non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk. `GPL-2.0` `C`'
-Line: 1346
+Line: 1334

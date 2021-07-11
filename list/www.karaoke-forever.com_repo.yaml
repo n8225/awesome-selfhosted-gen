@@ -1,4 +1,4 @@
-ID: 623
+ID: 614
 Name: Karaoke Forever
 Description: Host awesome karaoke parties where everyone can easily find and queue songs from their phone's web browser. The player is also browser-based with support for MP3+G, MP4 and WebGL visualizations.
 Source Code: https://www.karaoke-forever.com/repo
@@ -15,4 +15,4 @@ Tags:
     - Streaming
     - Multimedia
 MD: '- [Karaoke Forever](https://www.karaoke-forever.com) - Host awesome karaoke parties where everyone can easily find and queue songs from their phone''s web browser. The player is also browser-based with support for MP3+G, MP4 and WebGL visualizations. ([Source Code](https://www.karaoke-forever.com/repo)) `ISC` `Nodejs`'
-Line: 990
+Line: 981

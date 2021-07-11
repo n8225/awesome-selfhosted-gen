@@ -1,4 +1,4 @@
-ID: 1001
+ID: 988
 Name: Hoppscotch
 Description: A free, fast and beautiful API request builder.
 Source Code: https://github.com/hoppscotch/hoppscotch
@@ -15,4 +15,4 @@ Tags:
     - API Mgmnt
 MD: '- [Hoppscotch](https://hoppscotch.io) - A free, fast and beautiful API request builder. ([Source Code](https://github.com/hoppscotch/hoppscotch)) `MIT` `Nodejs/Vue/Nuxt`'
 SourceType: Github
-Line: 1490
+Line: 1477

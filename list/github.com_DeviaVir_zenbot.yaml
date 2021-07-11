@@ -1,0 +1,16 @@
+ID: 47
+Name: Zenbot
+Description: Zenbot is a lightweight, extendable, artificially intelligent trading bot for Bitcoin, Ether, Litecoin, and more.
+Source Code: https://github.com/DeviaVir/zenbot
+License:
+    - MIT
+Languages:
+    - Nodejs
+C: Automation
+C2: ""
+C3: ""
+Tags:
+    - Automation
+MD: '- [Zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a lightweight, extendable, artificially intelligent trading bot for Bitcoin, Ether, Litecoin, and more. `MIT` `Nodejs`'
+SourceType: Github
+Line: 173

@@ -1,4 +1,4 @@
-ID: 598
+ID: 589
 Name: Open eClass
 Description: Open eClass is an advanced e-learning solution that can enhance the teaching and learning process.
 Source Code: https://github.com/gunet/openeclass
@@ -17,4 +17,4 @@ Tags:
     - LMS
 MD: '- [Open eClass](http://www.openeclass.org/) - Open eClass is an advanced e-learning solution that can enhance the teaching and learning process. ([Demo](http://demo.openeclass.org/), [Source Code](https://github.com/gunet/openeclass)) `GPL-2.0` `PHP`'
 SourceType: Github
-Line: 949
+Line: 940

@@ -1,4 +1,4 @@
-ID: 589
+ID: 580
 Name: My Mind
 Description: Web application for creating and managing mind maps.
 Source Code: https://github.com/ondras/my-mind
@@ -14,4 +14,4 @@ Tags:
     - Knowledge Mgmnt
 MD: '- [My Mind](https://github.com/ondras/my-mind) - Web application for creating and managing mind maps. ([Demo](https://my-mind.github.io/?url=examples%2Ffeatures.mymind)) `MIT` `Javascript`'
 SourceType: Github
-Line: 935
+Line: 926

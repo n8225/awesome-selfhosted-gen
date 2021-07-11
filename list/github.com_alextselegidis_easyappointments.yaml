@@ -1,4 +1,4 @@
-ID: 896
+ID: 885
 Name: Easy!Appointments
 Description: A highly customizable web application that allows your customers to book appointments with you via the web.
 Source Code: https://github.com/alextselegidis/easyappointments
@@ -16,4 +16,4 @@ Tags:
     - Events
 MD: '- [Easy!Appointments](http://easyappointments.org/) - A highly customizable web application that allows your customers to book appointments with you via the web. ([Demo](http://easyappointments.org/demo/), [Source Code](https://github.com/alextselegidis/easyappointments)) `GPL-3.0` `PHP`'
 SourceType: Github
-Line: 1331
+Line: 1320

@@ -1,4 +1,4 @@
-ID: 1111
+ID: 1097
 Name: Cloudbox
 Description: Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
 Source Code: https://github.com/Cloudbox/Cloudbox
@@ -14,4 +14,4 @@ Tags:
     - Self-hosting Solution
 MD: '- [Cloudbox](https://cloudbox.works) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server. ([Source Code](https://github.com/Cloudbox/Cloudbox)) `GPL-3.0` `Shell/Ansible`'
 SourceType: Github
-Line: 1659
+Line: 1645

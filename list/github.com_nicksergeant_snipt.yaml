@@ -1,4 +1,4 @@
-ID: 833
+ID: 822
 Name: snipt
 Description: Long-term memory for coders. Share and store code snippets.
 Source Code: https://github.com/nicksergeant/snipt
@@ -13,4 +13,4 @@ Tags:
     - Pastebin
 MD: '- [snipt](https://github.com/nicksergeant/snipt) - Long-term memory for coders. Share and store code snippets. `MIT` `Python`'
 SourceType: Github
-Line: 1248
+Line: 1237

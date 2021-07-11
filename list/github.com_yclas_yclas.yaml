@@ -1,0 +1,18 @@
+ID: 358
+Name: Yclas
+Description: Free open-source, self-hosted CMS for classifieds sites.
+Source Code: https://github.com/yclas/yclas
+Website: https://yclas.com/
+License:
+    - GPL-3.0
+Languages:
+    - PHP
+C: Content Management Systems (CMS)
+C2: E-commerce
+C3: ""
+Tags:
+    - CMS
+    - E-commerce
+MD: '- [Yclas](https://yclas.com/) - Free open-source, self-hosted CMS for classifieds sites. ([Source Code](https://github.com/yclas/yclas)) `GPL-3.0` `PHP`'
+SourceType: Github
+Line: 594

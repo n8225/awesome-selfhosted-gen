@@ -1,4 +1,4 @@
-ID: 487
+ID: 482
 Name: Jirafeau
 Description: Jirafeau is a web site permitting to upload a file in a simple way and give an unique link to it.
 Source Code: https://gitlab.com/mojo42/Jirafeau
@@ -16,4 +16,4 @@ Tags:
     - Drag-n-Drop Upload
 MD: '- [Jirafeau](https://gitlab.com/mojo42/Jirafeau) - Jirafeau is a web site permitting to upload a file in a simple way and give an unique link to it. ([Demo](http://jirafeau.net/)) `AGPL-3.0` `PHP`'
 SourceType: Gitlab
-Line: 790
+Line: 785

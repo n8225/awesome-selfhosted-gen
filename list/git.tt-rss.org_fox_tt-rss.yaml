@@ -1,4 +1,4 @@
-ID: 428
+ID: 423
 Name: Tiny Tiny RSS
 Description: Open source web-based news feed (RSS/Atom) reader and aggregator.
 Source Code: https://git.tt-rss.org/fox/tt-rss
@@ -15,4 +15,4 @@ Tags:
     - RSS
     - Feed Reader
 MD: '- [Tiny Tiny RSS](https://tt-rss.org) - Open source web-based news feed (RSS/Atom) reader and aggregator. ([Demo](http://framanews.org/), [Source Code](https://git.tt-rss.org/fox/tt-rss)) `GPL-3.0` `PHP`'
-Line: 703
+Line: 698

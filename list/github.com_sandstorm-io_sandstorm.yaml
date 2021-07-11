@@ -1,4 +1,4 @@
-ID: 1104
+ID: 1090
 Name: Sandstorm
 Description: Personal server for running self-hosted apps easily and securely.
 Source Code: https://github.com/sandstorm-io/sandstorm
@@ -15,4 +15,4 @@ Tags:
     - Self-hosting Solution
 MD: '- [Sandstorm](https://sandstorm.io/) - Personal server for running self-hosted apps easily and securely. ([Demo](https://demo.sandstorm.io/), [Source Code](https://github.com/sandstorm-io/sandstorm)) `Apache-2.0` `C++/Other`'
 SourceType: Github
-Line: 1652
+Line: 1638

@@ -1,4 +1,4 @@
-ID: 355
+ID: 351
 Name: Bagisto
 Description: Leading Laravel open source e-commerce framework with multi-inventory sources, taxation, localization, dropshipping and more exciting features.
 Source Code: https://github.com/bagisto/bagisto
@@ -16,4 +16,4 @@ Tags:
     - E-commerce
 MD: '- [Bagisto](https://bagisto.com/en/) - Leading Laravel open source e-commerce framework with multi-inventory sources, taxation, localization, dropshipping and more exciting features. ([Demo](https://demo.bagisto.com/), [Source Code](https://github.com/bagisto/bagisto)) `MIT` `PHP`'
 SourceType: Github
-Line: 591
+Line: 587

@@ -1,4 +1,4 @@
-ID: 435
+ID: 430
 Name: Goeland
 Description: Reads RSS/Atom feeds and filter/digest them to create beautiful emails.
 Source Code: https://github.com/slurdge/goeland
@@ -14,4 +14,4 @@ Tags:
     - Feed Reader
 MD: '- [Goeland](https://github.com/slurdge/goeland) - Reads RSS/Atom feeds and filter/digest them to create beautiful emails. `MIT` `Go`'
 SourceType: Github
-Line: 713
+Line: 708

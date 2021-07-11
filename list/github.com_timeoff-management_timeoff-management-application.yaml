@@ -1,0 +1,19 @@
+ID: 567
+Name: TimeOff.Management
+Description: Simple yet powerful absence management software for small and medium size business.
+Source Code: https://github.com/timeoff-management/timeoff-management-application
+Demo: https://app.timeoff.management
+Website: https://timeoff.management
+License:
+    - MIT
+Languages:
+    - Nodejs
+C: Human Resources Management (HRM)
+C2: ""
+C3: ""
+Tags:
+    - HRM
+    - Human Resources MGMNT
+MD: '- [TimeOff.Management](https://timeoff.management) - Simple yet powerful absence management software for small and medium size business. ([Demo](https://app.timeoff.management), [Source Code](https://github.com/timeoff-management/timeoff-management-application)) `MIT` `Nodejs`'
+SourceType: Github
+Line: 903

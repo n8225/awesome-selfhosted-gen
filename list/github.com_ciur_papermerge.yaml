@@ -1,4 +1,4 @@
-ID: 387
+ID: 383
 Name: Papermerge
 Description: Open Source Document Management System focused on scanned documents (electronic archives). Features file browsing in similar way to dropbox/google drive. OCR, full text search, text overlay/selection.
 Source Code: https://github.com/ciur/papermerge
@@ -14,4 +14,4 @@ Tags:
     - Doc Mgmnt
 MD: '- [Papermerge](https://www.papermerge.com) - Open Source Document Management System focused on scanned documents (electronic archives). Features file browsing in similar way to dropbox/google drive. OCR, full text search, text overlay/selection. ([Source Code](https://github.com/ciur/papermerge)) `Apache-2.0` `Python`'
 SourceType: Github
-Line: 635
+Line: 631

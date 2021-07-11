@@ -1,4 +1,4 @@
-ID: 411
+ID: 406
 Name: FreshRSS
 Description: Self-hostable RSS feed aggregator.
 Source Code: https://github.com/FreshRSS/FreshRSS
@@ -18,4 +18,4 @@ Tags:
     - Feed Reader
 MD: '- [FreshRSS](http://freshrss.org/) - Self-hostable RSS feed aggregator. ([Demo](http://demo.freshrss.org/i/), [Source Code](https://github.com/FreshRSS/FreshRSS), [Clients](https://github.com/Alkarex/EasyRSS)) `AGPL-3.0` `PHP`'
 SourceType: Github
-Line: 686
+Line: 681

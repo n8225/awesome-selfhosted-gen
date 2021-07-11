@@ -1,4 +1,4 @@
-ID: 392
+ID: 387
 Name: Calibre
 Description: E-book library manager that can view, convert, and catalog e-books in most of the major e-book formats and provides a built-in Web server for remote clients.
 Source Code: https://launchpad.net/calibre
@@ -15,4 +15,4 @@ Tags:
     - E-book
     - ILS
 MD: '- [Calibre](https://calibre-ebook.com/) - E-book library manager that can view, convert, and catalog e-books in most of the major e-book formats and provides a built-in Web server for remote clients. ([Demo](https://calibre-ebook.com/demo), [Source Code](https://launchpad.net/calibre)) `GPL-3.0` `Python`'
-Line: 649
+Line: 644

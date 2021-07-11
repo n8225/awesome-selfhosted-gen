@@ -1,4 +1,4 @@
-ID: 186
+ID: 183
 Name: Sympa
 Description: Mailing list manager.
 Source Code: https://www.sympa.org/
@@ -15,4 +15,4 @@ Tags:
     - Mailng List
     - Newsletters
 MD: '- [Sympa](https://www.sympa.org/) - Mailing list manager. `GPL-2.0` `Perl`'
-Line: 370
+Line: 367

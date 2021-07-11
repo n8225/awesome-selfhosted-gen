@@ -1,4 +1,4 @@
-ID: 465
+ID: 460
 Name: qBittorrent
 Description: Free cross-platform bittorrent client with a feature rich Web UI for remote access.
 Source Code: https://github.com/qbittorrent/qBittorrent
@@ -15,4 +15,4 @@ Tags:
     - P2P
 MD: '- [qBittorrent](https://www.qbittorrent.org/) - Free cross-platform bittorrent client with a feature rich Web UI for remote access. ([Source Code](https://github.com/qbittorrent/qBittorrent)) `GPL-2.0` `C++`'
 SourceType: Github
-Line: 762
+Line: 757

@@ -1,4 +1,4 @@
-ID: 737
+ID: 726
 Name: EasyQuickImport
 Description: A tool that helps you import transactions, invoices and bills into QuickBooks Desktop from Excel or CSV.
 Source Code: https://github.com/karser/EasyQuickImport
@@ -15,4 +15,4 @@ Tags:
 ProprietaryDependency: true
 MD: '- [EasyQuickImport](https://github.com/karser/EasyQuickImport) `⚠` - A tool that helps you import transactions, invoices and bills into QuickBooks Desktop from Excel or CSV. `MIT` `PHP`'
 SourceType: Github
-Line: 1123
+Line: 1112

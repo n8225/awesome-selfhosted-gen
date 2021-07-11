@@ -1,0 +1,18 @@
+ID: 770
+Name: turndown
+Description: HTML to Markdown converter written in Javascript.
+Source Code: https://github.com/mixmark-io/turndown
+Website: https://mixmark-io.github.io/turndown/
+License:
+    - MIT
+Languages:
+    - HTML5
+C: Note-taking and Editors
+C2: ""
+C3: ""
+Tags:
+    - Note-taking
+    - Editor
+MD: '- [turndown](https://mixmark-io.github.io/turndown/) - HTML to Markdown converter written in Javascript. ([Source Code](https://github.com/mixmark-io/turndown)) `MIT` `Javascript`'
+SourceType: Github
+Line: 1169

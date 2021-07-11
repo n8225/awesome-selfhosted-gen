@@ -1,4 +1,4 @@
-ID: 891
+ID: 880
 Name: Mobilizon
 Description: A federated tool that helps you find, create and organise events and groups.
 Source Code: https://framagit.org/framasoft/mobilizon/
@@ -15,4 +15,4 @@ Tags:
     - Polls
     - Events
 MD: '- [Mobilizon](https://mobilizon.org) - A federated tool that helps you find, create and organise events and groups. ([Demo](https://demo.mobilizon.org/), [Source Code](https://framagit.org/framasoft/mobilizon/)) `GPL-3.0` `Elixir`'
-Line: 1323
+Line: 1312

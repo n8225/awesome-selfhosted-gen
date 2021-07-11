@@ -1,4 +1,4 @@
-ID: 356
+ID: 352
 Name: CoreShop
 Description: CoreShop is a e-commerce plugin for Pimcore.
 Source Code: https://github.com/coreshop/CoreShop
@@ -15,4 +15,4 @@ Tags:
     - E-commerce
 MD: '- [CoreShop](https://www.coreshop.org) - CoreShop is a e-commerce plugin for Pimcore. ([Source Code](https://github.com/coreshop/CoreShop)) `GPL-3.0` `PHP`'
 SourceType: Github
-Line: 592
+Line: 588

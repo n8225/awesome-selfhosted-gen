@@ -1,4 +1,4 @@
-ID: 383
+ID: 379
 Name: Docspell
 Description: Auto-tagging document organizer and archive.
 Source Code: https://github.com/eikek/docspell
@@ -15,4 +15,4 @@ Tags:
     - Doc Mgmnt
 MD: '- [Docspell](https://docspell.org) - Auto-tagging document organizer and archive. ([Source Code](https://github.com/eikek/docspell)) `GPL-3.0` `Scala/Java`'
 SourceType: Github
-Line: 631
+Line: 627

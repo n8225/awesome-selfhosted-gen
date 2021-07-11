@@ -1,4 +1,4 @@
-ID: 489
+ID: 484
 Name: linx-server
 Description: Simple file sharing and pastebin with API, auto-expiry, deletion keys, and web seed support.
 Source Code: https://github.com/ZizzyDizzyMC/linx-server
@@ -16,4 +16,4 @@ Tags:
     - Drag-n-Drop Upload
 MD: '- [linx-server](https://github.com/ZizzyDizzyMC/linx-server) - Simple file sharing and pastebin with API, auto-expiry, deletion keys, and web seed support. ([Demo](https://put.icu/)) `GPL-3.0` `Go`'
 SourceType: Github
-Line: 792
+Line: 787

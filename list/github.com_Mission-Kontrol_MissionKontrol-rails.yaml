@@ -1,4 +1,4 @@
-ID: 713
+ID: 702
 Name: MissionKontrol
 Description: Configurable admin panel allowing non-technical users to CRUD data on MySQL/PostGRES databases.
 Source Code: https://github.com/Mission-Kontrol/MissionKontrol-rails
@@ -15,4 +15,4 @@ Tags:
     - Other
 MD: '- [MissionKontrol](https://www.missionkontrol.io) - Configurable admin panel allowing non-technical users to CRUD data on MySQL/PostGRES databases. ([Source Code](https://github.com/Mission-Kontrol/MissionKontrol-rails)) `AGPL-3.0` `Ruby`'
 SourceType: Github
-Line: 1092
+Line: 1081

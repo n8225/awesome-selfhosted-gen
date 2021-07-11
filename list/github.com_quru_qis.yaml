@@ -1,4 +1,4 @@
-ID: 874
+ID: 863
 Name: Quru Image Server
 Description: High performance dynamically resizing image server offering directory based access control cropping, rotation, color management and other tools.
 Source Code: https://github.com/quru/qis
@@ -15,4 +15,4 @@ Tags:
     - Photo and Video Gallery
 MD: '- [Quru Image Server](https://quruimageserver.com/) - High performance dynamically resizing image server offering directory based access control cropping, rotation, color management and other tools. ([Demo](https://quruimageserver.com), [Source Code](https://github.com/quru/qis)) `AGPL-3.0` `Python`'
 SourceType: Github
-Line: 1301
+Line: 1290

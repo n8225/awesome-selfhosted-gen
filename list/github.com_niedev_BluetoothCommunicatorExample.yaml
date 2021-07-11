@@ -1,4 +1,4 @@
-ID: 98
+ID: 97
 Name: BluetoothCommunicatorExample
 Description: Bluetooth LE chat app to communicate between android devices with P2P architecture.
 Source Code: https://github.com/niedev/BluetoothCommunicatorExample
@@ -15,4 +15,4 @@ Tags:
     - Communications
 MD: '- [BluetoothCommunicatorExample](https://github.com/niedev/BluetoothCommunicatorExample) - Bluetooth LE chat app to communicate between android devices with P2P architecture. ([Clients](https://github.com/niedev/RTranslator)) `Apache-2.0` `Java`'
 SourceType: Github
-Line: 258
+Line: 257

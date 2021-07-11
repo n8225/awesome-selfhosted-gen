@@ -1,4 +1,4 @@
-ID: 1005
+ID: 992
 Name: Pizzly
 Description: Open-source API Integrations Manager that provides everything a developer needs to interact with OAuth based APIs.
 Source Code: https://github.com/bearer/pizzly
@@ -14,4 +14,4 @@ Tags:
     - API Mgmnt
 MD: '- [Pizzly](https://github.com/bearer/pizzly) - Open-source API Integrations Manager that provides everything a developer needs to interact with OAuth based APIs. `MIT` `Nodejs`'
 SourceType: Github
-Line: 1494
+Line: 1481

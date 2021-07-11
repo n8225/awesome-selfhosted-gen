@@ -1,4 +1,4 @@
-ID: 882
+ID: 871
 Name: Feedka
 Description: Open-source web application that can serve as a platform to get authentic, kindful, and constructive feedback from your friends, family, and co-workers.
 Source Code: https://github.com/drabkirn/feedka
@@ -16,4 +16,4 @@ Tags:
 ProprietaryDependency: true
 MD: '- [Feedka](https://github.com/drabkirn/feedka) `⚠` - Open-source web application that can serve as a platform to get authentic, kindful, and constructive feedback from your friends, family, and co-workers. ([Demo](https://feedka.herokuapp.com)) `AGPL-3.0` `Ruby`'
 SourceType: Github
-Line: 1314
+Line: 1303

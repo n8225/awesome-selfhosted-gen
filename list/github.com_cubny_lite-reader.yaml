@@ -1,4 +1,4 @@
-ID: 416
+ID: 411
 Name: Lite-Reader
 Description: Read your feeds on your own machine with a simple and lite application.
 Source Code: https://github.com/cubny/lite-reader
@@ -15,4 +15,4 @@ Tags:
     - Feed Reader
 MD: '- [Lite-Reader](https://github.com/cubny/lite-reader) - Read your feeds on your own machine with a simple and lite application. ([Demo](http://cubny.com/lite-reader/)) `BSD-3-Clause` `PHP`'
 SourceType: Github
-Line: 691
+Line: 686

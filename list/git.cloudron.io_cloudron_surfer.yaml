@@ -1,0 +1,16 @@
+ID: 515
+Name: Surfer
+Description: Simple static file server with webui to manage files.
+Source Code: https://git.cloudron.io/cloudron/surfer
+License:
+    - MIT
+Languages:
+    - Nodejs
+C: File Sharing and Synchronization
+C2: Web based file managers
+C3: ""
+Tags:
+    - File Sharing
+    - Web File MGR
+MD: '- [Surfer](https://git.cloudron.io/cloudron/surfer) - Simple static file server with webui to manage files. `MIT` `Nodejs`'
+Line: 824

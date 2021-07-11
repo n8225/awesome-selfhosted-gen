@@ -1,4 +1,4 @@
-ID: 258
+ID: 255
 Name: Nitter
 Description: A alternative front end to twitter.
 Source Code: https://github.com/zedeus/nitter
@@ -16,4 +16,4 @@ Tags:
 ProprietaryDependency: true
 MD: '- [Nitter](https://nitter.net) `⚠` - A alternative front end to twitter. ([Source Code](https://github.com/zedeus/nitter)) `AGPL-3.0` `Nimble`'
 SourceType: Github
-Line: 464
+Line: 461

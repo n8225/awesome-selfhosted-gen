@@ -1,4 +1,4 @@
-ID: 1099
+ID: 1085
 Name: FreedomBone
 Description: Home server configuration based on Debian.
 Source Code: https://code.freedombone.net/bashrc/freedombone
@@ -13,4 +13,4 @@ C3: ""
 Tags:
     - Self-hosting Solution
 MD: '- [FreedomBone](https://freedombone.net/) - Home server configuration based on Debian. ([Source Code](https://code.freedombone.net/bashrc/freedombone)) `AGPL-3.0` `Shell`'
-Line: 1647
+Line: 1633

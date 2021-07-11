@@ -1,4 +1,4 @@
-ID: 818
+ID: 807
 Name: Fugacious
 Description: Open source short-term secure messaging (OSSSM).
 Source Code: https://github.com/fugacious/fugacious
@@ -14,4 +14,4 @@ Tags:
     - Pastebin
 MD: '- [Fugacious](https://fugacio.us) - Open source short-term secure messaging (OSSSM). ([Source Code](https://github.com/fugacious/fugacious)) `CC0-1.0` `Ruby`'
 SourceType: Github
-Line: 1233
+Line: 1222

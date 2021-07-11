@@ -1,4 +1,4 @@
-ID: 869
+ID: 859
 Name: Photo Stream
 Description: Minimalist self-hosted photo stream.
 Source Code: https://github.com/waschinski/photo-stream
@@ -14,4 +14,4 @@ Tags:
     - Photo and Video Gallery
 MD: '- [Photo Stream](https://github.com/waschinski/photo-stream) - Minimalist self-hosted photo stream. ([Demo](https://floremotion.de/)) `MIT` `Ruby`'
 SourceType: Github
-Line: 1296
+Line: 1286

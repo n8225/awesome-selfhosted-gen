@@ -1,4 +1,4 @@
-ID: 1091
+ID: 1077
 Name: XWiki
 Description: Second generation wiki that allows the user to extend its functionalities with a powerful extension-based architecture.
 Source Code: https://github.com/xwiki/xwiki-platform
@@ -15,4 +15,4 @@ Tags:
     - Wiki
 MD: '- [XWiki](http://www.xwiki.org) - Second generation wiki that allows the user to extend its functionalities with a powerful extension-based architecture. ([Demo](http://playground.xwiki.org), [Source Code](https://github.com/xwiki/xwiki-platform)) `LGPL-2.1` `Java`'
 SourceType: Github
-Line: 1634
+Line: 1620

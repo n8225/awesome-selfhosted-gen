@@ -1,4 +1,4 @@
-ID: 822
+ID: 811
 Name: MokinToken
 Description: Clientside encrypted pastebin using tweetnacl.
 Source Code: https://github.com/nexus-uw/mokintoken
@@ -13,4 +13,4 @@ Tags:
     - Pastebin
 MD: '- [MokinToken](https://github.com/nexus-uw/mokintoken) - Clientside encrypted pastebin using tweetnacl. `Unlicense` `PHP`'
 SourceType: Github
-Line: 1237
+Line: 1226

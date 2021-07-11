@@ -1,4 +1,4 @@
-ID: 280
+ID: 276
 Name: ejabberd
 Description: XMPP instant messaging server.
 Source Code: https://github.com/processone/ejabberd
@@ -16,4 +16,4 @@ Tags:
     - XMPP Server
 MD: '- [ejabberd](https://www.ejabberd.im/) - XMPP instant messaging server. ([Source Code](https://github.com/processone/ejabberd)) `GPL-2.0` `Erlang`'
 SourceType: Github
-Line: 495
+Line: 491
